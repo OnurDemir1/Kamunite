@@ -1,0 +1,29 @@
+# ---- build ciktilari (yeniden uretilebilir, buyuk) ----
+dist/
+build/
+*.spec
+
+# ---- python ----
+__pycache__/
+*.pyc
+*.pyo
+
+# ---- ham / ara veri (uygulama icin GEREKMEZ, cok buyuk) ----
+data/raw/
+data/csv/
+data/osym_resmi/
+# toplu/ara export'lar — uygulama data/json/ icinden donem-donem okur, bunlari kullanmaz
+data/*.jsonl
+data/*.csv
+
+# ---- log & gecici dosyalar ----
+*.log
+_build.log
+_tmp*
+_t.js
+data/_*.txt
+
+# ---- yerel arac/ayar ----
+.claude/
+.DS_Store
+Thumbs.db

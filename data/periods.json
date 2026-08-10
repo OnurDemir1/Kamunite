@@ -1,0 +1,674 @@
+[
+  {
+    "yil": "2026",
+    "donem": "91",
+    "id": "2026-91",
+    "baslik": "2026/1 EKPSS Robotu",
+    "url": "https://kpss.memurlar.net/kpssrobotu/2026/91/",
+    "ekpss": true
+  },
+  {
+    "yil": "2026",
+    "donem": "1",
+    "id": "2026-1",
+    "baslik": "2026/1 KPSS Robotu",
+    "url": "https://kpss.memurlar.net/kpssrobotu/2026/1/",
+    "ekpss": false
+  },
+  {
+    "yil": "2025",
+    "donem": "91",
+    "id": "2025-91",
+    "baslik": "2025/1 EKPSS Robotu",
+    "url": "https://kpss.memurlar.net/kpssrobotu/2025/91/",
+    "ekpss": true
+  },
+  {
+    "yil": "2025",
+    "donem": "5",
+    "id": "2025-5",
+    "baslik": "2025/5 KPSS Robotu",
+    "url": "https://kpss.memurlar.net/kpssrobotu/2025/5/",
+    "ekpss": false
+  },
+  {
+    "yil": "2025",
+    "donem": "4",
+    "id": "2025-4",
+    "baslik": "2025/4 KPSS Robotu",
+    "url": "https://kpss.memurlar.net/kpssrobotu/2025/4/",
+    "ekpss": false
+  },
+  {
+    "yil": "2025",
+    "donem": "3",
+    "id": "2025-3",
+    "baslik": "2025/3 KPSS Robotu",
+    "url": "https://kpss.memurlar.net/kpssrobotu/2025/3/",
+    "ekpss": false
+  },
+  {
+    "yil": "2025",
+    "donem": "2",
+    "id": "2025-2",
+    "baslik": "2025/2 KPSS Robotu",
+    "url": "https://kpss.memurlar.net/kpssrobotu/2025/2/",
+    "ekpss": false
+  },
+  {
+    "yil": "2025",
+    "donem": "1",
+    "id": "2025-1",
+    "baslik": "2025/1 KPSS Robotu",
+    "url": "https://kpss.memurlar.net/kpssrobotu/2025/1/",
+    "ekpss": false
+  },
+  {
+    "yil": "2024",
+    "donem": "91",
+    "id": "2024-91",
+    "baslik": "2024/1 EKPSS Robotu",
+    "url": "https://kpss.memurlar.net/kpssrobotu/2024/91/",
+    "ekpss": true
+  },
+  {
+    "yil": "2024",
+    "donem": "5",
+    "id": "2024-5",
+    "baslik": "2024/5 KPSS Robotu",
+    "url": "https://kpss.memurlar.net/kpssrobotu/2024/5/",
+    "ekpss": false
+  },
+  {
+    "yil": "2024",
+    "donem": "4",
+    "id": "2024-4",
+    "baslik": "2024/4 KPSS Robotu",
+    "url": "https://kpss.memurlar.net/kpssrobotu/2024/4/",
+    "ekpss": false
+  },
+  {
+    "yil": "2024",
+    "donem": "3",
+    "id": "2024-3",
+    "baslik": "2024/3 KPSS Robotu",
+    "url": "https://kpss.memurlar.net/kpssrobotu/2024/3/",
+    "ekpss": false
+  },
+  {
+    "yil": "2024",
+    "donem": "2",
+    "id": "2024-2",
+    "baslik": "2024/2 KPSS Robotu",
+    "url": "https://kpss.memurlar.net/kpssrobotu/2024/2/",
+    "ekpss": false
+  },
+  {
+    "yil": "2024",
+    "donem": "1",
+    "id": "2024-1",
+    "baslik": "2024/1 KPSS Robotu",
+    "url": "https://kpss.memurlar.net/kpssrobotu/2024/1/",
+    "ekpss": false
+  },
+  {
+    "yil": "2023",
+    "donem": "6",
+    "id": "2023-6",
+    "baslik": "2023/6 KPSS Robotu",
+    "url": "https://kpss.memurlar.net/kpssrobotu/2023/6/",
+    "ekpss": false
+  },
+  {
+    "yil": "2023",
+    "donem": "5",
+    "id": "2023-5",
+    "baslik": "2023/5 KPSS Robotu",
+    "url": "https://kpss.memurlar.net/kpssrobotu/2023/5/",
+    "ekpss": false
+  },
+  {
+    "yil": "2023",
+    "donem": "2",
+    "id": "2023-2",
+    "baslik": "2023/2 KPSS Robotu",
+    "url": "https://kpss.memurlar.net/kpssrobotu/2023/2/",
+    "ekpss": false
+  },
+  {
+    "yil": "2023",
+    "donem": "1",
+    "id": "2023-1",
+    "baslik": "2023/1 KPSS Robotu",
+    "url": "https://kpss.memurlar.net/kpssrobotu/2023/1/",
+    "ekpss": false
+  },
+  {
+    "yil": "2022",
+    "donem": "91",
+    "id": "2022-91",
+    "baslik": "2022 EKPSS Robotu",
+    "url": "https://kpss.memurlar.net/kpssrobotu/2022/91/",
+    "ekpss": true
+  },
+  {
+    "yil": "2022",
+    "donem": "11",
+    "id": "2022-11",
+    "baslik": "2022/11 KPSS Robotu",
+    "url": "https://kpss.memurlar.net/kpssrobotu/2022/11/",
+    "ekpss": false
+  },
+  {
+    "yil": "2022",
+    "donem": "5",
+    "id": "2022-5",
+    "baslik": "2022/5 KPSS Robotu",
+    "url": "https://kpss.memurlar.net/kpssrobotu/2022/5/",
+    "ekpss": false
+  },
+  {
+    "yil": "2022",
+    "donem": "2",
+    "id": "2022-2",
+    "baslik": "2022/2 KPSS Robotu",
+    "url": "https://kpss.memurlar.net/kpssrobotu/2022/2/",
+    "ekpss": false
+  },
+  {
+    "yil": "2022",
+    "donem": "1",
+    "id": "2022-1",
+    "baslik": "2022/1 KPSS Robotu",
+    "url": "https://kpss.memurlar.net/kpssrobotu/2022/1/",
+    "ekpss": false
+  },
+  {
+    "yil": "2021",
+    "donem": "91",
+    "id": "2021-91",
+    "baslik": "2021/1 EKPSS Robotu",
+    "url": "https://kpss.memurlar.net/kpssrobotu/2021/91/",
+    "ekpss": true
+  },
+  {
+    "yil": "2021",
+    "donem": "10",
+    "id": "2021-10",
+    "baslik": "2021/10 KPSS Robotu",
+    "url": "https://kpss.memurlar.net/kpssrobotu/2021/10/",
+    "ekpss": false
+  },
+  {
+    "yil": "2021",
+    "donem": "2",
+    "id": "2021-2",
+    "baslik": "2021/2 KPSS Robotu",
+    "url": "https://kpss.memurlar.net/kpssrobotu/2021/2/",
+    "ekpss": false
+  },
+  {
+    "yil": "2021",
+    "donem": "1",
+    "id": "2021-1",
+    "baslik": "2021/1 KPSS Robotu",
+    "url": "https://kpss.memurlar.net/kpssrobotu/2021/1/",
+    "ekpss": false
+  },
+  {
+    "yil": "2020",
+    "donem": "72",
+    "id": "2020-72",
+    "baslik": "2020/7 Yeniden Yerleştirme Yapılması KPSS Robotu",
+    "url": "https://kpss.memurlar.net/kpssrobotu/2020/72/",
+    "ekpss": false
+  },
+  {
+    "yil": "2020",
+    "donem": "14",
+    "id": "2020-14",
+    "baslik": "2020/14 KPSS Robotu",
+    "url": "https://kpss.memurlar.net/kpssrobotu/2020/14/",
+    "ekpss": false
+  },
+  {
+    "yil": "2020",
+    "donem": "11",
+    "id": "2020-11",
+    "baslik": "2020/11 KPSS Robotu",
+    "url": "https://kpss.memurlar.net/kpssrobotu/2020/11/",
+    "ekpss": false
+  },
+  {
+    "yil": "2020",
+    "donem": "8",
+    "id": "2020-8",
+    "baslik": "2020/8 KPSS Robotu",
+    "url": "https://kpss.memurlar.net/kpssrobotu/2020/8/",
+    "ekpss": false
+  },
+  {
+    "yil": "2020",
+    "donem": "7",
+    "id": "2020-7",
+    "baslik": "2020/7 KPSS Robotu",
+    "url": "https://kpss.memurlar.net/kpssrobotu/2020/7/",
+    "ekpss": false
+  },
+  {
+    "yil": "2020",
+    "donem": "5",
+    "id": "2020-5",
+    "baslik": "2020/5 KPSS Robotu",
+    "url": "https://kpss.memurlar.net/kpssrobotu/2020/5/",
+    "ekpss": false
+  },
+  {
+    "yil": "2020",
+    "donem": "4",
+    "id": "2020-4",
+    "baslik": "2020/4 KPSS Robotu",
+    "url": "https://kpss.memurlar.net/kpssrobotu/2020/4/",
+    "ekpss": false
+  },
+  {
+    "yil": "2020",
+    "donem": "2",
+    "id": "2020-2",
+    "baslik": "2020/2 KPSS Robotu",
+    "url": "https://kpss.memurlar.net/kpssrobotu/2020/2/",
+    "ekpss": false
+  },
+  {
+    "yil": "2020",
+    "donem": "1",
+    "id": "2020-1",
+    "baslik": "2020/1 KPSS Robotu",
+    "url": "https://kpss.memurlar.net/kpssrobotu/2020/1/",
+    "ekpss": false
+  },
+  {
+    "yil": "2019",
+    "donem": "91",
+    "id": "2019-91",
+    "baslik": "2019/1 EKPSS Robotu",
+    "url": "https://kpss.memurlar.net/kpssrobotu/2019/91/",
+    "ekpss": true
+  },
+  {
+    "yil": "2019",
+    "donem": "7",
+    "id": "2019-7",
+    "baslik": "2019/7 KPSS Robotu",
+    "url": "https://kpss.memurlar.net/kpssrobotu/2019/7/",
+    "ekpss": false
+  },
+  {
+    "yil": "2019",
+    "donem": "6",
+    "id": "2019-6",
+    "baslik": "2019/6 KPSS Robotu",
+    "url": "https://kpss.memurlar.net/kpssrobotu/2019/6/",
+    "ekpss": false
+  },
+  {
+    "yil": "2019",
+    "donem": "4",
+    "id": "2019-4",
+    "baslik": "2019/4 KPSS Robotu",
+    "url": "https://kpss.memurlar.net/kpssrobotu/2019/4/",
+    "ekpss": false
+  },
+  {
+    "yil": "2019",
+    "donem": "2",
+    "id": "2019-2",
+    "baslik": "2019/2 KPSS Robotu",
+    "url": "https://kpss.memurlar.net/kpssrobotu/2019/2/",
+    "ekpss": false
+  },
+  {
+    "yil": "2019",
+    "donem": "1",
+    "id": "2019-1",
+    "baslik": "2019/1 KPSS Robotu",
+    "url": "https://kpss.memurlar.net/kpssrobotu/2019/1/",
+    "ekpss": false
+  },
+  {
+    "yil": "2018",
+    "donem": "92",
+    "id": "2018-92",
+    "baslik": "2018/2 EKPSS Robotu",
+    "url": "https://kpss.memurlar.net/kpssrobotu/2018/92/",
+    "ekpss": true
+  },
+  {
+    "yil": "2018",
+    "donem": "91",
+    "id": "2018-91",
+    "baslik": "2018/1 EKPSS Robotu",
+    "url": "https://kpss.memurlar.net/kpssrobotu/2018/91/",
+    "ekpss": true
+  },
+  {
+    "yil": "2018",
+    "donem": "5",
+    "id": "2018-5",
+    "baslik": "2018/5 KPSS Robotu",
+    "url": "https://kpss.memurlar.net/kpssrobotu/2018/5/",
+    "ekpss": false
+  },
+  {
+    "yil": "2018",
+    "donem": "4",
+    "id": "2018-4",
+    "baslik": "2018/4 KPSS Robotu",
+    "url": "https://kpss.memurlar.net/kpssrobotu/2018/4/",
+    "ekpss": false
+  },
+  {
+    "yil": "2018",
+    "donem": "2",
+    "id": "2018-2",
+    "baslik": "2018/2 KPSS Robotu",
+    "url": "https://kpss.memurlar.net/kpssrobotu/2018/2/",
+    "ekpss": false
+  },
+  {
+    "yil": "2018",
+    "donem": "1",
+    "id": "2018-1",
+    "baslik": "2018/1 KPSS Robotu",
+    "url": "https://kpss.memurlar.net/kpssrobotu/2018/1/",
+    "ekpss": false
+  },
+  {
+    "yil": "2017",
+    "donem": "91",
+    "id": "2017-91",
+    "baslik": "2017/1 EKPSS Robotu",
+    "url": "https://kpss.memurlar.net/kpssrobotu/2017/91/",
+    "ekpss": true
+  },
+  {
+    "yil": "2017",
+    "donem": "8",
+    "id": "2017-8",
+    "baslik": "2017/8 KPSS Robotu",
+    "url": "https://kpss.memurlar.net/kpssrobotu/2017/8/",
+    "ekpss": false
+  },
+  {
+    "yil": "2017",
+    "donem": "7",
+    "id": "2017-7",
+    "baslik": "2017/7 KPSS Robotu",
+    "url": "https://kpss.memurlar.net/kpssrobotu/2017/7/",
+    "ekpss": false
+  },
+  {
+    "yil": "2017",
+    "donem": "6",
+    "id": "2017-6",
+    "baslik": "2017/6 KPSS Robotu",
+    "url": "https://kpss.memurlar.net/kpssrobotu/2017/6/",
+    "ekpss": false
+  },
+  {
+    "yil": "2017",
+    "donem": "5",
+    "id": "2017-5",
+    "baslik": "2017/5 KPSS Robotu",
+    "url": "https://kpss.memurlar.net/kpssrobotu/2017/5/",
+    "ekpss": false
+  },
+  {
+    "yil": "2017",
+    "donem": "4",
+    "id": "2017-4",
+    "baslik": "2017/4 KPSS Robotu",
+    "url": "https://kpss.memurlar.net/kpssrobotu/2017/4/",
+    "ekpss": false
+  },
+  {
+    "yil": "2017",
+    "donem": "3",
+    "id": "2017-3",
+    "baslik": "2017/3 KPSS Robotu",
+    "url": "https://kpss.memurlar.net/kpssrobotu/2017/3/",
+    "ekpss": false
+  },
+  {
+    "yil": "2017",
+    "donem": "2",
+    "id": "2017-2",
+    "baslik": "2017/2 KPSS Robotu",
+    "url": "https://kpss.memurlar.net/kpssrobotu/2017/2/",
+    "ekpss": false
+  },
+  {
+    "yil": "2017",
+    "donem": "1",
+    "id": "2017-1",
+    "baslik": "2017/1 KPSS Robotu",
+    "url": "https://kpss.memurlar.net/kpssrobotu/2017/1/",
+    "ekpss": false
+  },
+  {
+    "yil": "2016",
+    "donem": "91",
+    "id": "2016-91",
+    "baslik": "2016/1 EKPSS Robotu",
+    "url": "https://kpss.memurlar.net/kpssrobotu/2016/91/",
+    "ekpss": true
+  },
+  {
+    "yil": "2016",
+    "donem": "7",
+    "id": "2016-7",
+    "baslik": "2016/7 KPSS Robotu",
+    "url": "https://kpss.memurlar.net/kpssrobotu/2016/7/",
+    "ekpss": false
+  },
+  {
+    "yil": "2016",
+    "donem": "6",
+    "id": "2016-6",
+    "baslik": "2016/6 KPSS Robotu",
+    "url": "https://kpss.memurlar.net/kpssrobotu/2016/6/",
+    "ekpss": false
+  },
+  {
+    "yil": "2016",
+    "donem": "4",
+    "id": "2016-4",
+    "baslik": "2016/4 KPSS Robotu",
+    "url": "https://kpss.memurlar.net/kpssrobotu/2016/4/",
+    "ekpss": false
+  },
+  {
+    "yil": "2016",
+    "donem": "3",
+    "id": "2016-3",
+    "baslik": "2016/3 KPSS Robotu",
+    "url": "https://kpss.memurlar.net/kpssrobotu/2016/3/",
+    "ekpss": false
+  },
+  {
+    "yil": "2016",
+    "donem": "2",
+    "id": "2016-2",
+    "baslik": "2016/2 KPSS Robotu",
+    "url": "https://kpss.memurlar.net/kpssrobotu/2016/2/",
+    "ekpss": false
+  },
+  {
+    "yil": "2016",
+    "donem": "1",
+    "id": "2016-1",
+    "baslik": "2016/1 KPSS Robotu",
+    "url": "https://kpss.memurlar.net/kpssrobotu/2016/1/",
+    "ekpss": false
+  },
+  {
+    "yil": "2015",
+    "donem": "92",
+    "id": "2015-92",
+    "baslik": "2015/2 EKPSS Robotu",
+    "url": "https://kpss.memurlar.net/kpssrobotu/2015/92/",
+    "ekpss": true
+  },
+  {
+    "yil": "2015",
+    "donem": "91",
+    "id": "2015-91",
+    "baslik": "2015/1 EKPSS Robotu",
+    "url": "https://kpss.memurlar.net/kpssrobotu/2015/91/",
+    "ekpss": true
+  },
+  {
+    "yil": "2015",
+    "donem": "3",
+    "id": "2015-3",
+    "baslik": "2015/3 KPSS Robotu",
+    "url": "https://kpss.memurlar.net/kpssrobotu/2015/3/",
+    "ekpss": false
+  },
+  {
+    "yil": "2015",
+    "donem": "2",
+    "id": "2015-2",
+    "baslik": "2015/2 KPSS Robotu",
+    "url": "https://kpss.memurlar.net/kpssrobotu/2015/2/",
+    "ekpss": false
+  },
+  {
+    "yil": "2015",
+    "donem": "1",
+    "id": "2015-1",
+    "baslik": "2015/1 KPSS Robotu",
+    "url": "https://kpss.memurlar.net/kpssrobotu/2015/1/",
+    "ekpss": false
+  },
+  {
+    "yil": "2014",
+    "donem": "4",
+    "id": "2014-4",
+    "baslik": "2014/4 KPSS Robotu",
+    "url": "https://kpss.memurlar.net/kpssrobotu/2014/4/",
+    "ekpss": false
+  },
+  {
+    "yil": "2014",
+    "donem": "3",
+    "id": "2014-3",
+    "baslik": "2014/3 KPSS Robotu",
+    "url": "https://kpss.memurlar.net/kpssrobotu/2014/3/",
+    "ekpss": false
+  },
+  {
+    "yil": "2014",
+    "donem": "2",
+    "id": "2014-2",
+    "baslik": "2014/2 KPSS Robotu",
+    "url": "https://kpss.memurlar.net/kpssrobotu/2014/2/",
+    "ekpss": false
+  },
+  {
+    "yil": "2014",
+    "donem": "1",
+    "id": "2014-1",
+    "baslik": "2014/1 KPSS Robotu",
+    "url": "https://kpss.memurlar.net/kpssrobotu/2014/1/",
+    "ekpss": false
+  },
+  {
+    "yil": "2013",
+    "donem": "5",
+    "id": "2013-5",
+    "baslik": "2013/5 KPSS Robotu",
+    "url": "https://kpss.memurlar.net/kpssrobotu/2013/5/",
+    "ekpss": false
+  },
+  {
+    "yil": "2013",
+    "donem": "4",
+    "id": "2013-4",
+    "baslik": "2013/4 KPSS Robotu",
+    "url": "https://kpss.memurlar.net/kpssrobotu/2013/4/",
+    "ekpss": false
+  },
+  {
+    "yil": "2013",
+    "donem": "3",
+    "id": "2013-3",
+    "baslik": "2013/3 KPSS Robotu",
+    "url": "https://kpss.memurlar.net/kpssrobotu/2013/3/",
+    "ekpss": false
+  },
+  {
+    "yil": "2013",
+    "donem": "2",
+    "id": "2013-2",
+    "baslik": "2013/2 KPSS Robotu",
+    "url": "https://kpss.memurlar.net/kpssrobotu/2013/2/",
+    "ekpss": false
+  },
+  {
+    "yil": "2013",
+    "donem": "1",
+    "id": "2013-1",
+    "baslik": "2013/1 KPSS Robotu",
+    "url": "https://kpss.memurlar.net/kpssrobotu/2013/1/",
+    "ekpss": false
+  },
+  {
+    "yil": "2012",
+    "donem": "6",
+    "id": "2012-6",
+    "baslik": "2012/6 KPSS Robotu",
+    "url": "https://kpss.memurlar.net/kpssrobotu/2012/6/",
+    "ekpss": false
+  },
+  {
+    "yil": "2012",
+    "donem": "5",
+    "id": "2012-5",
+    "baslik": "2012/5 KPSS Robotu",
+    "url": "https://kpss.memurlar.net/kpssrobotu/2012/5/",
+    "ekpss": false
+  },
+  {
+    "yil": "2012",
+    "donem": "4",
+    "id": "2012-4",
+    "baslik": "2012/4 KPSS Robotu",
+    "url": "https://kpss.memurlar.net/kpssrobotu/2012/4/",
+    "ekpss": false
+  },
+  {
+    "yil": "2012",
+    "donem": "3",
+    "id": "2012-3",
+    "baslik": "2012/3 KPSS Robotu",
+    "url": "https://kpss.memurlar.net/kpssrobotu/2012/3/",
+    "ekpss": false
+  },
+  {
+    "yil": "2012",
+    "donem": "2",
+    "id": "2012-2",
+    "baslik": "2012/2 KPSS Robotu",
+    "url": "https://kpss.memurlar.net/kpssrobotu/2012/2/",
+    "ekpss": false
+  },
+  {
+    "yil": "2012",
+    "donem": "1",
+    "id": "2012-1",
+    "baslik": "2012/1 KPSS Robotu",
+    "url": "https://kpss.memurlar.net/kpssrobotu/2012/1/",
+    "ekpss": false
+  }
+]
