@@ -1,0 +1,1191 @@
+{
+ "id": "2014-4",
+ "yil": "2014",
+ "donem": "4",
+ "baslik": "2014/4 KPSS Robotu",
+ "url": "https://kpss.memurlar.net/kpssrobotu/2014/4/",
+ "stats": {
+  "stated_kadro": 41,
+  "stated_kontenjan": 48,
+  "stated_basvuran": 11147,
+  "stated_yerlesen": 48
+ },
+ "branch_counts": {
+  "Ortaogretim": 0,
+  "Onlisans": 0,
+  "Lisans": 41
+ },
+ "scraped_kadro": 41,
+ "scraped_kontenjan": 48,
+ "kadrolar": [
+  {
+   "kadro_kodu": "390080065",
+   "kadro_guid": "638e79fa-306b-e411-b51b-14feb5cc1801",
+   "kurum": "Çevre ve Şehircilik Bakanlığı",
+   "unvan": "Mühendis",
+   "il": "Muğla",
+   "kontenjan": 1,
+   "bos_kadro": null,
+   "min_puan": 93.692,
+   "max_puan": 93.692,
+   "ogrenim": "Lisans",
+   "nitelikler": [
+    {
+     "kod": "4561",
+     "aciklama": "Aşağıdaki lisans programlarından birinden mezun olmak."
+    },
+    {
+     "kod": "6241",
+     "aciklama": "Kimya Mühendisliği"
+    },
+    {
+     "kod": "9192",
+     "aciklama": "Kimya ve Süreç Mühendisliği"
+    }
+   ],
+   "sinif": "Sözleşmeli",
+   "sinif_kod": null,
+   "derece": null
+  },
+  {
+   "kadro_kodu": "390080033",
+   "kadro_guid": "538e79fa-306b-e411-b51b-14feb5cc1801",
+   "kurum": "Çevre ve Şehircilik Bakanlığı",
+   "unvan": "Mühendis",
+   "il": "Düzce",
+   "kontenjan": 1,
+   "bos_kadro": null,
+   "min_puan": 93.392,
+   "max_puan": 93.392,
+   "ogrenim": "Lisans",
+   "nitelikler": [
+    {
+     "kod": "4639",
+     "aciklama": "Aşağıdaki lisans programlarından birinden mezun olmak."
+    },
+    {
+     "kod": "3252",
+     "aciklama": "Makine Mühendisliği"
+    },
+    {
+     "kod": "4314",
+     "aciklama": "Makine ve İmalat Mühendisliği"
+    }
+   ],
+   "sinif": "Sözleşmeli",
+   "sinif_kod": null,
+   "derece": null
+  },
+  {
+   "kadro_kodu": "390080061",
+   "kadro_guid": "618e79fa-306b-e411-b51b-14feb5cc1801",
+   "kurum": "Çevre ve Şehircilik Bakanlığı",
+   "unvan": "Mühendis",
+   "il": "Ankara",
+   "kontenjan": 1,
+   "bos_kadro": null,
+   "min_puan": 93.31,
+   "max_puan": 93.31,
+   "ogrenim": "Lisans",
+   "nitelikler": [
+    {
+     "kod": "4639",
+     "aciklama": "Aşağıdaki lisans programlarından birinden mezun olmak."
+    },
+    {
+     "kod": "3252",
+     "aciklama": "Makine Mühendisliği"
+    },
+    {
+     "kod": "4314",
+     "aciklama": "Makine ve İmalat Mühendisliği"
+    }
+   ],
+   "sinif": "Sözleşmeli",
+   "sinif_kod": null,
+   "derece": null
+  },
+  {
+   "kadro_kodu": "390080059",
+   "kadro_guid": "608e79fa-306b-e411-b51b-14feb5cc1801",
+   "kurum": "Çevre ve Şehircilik Bakanlığı",
+   "unvan": "Mühendis",
+   "il": "Ankara",
+   "kontenjan": 1,
+   "bos_kadro": null,
+   "min_puan": 93.064,
+   "max_puan": 93.064,
+   "ogrenim": "Lisans",
+   "nitelikler": [
+    {
+     "kod": "4669",
+     "aciklama": "Aşağıdaki lisans programlarından birinden mezun olmak."
+    },
+    {
+     "kod": "3221",
+     "aciklama": "İnşaat Mühendisliği"
+    }
+   ],
+   "sinif": "Sözleşmeli",
+   "sinif_kod": null,
+   "derece": null
+  },
+  {
+   "kadro_kodu": "390080023",
+   "kadro_guid": "4e8e79fa-306b-e411-b51b-14feb5cc1801",
+   "kurum": "Çevre ve Şehircilik Bakanlığı",
+   "unvan": "Mühendis",
+   "il": "Bursa",
+   "kontenjan": 1,
+   "bos_kadro": null,
+   "min_puan": 92.791,
+   "max_puan": 92.791,
+   "ogrenim": "Lisans",
+   "nitelikler": [
+    {
+     "kod": "4611",
+     "aciklama": "Aşağıdaki lisans programlarından birinden mezun olmak."
+    },
+    {
+     "kod": "3160",
+     "aciklama": "Elektrik Mühendisliği"
+    },
+    {
+     "kod": "3162",
+     "aciklama": "Elektrik ve Elektronik Mühendisliği / Elektrik-Elektronik Mühendisliği"
+    }
+   ],
+   "sinif": "Sözleşmeli",
+   "sinif_kod": null,
+   "derece": null
+  },
+  {
+   "kadro_kodu": "390080045",
+   "kadro_guid": "598e79fa-306b-e411-b51b-14feb5cc1801",
+   "kurum": "Çevre ve Şehircilik Bakanlığı",
+   "unvan": "Mühendis",
+   "il": "İstanbul",
+   "kontenjan": 1,
+   "bos_kadro": null,
+   "min_puan": 91.033,
+   "max_puan": 91.033,
+   "ogrenim": "Lisans",
+   "nitelikler": [
+    {
+     "kod": "4679",
+     "aciklama": "Aşağıdaki lisans programlarından birinden mezun olmak."
+    },
+    {
+     "kod": "3251",
+     "aciklama": "Maden Mühendisliği"
+    }
+   ],
+   "sinif": "Sözleşmeli",
+   "sinif_kod": null,
+   "derece": null
+  },
+  {
+   "kadro_kodu": "390080039",
+   "kadro_guid": "568e79fa-306b-e411-b51b-14feb5cc1801",
+   "kurum": "Çevre ve Şehircilik Bakanlığı",
+   "unvan": "Mühendis",
+   "il": "Iğdır",
+   "kontenjan": 1,
+   "bos_kadro": null,
+   "min_puan": 90.945,
+   "max_puan": 90.945,
+   "ogrenim": "Lisans",
+   "nitelikler": [
+    {
+     "kod": "4639",
+     "aciklama": "Aşağıdaki lisans programlarından birinden mezun olmak."
+    },
+    {
+     "kod": "3252",
+     "aciklama": "Makine Mühendisliği"
+    },
+    {
+     "kod": "4314",
+     "aciklama": "Makine ve İmalat Mühendisliği"
+    }
+   ],
+   "sinif": "Sözleşmeli",
+   "sinif_kod": null,
+   "derece": null
+  },
+  {
+   "kadro_kodu": "390080037",
+   "kadro_guid": "558e79fa-306b-e411-b51b-14feb5cc1801",
+   "kurum": "Çevre ve Şehircilik Bakanlığı",
+   "unvan": "Mühendis",
+   "il": "Erzurum",
+   "kontenjan": 1,
+   "bos_kadro": null,
+   "min_puan": 90.306,
+   "max_puan": 90.306,
+   "ogrenim": "Lisans",
+   "nitelikler": [
+    {
+     "kod": "4611",
+     "aciklama": "Aşağıdaki lisans programlarından birinden mezun olmak."
+    },
+    {
+     "kod": "3160",
+     "aciklama": "Elektrik Mühendisliği"
+    },
+    {
+     "kod": "3162",
+     "aciklama": "Elektrik ve Elektronik Mühendisliği / Elektrik-Elektronik Mühendisliği"
+    }
+   ],
+   "sinif": "Sözleşmeli",
+   "sinif_kod": null,
+   "derece": null
+  },
+  {
+   "kadro_kodu": "390080011",
+   "kadro_guid": "488e79fa-306b-e411-b51b-14feb5cc1801",
+   "kurum": "Çevre ve Şehircilik Bakanlığı",
+   "unvan": "Mühendis",
+   "il": "Antalya",
+   "kontenjan": 1,
+   "bos_kadro": null,
+   "min_puan": 90.229,
+   "max_puan": 90.229,
+   "ogrenim": "Lisans",
+   "nitelikler": [
+    {
+     "kod": "4669",
+     "aciklama": "Aşağıdaki lisans programlarından birinden mezun olmak."
+    },
+    {
+     "kod": "3221",
+     "aciklama": "İnşaat Mühendisliği"
+    }
+   ],
+   "sinif": "Sözleşmeli",
+   "sinif_kod": null,
+   "derece": null
+  },
+  {
+   "kadro_kodu": "390080041",
+   "kadro_guid": "578e79fa-306b-e411-b51b-14feb5cc1801",
+   "kurum": "Çevre ve Şehircilik Bakanlığı",
+   "unvan": "Mühendis",
+   "il": "İstanbul",
+   "kontenjan": 1,
+   "bos_kadro": null,
+   "min_puan": 90.049,
+   "max_puan": 90.049,
+   "ogrenim": "Lisans",
+   "nitelikler": [
+    {
+     "kod": "4669",
+     "aciklama": "Aşağıdaki lisans programlarından birinden mezun olmak."
+    },
+    {
+     "kod": "3221",
+     "aciklama": "İnşaat Mühendisliği"
+    }
+   ],
+   "sinif": "Sözleşmeli",
+   "sinif_kod": null,
+   "derece": null
+  },
+  {
+   "kadro_kodu": "390080021",
+   "kadro_guid": "4d8e79fa-306b-e411-b51b-14feb5cc1801",
+   "kurum": "Çevre ve Şehircilik Bakanlığı",
+   "unvan": "Mühendis",
+   "il": "Bolu",
+   "kontenjan": 1,
+   "bos_kadro": null,
+   "min_puan": 89.716,
+   "max_puan": 89.716,
+   "ogrenim": "Lisans",
+   "nitelikler": [
+    {
+     "kod": "4611",
+     "aciklama": "Aşağıdaki lisans programlarından birinden mezun olmak."
+    },
+    {
+     "kod": "3160",
+     "aciklama": "Elektrik Mühendisliği"
+    },
+    {
+     "kod": "3162",
+     "aciklama": "Elektrik ve Elektronik Mühendisliği / Elektrik-Elektronik Mühendisliği"
+    }
+   ],
+   "sinif": "Sözleşmeli",
+   "sinif_kod": null,
+   "derece": null
+  },
+  {
+   "kadro_kodu": "390080067",
+   "kadro_guid": "648e79fa-306b-e411-b51b-14feb5cc1801",
+   "kurum": "Çevre ve Şehircilik Bakanlığı",
+   "unvan": "Mühendis",
+   "il": "Ordu",
+   "kontenjan": 1,
+   "bos_kadro": null,
+   "min_puan": 89.378,
+   "max_puan": 89.378,
+   "ogrenim": "Lisans",
+   "nitelikler": [
+    {
+     "kod": "4611",
+     "aciklama": "Aşağıdaki lisans programlarından birinden mezun olmak."
+    },
+    {
+     "kod": "3160",
+     "aciklama": "Elektrik Mühendisliği"
+    },
+    {
+     "kod": "3162",
+     "aciklama": "Elektrik ve Elektronik Mühendisliği / Elektrik-Elektronik Mühendisliği"
+    }
+   ],
+   "sinif": "Sözleşmeli",
+   "sinif_kod": null,
+   "derece": null
+  },
+  {
+   "kadro_kodu": "390080043",
+   "kadro_guid": "588e79fa-306b-e411-b51b-14feb5cc1801",
+   "kurum": "Çevre ve Şehircilik Bakanlığı",
+   "unvan": "Mühendis",
+   "il": "İstanbul",
+   "kontenjan": 1,
+   "bos_kadro": null,
+   "min_puan": 89.028,
+   "max_puan": 89.028,
+   "ogrenim": "Lisans",
+   "nitelikler": [
+    {
+     "kod": "4681",
+     "aciklama": "Aşağıdaki lisans programlarından birinden mezun olmak."
+    },
+    {
+     "kod": "3234",
+     "aciklama": "Jeofizik Mühendisliği"
+    }
+   ],
+   "sinif": "Sözleşmeli",
+   "sinif_kod": null,
+   "derece": null
+  },
+  {
+   "kadro_kodu": "390080007",
+   "kadro_guid": "468e79fa-306b-e411-b51b-14feb5cc1801",
+   "kurum": "Çevre ve Şehircilik Bakanlığı",
+   "unvan": "Mimar",
+   "il": "Kocaeli",
+   "kontenjan": 1,
+   "bos_kadro": null,
+   "min_puan": 88.717,
+   "max_puan": 88.717,
+   "ogrenim": "Lisans",
+   "nitelikler": [
+    {
+     "kod": "4747",
+     "aciklama": "Aşağıdaki lisans programlarından birinden mezun olmak."
+    },
+    {
+     "kod": "3263",
+     "aciklama": "Mimarlık"
+    }
+   ],
+   "sinif": "Sözleşmeli",
+   "sinif_kod": null,
+   "derece": null
+  },
+  {
+   "kadro_kodu": "390080073",
+   "kadro_guid": "678e79fa-306b-e411-b51b-14feb5cc1801",
+   "kurum": "Çevre ve Şehircilik Bakanlığı",
+   "unvan": "Mühendis",
+   "il": "Sinop",
+   "kontenjan": 1,
+   "bos_kadro": null,
+   "min_puan": 88.285,
+   "max_puan": 88.285,
+   "ogrenim": "Lisans",
+   "nitelikler": [
+    {
+     "kod": "4669",
+     "aciklama": "Aşağıdaki lisans programlarından birinden mezun olmak."
+    },
+    {
+     "kod": "3221",
+     "aciklama": "İnşaat Mühendisliği"
+    }
+   ],
+   "sinif": "Sözleşmeli",
+   "sinif_kod": null,
+   "derece": null
+  },
+  {
+   "kadro_kodu": "390080017",
+   "kadro_guid": "4b8e79fa-306b-e411-b51b-14feb5cc1801",
+   "kurum": "Çevre ve Şehircilik Bakanlığı",
+   "unvan": "Mühendis",
+   "il": "Bingöl",
+   "kontenjan": 1,
+   "bos_kadro": null,
+   "min_puan": 87.87,
+   "max_puan": 87.87,
+   "ogrenim": "Lisans",
+   "nitelikler": [
+    {
+     "kod": "4639",
+     "aciklama": "Aşağıdaki lisans programlarından birinden mezun olmak."
+    },
+    {
+     "kod": "3252",
+     "aciklama": "Makine Mühendisliği"
+    },
+    {
+     "kod": "4314",
+     "aciklama": "Makine ve İmalat Mühendisliği"
+    }
+   ],
+   "sinif": "Sözleşmeli",
+   "sinif_kod": null,
+   "derece": null
+  },
+  {
+   "kadro_kodu": "390080057",
+   "kadro_guid": "5f8e79fa-306b-e411-b51b-14feb5cc1801",
+   "kurum": "Çevre ve Şehircilik Bakanlığı",
+   "unvan": "Mühendis",
+   "il": "Manisa",
+   "kontenjan": 1,
+   "bos_kadro": null,
+   "min_puan": 87.084,
+   "max_puan": 87.084,
+   "ogrenim": "Lisans",
+   "nitelikler": [
+    {
+     "kod": "4677",
+     "aciklama": "Aşağıdaki lisans programlarından birinden mezun olmak."
+    },
+    {
+     "kod": "3142",
+     "aciklama": "Çevre Mühendisliği"
+    }
+   ],
+   "sinif": "Sözleşmeli",
+   "sinif_kod": null,
+   "derece": null
+  },
+  {
+   "kadro_kodu": "390080003",
+   "kadro_guid": "448e79fa-306b-e411-b51b-14feb5cc1801",
+   "kurum": "Çevre ve Şehircilik Bakanlığı",
+   "unvan": "Mimar",
+   "il": "İzmir",
+   "kontenjan": 1,
+   "bos_kadro": null,
+   "min_puan": 86.975,
+   "max_puan": 86.975,
+   "ogrenim": "Lisans",
+   "nitelikler": [
+    {
+     "kod": "4747",
+     "aciklama": "Aşağıdaki lisans programlarından birinden mezun olmak."
+    },
+    {
+     "kod": "3263",
+     "aciklama": "Mimarlık"
+    }
+   ],
+   "sinif": "Sözleşmeli",
+   "sinif_kod": null,
+   "derece": null
+  },
+  {
+   "kadro_kodu": "390080051",
+   "kadro_guid": "5c8e79fa-306b-e411-b51b-14feb5cc1801",
+   "kurum": "Çevre ve Şehircilik Bakanlığı",
+   "unvan": "Mühendis",
+   "il": "Kastamonu",
+   "kontenjan": 1,
+   "bos_kadro": null,
+   "min_puan": 86.909,
+   "max_puan": 86.909,
+   "ogrenim": "Lisans",
+   "nitelikler": [
+    {
+     "kod": "4677",
+     "aciklama": "Aşağıdaki lisans programlarından birinden mezun olmak."
+    },
+    {
+     "kod": "3142",
+     "aciklama": "Çevre Mühendisliği"
+    }
+   ],
+   "sinif": "Sözleşmeli",
+   "sinif_kod": null,
+   "derece": null
+  },
+  {
+   "kadro_kodu": "390080055",
+   "kadro_guid": "5e8e79fa-306b-e411-b51b-14feb5cc1801",
+   "kurum": "Çevre ve Şehircilik Bakanlığı",
+   "unvan": "Mühendis",
+   "il": "Kocaeli",
+   "kontenjan": 1,
+   "bos_kadro": null,
+   "min_puan": 86.745,
+   "max_puan": 86.745,
+   "ogrenim": "Lisans",
+   "nitelikler": [
+    {
+     "kod": "4669",
+     "aciklama": "Aşağıdaki lisans programlarından birinden mezun olmak."
+    },
+    {
+     "kod": "3221",
+     "aciklama": "İnşaat Mühendisliği"
+    }
+   ],
+   "sinif": "Sözleşmeli",
+   "sinif_kod": null,
+   "derece": null
+  },
+  {
+   "kadro_kodu": "390080025",
+   "kadro_guid": "4f8e79fa-306b-e411-b51b-14feb5cc1801",
+   "kurum": "Çevre ve Şehircilik Bakanlığı",
+   "unvan": "Mühendis",
+   "il": "Çankırı",
+   "kontenjan": 1,
+   "bos_kadro": null,
+   "min_puan": 86.582,
+   "max_puan": 86.582,
+   "ogrenim": "Lisans",
+   "nitelikler": [
+    {
+     "kod": "4677",
+     "aciklama": "Aşağıdaki lisans programlarından birinden mezun olmak."
+    },
+    {
+     "kod": "3142",
+     "aciklama": "Çevre Mühendisliği"
+    }
+   ],
+   "sinif": "Sözleşmeli",
+   "sinif_kod": null,
+   "derece": null
+  },
+  {
+   "kadro_kodu": "390080077",
+   "kadro_guid": "698e79fa-306b-e411-b51b-14feb5cc1801",
+   "kurum": "Çevre ve Şehircilik Bakanlığı",
+   "unvan": "Mühendis",
+   "il": "Zonguldak",
+   "kontenjan": 1,
+   "bos_kadro": null,
+   "min_puan": 86.347,
+   "max_puan": 86.347,
+   "ogrenim": "Lisans",
+   "nitelikler": [
+    {
+     "kod": "4677",
+     "aciklama": "Aşağıdaki lisans programlarından birinden mezun olmak."
+    },
+    {
+     "kod": "3142",
+     "aciklama": "Çevre Mühendisliği"
+    }
+   ],
+   "sinif": "Sözleşmeli",
+   "sinif_kod": null,
+   "derece": null
+  },
+  {
+   "kadro_kodu": "390080069",
+   "kadro_guid": "658e79fa-306b-e411-b51b-14feb5cc1801",
+   "kurum": "Çevre ve Şehircilik Bakanlığı",
+   "unvan": "Mühendis",
+   "il": "Ordu",
+   "kontenjan": 1,
+   "bos_kadro": null,
+   "min_puan": 86.265,
+   "max_puan": 86.265,
+   "ogrenim": "Lisans",
+   "nitelikler": [
+    {
+     "kod": "4669",
+     "aciklama": "Aşağıdaki lisans programlarından birinden mezun olmak."
+    },
+    {
+     "kod": "3221",
+     "aciklama": "İnşaat Mühendisliği"
+    }
+   ],
+   "sinif": "Sözleşmeli",
+   "sinif_kod": null,
+   "derece": null
+  },
+  {
+   "kadro_kodu": "390080035",
+   "kadro_guid": "548e79fa-306b-e411-b51b-14feb5cc1801",
+   "kurum": "Çevre ve Şehircilik Bakanlığı",
+   "unvan": "Mühendis",
+   "il": "Erzincan",
+   "kontenjan": 1,
+   "bos_kadro": null,
+   "min_puan": 86.215,
+   "max_puan": 86.215,
+   "ogrenim": "Lisans",
+   "nitelikler": [
+    {
+     "kod": "4685",
+     "aciklama": "Aşağıdaki lisans programlarından birinden mezun olmak."
+    },
+    {
+     "kod": "3206",
+     "aciklama": "Hidrojeoloji Mühendisliği"
+    },
+    {
+     "kod": "4334",
+     "aciklama": "Petrol ve Doğalgaz Jeolojisi"
+    },
+    {
+     "kod": "6235",
+     "aciklama": "Jeoloji Mühendisliği"
+    }
+   ],
+   "sinif": "Sözleşmeli",
+   "sinif_kod": null,
+   "derece": null
+  },
+  {
+   "kadro_kodu": "390080019",
+   "kadro_guid": "4c8e79fa-306b-e411-b51b-14feb5cc1801",
+   "kurum": "Çevre ve Şehircilik Bakanlığı",
+   "unvan": "Mühendis",
+   "il": "Bolu",
+   "kontenjan": 1,
+   "bos_kadro": null,
+   "min_puan": 86.161,
+   "max_puan": 86.161,
+   "ogrenim": "Lisans",
+   "nitelikler": [
+    {
+     "kod": "4677",
+     "aciklama": "Aşağıdaki lisans programlarından birinden mezun olmak."
+    },
+    {
+     "kod": "3142",
+     "aciklama": "Çevre Mühendisliği"
+    }
+   ],
+   "sinif": "Sözleşmeli",
+   "sinif_kod": null,
+   "derece": null
+  },
+  {
+   "kadro_kodu": "390080075",
+   "kadro_guid": "688e79fa-306b-e411-b51b-14feb5cc1801",
+   "kurum": "Çevre ve Şehircilik Bakanlığı",
+   "unvan": "Mühendis",
+   "il": "Sivas",
+   "kontenjan": 1,
+   "bos_kadro": null,
+   "min_puan": 85.729,
+   "max_puan": 85.729,
+   "ogrenim": "Lisans",
+   "nitelikler": [
+    {
+     "kod": "4669",
+     "aciklama": "Aşağıdaki lisans programlarından birinden mezun olmak."
+    },
+    {
+     "kod": "3221",
+     "aciklama": "İnşaat Mühendisliği"
+    }
+   ],
+   "sinif": "Sözleşmeli",
+   "sinif_kod": null,
+   "derece": null
+  },
+  {
+   "kadro_kodu": "390080049",
+   "kadro_guid": "5b8e79fa-306b-e411-b51b-14feb5cc1801",
+   "kurum": "Çevre ve Şehircilik Bakanlığı",
+   "unvan": "Mühendis",
+   "il": "Karaman",
+   "kontenjan": 1,
+   "bos_kadro": null,
+   "min_puan": 85.173,
+   "max_puan": 85.173,
+   "ogrenim": "Lisans",
+   "nitelikler": [
+    {
+     "kod": "4669",
+     "aciklama": "Aşağıdaki lisans programlarından birinden mezun olmak."
+    },
+    {
+     "kod": "3221",
+     "aciklama": "İnşaat Mühendisliği"
+    }
+   ],
+   "sinif": "Sözleşmeli",
+   "sinif_kod": null,
+   "derece": null
+  },
+  {
+   "kadro_kodu": "390080071",
+   "kadro_guid": "668e79fa-306b-e411-b51b-14feb5cc1801",
+   "kurum": "Çevre ve Şehircilik Bakanlığı",
+   "unvan": "Mühendis",
+   "il": "Osmaniye",
+   "kontenjan": 1,
+   "bos_kadro": null,
+   "min_puan": 84.621,
+   "max_puan": 84.621,
+   "ogrenim": "Lisans",
+   "nitelikler": [
+    {
+     "kod": "4669",
+     "aciklama": "Aşağıdaki lisans programlarından birinden mezun olmak."
+    },
+    {
+     "kod": "3221",
+     "aciklama": "İnşaat Mühendisliği"
+    }
+   ],
+   "sinif": "Sözleşmeli",
+   "sinif_kod": null,
+   "derece": null
+  },
+  {
+   "kadro_kodu": "390080027",
+   "kadro_guid": "508e79fa-306b-e411-b51b-14feb5cc1801",
+   "kurum": "Çevre ve Şehircilik Bakanlığı",
+   "unvan": "Mühendis",
+   "il": "Denizli",
+   "kontenjan": 1,
+   "bos_kadro": null,
+   "min_puan": 84.293,
+   "max_puan": 84.293,
+   "ogrenim": "Lisans",
+   "nitelikler": [
+    {
+     "kod": "4689",
+     "aciklama": "Aşağıdaki lisans programlarından birinden mezun olmak."
+    },
+    {
+     "kod": "3233",
+     "aciklama": "Jeodezi ve Fotogrametri Mühendisliği"
+    },
+    {
+     "kod": "4298",
+     "aciklama": "Jeodezi ve Haritacılık"
+    },
+    {
+     "kod": "8324",
+     "aciklama": "Harita Mühendisliği"
+    },
+    {
+     "kod": "9034",
+     "aciklama": "Geomatik Mühendisliği"
+    }
+   ],
+   "sinif": "Sözleşmeli",
+   "sinif_kod": null,
+   "derece": null
+  },
+  {
+   "kadro_kodu": "390080031",
+   "kadro_guid": "528e79fa-306b-e411-b51b-14feb5cc1801",
+   "kurum": "Çevre ve Şehircilik Bakanlığı",
+   "unvan": "Mühendis",
+   "il": "Düzce",
+   "kontenjan": 1,
+   "bos_kadro": null,
+   "min_puan": 84.222,
+   "max_puan": 84.222,
+   "ogrenim": "Lisans",
+   "nitelikler": [
+    {
+     "kod": "4677",
+     "aciklama": "Aşağıdaki lisans programlarından birinden mezun olmak."
+    },
+    {
+     "kod": "3142",
+     "aciklama": "Çevre Mühendisliği"
+    }
+   ],
+   "sinif": "Sözleşmeli",
+   "sinif_kod": null,
+   "derece": null
+  },
+  {
+   "kadro_kodu": "390080063",
+   "kadro_guid": "628e79fa-306b-e411-b51b-14feb5cc1801",
+   "kurum": "Çevre ve Şehircilik Bakanlığı",
+   "unvan": "Mühendis",
+   "il": "Mersin",
+   "kontenjan": 1,
+   "bos_kadro": null,
+   "min_puan": 83.91,
+   "max_puan": 83.91,
+   "ogrenim": "Lisans",
+   "nitelikler": [
+    {
+     "kod": "4681",
+     "aciklama": "Aşağıdaki lisans programlarından birinden mezun olmak."
+    },
+    {
+     "kod": "3234",
+     "aciklama": "Jeofizik Mühendisliği"
+    }
+   ],
+   "sinif": "Sözleşmeli",
+   "sinif_kod": null,
+   "derece": null
+  },
+  {
+   "kadro_kodu": "390080047",
+   "kadro_guid": "5a8e79fa-306b-e411-b51b-14feb5cc1801",
+   "kurum": "Çevre ve Şehircilik Bakanlığı",
+   "unvan": "Mühendis",
+   "il": "Karaman",
+   "kontenjan": 1,
+   "bos_kadro": null,
+   "min_puan": 83.823,
+   "max_puan": 83.823,
+   "ogrenim": "Lisans",
+   "nitelikler": [
+    {
+     "kod": "4677",
+     "aciklama": "Aşağıdaki lisans programlarından birinden mezun olmak."
+    },
+    {
+     "kod": "3142",
+     "aciklama": "Çevre Mühendisliği"
+    }
+   ],
+   "sinif": "Sözleşmeli",
+   "sinif_kod": null,
+   "derece": null
+  },
+  {
+   "kadro_kodu": "390080029",
+   "kadro_guid": "518e79fa-306b-e411-b51b-14feb5cc1801",
+   "kurum": "Çevre ve Şehircilik Bakanlığı",
+   "unvan": "Mühendis",
+   "il": "Diyarbakır",
+   "kontenjan": 1,
+   "bos_kadro": null,
+   "min_puan": 83.637,
+   "max_puan": 83.637,
+   "ogrenim": "Lisans",
+   "nitelikler": [
+    {
+     "kod": "4677",
+     "aciklama": "Aşağıdaki lisans programlarından birinden mezun olmak."
+    },
+    {
+     "kod": "3142",
+     "aciklama": "Çevre Mühendisliği"
+    }
+   ],
+   "sinif": "Sözleşmeli",
+   "sinif_kod": null,
+   "derece": null
+  },
+  {
+   "kadro_kodu": "390080015",
+   "kadro_guid": "4a8e79fa-306b-e411-b51b-14feb5cc1801",
+   "kurum": "Çevre ve Şehircilik Bakanlığı",
+   "unvan": "Mühendis",
+   "il": "Bingöl",
+   "kontenjan": 1,
+   "bos_kadro": null,
+   "min_puan": 83.408,
+   "max_puan": 83.408,
+   "ogrenim": "Lisans",
+   "nitelikler": [
+    {
+     "kod": "4677",
+     "aciklama": "Aşağıdaki lisans programlarından birinden mezun olmak."
+    },
+    {
+     "kod": "3142",
+     "aciklama": "Çevre Mühendisliği"
+    }
+   ],
+   "sinif": "Sözleşmeli",
+   "sinif_kod": null,
+   "derece": null
+  },
+  {
+   "kadro_kodu": "390080079",
+   "kadro_guid": "6a8e79fa-306b-e411-b51b-14feb5cc1801",
+   "kurum": "Çevre ve Şehircilik Bakanlığı",
+   "unvan": "Programcı",
+   "il": "Ankara",
+   "kontenjan": 4,
+   "bos_kadro": null,
+   "min_puan": 82.638,
+   "max_puan": 86.456,
+   "ogrenim": "Lisans",
+   "nitelikler": [
+    {
+     "kod": "4527",
+     "aciklama": "Aşağıdaki lisans programlarından birinden mezun olmak."
+    },
+    {
+     "kod": "3256",
+     "aciklama": "Matematik ve Bilgisayar Bilimleri"
+    },
+    {
+     "kod": "3258",
+     "aciklama": "Matematik ve Bilgisayar / Matematik-Bilgisayar"
+    },
+    {
+     "kod": "4395",
+     "aciklama": "Uygulamalı Matematik"
+    },
+    {
+     "kod": "8228",
+     "aciklama": "Matematik ve İnformatik / Matematik-İnformatik"
+    },
+    {
+     "kod": "8230",
+     "aciklama": "Matematik-Bilgisayar Programcılığı"
+    },
+    {
+     "kod": "8277",
+     "aciklama": "Uygulamalı Matematik ve Bilgisayar"
+    },
+    {
+     "kod": "4529",
+     "aciklama": "Aşağıdaki lisans programlarından birinden mezun olmak."
+    },
+    {
+     "kod": "3123",
+     "aciklama": "Bilgisayar"
+    },
+    {
+     "kod": "8143",
+     "aciklama": "Bilgisayar Bilimi / Bilgisayar Bilimleri"
+    },
+    {
+     "kod": "4532",
+     "aciklama": "Aşağıdaki lisans programlarından birinden mezun olmak."
+    },
+    {
+     "kod": "4220",
+     "aciklama": "Bilgisayar Sistemleri ve Ağları"
+    },
+    {
+     "kod": "4539",
+     "aciklama": "Aşağıdaki lisans programlarından birinden mezun olmak."
+    },
+    {
+     "kod": "3127",
+     "aciklama": "Bilgisayar Teknolojisi ve Bilişim Sistemleri"
+    },
+    {
+     "kod": "3130",
+     "aciklama": "Bilişim Sistemleri ve Teknolojileri"
+    },
+    {
+     "kod": "8125",
+     "aciklama": "Bilgisayar Teknolojisi Bölümü"
+    },
+    {
+     "kod": "8151",
+     "aciklama": "Bilgisayar Sistemleri ve Teknolojileri"
+    },
+    {
+     "kod": "8308",
+     "aciklama": "Bilgi Teknolojileri"
+    }
+   ],
+   "sinif": "Sözleşmeli",
+   "sinif_kod": null,
+   "derece": null
+  },
+  {
+   "kadro_kodu": "390080001",
+   "kadro_guid": "438e79fa-306b-e411-b51b-14feb5cc1801",
+   "kurum": "Çevre ve Şehircilik Bakanlığı",
+   "unvan": "Mimar",
+   "il": "Bursa",
+   "kontenjan": 1,
+   "bos_kadro": null,
+   "min_puan": 82.36,
+   "max_puan": 82.36,
+   "ogrenim": "Lisans",
+   "nitelikler": [
+    {
+     "kod": "4747",
+     "aciklama": "Aşağıdaki lisans programlarından birinden mezun olmak."
+    },
+    {
+     "kod": "3263",
+     "aciklama": "Mimarlık"
+    }
+   ],
+   "sinif": "Sözleşmeli",
+   "sinif_kod": null,
+   "derece": null
+  },
+  {
+   "kadro_kodu": "390080009",
+   "kadro_guid": "478e79fa-306b-e411-b51b-14feb5cc1801",
+   "kurum": "Çevre ve Şehircilik Bakanlığı",
+   "unvan": "Mimar",
+   "il": "Ankara",
+   "kontenjan": 5,
+   "bos_kadro": null,
+   "min_puan": 82.338,
+   "max_puan": 86.407,
+   "ogrenim": "Lisans",
+   "nitelikler": [
+    {
+     "kod": "4747",
+     "aciklama": "Aşağıdaki lisans programlarından birinden mezun olmak."
+    },
+    {
+     "kod": "3263",
+     "aciklama": "Mimarlık"
+    }
+   ],
+   "sinif": "Sözleşmeli",
+   "sinif_kod": null,
+   "derece": null
+  },
+  {
+   "kadro_kodu": "390080005",
+   "kadro_guid": "458e79fa-306b-e411-b51b-14feb5cc1801",
+   "kurum": "Çevre ve Şehircilik Bakanlığı",
+   "unvan": "Mimar",
+   "il": "Kırıkkale",
+   "kontenjan": 1,
+   "bos_kadro": null,
+   "min_puan": 82.212,
+   "max_puan": 82.212,
+   "ogrenim": "Lisans",
+   "nitelikler": [
+    {
+     "kod": "4747",
+     "aciklama": "Aşağıdaki lisans programlarından birinden mezun olmak."
+    },
+    {
+     "kod": "3263",
+     "aciklama": "Mimarlık"
+    }
+   ],
+   "sinif": "Sözleşmeli",
+   "sinif_kod": null,
+   "derece": null
+  },
+  {
+   "kadro_kodu": "390080013",
+   "kadro_guid": "498e79fa-306b-e411-b51b-14feb5cc1801",
+   "kurum": "Çevre ve Şehircilik Bakanlığı",
+   "unvan": "Mühendis",
+   "il": "Artvin",
+   "kontenjan": 1,
+   "bos_kadro": null,
+   "min_puan": 81.616,
+   "max_puan": 81.616,
+   "ogrenim": "Lisans",
+   "nitelikler": [
+    {
+     "kod": "4689",
+     "aciklama": "Aşağıdaki lisans programlarından birinden mezun olmak."
+    },
+    {
+     "kod": "3233",
+     "aciklama": "Jeodezi ve Fotogrametri Mühendisliği"
+    },
+    {
+     "kod": "4298",
+     "aciklama": "Jeodezi ve Haritacılık"
+    },
+    {
+     "kod": "8324",
+     "aciklama": "Harita Mühendisliği"
+    },
+    {
+     "kod": "9034",
+     "aciklama": "Geomatik Mühendisliği"
+    }
+   ],
+   "sinif": "Sözleşmeli",
+   "sinif_kod": null,
+   "derece": null
+  },
+  {
+   "kadro_kodu": "390080053",
+   "kadro_guid": "5d8e79fa-306b-e411-b51b-14feb5cc1801",
+   "kurum": "Çevre ve Şehircilik Bakanlığı",
+   "unvan": "Mühendis",
+   "il": "Kilis",
+   "kontenjan": 1,
+   "bos_kadro": null,
+   "min_puan": 80.022,
+   "max_puan": 80.022,
+   "ogrenim": "Lisans",
+   "nitelikler": [
+    {
+     "kod": "4689",
+     "aciklama": "Aşağıdaki lisans programlarından birinden mezun olmak."
+    },
+    {
+     "kod": "3233",
+     "aciklama": "Jeodezi ve Fotogrametri Mühendisliği"
+    },
+    {
+     "kod": "4298",
+     "aciklama": "Jeodezi ve Haritacılık"
+    },
+    {
+     "kod": "8324",
+     "aciklama": "Harita Mühendisliği"
+    },
+    {
+     "kod": "9034",
+     "aciklama": "Geomatik Mühendisliği"
+    }
+   ],
+   "sinif": "Sözleşmeli",
+   "sinif_kod": null,
+   "derece": null
+  },
+  {
+   "kadro_kodu": "390080081",
+   "kadro_guid": "6b8e79fa-306b-e411-b51b-14feb5cc1801",
+   "kurum": "Çevre ve Şehircilik Bakanlığı",
+   "unvan": "Şehir Plancısı",
+   "il": "Erzurum",
+   "kontenjan": 1,
+   "bos_kadro": null,
+   "min_puan": 79.111,
+   "max_puan": 79.111,
+   "ogrenim": "Lisans",
+   "nitelikler": [
+    {
+     "kod": "4757",
+     "aciklama": "Aşağıdaki lisans programlarından birinden mezun olmak."
+    },
+    {
+     "kod": "3322",
+     "aciklama": "Şehir ve Bölge Planlama"
+    }
+   ],
+   "sinif": "Sözleşmeli",
+   "sinif_kod": null,
+   "derece": null
+  }
+ ]
+}

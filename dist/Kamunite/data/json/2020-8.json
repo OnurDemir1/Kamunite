@@ -1,0 +1,1661 @@
+{
+ "id": "2020-8",
+ "yil": "2020",
+ "donem": "8",
+ "baslik": "2020/8 KPSS Robotu",
+ "url": "https://kpss.memurlar.net/kpssrobotu/2020/8/",
+ "stats": {
+  "stated_kadro": 60,
+  "stated_kontenjan": 3000,
+  "stated_basvuran": 40114,
+  "stated_yerlesen": 3000
+ },
+ "branch_counts": {
+  "Ortaogretim": 5,
+  "Onlisans": 33,
+  "Lisans": 22
+ },
+ "scraped_kadro": 60,
+ "scraped_kontenjan": 3000,
+ "kadrolar": [
+  {
+   "kadro_kodu": "133180105",
+   "kadro_guid": "b2bb0c2c-ccaf-ea11-80f7-a0369f7d1486",
+   "kurum": "T.C. Sağlık Bakanlığı Sbü İstanbul Yedikule Göğüs Hastalıkları ve Göğüs Cerrahisi Eah",
+   "unvan": "Hemşire",
+   "il": "İstanbul",
+   "kontenjan": 3,
+   "bos_kadro": 3,
+   "min_puan": 83.653,
+   "max_puan": 84.071,
+   "ogrenim": "Ortaogretim",
+   "nitelikler": [],
+   "sinif": "Sözleşmeli",
+   "sinif_kod": null,
+   "derece": null
+  },
+  {
+   "kadro_kodu": "139523601",
+   "kadro_guid": "b4bb0c2c-ccaf-ea11-80f7-a0369f7d1486",
+   "kurum": "T.C. Sağlık Bakanlığı Marmara Üniversitesi Pendik Eğitim ve Araştırma Hastanesi",
+   "unvan": "Hemşire",
+   "il": "İstanbul",
+   "kontenjan": 37,
+   "bos_kadro": 37,
+   "min_puan": 81.834,
+   "max_puan": 87.16,
+   "ogrenim": "Ortaogretim",
+   "nitelikler": [],
+   "sinif": "Sözleşmeli",
+   "sinif_kod": null,
+   "derece": null
+  },
+  {
+   "kadro_kodu": "117729608",
+   "kadro_guid": "b1bb0c2c-ccaf-ea11-80f7-a0369f7d1486",
+   "kurum": "T.C. Sağlık Bakanlığı Medeniyet Üniversitesi Göztepe Eğitim ve Araştırma Hastanesi",
+   "unvan": "Hemşire",
+   "il": "İstanbul",
+   "kontenjan": 24,
+   "bos_kadro": 24,
+   "min_puan": 81.725,
+   "max_puan": 83.954,
+   "ogrenim": "Ortaogretim",
+   "nitelikler": [],
+   "sinif": "Sözleşmeli",
+   "sinif_kod": null,
+   "derece": null
+  },
+  {
+   "kadro_kodu": "163192105",
+   "kadro_guid": "b5bb0c2c-ccaf-ea11-80f7-a0369f7d1486",
+   "kurum": "T.C. Sağlık Bakanlığı Sancaktepe Şehit Prof. Dr. İlhan Varank Eğitim ve Araştırma Hastanesi",
+   "unvan": "Hemşire",
+   "il": "İstanbul",
+   "kontenjan": 162,
+   "bos_kadro": 162,
+   "min_puan": 81.382,
+   "max_puan": 84.706,
+   "ogrenim": "Ortaogretim",
+   "nitelikler": [],
+   "sinif": "Sözleşmeli",
+   "sinif_kod": null,
+   "derece": null
+  },
+  {
+   "kadro_kodu": "134570103",
+   "kadro_guid": "b3bb0c2c-ccaf-ea11-80f7-a0369f7d1486",
+   "kurum": "T.C. Sağlık Bakanlığı Sbü İstanbul Dr. Sadi Konuk Eğitim ve Araştırma Hastanesi",
+   "unvan": "Hemşire",
+   "il": "İstanbul",
+   "kontenjan": 147,
+   "bos_kadro": 147,
+   "min_puan": 81.333,
+   "max_puan": 84.447,
+   "ogrenim": "Ortaogretim",
+   "nitelikler": [],
+   "sinif": "Sözleşmeli",
+   "sinif_kod": null,
+   "derece": null
+  },
+  {
+   "kadro_kodu": "239523622",
+   "kadro_guid": "cbbb0c2c-ccaf-ea11-80f7-a0369f7d1486",
+   "kurum": "T.C. Sağlık Bakanlığı Marmara Üniversitesi Pendik Eğitim ve Araştırma Hastanesi",
+   "unvan": "Sağlık Teknikeri (Eczane)",
+   "il": "İstanbul",
+   "kontenjan": 1,
+   "bos_kadro": 1,
+   "min_puan": 87.377,
+   "max_puan": 87.377,
+   "ogrenim": "Onlisans",
+   "nitelikler": [
+    {
+     "kod": "3008",
+     "aciklama": "Aşağıdaki önlisans programlarından birinden mezun olmak."
+    },
+    {
+     "kod": "4245",
+     "aciklama": "Eczane Teknikerliği"
+    },
+    {
+     "kod": "9087",
+     "aciklama": "Eczane Hizmetleri"
+    }
+   ],
+   "sinif": "Sözleşmeli",
+   "sinif_kod": null,
+   "derece": null
+  },
+  {
+   "kadro_kodu": "239523620",
+   "kadro_guid": "c9bb0c2c-ccaf-ea11-80f7-a0369f7d1486",
+   "kurum": "T.C. Sağlık Bakanlığı Marmara Üniversitesi Pendik Eğitim ve Araştırma Hastanesi",
+   "unvan": "Sağlık Teknikeri (Anestezi)",
+   "il": "İstanbul",
+   "kontenjan": 5,
+   "bos_kadro": 5,
+   "min_puan": 81.928,
+   "max_puan": 90.202,
+   "ogrenim": "Onlisans",
+   "nitelikler": [
+    {
+     "kod": "3007",
+     "aciklama": "Aşağıdaki önlisans programlarından birinden mezun olmak."
+    },
+    {
+     "kod": "1106",
+     "aciklama": "Anestezi"
+    },
+    {
+     "kod": "6107",
+     "aciklama": "Anestezi Teknikerliği"
+    }
+   ],
+   "sinif": "Sözleşmeli",
+   "sinif_kod": null,
+   "derece": null
+  },
+  {
+   "kadro_kodu": "217729617",
+   "kadro_guid": "b6bb0c2c-ccaf-ea11-80f7-a0369f7d1486",
+   "kurum": "T.C. Sağlık Bakanlığı Medeniyet Üniversitesi Göztepe Eğitim ve Araştırma Hastanesi",
+   "unvan": "Sağlık Teknikeri (Anestezi)",
+   "il": "İstanbul",
+   "kontenjan": 10,
+   "bos_kadro": 10,
+   "min_puan": 81.855,
+   "max_puan": 82.816,
+   "ogrenim": "Onlisans",
+   "nitelikler": [
+    {
+     "kod": "3007",
+     "aciklama": "Aşağıdaki önlisans programlarından birinden mezun olmak."
+    },
+    {
+     "kod": "1106",
+     "aciklama": "Anestezi"
+    },
+    {
+     "kod": "6107",
+     "aciklama": "Anestezi Teknikerliği"
+    }
+   ],
+   "sinif": "Sözleşmeli",
+   "sinif_kod": null,
+   "derece": null
+  },
+  {
+   "kadro_kodu": "234570124",
+   "kadro_guid": "c2bb0c2c-ccaf-ea11-80f7-a0369f7d1486",
+   "kurum": "T.C. Sağlık Bakanlığı Sbü İstanbul Dr. Sadi Konuk Eğitim ve Araştırma Hastanesi",
+   "unvan": "Sağlık Teknikeri (Anestezi)",
+   "il": "İstanbul",
+   "kontenjan": 34,
+   "bos_kadro": 34,
+   "min_puan": 81.671,
+   "max_puan": 90.389,
+   "ogrenim": "Onlisans",
+   "nitelikler": [
+    {
+     "kod": "3007",
+     "aciklama": "Aşağıdaki önlisans programlarından birinden mezun olmak."
+    },
+    {
+     "kod": "1106",
+     "aciklama": "Anestezi"
+    },
+    {
+     "kod": "6107",
+     "aciklama": "Anestezi Teknikerliği"
+    }
+   ],
+   "sinif": "Sözleşmeli",
+   "sinif_kod": null,
+   "derece": null
+  },
+  {
+   "kadro_kodu": "263192112",
+   "kadro_guid": "d0bb0c2c-ccaf-ea11-80f7-a0369f7d1486",
+   "kurum": "T.C. Sağlık Bakanlığı Sancaktepe Şehit Prof. Dr. İlhan Varank Eğitim ve Araştırma Hastanesi",
+   "unvan": "Sağlık Teknikeri (Anestezi)",
+   "il": "İstanbul",
+   "kontenjan": 51,
+   "bos_kadro": 51,
+   "min_puan": 81.604,
+   "max_puan": 84.12,
+   "ogrenim": "Onlisans",
+   "nitelikler": [
+    {
+     "kod": "3007",
+     "aciklama": "Aşağıdaki önlisans programlarından birinden mezun olmak."
+    },
+    {
+     "kod": "1106",
+     "aciklama": "Anestezi"
+    },
+    {
+     "kod": "6107",
+     "aciklama": "Anestezi Teknikerliği"
+    }
+   ],
+   "sinif": "Sözleşmeli",
+   "sinif_kod": null,
+   "derece": null
+  },
+  {
+   "kadro_kodu": "239523621",
+   "kadro_guid": "cabb0c2c-ccaf-ea11-80f7-a0369f7d1486",
+   "kurum": "T.C. Sağlık Bakanlığı Marmara Üniversitesi Pendik Eğitim ve Araştırma Hastanesi",
+   "unvan": "Sağlık Teknikeri (Diyaliz)",
+   "il": "İstanbul",
+   "kontenjan": 1,
+   "bos_kadro": 1,
+   "min_puan": 81.487,
+   "max_puan": 81.487,
+   "ogrenim": "Onlisans",
+   "nitelikler": [
+    {
+     "kod": "3057",
+     "aciklama": "Aşağıdaki önlisans programlarından birinden mezun olmak."
+    },
+    {
+     "kod": "1147",
+     "aciklama": "Diyaliz"
+    }
+   ],
+   "sinif": "Sözleşmeli",
+   "sinif_kod": null,
+   "derece": null
+  },
+  {
+   "kadro_kodu": "239523625",
+   "kadro_guid": "cebb0c2c-ccaf-ea11-80f7-a0369f7d1486",
+   "kurum": "T.C. Sağlık Bakanlığı Marmara Üniversitesi Pendik Eğitim ve Araştırma Hastanesi",
+   "unvan": "Sağlık Teknikeri (Röntgen)",
+   "il": "İstanbul",
+   "kontenjan": 6,
+   "bos_kadro": 6,
+   "min_puan": 81.447,
+   "max_puan": 81.633,
+   "ogrenim": "Onlisans",
+   "nitelikler": [
+    {
+     "kod": "3037",
+     "aciklama": "Aşağıdaki önlisans programlarından birinden mezun olmak."
+    },
+    {
+     "kod": "1281",
+     "aciklama": "Radyoloji"
+    },
+    {
+     "kod": "9086",
+     "aciklama": "Tıbbi Görüntüleme Teknikleri"
+    }
+   ],
+   "sinif": "Sözleşmeli",
+   "sinif_kod": null,
+   "derece": null
+  },
+  {
+   "kadro_kodu": "233180111",
+   "kadro_guid": "c0bb0c2c-ccaf-ea11-80f7-a0369f7d1486",
+   "kurum": "T.C. Sağlık Bakanlığı Sbü İstanbul Yedikule Göğüs Hastalıkları ve Göğüs Cerrahisi Eah",
+   "unvan": "Sağlık Teknikeri (Röntgen)",
+   "il": "İstanbul",
+   "kontenjan": 5,
+   "bos_kadro": 5,
+   "min_puan": 81.426,
+   "max_puan": 81.588,
+   "ogrenim": "Onlisans",
+   "nitelikler": [
+    {
+     "kod": "3037",
+     "aciklama": "Aşağıdaki önlisans programlarından birinden mezun olmak."
+    },
+    {
+     "kod": "1281",
+     "aciklama": "Radyoloji"
+    },
+    {
+     "kod": "9086",
+     "aciklama": "Tıbbi Görüntüleme Teknikleri"
+    }
+   ],
+   "sinif": "Sözleşmeli",
+   "sinif_kod": null,
+   "derece": null
+  },
+  {
+   "kadro_kodu": "217729622",
+   "kadro_guid": "bbbb0c2c-ccaf-ea11-80f7-a0369f7d1486",
+   "kurum": "T.C. Sağlık Bakanlığı Medeniyet Üniversitesi Göztepe Eğitim ve Araştırma Hastanesi",
+   "unvan": "Sağlık Teknikeri (Röntgen)",
+   "il": "İstanbul",
+   "kontenjan": 9,
+   "bos_kadro": 9,
+   "min_puan": 81.416,
+   "max_puan": 82.513,
+   "ogrenim": "Onlisans",
+   "nitelikler": [
+    {
+     "kod": "3037",
+     "aciklama": "Aşağıdaki önlisans programlarından birinden mezun olmak."
+    },
+    {
+     "kod": "1281",
+     "aciklama": "Radyoloji"
+    },
+    {
+     "kod": "9086",
+     "aciklama": "Tıbbi Görüntüleme Teknikleri"
+    }
+   ],
+   "sinif": "Sözleşmeli",
+   "sinif_kod": null,
+   "derece": null
+  },
+  {
+   "kadro_kodu": "263192116",
+   "kadro_guid": "d4bb0c2c-ccaf-ea11-80f7-a0369f7d1486",
+   "kurum": "T.C. Sağlık Bakanlığı Sancaktepe Şehit Prof. Dr. İlhan Varank Eğitim ve Araştırma Hastanesi",
+   "unvan": "Sağlık Teknikeri (Diyaliz)",
+   "il": "İstanbul",
+   "kontenjan": 5,
+   "bos_kadro": 5,
+   "min_puan": 81.376,
+   "max_puan": 81.624,
+   "ogrenim": "Onlisans",
+   "nitelikler": [
+    {
+     "kod": "3057",
+     "aciklama": "Aşağıdaki önlisans programlarından birinden mezun olmak."
+    },
+    {
+     "kod": "1147",
+     "aciklama": "Diyaliz"
+    }
+   ],
+   "sinif": "Sözleşmeli",
+   "sinif_kod": null,
+   "derece": null
+  },
+  {
+   "kadro_kodu": "217729618",
+   "kadro_guid": "b7bb0c2c-ccaf-ea11-80f7-a0369f7d1486",
+   "kurum": "T.C. Sağlık Bakanlığı Medeniyet Üniversitesi Göztepe Eğitim ve Araştırma Hastanesi",
+   "unvan": "Sağlık Teknikeri (Diyaliz)",
+   "il": "İstanbul",
+   "kontenjan": 5,
+   "bos_kadro": 5,
+   "min_puan": 81.356,
+   "max_puan": 82.201,
+   "ogrenim": "Onlisans",
+   "nitelikler": [
+    {
+     "kod": "3057",
+     "aciklama": "Aşağıdaki önlisans programlarından birinden mezun olmak."
+    },
+    {
+     "kod": "1147",
+     "aciklama": "Diyaliz"
+    }
+   ],
+   "sinif": "Sözleşmeli",
+   "sinif_kod": null,
+   "derece": null
+  },
+  {
+   "kadro_kodu": "234570128",
+   "kadro_guid": "c6bb0c2c-ccaf-ea11-80f7-a0369f7d1486",
+   "kurum": "T.C. Sağlık Bakanlığı Sbü İstanbul Dr. Sadi Konuk Eğitim ve Araştırma Hastanesi",
+   "unvan": "Sağlık Teknikeri (Diyaliz)",
+   "il": "İstanbul",
+   "kontenjan": 6,
+   "bos_kadro": 6,
+   "min_puan": 81.349,
+   "max_puan": 81.847,
+   "ogrenim": "Onlisans",
+   "nitelikler": [
+    {
+     "kod": "3057",
+     "aciklama": "Aşağıdaki önlisans programlarından birinden mezun olmak."
+    },
+    {
+     "kod": "1147",
+     "aciklama": "Diyaliz"
+    }
+   ],
+   "sinif": "Sözleşmeli",
+   "sinif_kod": null,
+   "derece": null
+  },
+  {
+   "kadro_kodu": "233180110",
+   "kadro_guid": "bfbb0c2c-ccaf-ea11-80f7-a0369f7d1486",
+   "kurum": "T.C. Sağlık Bakanlığı Sbü İstanbul Yedikule Göğüs Hastalıkları ve Göğüs Cerrahisi Eah",
+   "unvan": "Sağlık Teknikeri (Patolojik Anatomi)",
+   "il": "İstanbul",
+   "kontenjan": 1,
+   "bos_kadro": 1,
+   "min_puan": 81.221,
+   "max_puan": 81.221,
+   "ogrenim": "Onlisans",
+   "nitelikler": [
+    {
+     "kod": "3025",
+     "aciklama": "Aşağıdaki önlisans programlarından birinden mezun olmak."
+    },
+    {
+     "kod": "1267",
+     "aciklama": "Patoloji Laboratuvar"
+    },
+    {
+     "kod": "9088",
+     "aciklama": "Patoloji Laboratuvar Teknikleri"
+    }
+   ],
+   "sinif": "Sözleşmeli",
+   "sinif_kod": null,
+   "derece": null
+  },
+  {
+   "kadro_kodu": "239523624",
+   "kadro_guid": "cdbb0c2c-ccaf-ea11-80f7-a0369f7d1486",
+   "kurum": "T.C. Sağlık Bakanlığı Marmara Üniversitesi Pendik Eğitim ve Araştırma Hastanesi",
+   "unvan": "Sağlık Teknikeri (Patolojik Anatomi)",
+   "il": "İstanbul",
+   "kontenjan": 1,
+   "bos_kadro": 1,
+   "min_puan": 81.173,
+   "max_puan": 81.173,
+   "ogrenim": "Onlisans",
+   "nitelikler": [
+    {
+     "kod": "3025",
+     "aciklama": "Aşağıdaki önlisans programlarından birinden mezun olmak."
+    },
+    {
+     "kod": "1267",
+     "aciklama": "Patoloji Laboratuvar"
+    },
+    {
+     "kod": "9088",
+     "aciklama": "Patoloji Laboratuvar Teknikleri"
+    }
+   ],
+   "sinif": "Sözleşmeli",
+   "sinif_kod": null,
+   "derece": null
+  },
+  {
+   "kadro_kodu": "239523623",
+   "kadro_guid": "ccbb0c2c-ccaf-ea11-80f7-a0369f7d1486",
+   "kurum": "T.C. Sağlık Bakanlığı Marmara Üniversitesi Pendik Eğitim ve Araştırma Hastanesi",
+   "unvan": "Sağlık Teknikeri (Laboratuvar)",
+   "il": "İstanbul",
+   "kontenjan": 5,
+   "bos_kadro": 5,
+   "min_puan": 81.078,
+   "max_puan": 86.867,
+   "ogrenim": "Onlisans",
+   "nitelikler": [
+    {
+     "kod": "3023",
+     "aciklama": "Aşağıdaki önlisans programlarından birinden mezun olmak."
+    },
+    {
+     "kod": "1330",
+     "aciklama": "Tıbbi Laboratuvar"
+    },
+    {
+     "kod": "8557",
+     "aciklama": "Sağlık Laboratuvarı"
+    },
+    {
+     "kod": "9083",
+     "aciklama": "Tıbbi Laboratuar Teknikleri / Tıbbi Laboratuvar Teknikleri"
+    }
+   ],
+   "sinif": "Sözleşmeli",
+   "sinif_kod": null,
+   "derece": null
+  },
+  {
+   "kadro_kodu": "234570130",
+   "kadro_guid": "c8bb0c2c-ccaf-ea11-80f7-a0369f7d1486",
+   "kurum": "T.C. Sağlık Bakanlığı Sbü İstanbul Dr. Sadi Konuk Eğitim ve Araştırma Hastanesi",
+   "unvan": "Sağlık Teknikeri (Patolojik Anatomi)",
+   "il": "İstanbul",
+   "kontenjan": 4,
+   "bos_kadro": 4,
+   "min_puan": 80.997,
+   "max_puan": 81.375,
+   "ogrenim": "Onlisans",
+   "nitelikler": [
+    {
+     "kod": "3025",
+     "aciklama": "Aşağıdaki önlisans programlarından birinden mezun olmak."
+    },
+    {
+     "kod": "1267",
+     "aciklama": "Patoloji Laboratuvar"
+    },
+    {
+     "kod": "9088",
+     "aciklama": "Patoloji Laboratuvar Teknikleri"
+    }
+   ],
+   "sinif": "Sözleşmeli",
+   "sinif_kod": null,
+   "derece": null
+  },
+  {
+   "kadro_kodu": "263192114",
+   "kadro_guid": "d2bb0c2c-ccaf-ea11-80f7-a0369f7d1486",
+   "kurum": "T.C. Sağlık Bakanlığı Sancaktepe Şehit Prof. Dr. İlhan Varank Eğitim ve Araştırma Hastanesi",
+   "unvan": "Sağlık Teknikeri (Röntgen)",
+   "il": "İstanbul",
+   "kontenjan": 83,
+   "bos_kadro": 83,
+   "min_puan": 80.853,
+   "max_puan": 86.152,
+   "ogrenim": "Onlisans",
+   "nitelikler": [
+    {
+     "kod": "3037",
+     "aciklama": "Aşağıdaki önlisans programlarından birinden mezun olmak."
+    },
+    {
+     "kod": "1281",
+     "aciklama": "Radyoloji"
+    },
+    {
+     "kod": "9086",
+     "aciklama": "Tıbbi Görüntüleme Teknikleri"
+    }
+   ],
+   "sinif": "Sözleşmeli",
+   "sinif_kod": null,
+   "derece": null
+  },
+  {
+   "kadro_kodu": "234570126",
+   "kadro_guid": "c4bb0c2c-ccaf-ea11-80f7-a0369f7d1486",
+   "kurum": "T.C. Sağlık Bakanlığı Sbü İstanbul Dr. Sadi Konuk Eğitim ve Araştırma Hastanesi",
+   "unvan": "Sağlık Teknikeri (Röntgen)",
+   "il": "İstanbul",
+   "kontenjan": 72,
+   "bos_kadro": 72,
+   "min_puan": 80.836,
+   "max_puan": 84.99,
+   "ogrenim": "Onlisans",
+   "nitelikler": [
+    {
+     "kod": "3037",
+     "aciklama": "Aşağıdaki önlisans programlarından birinden mezun olmak."
+    },
+    {
+     "kod": "1281",
+     "aciklama": "Radyoloji"
+    },
+    {
+     "kod": "9086",
+     "aciklama": "Tıbbi Görüntüleme Teknikleri"
+    }
+   ],
+   "sinif": "Sözleşmeli",
+   "sinif_kod": null,
+   "derece": null
+  },
+  {
+   "kadro_kodu": "217729621",
+   "kadro_guid": "babb0c2c-ccaf-ea11-80f7-a0369f7d1486",
+   "kurum": "T.C. Sağlık Bakanlığı Medeniyet Üniversitesi Göztepe Eğitim ve Araştırma Hastanesi",
+   "unvan": "Sağlık Teknikeri (Patolojik Anatomi)",
+   "il": "İstanbul",
+   "kontenjan": 3,
+   "bos_kadro": 3,
+   "min_puan": 80.732,
+   "max_puan": 80.93,
+   "ogrenim": "Onlisans",
+   "nitelikler": [
+    {
+     "kod": "3025",
+     "aciklama": "Aşağıdaki önlisans programlarından birinden mezun olmak."
+    },
+    {
+     "kod": "1267",
+     "aciklama": "Patoloji Laboratuvar"
+    },
+    {
+     "kod": "9088",
+     "aciklama": "Patoloji Laboratuvar Teknikleri"
+    }
+   ],
+   "sinif": "Sözleşmeli",
+   "sinif_kod": null,
+   "derece": null
+  },
+  {
+   "kadro_kodu": "263192118",
+   "kadro_guid": "d6bb0c2c-ccaf-ea11-80f7-a0369f7d1486",
+   "kurum": "T.C. Sağlık Bakanlığı Sancaktepe Şehit Prof. Dr. İlhan Varank Eğitim ve Araştırma Hastanesi",
+   "unvan": "Sağlık Teknikeri (Patolojik Anatomi)",
+   "il": "İstanbul",
+   "kontenjan": 5,
+   "bos_kadro": 5,
+   "min_puan": 80.689,
+   "max_puan": 81.201,
+   "ogrenim": "Onlisans",
+   "nitelikler": [
+    {
+     "kod": "3025",
+     "aciklama": "Aşağıdaki önlisans programlarından birinden mezun olmak."
+    },
+    {
+     "kod": "1267",
+     "aciklama": "Patoloji Laboratuvar"
+    },
+    {
+     "kod": "9088",
+     "aciklama": "Patoloji Laboratuvar Teknikleri"
+    }
+   ],
+   "sinif": "Sözleşmeli",
+   "sinif_kod": null,
+   "derece": null
+  },
+  {
+   "kadro_kodu": "217729620",
+   "kadro_guid": "b9bb0c2c-ccaf-ea11-80f7-a0369f7d1486",
+   "kurum": "T.C. Sağlık Bakanlığı Medeniyet Üniversitesi Göztepe Eğitim ve Araştırma Hastanesi",
+   "unvan": "Sağlık Teknikeri (Laboratuvar)",
+   "il": "İstanbul",
+   "kontenjan": 8,
+   "bos_kadro": 8,
+   "min_puan": 80.424,
+   "max_puan": 81.812,
+   "ogrenim": "Onlisans",
+   "nitelikler": [
+    {
+     "kod": "3023",
+     "aciklama": "Aşağıdaki önlisans programlarından birinden mezun olmak."
+    },
+    {
+     "kod": "1330",
+     "aciklama": "Tıbbi Laboratuvar"
+    },
+    {
+     "kod": "8557",
+     "aciklama": "Sağlık Laboratuvarı"
+    },
+    {
+     "kod": "9083",
+     "aciklama": "Tıbbi Laboratuar Teknikleri / Tıbbi Laboratuvar Teknikleri"
+    }
+   ],
+   "sinif": "Sözleşmeli",
+   "sinif_kod": null,
+   "derece": null
+  },
+  {
+   "kadro_kodu": "233180109",
+   "kadro_guid": "bebb0c2c-ccaf-ea11-80f7-a0369f7d1486",
+   "kurum": "T.C. Sağlık Bakanlığı Sbü İstanbul Yedikule Göğüs Hastalıkları ve Göğüs Cerrahisi Eah",
+   "unvan": "Sağlık Teknikeri (Laboratuvar)",
+   "il": "İstanbul",
+   "kontenjan": 4,
+   "bos_kadro": 4,
+   "min_puan": 80.36,
+   "max_puan": 80.619,
+   "ogrenim": "Onlisans",
+   "nitelikler": [
+    {
+     "kod": "3023",
+     "aciklama": "Aşağıdaki önlisans programlarından birinden mezun olmak."
+    },
+    {
+     "kod": "1330",
+     "aciklama": "Tıbbi Laboratuvar"
+    },
+    {
+     "kod": "8557",
+     "aciklama": "Sağlık Laboratuvarı"
+    },
+    {
+     "kod": "9083",
+     "aciklama": "Tıbbi Laboratuar Teknikleri / Tıbbi Laboratuvar Teknikleri"
+    }
+   ],
+   "sinif": "Sözleşmeli",
+   "sinif_kod": null,
+   "derece": null
+  },
+  {
+   "kadro_kodu": "263192117",
+   "kadro_guid": "d5bb0c2c-ccaf-ea11-80f7-a0369f7d1486",
+   "kurum": "T.C. Sağlık Bakanlığı Sancaktepe Şehit Prof. Dr. İlhan Varank Eğitim ve Araştırma Hastanesi",
+   "unvan": "Sağlık Teknikeri (Laboratuvar)",
+   "il": "İstanbul",
+   "kontenjan": 16,
+   "bos_kadro": 16,
+   "min_puan": 80.358,
+   "max_puan": 80.588,
+   "ogrenim": "Onlisans",
+   "nitelikler": [
+    {
+     "kod": "3023",
+     "aciklama": "Aşağıdaki önlisans programlarından birinden mezun olmak."
+    },
+    {
+     "kod": "1330",
+     "aciklama": "Tıbbi Laboratuvar"
+    },
+    {
+     "kod": "8557",
+     "aciklama": "Sağlık Laboratuvarı"
+    },
+    {
+     "kod": "9083",
+     "aciklama": "Tıbbi Laboratuar Teknikleri / Tıbbi Laboratuvar Teknikleri"
+    }
+   ],
+   "sinif": "Sözleşmeli",
+   "sinif_kod": null,
+   "derece": null
+  },
+  {
+   "kadro_kodu": "234570129",
+   "kadro_guid": "c7bb0c2c-ccaf-ea11-80f7-a0369f7d1486",
+   "kurum": "T.C. Sağlık Bakanlığı Sbü İstanbul Dr. Sadi Konuk Eğitim ve Araştırma Hastanesi",
+   "unvan": "Sağlık Teknikeri (Laboratuvar)",
+   "il": "İstanbul",
+   "kontenjan": 15,
+   "bos_kadro": 15,
+   "min_puan": 80.345,
+   "max_puan": 82.372,
+   "ogrenim": "Onlisans",
+   "nitelikler": [
+    {
+     "kod": "3023",
+     "aciklama": "Aşağıdaki önlisans programlarından birinden mezun olmak."
+    },
+    {
+     "kod": "1330",
+     "aciklama": "Tıbbi Laboratuvar"
+    },
+    {
+     "kod": "8557",
+     "aciklama": "Sağlık Laboratuvarı"
+    },
+    {
+     "kod": "9083",
+     "aciklama": "Tıbbi Laboratuar Teknikleri / Tıbbi Laboratuvar Teknikleri"
+    }
+   ],
+   "sinif": "Sözleşmeli",
+   "sinif_kod": null,
+   "derece": null
+  },
+  {
+   "kadro_kodu": "217729619",
+   "kadro_guid": "b8bb0c2c-ccaf-ea11-80f7-a0369f7d1486",
+   "kurum": "T.C. Sağlık Bakanlığı Medeniyet Üniversitesi Göztepe Eğitim ve Araştırma Hastanesi",
+   "unvan": "Sağlık Teknikeri (Eczane)",
+   "il": "İstanbul",
+   "kontenjan": 3,
+   "bos_kadro": 3,
+   "min_puan": 80.278,
+   "max_puan": 83.962,
+   "ogrenim": "Onlisans",
+   "nitelikler": [
+    {
+     "kod": "3008",
+     "aciklama": "Aşağıdaki önlisans programlarından birinden mezun olmak."
+    },
+    {
+     "kod": "4245",
+     "aciklama": "Eczane Teknikerliği"
+    },
+    {
+     "kod": "9087",
+     "aciklama": "Eczane Hizmetleri"
+    }
+   ],
+   "sinif": "Sözleşmeli",
+   "sinif_kod": null,
+   "derece": null
+  },
+  {
+   "kadro_kodu": "239523626",
+   "kadro_guid": "cfbb0c2c-ccaf-ea11-80f7-a0369f7d1486",
+   "kurum": "T.C. Sağlık Bakanlığı Marmara Üniversitesi Pendik Eğitim ve Araştırma Hastanesi",
+   "unvan": "Sağlık Teknikeri (Tıbbi Sekreter)",
+   "il": "İstanbul",
+   "kontenjan": 17,
+   "bos_kadro": 17,
+   "min_puan": 78.538,
+   "max_puan": 80.715,
+   "ogrenim": "Onlisans",
+   "nitelikler": [
+    {
+     "kod": "3047",
+     "aciklama": "Aşağıdaki önlisans programlarından birinden mezun olmak."
+    },
+    {
+     "kod": "1329",
+     "aciklama": "Tıbbi Dokümantasyon ve Sekreterlik"
+    }
+   ],
+   "sinif": "Sözleşmeli",
+   "sinif_kod": null,
+   "derece": null
+  },
+  {
+   "kadro_kodu": "217729623",
+   "kadro_guid": "bcbb0c2c-ccaf-ea11-80f7-a0369f7d1486",
+   "kurum": "T.C. Sağlık Bakanlığı Medeniyet Üniversitesi Göztepe Eğitim ve Araştırma Hastanesi",
+   "unvan": "Sağlık Teknikeri (Tıbbi Sekreter)",
+   "il": "İstanbul",
+   "kontenjan": 13,
+   "bos_kadro": 13,
+   "min_puan": 78.478,
+   "max_puan": 80.348,
+   "ogrenim": "Onlisans",
+   "nitelikler": [
+    {
+     "kod": "3047",
+     "aciklama": "Aşağıdaki önlisans programlarından birinden mezun olmak."
+    },
+    {
+     "kod": "1329",
+     "aciklama": "Tıbbi Dokümantasyon ve Sekreterlik"
+    }
+   ],
+   "sinif": "Sözleşmeli",
+   "sinif_kod": null,
+   "derece": null
+  },
+  {
+   "kadro_kodu": "233180112",
+   "kadro_guid": "c1bb0c2c-ccaf-ea11-80f7-a0369f7d1486",
+   "kurum": "T.C. Sağlık Bakanlığı Sbü İstanbul Yedikule Göğüs Hastalıkları ve Göğüs Cerrahisi Eah",
+   "unvan": "Sağlık Teknikeri (Tıbbi Sekreter)",
+   "il": "İstanbul",
+   "kontenjan": 7,
+   "bos_kadro": 7,
+   "min_puan": 78.44,
+   "max_puan": 79.347,
+   "ogrenim": "Onlisans",
+   "nitelikler": [
+    {
+     "kod": "3047",
+     "aciklama": "Aşağıdaki önlisans programlarından birinden mezun olmak."
+    },
+    {
+     "kod": "1329",
+     "aciklama": "Tıbbi Dokümantasyon ve Sekreterlik"
+    }
+   ],
+   "sinif": "Sözleşmeli",
+   "sinif_kod": null,
+   "derece": null
+  },
+  {
+   "kadro_kodu": "263192115",
+   "kadro_guid": "d3bb0c2c-ccaf-ea11-80f7-a0369f7d1486",
+   "kurum": "T.C. Sağlık Bakanlığı Sancaktepe Şehit Prof. Dr. İlhan Varank Eğitim ve Araştırma Hastanesi",
+   "unvan": "Sağlık Teknikeri (Tıbbi Sekreter)",
+   "il": "İstanbul",
+   "kontenjan": 58,
+   "bos_kadro": 58,
+   "min_puan": 78.23,
+   "max_puan": 84.737,
+   "ogrenim": "Onlisans",
+   "nitelikler": [
+    {
+     "kod": "3047",
+     "aciklama": "Aşağıdaki önlisans programlarından birinden mezun olmak."
+    },
+    {
+     "kod": "1329",
+     "aciklama": "Tıbbi Dokümantasyon ve Sekreterlik"
+    }
+   ],
+   "sinif": "Sözleşmeli",
+   "sinif_kod": null,
+   "derece": null
+  },
+  {
+   "kadro_kodu": "227911101",
+   "kadro_guid": "bdbb0c2c-ccaf-ea11-80f7-a0369f7d1486",
+   "kurum": "T.C. Sağlık Bakanlığı Başakşehir Çam ve Sakura Şehir Hastanesi",
+   "unvan": "Sağlık Teknikeri (Tıbbi Sekreter)",
+   "il": "İstanbul",
+   "kontenjan": 80,
+   "bos_kadro": 80,
+   "min_puan": 78.157,
+   "max_puan": 81.869,
+   "ogrenim": "Onlisans",
+   "nitelikler": [
+    {
+     "kod": "3047",
+     "aciklama": "Aşağıdaki önlisans programlarından birinden mezun olmak."
+    },
+    {
+     "kod": "1329",
+     "aciklama": "Tıbbi Dokümantasyon ve Sekreterlik"
+    }
+   ],
+   "sinif": "Sözleşmeli",
+   "sinif_kod": null,
+   "derece": null
+  },
+  {
+   "kadro_kodu": "234570127",
+   "kadro_guid": "c5bb0c2c-ccaf-ea11-80f7-a0369f7d1486",
+   "kurum": "T.C. Sağlık Bakanlığı Sbü İstanbul Dr. Sadi Konuk Eğitim ve Araştırma Hastanesi",
+   "unvan": "Sağlık Teknikeri (Tıbbi Sekreter)",
+   "il": "İstanbul",
+   "kontenjan": 53,
+   "bos_kadro": 53,
+   "min_puan": 78.154,
+   "max_puan": 83.15,
+   "ogrenim": "Onlisans",
+   "nitelikler": [
+    {
+     "kod": "3047",
+     "aciklama": "Aşağıdaki önlisans programlarından birinden mezun olmak."
+    },
+    {
+     "kod": "1329",
+     "aciklama": "Tıbbi Dokümantasyon ve Sekreterlik"
+    }
+   ],
+   "sinif": "Sözleşmeli",
+   "sinif_kod": null,
+   "derece": null
+  },
+  {
+   "kadro_kodu": "263192113",
+   "kadro_guid": "d1bb0c2c-ccaf-ea11-80f7-a0369f7d1486",
+   "kurum": "T.C. Sağlık Bakanlığı Sancaktepe Şehit Prof. Dr. İlhan Varank Eğitim ve Araştırma Hastanesi",
+   "unvan": "Sağlık Teknikeri (Eczane)",
+   "il": "İstanbul",
+   "kontenjan": 10,
+   "bos_kadro": 10,
+   "min_puan": 75.655,
+   "max_puan": 85.303,
+   "ogrenim": "Onlisans",
+   "nitelikler": [
+    {
+     "kod": "3008",
+     "aciklama": "Aşağıdaki önlisans programlarından birinden mezun olmak."
+    },
+    {
+     "kod": "4245",
+     "aciklama": "Eczane Teknikerliği"
+    },
+    {
+     "kod": "9087",
+     "aciklama": "Eczane Hizmetleri"
+    }
+   ],
+   "sinif": "Sözleşmeli",
+   "sinif_kod": null,
+   "derece": null
+  },
+  {
+   "kadro_kodu": "234570125",
+   "kadro_guid": "c3bb0c2c-ccaf-ea11-80f7-a0369f7d1486",
+   "kurum": "T.C. Sağlık Bakanlığı Sbü İstanbul Dr. Sadi Konuk Eğitim ve Araştırma Hastanesi",
+   "unvan": "Sağlık Teknikeri (Eczane)",
+   "il": "İstanbul",
+   "kontenjan": 10,
+   "bos_kadro": 10,
+   "min_puan": 75.548,
+   "max_puan": 80.746,
+   "ogrenim": "Onlisans",
+   "nitelikler": [
+    {
+     "kod": "3008",
+     "aciklama": "Aşağıdaki önlisans programlarından birinden mezun olmak."
+    },
+    {
+     "kod": "4245",
+     "aciklama": "Eczane Teknikerliği"
+    },
+    {
+     "kod": "9087",
+     "aciklama": "Eczane Hizmetleri"
+    }
+   ],
+   "sinif": "Sözleşmeli",
+   "sinif_kod": null,
+   "derece": null
+  },
+  {
+   "kadro_kodu": "334570121",
+   "kadro_guid": "debb0c2c-ccaf-ea11-80f7-a0369f7d1486",
+   "kurum": "T.C. Sağlık Bakanlığı Sbü İstanbul Dr. Sadi Konuk Eğitim ve Araştırma Hastanesi",
+   "unvan": "Diyetisyen",
+   "il": "İstanbul",
+   "kontenjan": 2,
+   "bos_kadro": 2,
+   "min_puan": 92.555,
+   "max_puan": 95.115,
+   "ogrenim": "Lisans",
+   "nitelikler": [
+    {
+     "kod": "4797",
+     "aciklama": "Aşağıdaki lisans programlarından birinden mezun olmak."
+    },
+    {
+     "kod": "3122",
+     "aciklama": "Beslenme ve Diyetetik"
+    }
+   ],
+   "sinif": "Sözleşmeli",
+   "sinif_kod": null,
+   "derece": null
+  },
+  {
+   "kadro_kodu": "317729617",
+   "kadro_guid": "d7bb0c2c-ccaf-ea11-80f7-a0369f7d1486",
+   "kurum": "T.C. Sağlık Bakanlığı Medeniyet Üniversitesi Göztepe Eğitim ve Araştırma Hastanesi",
+   "unvan": "Diyetisyen",
+   "il": "İstanbul",
+   "kontenjan": 1,
+   "bos_kadro": 1,
+   "min_puan": 89.758,
+   "max_puan": 89.758,
+   "ogrenim": "Lisans",
+   "nitelikler": [
+    {
+     "kod": "4797",
+     "aciklama": "Aşağıdaki lisans programlarından birinden mezun olmak."
+    },
+    {
+     "kod": "3122",
+     "aciklama": "Beslenme ve Diyetetik"
+    }
+   ],
+   "sinif": "Sözleşmeli",
+   "sinif_kod": null,
+   "derece": null
+  },
+  {
+   "kadro_kodu": "339523619",
+   "kadro_guid": "e2bb0c2c-ccaf-ea11-80f7-a0369f7d1486",
+   "kurum": "T.C. Sağlık Bakanlığı Marmara Üniversitesi Pendik Eğitim ve Araştırma Hastanesi",
+   "unvan": "Diyetisyen",
+   "il": "İstanbul",
+   "kontenjan": 3,
+   "bos_kadro": 3,
+   "min_puan": 89.617,
+   "max_puan": 89.746,
+   "ogrenim": "Lisans",
+   "nitelikler": [
+    {
+     "kod": "4797",
+     "aciklama": "Aşağıdaki lisans programlarından birinden mezun olmak."
+    },
+    {
+     "kod": "3122",
+     "aciklama": "Beslenme ve Diyetetik"
+    }
+   ],
+   "sinif": "Sözleşmeli",
+   "sinif_kod": null,
+   "derece": null
+  },
+  {
+   "kadro_kodu": "317729618",
+   "kadro_guid": "d8bb0c2c-ccaf-ea11-80f7-a0369f7d1486",
+   "kurum": "T.C. Sağlık Bakanlığı Medeniyet Üniversitesi Göztepe Eğitim ve Araştırma Hastanesi",
+   "unvan": "Fizyoterapist",
+   "il": "İstanbul",
+   "kontenjan": 1,
+   "bos_kadro": 1,
+   "min_puan": 89.493,
+   "max_puan": 89.493,
+   "ogrenim": "Lisans",
+   "nitelikler": [
+    {
+     "kod": "4587",
+     "aciklama": "Aşağıdaki lisans programlarından birinden mezun olmak."
+    },
+    {
+     "kod": "3185",
+     "aciklama": "Fizik Tedavi ve Rehabilitasyon"
+    },
+    {
+     "kod": "8344",
+     "aciklama": "Fizyoterapi ve Rehabilitasyon"
+    }
+   ],
+   "sinif": "Sözleşmeli",
+   "sinif_kod": null,
+   "derece": null
+  },
+  {
+   "kadro_kodu": "363192113",
+   "kadro_guid": "e9bb0c2c-ccaf-ea11-80f7-a0369f7d1486",
+   "kurum": "T.C. Sağlık Bakanlığı Sancaktepe Şehit Prof. Dr. İlhan Varank Eğitim ve Araştırma Hastanesi",
+   "unvan": "Diyetisyen",
+   "il": "İstanbul",
+   "kontenjan": 2,
+   "bos_kadro": 2,
+   "min_puan": 89.371,
+   "max_puan": 89.627,
+   "ogrenim": "Lisans",
+   "nitelikler": [
+    {
+     "kod": "4797",
+     "aciklama": "Aşağıdaki lisans programlarından birinden mezun olmak."
+    },
+    {
+     "kod": "3122",
+     "aciklama": "Beslenme ve Diyetetik"
+    }
+   ],
+   "sinif": "Sözleşmeli",
+   "sinif_kod": null,
+   "derece": null
+  },
+  {
+   "kadro_kodu": "334570122",
+   "kadro_guid": "dfbb0c2c-ccaf-ea11-80f7-a0369f7d1486",
+   "kurum": "T.C. Sağlık Bakanlığı Sbü İstanbul Dr. Sadi Konuk Eğitim ve Araştırma Hastanesi",
+   "unvan": "Fizyoterapist",
+   "il": "İstanbul",
+   "kontenjan": 2,
+   "bos_kadro": 2,
+   "min_puan": 88.414,
+   "max_puan": 92.69,
+   "ogrenim": "Lisans",
+   "nitelikler": [
+    {
+     "kod": "4587",
+     "aciklama": "Aşağıdaki lisans programlarından birinden mezun olmak."
+    },
+    {
+     "kod": "3185",
+     "aciklama": "Fizik Tedavi ve Rehabilitasyon"
+    },
+    {
+     "kod": "8344",
+     "aciklama": "Fizyoterapi ve Rehabilitasyon"
+    }
+   ],
+   "sinif": "Sözleşmeli",
+   "sinif_kod": null,
+   "derece": null
+  },
+  {
+   "kadro_kodu": "363192114",
+   "kadro_guid": "eabb0c2c-ccaf-ea11-80f7-a0369f7d1486",
+   "kurum": "T.C. Sağlık Bakanlığı Sancaktepe Şehit Prof. Dr. İlhan Varank Eğitim ve Araştırma Hastanesi",
+   "unvan": "Fizyoterapist",
+   "il": "İstanbul",
+   "kontenjan": 2,
+   "bos_kadro": 2,
+   "min_puan": 88.275,
+   "max_puan": 88.522,
+   "ogrenim": "Lisans",
+   "nitelikler": [
+    {
+     "kod": "4587",
+     "aciklama": "Aşağıdaki lisans programlarından birinden mezun olmak."
+    },
+    {
+     "kod": "3185",
+     "aciklama": "Fizik Tedavi ve Rehabilitasyon"
+    },
+    {
+     "kod": "8344",
+     "aciklama": "Fizyoterapi ve Rehabilitasyon"
+    }
+   ],
+   "sinif": "Sözleşmeli",
+   "sinif_kod": null,
+   "derece": null
+  },
+  {
+   "kadro_kodu": "339523621",
+   "kadro_guid": "e4bb0c2c-ccaf-ea11-80f7-a0369f7d1486",
+   "kurum": "T.C. Sağlık Bakanlığı Marmara Üniversitesi Pendik Eğitim ve Araştırma Hastanesi",
+   "unvan": "Fizyoterapist",
+   "il": "İstanbul",
+   "kontenjan": 3,
+   "bos_kadro": 3,
+   "min_puan": 88.159,
+   "max_puan": 88.386,
+   "ogrenim": "Lisans",
+   "nitelikler": [
+    {
+     "kod": "4587",
+     "aciklama": "Aşağıdaki lisans programlarından birinden mezun olmak."
+    },
+    {
+     "kod": "3185",
+     "aciklama": "Fizik Tedavi ve Rehabilitasyon"
+    },
+    {
+     "kod": "8344",
+     "aciklama": "Fizyoterapi ve Rehabilitasyon"
+    }
+   ],
+   "sinif": "Sözleşmeli",
+   "sinif_kod": null,
+   "derece": null
+  },
+  {
+   "kadro_kodu": "334570124",
+   "kadro_guid": "e1bb0c2c-ccaf-ea11-80f7-a0369f7d1486",
+   "kurum": "T.C. Sağlık Bakanlığı Sbü İstanbul Dr. Sadi Konuk Eğitim ve Araştırma Hastanesi",
+   "unvan": "Sosyal Çalışmacı",
+   "il": "İstanbul",
+   "kontenjan": 2,
+   "bos_kadro": 2,
+   "min_puan": 84.752,
+   "max_puan": 85.487,
+   "ogrenim": "Lisans",
+   "nitelikler": [
+    {
+     "kod": "4177",
+     "aciklama": "Aşağıdaki lisans programlarından birinden mezun olmak."
+    },
+    {
+     "kod": "6318",
+     "aciklama": "Sosyal Hizmetler / Sosyal Hizmet"
+    },
+    {
+     "kod": "9403",
+     "aciklama": "Sosyal Çalışmalar"
+    }
+   ],
+   "sinif": "Sözleşmeli",
+   "sinif_kod": null,
+   "derece": null
+  },
+  {
+   "kadro_kodu": "317729621",
+   "kadro_guid": "dbbb0c2c-ccaf-ea11-80f7-a0369f7d1486",
+   "kurum": "T.C. Sağlık Bakanlığı Medeniyet Üniversitesi Göztepe Eğitim ve Araştırma Hastanesi",
+   "unvan": "Sosyal Çalışmacı",
+   "il": "İstanbul",
+   "kontenjan": 1,
+   "bos_kadro": 1,
+   "min_puan": 84.63,
+   "max_puan": 84.63,
+   "ogrenim": "Lisans",
+   "nitelikler": [
+    {
+     "kod": "4177",
+     "aciklama": "Aşağıdaki lisans programlarından birinden mezun olmak."
+    },
+    {
+     "kod": "6318",
+     "aciklama": "Sosyal Hizmetler / Sosyal Hizmet"
+    },
+    {
+     "kod": "9403",
+     "aciklama": "Sosyal Çalışmalar"
+    }
+   ],
+   "sinif": "Sözleşmeli",
+   "sinif_kod": null,
+   "derece": null
+  },
+  {
+   "kadro_kodu": "339523624",
+   "kadro_guid": "e7bb0c2c-ccaf-ea11-80f7-a0369f7d1486",
+   "kurum": "T.C. Sağlık Bakanlığı Marmara Üniversitesi Pendik Eğitim ve Araştırma Hastanesi",
+   "unvan": "Sosyal Çalışmacı",
+   "il": "İstanbul",
+   "kontenjan": 3,
+   "bos_kadro": 3,
+   "min_puan": 84.626,
+   "max_puan": 84.983,
+   "ogrenim": "Lisans",
+   "nitelikler": [
+    {
+     "kod": "4177",
+     "aciklama": "Aşağıdaki lisans programlarından birinden mezun olmak."
+    },
+    {
+     "kod": "6318",
+     "aciklama": "Sosyal Hizmetler / Sosyal Hizmet"
+    },
+    {
+     "kod": "9403",
+     "aciklama": "Sosyal Çalışmalar"
+    }
+   ],
+   "sinif": "Sözleşmeli",
+   "sinif_kod": null,
+   "derece": null
+  },
+  {
+   "kadro_kodu": "363192116",
+   "kadro_guid": "ecbb0c2c-ccaf-ea11-80f7-a0369f7d1486",
+   "kurum": "T.C. Sağlık Bakanlığı Sancaktepe Şehit Prof. Dr. İlhan Varank Eğitim ve Araştırma Hastanesi",
+   "unvan": "Sosyal Çalışmacı",
+   "il": "İstanbul",
+   "kontenjan": 2,
+   "bos_kadro": 2,
+   "min_puan": 84.524,
+   "max_puan": 85.726,
+   "ogrenim": "Lisans",
+   "nitelikler": [
+    {
+     "kod": "4177",
+     "aciklama": "Aşağıdaki lisans programlarından birinden mezun olmak."
+    },
+    {
+     "kod": "6318",
+     "aciklama": "Sosyal Hizmetler / Sosyal Hizmet"
+    },
+    {
+     "kod": "9403",
+     "aciklama": "Sosyal Çalışmalar"
+    }
+   ],
+   "sinif": "Sözleşmeli",
+   "sinif_kod": null,
+   "derece": null
+  },
+  {
+   "kadro_kodu": "339523623",
+   "kadro_guid": "e6bb0c2c-ccaf-ea11-80f7-a0369f7d1486",
+   "kurum": "T.C. Sağlık Bakanlığı Marmara Üniversitesi Pendik Eğitim ve Araştırma Hastanesi",
+   "unvan": "Psikolog",
+   "il": "İstanbul",
+   "kontenjan": 3,
+   "bos_kadro": 3,
+   "min_puan": 84.267,
+   "max_puan": 87.179,
+   "ogrenim": "Lisans",
+   "nitelikler": [
+    {
+     "kod": "4131",
+     "aciklama": "Aşağıdaki lisans programlarından birinden mezun olmak."
+    },
+    {
+     "kod": "3286",
+     "aciklama": "Psikoloji"
+    }
+   ],
+   "sinif": "Sözleşmeli",
+   "sinif_kod": null,
+   "derece": null
+  },
+  {
+   "kadro_kodu": "317729620",
+   "kadro_guid": "dabb0c2c-ccaf-ea11-80f7-a0369f7d1486",
+   "kurum": "T.C. Sağlık Bakanlığı Medeniyet Üniversitesi Göztepe Eğitim ve Araştırma Hastanesi",
+   "unvan": "Psikolog",
+   "il": "İstanbul",
+   "kontenjan": 1,
+   "bos_kadro": 1,
+   "min_puan": 84.106,
+   "max_puan": 84.106,
+   "ogrenim": "Lisans",
+   "nitelikler": [
+    {
+     "kod": "4131",
+     "aciklama": "Aşağıdaki lisans programlarından birinden mezun olmak."
+    },
+    {
+     "kod": "3286",
+     "aciklama": "Psikoloji"
+    }
+   ],
+   "sinif": "Sözleşmeli",
+   "sinif_kod": null,
+   "derece": null
+  },
+  {
+   "kadro_kodu": "334570123",
+   "kadro_guid": "e0bb0c2c-ccaf-ea11-80f7-a0369f7d1486",
+   "kurum": "T.C. Sağlık Bakanlığı Sbü İstanbul Dr. Sadi Konuk Eğitim ve Araştırma Hastanesi",
+   "unvan": "Psikolog",
+   "il": "İstanbul",
+   "kontenjan": 2,
+   "bos_kadro": 2,
+   "min_puan": 82.429,
+   "max_puan": 83.16,
+   "ogrenim": "Lisans",
+   "nitelikler": [
+    {
+     "kod": "4131",
+     "aciklama": "Aşağıdaki lisans programlarından birinden mezun olmak."
+    },
+    {
+     "kod": "3286",
+     "aciklama": "Psikoloji"
+    }
+   ],
+   "sinif": "Sözleşmeli",
+   "sinif_kod": null,
+   "derece": null
+  },
+  {
+   "kadro_kodu": "363192115",
+   "kadro_guid": "ebbb0c2c-ccaf-ea11-80f7-a0369f7d1486",
+   "kurum": "T.C. Sağlık Bakanlığı Sancaktepe Şehit Prof. Dr. İlhan Varank Eğitim ve Araştırma Hastanesi",
+   "unvan": "Psikolog",
+   "il": "İstanbul",
+   "kontenjan": 2,
+   "bos_kadro": 2,
+   "min_puan": 82.186,
+   "max_puan": 82.292,
+   "ogrenim": "Lisans",
+   "nitelikler": [
+    {
+     "kod": "4131",
+     "aciklama": "Aşağıdaki lisans programlarından birinden mezun olmak."
+    },
+    {
+     "kod": "3286",
+     "aciklama": "Psikoloji"
+    }
+   ],
+   "sinif": "Sözleşmeli",
+   "sinif_kod": null,
+   "derece": null
+  },
+  {
+   "kadro_kodu": "333180114",
+   "kadro_guid": "dcbb0c2c-ccaf-ea11-80f7-a0369f7d1486",
+   "kurum": "T.C. Sağlık Bakanlığı Sbü İstanbul Yedikule Göğüs Hastalıkları ve Göğüs Cerrahisi Eah",
+   "unvan": "Hemşire",
+   "il": "İstanbul",
+   "kontenjan": 19,
+   "bos_kadro": 19,
+   "min_puan": 69.848,
+   "max_puan": 76.111,
+   "ogrenim": "Lisans",
+   "nitelikler": [
+    {
+     "kod": "4605",
+     "aciklama": "Aşağıdaki lisans programlarından birinden mezun olmak."
+    },
+    {
+     "kod": "3204",
+     "aciklama": "Hemşirelik"
+    },
+    {
+     "kod": "3205",
+     "aciklama": "Hemşirelik ve Sağlık Hizmetleri"
+    },
+    {
+     "kod": "3297",
+     "aciklama": "Sağlık Memurluğu"
+    }
+   ],
+   "sinif": "Sözleşmeli",
+   "sinif_kod": null,
+   "derece": null
+  },
+  {
+   "kadro_kodu": "339523622",
+   "kadro_guid": "e5bb0c2c-ccaf-ea11-80f7-a0369f7d1486",
+   "kurum": "T.C. Sağlık Bakanlığı Marmara Üniversitesi Pendik Eğitim ve Araştırma Hastanesi",
+   "unvan": "Hemşire",
+   "il": "İstanbul",
+   "kontenjan": 211,
+   "bos_kadro": 211,
+   "min_puan": 66.168,
+   "max_puan": 76.68,
+   "ogrenim": "Lisans",
+   "nitelikler": [
+    {
+     "kod": "4605",
+     "aciklama": "Aşağıdaki lisans programlarından birinden mezun olmak."
+    },
+    {
+     "kod": "3204",
+     "aciklama": "Hemşirelik"
+    },
+    {
+     "kod": "3205",
+     "aciklama": "Hemşirelik ve Sağlık Hizmetleri"
+    },
+    {
+     "kod": "3297",
+     "aciklama": "Sağlık Memurluğu"
+    }
+   ],
+   "sinif": "Sözleşmeli",
+   "sinif_kod": null,
+   "derece": null
+  },
+  {
+   "kadro_kodu": "317729619",
+   "kadro_guid": "d9bb0c2c-ccaf-ea11-80f7-a0369f7d1486",
+   "kurum": "T.C. Sağlık Bakanlığı Medeniyet Üniversitesi Göztepe Eğitim ve Araştırma Hastanesi",
+   "unvan": "Hemşire",
+   "il": "İstanbul",
+   "kontenjan": 136,
+   "bos_kadro": 136,
+   "min_puan": 65.842,
+   "max_puan": 81.074,
+   "ogrenim": "Lisans",
+   "nitelikler": [
+    {
+     "kod": "4605",
+     "aciklama": "Aşağıdaki lisans programlarından birinden mezun olmak."
+    },
+    {
+     "kod": "3204",
+     "aciklama": "Hemşirelik"
+    },
+    {
+     "kod": "3205",
+     "aciklama": "Hemşirelik ve Sağlık Hizmetleri"
+    },
+    {
+     "kod": "3297",
+     "aciklama": "Sağlık Memurluğu"
+    }
+   ],
+   "sinif": "Sözleşmeli",
+   "sinif_kod": null,
+   "derece": null
+  },
+  {
+   "kadro_kodu": "334570120",
+   "kadro_guid": "ddbb0c2c-ccaf-ea11-80f7-a0369f7d1486",
+   "kurum": "T.C. Sağlık Bakanlığı Sbü İstanbul Dr. Sadi Konuk Eğitim ve Araştırma Hastanesi",
+   "unvan": "Hemşire",
+   "il": "İstanbul",
+   "kontenjan": 773,
+   "bos_kadro": 773,
+   "min_puan": 64.617,
+   "max_puan": 85.848,
+   "ogrenim": "Lisans",
+   "nitelikler": [
+    {
+     "kod": "4605",
+     "aciklama": "Aşağıdaki lisans programlarından birinden mezun olmak."
+    },
+    {
+     "kod": "3204",
+     "aciklama": "Hemşirelik"
+    },
+    {
+     "kod": "3205",
+     "aciklama": "Hemşirelik ve Sağlık Hizmetleri"
+    },
+    {
+     "kod": "3297",
+     "aciklama": "Sağlık Memurluğu"
+    }
+   ],
+   "sinif": "Sözleşmeli",
+   "sinif_kod": null,
+   "derece": null
+  },
+  {
+   "kadro_kodu": "363192112",
+   "kadro_guid": "e8bb0c2c-ccaf-ea11-80f7-a0369f7d1486",
+   "kurum": "T.C. Sağlık Bakanlığı Sancaktepe Şehit Prof. Dr. İlhan Varank Eğitim ve Araştırma Hastanesi",
+   "unvan": "Hemşire",
+   "il": "İstanbul",
+   "kontenjan": 790,
+   "bos_kadro": 790,
+   "min_puan": 64.484,
+   "max_puan": 73.624,
+   "ogrenim": "Lisans",
+   "nitelikler": [
+    {
+     "kod": "4605",
+     "aciklama": "Aşağıdaki lisans programlarından birinden mezun olmak."
+    },
+    {
+     "kod": "3204",
+     "aciklama": "Hemşirelik"
+    },
+    {
+     "kod": "3205",
+     "aciklama": "Hemşirelik ve Sağlık Hizmetleri"
+    },
+    {
+     "kod": "3297",
+     "aciklama": "Sağlık Memurluğu"
+    }
+   ],
+   "sinif": "Sözleşmeli",
+   "sinif_kod": null,
+   "derece": null
+  },
+  {
+   "kadro_kodu": "339523620",
+   "kadro_guid": "e3bb0c2c-ccaf-ea11-80f7-a0369f7d1486",
+   "kurum": "T.C. Sağlık Bakanlığı Marmara Üniversitesi Pendik Eğitim ve Araştırma Hastanesi",
+   "unvan": "Ebe",
+   "il": "İstanbul",
+   "kontenjan": 60,
+   "bos_kadro": 60,
+   "min_puan": 60.953,
+   "max_puan": 70.722,
+   "ogrenim": "Lisans",
+   "nitelikler": [
+    {
+     "kod": "4603",
+     "aciklama": "Aşağıdaki lisans programlarından birinden mezun olmak."
+    },
+    {
+     "kod": "3155",
+     "aciklama": "Ebelik"
+    }
+   ],
+   "sinif": "Sözleşmeli",
+   "sinif_kod": null,
+   "derece": null
+  }
+ ]
+}

@@ -1,0 +1,8514 @@
+{
+ "id": "2023-6",
+ "yil": "2023",
+ "donem": "6",
+ "baslik": "2023/6 KPSS Robotu",
+ "url": "https://kpss.memurlar.net/kpssrobotu/2023/6/",
+ "stats": {
+  "stated_kadro": 192,
+  "stated_kontenjan": 1392,
+  "stated_basvuran": null,
+  "stated_yerlesen": null
+ },
+ "branch_counts": {
+  "Ortaogretim": 69,
+  "Onlisans": 99,
+  "Lisans": 24
+ },
+ "scraped_kadro": 192,
+ "scraped_kontenjan": 1392,
+ "kadrolar": [
+  {
+   "kadro_kodu": "106010101",
+   "kadro_guid": "5cbe464d-5863-ee11-b15e-a0369f7d1d8e",
+   "kurum": "Sosyal Güvenlik Kurumu",
+   "unvan": "Destek Personeli (Temizlik)",
+   "il": "Adana",
+   "kontenjan": 1,
+   "bos_kadro": 0,
+   "min_puan": null,
+   "max_puan": null,
+   "ogrenim": "Ortaogretim",
+   "nitelikler": [
+    {
+     "kod": "2001",
+     "aciklama": "Herhangi bir ortaöğretim programından mezun olmak."
+    }
+   ],
+   "sinif": null,
+   "sinif_kod": null,
+   "derece": null
+  },
+  {
+   "kadro_kodu": "106010108",
+   "kadro_guid": "5dbe464d-5863-ee11-b15e-a0369f7d1d8e",
+   "kurum": "Sosyal Güvenlik Kurumu",
+   "unvan": "Destek Personeli (Aşçı)",
+   "il": "Adana",
+   "kontenjan": 1,
+   "bos_kadro": 0,
+   "min_puan": null,
+   "max_puan": null,
+   "ogrenim": "Ortaogretim",
+   "nitelikler": [
+    {
+     "kod": "2117",
+     "aciklama": "Aşağıdaki ortaöğretim programlarından birinden mezun olmak."
+    },
+    {
+     "kod": "6003",
+     "aciklama": "Aile ve Tüketici Hizmetleri - Beslenme ve Ev Yönetimi Dalı (Dal kod: 101)"
+    },
+    {
+     "kod": "6003",
+     "aciklama": "Aile ve Tüketici Hizmetleri - Ev Ekonomisi Dalı (Dal kod: 102)"
+    },
+    {
+     "kod": "6030",
+     "aciklama": "Konaklama ve Seyahat Hizmetleri - Turizm / Otelcilik ve Turizm Dalı (Dal kod: 101)"
+    },
+    {
+     "kod": "6057",
+     "aciklama": "Yiyecek İçecek Hizmetleri"
+    }
+   ],
+   "sinif": null,
+   "sinif_kod": null,
+   "derece": null
+  },
+  {
+   "kadro_kodu": "106010115",
+   "kadro_guid": "5ebe464d-5863-ee11-b15e-a0369f7d1d8e",
+   "kurum": "Sosyal Güvenlik Kurumu",
+   "unvan": "Destek Personeli (Şoför)",
+   "il": "Adana",
+   "kontenjan": 2,
+   "bos_kadro": 0,
+   "min_puan": null,
+   "max_puan": null,
+   "ogrenim": "Ortaogretim",
+   "nitelikler": [
+    {
+     "kod": "2001",
+     "aciklama": "Herhangi bir ortaöğretim programından mezun olmak."
+    },
+    {
+     "kod": "6506",
+     "aciklama": "B sınıfı sürücü belgesine sahip olmak"
+    },
+    {
+     "kod": "7300",
+     "aciklama": "Bu kadro/pozisyonda vardiya sistemi uygulanmaktadır."
+    },
+    {
+     "kod": "7302",
+     "aciklama": "Bakınız Başvurma Özel Şartları Bölümü Şoför"
+    }
+   ],
+   "sinif": null,
+   "sinif_kod": null,
+   "derece": null
+  },
+  {
+   "kadro_kodu": "106010122",
+   "kadro_guid": "63be464d-5863-ee11-b15e-a0369f7d1d8e",
+   "kurum": "Sosyal Güvenlik Kurumu",
+   "unvan": "Destek Personeli (Bulaşıkçı)",
+   "il": "Adıyaman",
+   "kontenjan": 1,
+   "bos_kadro": 0,
+   "min_puan": null,
+   "max_puan": null,
+   "ogrenim": "Ortaogretim",
+   "nitelikler": [
+    {
+     "kod": "2001",
+     "aciklama": "Herhangi bir ortaöğretim programından mezun olmak."
+    }
+   ],
+   "sinif": null,
+   "sinif_kod": null,
+   "derece": null
+  },
+  {
+   "kadro_kodu": "106010129",
+   "kadro_guid": "64be464d-5863-ee11-b15e-a0369f7d1d8e",
+   "kurum": "Sosyal Güvenlik Kurumu",
+   "unvan": "Destek Personeli (Bulaşıkçı)",
+   "il": "Afyonkarahisar",
+   "kontenjan": 1,
+   "bos_kadro": 0,
+   "min_puan": null,
+   "max_puan": null,
+   "ogrenim": "Ortaogretim",
+   "nitelikler": [
+    {
+     "kod": "2001",
+     "aciklama": "Herhangi bir ortaöğretim programından mezun olmak."
+    }
+   ],
+   "sinif": null,
+   "sinif_kod": null,
+   "derece": null
+  },
+  {
+   "kadro_kodu": "106010136",
+   "kadro_guid": "6bbe464d-5863-ee11-b15e-a0369f7d1d8e",
+   "kurum": "Sosyal Güvenlik Kurumu",
+   "unvan": "Destek Personeli (Şoför)",
+   "il": "Ankara",
+   "kontenjan": 2,
+   "bos_kadro": 0,
+   "min_puan": null,
+   "max_puan": null,
+   "ogrenim": "Ortaogretim",
+   "nitelikler": [
+    {
+     "kod": "2001",
+     "aciklama": "Herhangi bir ortaöğretim programından mezun olmak."
+    },
+    {
+     "kod": "6506",
+     "aciklama": "B sınıfı sürücü belgesine sahip olmak"
+    },
+    {
+     "kod": "7300",
+     "aciklama": "Bu kadro/pozisyonda vardiya sistemi uygulanmaktadır."
+    },
+    {
+     "kod": "7302",
+     "aciklama": "Bakınız Başvurma Özel Şartları Bölümü Şoför"
+    }
+   ],
+   "sinif": null,
+   "sinif_kod": null,
+   "derece": null
+  },
+  {
+   "kadro_kodu": "106010143",
+   "kadro_guid": "6cbe464d-5863-ee11-b15e-a0369f7d1d8e",
+   "kurum": "Sosyal Güvenlik Kurumu",
+   "unvan": "Destek Personeli (Temizlik)",
+   "il": "Ankara",
+   "kontenjan": 13,
+   "bos_kadro": 0,
+   "min_puan": null,
+   "max_puan": null,
+   "ogrenim": "Ortaogretim",
+   "nitelikler": [
+    {
+     "kod": "2001",
+     "aciklama": "Herhangi bir ortaöğretim programından mezun olmak."
+    }
+   ],
+   "sinif": null,
+   "sinif_kod": null,
+   "derece": null
+  },
+  {
+   "kadro_kodu": "106010150",
+   "kadro_guid": "6dbe464d-5863-ee11-b15e-a0369f7d1d8e",
+   "kurum": "Sosyal Güvenlik Kurumu",
+   "unvan": "Destek Personeli (Aşçı)",
+   "il": "Ankara",
+   "kontenjan": 4,
+   "bos_kadro": 0,
+   "min_puan": null,
+   "max_puan": null,
+   "ogrenim": "Ortaogretim",
+   "nitelikler": [
+    {
+     "kod": "2117",
+     "aciklama": "Aşağıdaki ortaöğretim programlarından birinden mezun olmak."
+    },
+    {
+     "kod": "6003",
+     "aciklama": "Aile ve Tüketici Hizmetleri - Beslenme ve Ev Yönetimi Dalı (Dal kod: 101)"
+    },
+    {
+     "kod": "6003",
+     "aciklama": "Aile ve Tüketici Hizmetleri - Ev Ekonomisi Dalı (Dal kod: 102)"
+    },
+    {
+     "kod": "6030",
+     "aciklama": "Konaklama ve Seyahat Hizmetleri - Turizm / Otelcilik ve Turizm Dalı (Dal kod: 101)"
+    },
+    {
+     "kod": "6057",
+     "aciklama": "Yiyecek İçecek Hizmetleri"
+    }
+   ],
+   "sinif": null,
+   "sinif_kod": null,
+   "derece": null
+  },
+  {
+   "kadro_kodu": "106010157",
+   "kadro_guid": "6ebe464d-5863-ee11-b15e-a0369f7d1d8e",
+   "kurum": "Sosyal Güvenlik Kurumu",
+   "unvan": "Destek Personeli (Bulaşıkçı)",
+   "il": "Ankara",
+   "kontenjan": 2,
+   "bos_kadro": 0,
+   "min_puan": null,
+   "max_puan": null,
+   "ogrenim": "Ortaogretim",
+   "nitelikler": [
+    {
+     "kod": "2001",
+     "aciklama": "Herhangi bir ortaöğretim programından mezun olmak."
+    }
+   ],
+   "sinif": null,
+   "sinif_kod": null,
+   "derece": null
+  },
+  {
+   "kadro_kodu": "106010556",
+   "kadro_guid": "70be464d-5863-ee11-b15e-a0369f7d1d8e",
+   "kurum": "Sosyal Güvenlik Kurumu",
+   "unvan": "Teknisyen (Makina)",
+   "il": "Ankara",
+   "kontenjan": 1,
+   "bos_kadro": 0,
+   "min_puan": null,
+   "max_puan": null,
+   "ogrenim": "Ortaogretim",
+   "nitelikler": [
+    {
+     "kod": "2061",
+     "aciklama": "Aşağıdaki ortaöğretim programlarından birinden mezun olmak."
+    },
+    {
+     "kod": "6033",
+     "aciklama": "Makine Teknolojisi"
+    },
+    {
+     "kod": "6329",
+     "aciklama": "Makine Ve Tasarım Teknolojisi"
+    }
+   ],
+   "sinif": null,
+   "sinif_kod": null,
+   "derece": null
+  },
+  {
+   "kadro_kodu": "106010563",
+   "kadro_guid": "71be464d-5863-ee11-b15e-a0369f7d1d8e",
+   "kurum": "Sosyal Güvenlik Kurumu",
+   "unvan": "Teknisyen (Elektrik-Elektronik)",
+   "il": "Ankara",
+   "kontenjan": 1,
+   "bos_kadro": 0,
+   "min_puan": null,
+   "max_puan": null,
+   "ogrenim": "Ortaogretim",
+   "nitelikler": [
+    {
+     "kod": "2023",
+     "aciklama": "Aşağıdaki ortaöğretim programlarından birinden mezun olmak."
+    },
+    {
+     "kod": "6013",
+     "aciklama": "Elektrik-Elektronik Teknolojisi"
+    },
+    {
+     "kod": "6014",
+     "aciklama": "Endüstriyel Otomasyon Teknolojileri - Endüstriyel Kontrol Dalı (Dal kod: 1)"
+    },
+    {
+     "kod": "6014",
+     "aciklama": "Endüstriyel Otomasyon Teknolojileri - Endüstriyel Elektronik Dalı (Dal kod: 102)"
+    }
+   ],
+   "sinif": null,
+   "sinif_kod": null,
+   "derece": null
+  },
+  {
+   "kadro_kodu": "106010164",
+   "kadro_guid": "7abe464d-5863-ee11-b15e-a0369f7d1d8e",
+   "kurum": "Sosyal Güvenlik Kurumu",
+   "unvan": "Destek Personeli (Bulaşıkçı)",
+   "il": "Antalya",
+   "kontenjan": 1,
+   "bos_kadro": 0,
+   "min_puan": null,
+   "max_puan": null,
+   "ogrenim": "Ortaogretim",
+   "nitelikler": [
+    {
+     "kod": "2001",
+     "aciklama": "Herhangi bir ortaöğretim programından mezun olmak."
+    }
+   ],
+   "sinif": null,
+   "sinif_kod": null,
+   "derece": null
+  },
+  {
+   "kadro_kodu": "106010171",
+   "kadro_guid": "7bbe464d-5863-ee11-b15e-a0369f7d1d8e",
+   "kurum": "Sosyal Güvenlik Kurumu",
+   "unvan": "Destek Personeli (Aşçı)",
+   "il": "Antalya",
+   "kontenjan": 1,
+   "bos_kadro": 0,
+   "min_puan": null,
+   "max_puan": null,
+   "ogrenim": "Ortaogretim",
+   "nitelikler": [
+    {
+     "kod": "2117",
+     "aciklama": "Aşağıdaki ortaöğretim programlarından birinden mezun olmak."
+    },
+    {
+     "kod": "6003",
+     "aciklama": "Aile ve Tüketici Hizmetleri - Beslenme ve Ev Yönetimi Dalı (Dal kod: 101)"
+    },
+    {
+     "kod": "6003",
+     "aciklama": "Aile ve Tüketici Hizmetleri - Ev Ekonomisi Dalı (Dal kod: 102)"
+    },
+    {
+     "kod": "6030",
+     "aciklama": "Konaklama ve Seyahat Hizmetleri - Turizm / Otelcilik ve Turizm Dalı (Dal kod: 101)"
+    },
+    {
+     "kod": "6057",
+     "aciklama": "Yiyecek İçecek Hizmetleri"
+    }
+   ],
+   "sinif": null,
+   "sinif_kod": null,
+   "derece": null
+  },
+  {
+   "kadro_kodu": "106010178",
+   "kadro_guid": "7cbe464d-5863-ee11-b15e-a0369f7d1d8e",
+   "kurum": "Sosyal Güvenlik Kurumu",
+   "unvan": "Destek Personeli (Temizlik)",
+   "il": "Antalya",
+   "kontenjan": 5,
+   "bos_kadro": 0,
+   "min_puan": null,
+   "max_puan": null,
+   "ogrenim": "Ortaogretim",
+   "nitelikler": [
+    {
+     "kod": "2001",
+     "aciklama": "Herhangi bir ortaöğretim programından mezun olmak."
+    }
+   ],
+   "sinif": null,
+   "sinif_kod": null,
+   "derece": null
+  },
+  {
+   "kadro_kodu": "106010185",
+   "kadro_guid": "80be464d-5863-ee11-b15e-a0369f7d1d8e",
+   "kurum": "Sosyal Güvenlik Kurumu",
+   "unvan": "Destek Personeli (Temizlik)",
+   "il": "Artvin",
+   "kontenjan": 1,
+   "bos_kadro": 0,
+   "min_puan": null,
+   "max_puan": null,
+   "ogrenim": "Ortaogretim",
+   "nitelikler": [
+    {
+     "kod": "2001",
+     "aciklama": "Herhangi bir ortaöğretim programından mezun olmak."
+    }
+   ],
+   "sinif": null,
+   "sinif_kod": null,
+   "derece": null
+  },
+  {
+   "kadro_kodu": "106010192",
+   "kadro_guid": "81be464d-5863-ee11-b15e-a0369f7d1d8e",
+   "kurum": "Sosyal Güvenlik Kurumu",
+   "unvan": "Destek Personeli (Bulaşıkçı)",
+   "il": "Aydın",
+   "kontenjan": 1,
+   "bos_kadro": 1,
+   "min_puan": null,
+   "max_puan": null,
+   "ogrenim": "Ortaogretim",
+   "nitelikler": [
+    {
+     "kod": "2001",
+     "aciklama": "Herhangi bir ortaöğretim programından mezun olmak."
+    }
+   ],
+   "sinif": null,
+   "sinif_kod": null,
+   "derece": null
+  },
+  {
+   "kadro_kodu": "106010199",
+   "kadro_guid": "84be464d-5863-ee11-b15e-a0369f7d1d8e",
+   "kurum": "Sosyal Güvenlik Kurumu",
+   "unvan": "Destek Personeli (Aşçı)",
+   "il": "Balıkesir",
+   "kontenjan": 1,
+   "bos_kadro": 0,
+   "min_puan": null,
+   "max_puan": null,
+   "ogrenim": "Ortaogretim",
+   "nitelikler": [
+    {
+     "kod": "2117",
+     "aciklama": "Aşağıdaki ortaöğretim programlarından birinden mezun olmak."
+    },
+    {
+     "kod": "6003",
+     "aciklama": "Aile ve Tüketici Hizmetleri - Beslenme ve Ev Yönetimi Dalı (Dal kod: 101)"
+    },
+    {
+     "kod": "6003",
+     "aciklama": "Aile ve Tüketici Hizmetleri - Ev Ekonomisi Dalı (Dal kod: 102)"
+    },
+    {
+     "kod": "6030",
+     "aciklama": "Konaklama ve Seyahat Hizmetleri - Turizm / Otelcilik ve Turizm Dalı (Dal kod: 101)"
+    },
+    {
+     "kod": "6057",
+     "aciklama": "Yiyecek İçecek Hizmetleri"
+    }
+   ],
+   "sinif": null,
+   "sinif_kod": null,
+   "derece": null
+  },
+  {
+   "kadro_kodu": "106010206",
+   "kadro_guid": "8cbe464d-5863-ee11-b15e-a0369f7d1d8e",
+   "kurum": "Sosyal Güvenlik Kurumu",
+   "unvan": "Destek Personeli (Temizlik)",
+   "il": "Bingöl",
+   "kontenjan": 1,
+   "bos_kadro": 0,
+   "min_puan": null,
+   "max_puan": null,
+   "ogrenim": "Ortaogretim",
+   "nitelikler": [
+    {
+     "kod": "2001",
+     "aciklama": "Herhangi bir ortaöğretim programından mezun olmak."
+    }
+   ],
+   "sinif": null,
+   "sinif_kod": null,
+   "derece": null
+  },
+  {
+   "kadro_kodu": "106010213",
+   "kadro_guid": "8dbe464d-5863-ee11-b15e-a0369f7d1d8e",
+   "kurum": "Sosyal Güvenlik Kurumu",
+   "unvan": "Destek Personeli (Aşçı)",
+   "il": "Bitlis",
+   "kontenjan": 1,
+   "bos_kadro": 0,
+   "min_puan": null,
+   "max_puan": null,
+   "ogrenim": "Ortaogretim",
+   "nitelikler": [
+    {
+     "kod": "2117",
+     "aciklama": "Aşağıdaki ortaöğretim programlarından birinden mezun olmak."
+    },
+    {
+     "kod": "6003",
+     "aciklama": "Aile ve Tüketici Hizmetleri - Beslenme ve Ev Yönetimi Dalı (Dal kod: 101)"
+    },
+    {
+     "kod": "6003",
+     "aciklama": "Aile ve Tüketici Hizmetleri - Ev Ekonomisi Dalı (Dal kod: 102)"
+    },
+    {
+     "kod": "6030",
+     "aciklama": "Konaklama ve Seyahat Hizmetleri - Turizm / Otelcilik ve Turizm Dalı (Dal kod: 101)"
+    },
+    {
+     "kod": "6057",
+     "aciklama": "Yiyecek İçecek Hizmetleri"
+    }
+   ],
+   "sinif": null,
+   "sinif_kod": null,
+   "derece": null
+  },
+  {
+   "kadro_kodu": "106010220",
+   "kadro_guid": "92be464d-5863-ee11-b15e-a0369f7d1d8e",
+   "kurum": "Sosyal Güvenlik Kurumu",
+   "unvan": "Destek Personeli (Temizlik)",
+   "il": "Bursa",
+   "kontenjan": 4,
+   "bos_kadro": 0,
+   "min_puan": null,
+   "max_puan": null,
+   "ogrenim": "Ortaogretim",
+   "nitelikler": [
+    {
+     "kod": "2001",
+     "aciklama": "Herhangi bir ortaöğretim programından mezun olmak."
+    }
+   ],
+   "sinif": null,
+   "sinif_kod": null,
+   "derece": null
+  },
+  {
+   "kadro_kodu": "106010227",
+   "kadro_guid": "94be464d-5863-ee11-b15e-a0369f7d1d8e",
+   "kurum": "Sosyal Güvenlik Kurumu",
+   "unvan": "Destek Personeli (Temizlik)",
+   "il": "Çanakkale",
+   "kontenjan": 1,
+   "bos_kadro": 0,
+   "min_puan": null,
+   "max_puan": null,
+   "ogrenim": "Ortaogretim",
+   "nitelikler": [
+    {
+     "kod": "2001",
+     "aciklama": "Herhangi bir ortaöğretim programından mezun olmak."
+    }
+   ],
+   "sinif": null,
+   "sinif_kod": null,
+   "derece": null
+  },
+  {
+   "kadro_kodu": "106010234",
+   "kadro_guid": "99be464d-5863-ee11-b15e-a0369f7d1d8e",
+   "kurum": "Sosyal Güvenlik Kurumu",
+   "unvan": "Destek Personeli (Aşçı)",
+   "il": "Çorum",
+   "kontenjan": 1,
+   "bos_kadro": 0,
+   "min_puan": null,
+   "max_puan": null,
+   "ogrenim": "Ortaogretim",
+   "nitelikler": [
+    {
+     "kod": "2117",
+     "aciklama": "Aşağıdaki ortaöğretim programlarından birinden mezun olmak."
+    },
+    {
+     "kod": "6003",
+     "aciklama": "Aile ve Tüketici Hizmetleri - Beslenme ve Ev Yönetimi Dalı (Dal kod: 101)"
+    },
+    {
+     "kod": "6003",
+     "aciklama": "Aile ve Tüketici Hizmetleri - Ev Ekonomisi Dalı (Dal kod: 102)"
+    },
+    {
+     "kod": "6030",
+     "aciklama": "Konaklama ve Seyahat Hizmetleri - Turizm / Otelcilik ve Turizm Dalı (Dal kod: 101)"
+    },
+    {
+     "kod": "6057",
+     "aciklama": "Yiyecek İçecek Hizmetleri"
+    }
+   ],
+   "sinif": null,
+   "sinif_kod": null,
+   "derece": null
+  },
+  {
+   "kadro_kodu": "106010241",
+   "kadro_guid": "9abe464d-5863-ee11-b15e-a0369f7d1d8e",
+   "kurum": "Sosyal Güvenlik Kurumu",
+   "unvan": "Destek Personeli (Temizlik)",
+   "il": "Denizli",
+   "kontenjan": 1,
+   "bos_kadro": 0,
+   "min_puan": null,
+   "max_puan": null,
+   "ogrenim": "Ortaogretim",
+   "nitelikler": [
+    {
+     "kod": "2001",
+     "aciklama": "Herhangi bir ortaöğretim programından mezun olmak."
+    }
+   ],
+   "sinif": null,
+   "sinif_kod": null,
+   "derece": null
+  },
+  {
+   "kadro_kodu": "106010248",
+   "kadro_guid": "a4be464d-5863-ee11-b15e-a0369f7d1d8e",
+   "kurum": "Sosyal Güvenlik Kurumu",
+   "unvan": "Destek Personeli (Temizlik)",
+   "il": "Edirne",
+   "kontenjan": 1,
+   "bos_kadro": 0,
+   "min_puan": null,
+   "max_puan": null,
+   "ogrenim": "Ortaogretim",
+   "nitelikler": [
+    {
+     "kod": "2001",
+     "aciklama": "Herhangi bir ortaöğretim programından mezun olmak."
+    }
+   ],
+   "sinif": null,
+   "sinif_kod": null,
+   "derece": null
+  },
+  {
+   "kadro_kodu": "106010255",
+   "kadro_guid": "a5be464d-5863-ee11-b15e-a0369f7d1d8e",
+   "kurum": "Sosyal Güvenlik Kurumu",
+   "unvan": "Destek Personeli (Aşçı)",
+   "il": "Edirne",
+   "kontenjan": 1,
+   "bos_kadro": 0,
+   "min_puan": null,
+   "max_puan": null,
+   "ogrenim": "Ortaogretim",
+   "nitelikler": [
+    {
+     "kod": "2117",
+     "aciklama": "Aşağıdaki ortaöğretim programlarından birinden mezun olmak."
+    },
+    {
+     "kod": "6003",
+     "aciklama": "Aile ve Tüketici Hizmetleri - Beslenme ve Ev Yönetimi Dalı (Dal kod: 101)"
+    },
+    {
+     "kod": "6003",
+     "aciklama": "Aile ve Tüketici Hizmetleri - Ev Ekonomisi Dalı (Dal kod: 102)"
+    },
+    {
+     "kod": "6030",
+     "aciklama": "Konaklama ve Seyahat Hizmetleri - Turizm / Otelcilik ve Turizm Dalı (Dal kod: 101)"
+    },
+    {
+     "kod": "6057",
+     "aciklama": "Yiyecek İçecek Hizmetleri"
+    }
+   ],
+   "sinif": null,
+   "sinif_kod": null,
+   "derece": null
+  },
+  {
+   "kadro_kodu": "106010262",
+   "kadro_guid": "aabe464d-5863-ee11-b15e-a0369f7d1d8e",
+   "kurum": "Sosyal Güvenlik Kurumu",
+   "unvan": "Destek Personeli (Temizlik)",
+   "il": "Eskişehir",
+   "kontenjan": 2,
+   "bos_kadro": 0,
+   "min_puan": null,
+   "max_puan": null,
+   "ogrenim": "Ortaogretim",
+   "nitelikler": [
+    {
+     "kod": "2001",
+     "aciklama": "Herhangi bir ortaöğretim programından mezun olmak."
+    }
+   ],
+   "sinif": null,
+   "sinif_kod": null,
+   "derece": null
+  },
+  {
+   "kadro_kodu": "106010269",
+   "kadro_guid": "abbe464d-5863-ee11-b15e-a0369f7d1d8e",
+   "kurum": "Sosyal Güvenlik Kurumu",
+   "unvan": "Destek Personeli (Bulaşıkçı)",
+   "il": "Eskişehir",
+   "kontenjan": 1,
+   "bos_kadro": 0,
+   "min_puan": null,
+   "max_puan": null,
+   "ogrenim": "Ortaogretim",
+   "nitelikler": [
+    {
+     "kod": "2001",
+     "aciklama": "Herhangi bir ortaöğretim programından mezun olmak."
+    }
+   ],
+   "sinif": null,
+   "sinif_kod": null,
+   "derece": null
+  },
+  {
+   "kadro_kodu": "106010276",
+   "kadro_guid": "b0be464d-5863-ee11-b15e-a0369f7d1d8e",
+   "kurum": "Sosyal Güvenlik Kurumu",
+   "unvan": "Destek Personeli (Temizlik)",
+   "il": "Giresun",
+   "kontenjan": 2,
+   "bos_kadro": 0,
+   "min_puan": null,
+   "max_puan": null,
+   "ogrenim": "Ortaogretim",
+   "nitelikler": [
+    {
+     "kod": "2001",
+     "aciklama": "Herhangi bir ortaöğretim programından mezun olmak."
+    }
+   ],
+   "sinif": null,
+   "sinif_kod": null,
+   "derece": null
+  },
+  {
+   "kadro_kodu": "106010283",
+   "kadro_guid": "b3be464d-5863-ee11-b15e-a0369f7d1d8e",
+   "kurum": "Sosyal Güvenlik Kurumu",
+   "unvan": "Destek Personeli (Temizlik)",
+   "il": "Hakkari",
+   "kontenjan": 1,
+   "bos_kadro": 0,
+   "min_puan": null,
+   "max_puan": null,
+   "ogrenim": "Ortaogretim",
+   "nitelikler": [
+    {
+     "kod": "2001",
+     "aciklama": "Herhangi bir ortaöğretim programından mezun olmak."
+    }
+   ],
+   "sinif": null,
+   "sinif_kod": null,
+   "derece": null
+  },
+  {
+   "kadro_kodu": "106010290",
+   "kadro_guid": "b4be464d-5863-ee11-b15e-a0369f7d1d8e",
+   "kurum": "Sosyal Güvenlik Kurumu",
+   "unvan": "Destek Personeli (Şoför)",
+   "il": "Hatay",
+   "kontenjan": 1,
+   "bos_kadro": 0,
+   "min_puan": null,
+   "max_puan": null,
+   "ogrenim": "Ortaogretim",
+   "nitelikler": [
+    {
+     "kod": "2001",
+     "aciklama": "Herhangi bir ortaöğretim programından mezun olmak."
+    },
+    {
+     "kod": "6506",
+     "aciklama": "B sınıfı sürücü belgesine sahip olmak"
+    },
+    {
+     "kod": "7300",
+     "aciklama": "Bu kadro/pozisyonda vardiya sistemi uygulanmaktadır."
+    },
+    {
+     "kod": "7302",
+     "aciklama": "Bakınız Başvurma Özel Şartları Bölümü Şoför"
+    }
+   ],
+   "sinif": null,
+   "sinif_kod": null,
+   "derece": null
+  },
+  {
+   "kadro_kodu": "106010297",
+   "kadro_guid": "b8be464d-5863-ee11-b15e-a0369f7d1d8e",
+   "kurum": "Sosyal Güvenlik Kurumu",
+   "unvan": "Destek Personeli (Temizlik)",
+   "il": "Isparta",
+   "kontenjan": 2,
+   "bos_kadro": 0,
+   "min_puan": null,
+   "max_puan": null,
+   "ogrenim": "Ortaogretim",
+   "nitelikler": [
+    {
+     "kod": "2001",
+     "aciklama": "Herhangi bir ortaöğretim programından mezun olmak."
+    }
+   ],
+   "sinif": null,
+   "sinif_kod": null,
+   "derece": null
+  },
+  {
+   "kadro_kodu": "106010304",
+   "kadro_guid": "e5be464d-5863-ee11-b15e-a0369f7d1d8e",
+   "kurum": "Sosyal Güvenlik Kurumu",
+   "unvan": "Destek Personeli (Temizlik)",
+   "il": "Mersin",
+   "kontenjan": 1,
+   "bos_kadro": 0,
+   "min_puan": null,
+   "max_puan": null,
+   "ogrenim": "Ortaogretim",
+   "nitelikler": [
+    {
+     "kod": "2001",
+     "aciklama": "Herhangi bir ortaöğretim programından mezun olmak."
+    }
+   ],
+   "sinif": null,
+   "sinif_kod": null,
+   "derece": null
+  },
+  {
+   "kadro_kodu": "106010311",
+   "kadro_guid": "e6be464d-5863-ee11-b15e-a0369f7d1d8e",
+   "kurum": "Sosyal Güvenlik Kurumu",
+   "unvan": "Destek Personeli (Bulaşıkçı)",
+   "il": "Mersin",
+   "kontenjan": 1,
+   "bos_kadro": 0,
+   "min_puan": null,
+   "max_puan": null,
+   "ogrenim": "Ortaogretim",
+   "nitelikler": [
+    {
+     "kod": "2001",
+     "aciklama": "Herhangi bir ortaöğretim programından mezun olmak."
+    }
+   ],
+   "sinif": null,
+   "sinif_kod": null,
+   "derece": null
+  },
+  {
+   "kadro_kodu": "106010318",
+   "kadro_guid": "b9be464d-5863-ee11-b15e-a0369f7d1d8e",
+   "kurum": "Sosyal Güvenlik Kurumu",
+   "unvan": "Destek Personeli (Temizlik)",
+   "il": "İstanbul",
+   "kontenjan": 27,
+   "bos_kadro": 0,
+   "min_puan": null,
+   "max_puan": null,
+   "ogrenim": "Ortaogretim",
+   "nitelikler": [
+    {
+     "kod": "2001",
+     "aciklama": "Herhangi bir ortaöğretim programından mezun olmak."
+    }
+   ],
+   "sinif": null,
+   "sinif_kod": null,
+   "derece": null
+  },
+  {
+   "kadro_kodu": "106010325",
+   "kadro_guid": "babe464d-5863-ee11-b15e-a0369f7d1d8e",
+   "kurum": "Sosyal Güvenlik Kurumu",
+   "unvan": "Destek Personeli (Aşçı)",
+   "il": "İstanbul",
+   "kontenjan": 3,
+   "bos_kadro": 0,
+   "min_puan": null,
+   "max_puan": null,
+   "ogrenim": "Ortaogretim",
+   "nitelikler": [
+    {
+     "kod": "2117",
+     "aciklama": "Aşağıdaki ortaöğretim programlarından birinden mezun olmak."
+    },
+    {
+     "kod": "6003",
+     "aciklama": "Aile ve Tüketici Hizmetleri - Beslenme ve Ev Yönetimi Dalı (Dal kod: 101)"
+    },
+    {
+     "kod": "6003",
+     "aciklama": "Aile ve Tüketici Hizmetleri - Ev Ekonomisi Dalı (Dal kod: 102)"
+    },
+    {
+     "kod": "6030",
+     "aciklama": "Konaklama ve Seyahat Hizmetleri - Turizm / Otelcilik ve Turizm Dalı (Dal kod: 101)"
+    },
+    {
+     "kod": "6057",
+     "aciklama": "Yiyecek İçecek Hizmetleri"
+    }
+   ],
+   "sinif": null,
+   "sinif_kod": null,
+   "derece": null
+  },
+  {
+   "kadro_kodu": "106010570",
+   "kadro_guid": "bbbe464d-5863-ee11-b15e-a0369f7d1d8e",
+   "kurum": "Sosyal Güvenlik Kurumu",
+   "unvan": "Teknisyen (Elektrik-Elektronik)",
+   "il": "İstanbul",
+   "kontenjan": 1,
+   "bos_kadro": 0,
+   "min_puan": null,
+   "max_puan": null,
+   "ogrenim": "Ortaogretim",
+   "nitelikler": [
+    {
+     "kod": "2023",
+     "aciklama": "Aşağıdaki ortaöğretim programlarından birinden mezun olmak."
+    },
+    {
+     "kod": "6013",
+     "aciklama": "Elektrik-Elektronik Teknolojisi"
+    },
+    {
+     "kod": "6014",
+     "aciklama": "Endüstriyel Otomasyon Teknolojileri - Endüstriyel Kontrol Dalı (Dal kod: 1)"
+    },
+    {
+     "kod": "6014",
+     "aciklama": "Endüstriyel Otomasyon Teknolojileri - Endüstriyel Elektronik Dalı (Dal kod: 102)"
+    }
+   ],
+   "sinif": null,
+   "sinif_kod": null,
+   "derece": null
+  },
+  {
+   "kadro_kodu": "106010332",
+   "kadro_guid": "c2be464d-5863-ee11-b15e-a0369f7d1d8e",
+   "kurum": "Sosyal Güvenlik Kurumu",
+   "unvan": "Destek Personeli (Bulaşıkçı)",
+   "il": "İzmir",
+   "kontenjan": 1,
+   "bos_kadro": 0,
+   "min_puan": null,
+   "max_puan": null,
+   "ogrenim": "Ortaogretim",
+   "nitelikler": [
+    {
+     "kod": "2001",
+     "aciklama": "Herhangi bir ortaöğretim programından mezun olmak."
+    }
+   ],
+   "sinif": null,
+   "sinif_kod": null,
+   "derece": null
+  },
+  {
+   "kadro_kodu": "106010339",
+   "kadro_guid": "c3be464d-5863-ee11-b15e-a0369f7d1d8e",
+   "kurum": "Sosyal Güvenlik Kurumu",
+   "unvan": "Destek Personeli (Aşçı)",
+   "il": "İzmir",
+   "kontenjan": 2,
+   "bos_kadro": 0,
+   "min_puan": null,
+   "max_puan": null,
+   "ogrenim": "Ortaogretim",
+   "nitelikler": [
+    {
+     "kod": "2117",
+     "aciklama": "Aşağıdaki ortaöğretim programlarından birinden mezun olmak."
+    },
+    {
+     "kod": "6003",
+     "aciklama": "Aile ve Tüketici Hizmetleri - Beslenme ve Ev Yönetimi Dalı (Dal kod: 101)"
+    },
+    {
+     "kod": "6003",
+     "aciklama": "Aile ve Tüketici Hizmetleri - Ev Ekonomisi Dalı (Dal kod: 102)"
+    },
+    {
+     "kod": "6030",
+     "aciklama": "Konaklama ve Seyahat Hizmetleri - Turizm / Otelcilik ve Turizm Dalı (Dal kod: 101)"
+    },
+    {
+     "kod": "6057",
+     "aciklama": "Yiyecek İçecek Hizmetleri"
+    }
+   ],
+   "sinif": null,
+   "sinif_kod": null,
+   "derece": null
+  },
+  {
+   "kadro_kodu": "106010346",
+   "kadro_guid": "c4be464d-5863-ee11-b15e-a0369f7d1d8e",
+   "kurum": "Sosyal Güvenlik Kurumu",
+   "unvan": "Destek Personeli (Temizlik)",
+   "il": "İzmir",
+   "kontenjan": 4,
+   "bos_kadro": 0,
+   "min_puan": null,
+   "max_puan": null,
+   "ogrenim": "Ortaogretim",
+   "nitelikler": [
+    {
+     "kod": "2001",
+     "aciklama": "Herhangi bir ortaöğretim programından mezun olmak."
+    }
+   ],
+   "sinif": null,
+   "sinif_kod": null,
+   "derece": null
+  },
+  {
+   "kadro_kodu": "106010353",
+   "kadro_guid": "cbbe464d-5863-ee11-b15e-a0369f7d1d8e",
+   "kurum": "Sosyal Güvenlik Kurumu",
+   "unvan": "Destek Personeli (Şoför)",
+   "il": "Kastamonu",
+   "kontenjan": 1,
+   "bos_kadro": 0,
+   "min_puan": null,
+   "max_puan": null,
+   "ogrenim": "Ortaogretim",
+   "nitelikler": [
+    {
+     "kod": "2001",
+     "aciklama": "Herhangi bir ortaöğretim programından mezun olmak."
+    },
+    {
+     "kod": "6506",
+     "aciklama": "B sınıfı sürücü belgesine sahip olmak"
+    },
+    {
+     "kod": "7300",
+     "aciklama": "Bu kadro/pozisyonda vardiya sistemi uygulanmaktadır."
+    },
+    {
+     "kod": "7302",
+     "aciklama": "Bakınız Başvurma Özel Şartları Bölümü Şoför"
+    }
+   ],
+   "sinif": null,
+   "sinif_kod": null,
+   "derece": null
+  },
+  {
+   "kadro_kodu": "106010360",
+   "kadro_guid": "ccbe464d-5863-ee11-b15e-a0369f7d1d8e",
+   "kurum": "Sosyal Güvenlik Kurumu",
+   "unvan": "Destek Personeli (Aşçı)",
+   "il": "Kayseri",
+   "kontenjan": 1,
+   "bos_kadro": 0,
+   "min_puan": null,
+   "max_puan": null,
+   "ogrenim": "Ortaogretim",
+   "nitelikler": [
+    {
+     "kod": "2117",
+     "aciklama": "Aşağıdaki ortaöğretim programlarından birinden mezun olmak."
+    },
+    {
+     "kod": "6003",
+     "aciklama": "Aile ve Tüketici Hizmetleri - Beslenme ve Ev Yönetimi Dalı (Dal kod: 101)"
+    },
+    {
+     "kod": "6003",
+     "aciklama": "Aile ve Tüketici Hizmetleri - Ev Ekonomisi Dalı (Dal kod: 102)"
+    },
+    {
+     "kod": "6030",
+     "aciklama": "Konaklama ve Seyahat Hizmetleri - Turizm / Otelcilik ve Turizm Dalı (Dal kod: 101)"
+    },
+    {
+     "kod": "6057",
+     "aciklama": "Yiyecek İçecek Hizmetleri"
+    }
+   ],
+   "sinif": null,
+   "sinif_kod": null,
+   "derece": null
+  },
+  {
+   "kadro_kodu": "106010367",
+   "kadro_guid": "d8be464d-5863-ee11-b15e-a0369f7d1d8e",
+   "kurum": "Sosyal Güvenlik Kurumu",
+   "unvan": "Destek Personeli (Temizlik)",
+   "il": "Kocaeli",
+   "kontenjan": 1,
+   "bos_kadro": 0,
+   "min_puan": null,
+   "max_puan": null,
+   "ogrenim": "Ortaogretim",
+   "nitelikler": [
+    {
+     "kod": "2001",
+     "aciklama": "Herhangi bir ortaöğretim programından mezun olmak."
+    }
+   ],
+   "sinif": null,
+   "sinif_kod": null,
+   "derece": null
+  },
+  {
+   "kadro_kodu": "106010374",
+   "kadro_guid": "debe464d-5863-ee11-b15e-a0369f7d1d8e",
+   "kurum": "Sosyal Güvenlik Kurumu",
+   "unvan": "Destek Personeli (Aşçı)",
+   "il": "Malatya",
+   "kontenjan": 1,
+   "bos_kadro": 0,
+   "min_puan": null,
+   "max_puan": null,
+   "ogrenim": "Ortaogretim",
+   "nitelikler": [
+    {
+     "kod": "2117",
+     "aciklama": "Aşağıdaki ortaöğretim programlarından birinden mezun olmak."
+    },
+    {
+     "kod": "6003",
+     "aciklama": "Aile ve Tüketici Hizmetleri - Beslenme ve Ev Yönetimi Dalı (Dal kod: 101)"
+    },
+    {
+     "kod": "6003",
+     "aciklama": "Aile ve Tüketici Hizmetleri - Ev Ekonomisi Dalı (Dal kod: 102)"
+    },
+    {
+     "kod": "6030",
+     "aciklama": "Konaklama ve Seyahat Hizmetleri - Turizm / Otelcilik ve Turizm Dalı (Dal kod: 101)"
+    },
+    {
+     "kod": "6057",
+     "aciklama": "Yiyecek İçecek Hizmetleri"
+    }
+   ],
+   "sinif": null,
+   "sinif_kod": null,
+   "derece": null
+  },
+  {
+   "kadro_kodu": "106010381",
+   "kadro_guid": "e2be464d-5863-ee11-b15e-a0369f7d1d8e",
+   "kurum": "Sosyal Güvenlik Kurumu",
+   "unvan": "Destek Personeli (Aşçı)",
+   "il": "Mardin",
+   "kontenjan": 1,
+   "bos_kadro": 0,
+   "min_puan": null,
+   "max_puan": null,
+   "ogrenim": "Ortaogretim",
+   "nitelikler": [
+    {
+     "kod": "2117",
+     "aciklama": "Aşağıdaki ortaöğretim programlarından birinden mezun olmak."
+    },
+    {
+     "kod": "6003",
+     "aciklama": "Aile ve Tüketici Hizmetleri - Beslenme ve Ev Yönetimi Dalı (Dal kod: 101)"
+    },
+    {
+     "kod": "6003",
+     "aciklama": "Aile ve Tüketici Hizmetleri - Ev Ekonomisi Dalı (Dal kod: 102)"
+    },
+    {
+     "kod": "6030",
+     "aciklama": "Konaklama ve Seyahat Hizmetleri - Turizm / Otelcilik ve Turizm Dalı (Dal kod: 101)"
+    },
+    {
+     "kod": "6057",
+     "aciklama": "Yiyecek İçecek Hizmetleri"
+    }
+   ],
+   "sinif": null,
+   "sinif_kod": null,
+   "derece": null
+  },
+  {
+   "kadro_kodu": "106010388",
+   "kadro_guid": "eabe464d-5863-ee11-b15e-a0369f7d1d8e",
+   "kurum": "Sosyal Güvenlik Kurumu",
+   "unvan": "Destek Personeli (Temizlik)",
+   "il": "Muğla",
+   "kontenjan": 3,
+   "bos_kadro": 0,
+   "min_puan": null,
+   "max_puan": null,
+   "ogrenim": "Ortaogretim",
+   "nitelikler": [
+    {
+     "kod": "2001",
+     "aciklama": "Herhangi bir ortaöğretim programından mezun olmak."
+    }
+   ],
+   "sinif": null,
+   "sinif_kod": null,
+   "derece": null
+  },
+  {
+   "kadro_kodu": "106010395",
+   "kadro_guid": "efbe464d-5863-ee11-b15e-a0369f7d1d8e",
+   "kurum": "Sosyal Güvenlik Kurumu",
+   "unvan": "Destek Personeli (Aşçı)",
+   "il": "Niğde",
+   "kontenjan": 1,
+   "bos_kadro": 0,
+   "min_puan": null,
+   "max_puan": null,
+   "ogrenim": "Ortaogretim",
+   "nitelikler": [
+    {
+     "kod": "2117",
+     "aciklama": "Aşağıdaki ortaöğretim programlarından birinden mezun olmak."
+    },
+    {
+     "kod": "6003",
+     "aciklama": "Aile ve Tüketici Hizmetleri - Beslenme ve Ev Yönetimi Dalı (Dal kod: 101)"
+    },
+    {
+     "kod": "6003",
+     "aciklama": "Aile ve Tüketici Hizmetleri - Ev Ekonomisi Dalı (Dal kod: 102)"
+    },
+    {
+     "kod": "6030",
+     "aciklama": "Konaklama ve Seyahat Hizmetleri - Turizm / Otelcilik ve Turizm Dalı (Dal kod: 101)"
+    },
+    {
+     "kod": "6057",
+     "aciklama": "Yiyecek İçecek Hizmetleri"
+    }
+   ],
+   "sinif": null,
+   "sinif_kod": null,
+   "derece": null
+  },
+  {
+   "kadro_kodu": "106010402",
+   "kadro_guid": "f3be464d-5863-ee11-b15e-a0369f7d1d8e",
+   "kurum": "Sosyal Güvenlik Kurumu",
+   "unvan": "Destek Personeli (Şoför)",
+   "il": "Rize",
+   "kontenjan": 1,
+   "bos_kadro": 0,
+   "min_puan": null,
+   "max_puan": null,
+   "ogrenim": "Ortaogretim",
+   "nitelikler": [
+    {
+     "kod": "2001",
+     "aciklama": "Herhangi bir ortaöğretim programından mezun olmak."
+    },
+    {
+     "kod": "6506",
+     "aciklama": "B sınıfı sürücü belgesine sahip olmak"
+    },
+    {
+     "kod": "7300",
+     "aciklama": "Bu kadro/pozisyonda vardiya sistemi uygulanmaktadır."
+    },
+    {
+     "kod": "7302",
+     "aciklama": "Bakınız Başvurma Özel Şartları Bölümü Şoför"
+    }
+   ],
+   "sinif": null,
+   "sinif_kod": null,
+   "derece": null
+  },
+  {
+   "kadro_kodu": "106010409",
+   "kadro_guid": "f4be464d-5863-ee11-b15e-a0369f7d1d8e",
+   "kurum": "Sosyal Güvenlik Kurumu",
+   "unvan": "Destek Personeli (Bulaşıkçı)",
+   "il": "Sakarya",
+   "kontenjan": 1,
+   "bos_kadro": 0,
+   "min_puan": null,
+   "max_puan": null,
+   "ogrenim": "Ortaogretim",
+   "nitelikler": [
+    {
+     "kod": "2001",
+     "aciklama": "Herhangi bir ortaöğretim programından mezun olmak."
+    }
+   ],
+   "sinif": null,
+   "sinif_kod": null,
+   "derece": null
+  },
+  {
+   "kadro_kodu": "106010416",
+   "kadro_guid": "fbbe464d-5863-ee11-b15e-a0369f7d1d8e",
+   "kurum": "Sosyal Güvenlik Kurumu",
+   "unvan": "Destek Personeli (Şoför)",
+   "il": "Samsun",
+   "kontenjan": 1,
+   "bos_kadro": 0,
+   "min_puan": null,
+   "max_puan": null,
+   "ogrenim": "Ortaogretim",
+   "nitelikler": [
+    {
+     "kod": "2001",
+     "aciklama": "Herhangi bir ortaöğretim programından mezun olmak."
+    },
+    {
+     "kod": "6506",
+     "aciklama": "B sınıfı sürücü belgesine sahip olmak"
+    },
+    {
+     "kod": "7300",
+     "aciklama": "Bu kadro/pozisyonda vardiya sistemi uygulanmaktadır."
+    },
+    {
+     "kod": "7302",
+     "aciklama": "Bakınız Başvurma Özel Şartları Bölümü Şoför"
+    }
+   ],
+   "sinif": null,
+   "sinif_kod": null,
+   "derece": null
+  },
+  {
+   "kadro_kodu": "106010423",
+   "kadro_guid": "fcbe464d-5863-ee11-b15e-a0369f7d1d8e",
+   "kurum": "Sosyal Güvenlik Kurumu",
+   "unvan": "Destek Personeli (Aşçı)",
+   "il": "Siirt",
+   "kontenjan": 1,
+   "bos_kadro": 0,
+   "min_puan": null,
+   "max_puan": null,
+   "ogrenim": "Ortaogretim",
+   "nitelikler": [
+    {
+     "kod": "2117",
+     "aciklama": "Aşağıdaki ortaöğretim programlarından birinden mezun olmak."
+    },
+    {
+     "kod": "6003",
+     "aciklama": "Aile ve Tüketici Hizmetleri - Beslenme ve Ev Yönetimi Dalı (Dal kod: 101)"
+    },
+    {
+     "kod": "6003",
+     "aciklama": "Aile ve Tüketici Hizmetleri - Ev Ekonomisi Dalı (Dal kod: 102)"
+    },
+    {
+     "kod": "6030",
+     "aciklama": "Konaklama ve Seyahat Hizmetleri - Turizm / Otelcilik ve Turizm Dalı (Dal kod: 101)"
+    },
+    {
+     "kod": "6057",
+     "aciklama": "Yiyecek İçecek Hizmetleri"
+    }
+   ],
+   "sinif": null,
+   "sinif_kod": null,
+   "derece": null
+  },
+  {
+   "kadro_kodu": "106010430",
+   "kadro_guid": "00bf464d-5863-ee11-b15e-a0369f7d1d8e",
+   "kurum": "Sosyal Güvenlik Kurumu",
+   "unvan": "Destek Personeli (Temizlik)",
+   "il": "Sivas",
+   "kontenjan": 1,
+   "bos_kadro": 0,
+   "min_puan": null,
+   "max_puan": null,
+   "ogrenim": "Ortaogretim",
+   "nitelikler": [
+    {
+     "kod": "2001",
+     "aciklama": "Herhangi bir ortaöğretim programından mezun olmak."
+    }
+   ],
+   "sinif": null,
+   "sinif_kod": null,
+   "derece": null
+  },
+  {
+   "kadro_kodu": "106010437",
+   "kadro_guid": "07bf464d-5863-ee11-b15e-a0369f7d1d8e",
+   "kurum": "Sosyal Güvenlik Kurumu",
+   "unvan": "Destek Personeli (Temizlik)",
+   "il": "Tekirdağ",
+   "kontenjan": 1,
+   "bos_kadro": 0,
+   "min_puan": null,
+   "max_puan": null,
+   "ogrenim": "Ortaogretim",
+   "nitelikler": [
+    {
+     "kod": "2001",
+     "aciklama": "Herhangi bir ortaöğretim programından mezun olmak."
+    }
+   ],
+   "sinif": null,
+   "sinif_kod": null,
+   "derece": null
+  },
+  {
+   "kadro_kodu": "106010444",
+   "kadro_guid": "08bf464d-5863-ee11-b15e-a0369f7d1d8e",
+   "kurum": "Sosyal Güvenlik Kurumu",
+   "unvan": "Destek Personeli (Bulaşıkçı)",
+   "il": "Tekirdağ",
+   "kontenjan": 1,
+   "bos_kadro": 0,
+   "min_puan": null,
+   "max_puan": null,
+   "ogrenim": "Ortaogretim",
+   "nitelikler": [
+    {
+     "kod": "2001",
+     "aciklama": "Herhangi bir ortaöğretim programından mezun olmak."
+    }
+   ],
+   "sinif": null,
+   "sinif_kod": null,
+   "derece": null
+  },
+  {
+   "kadro_kodu": "106010451",
+   "kadro_guid": "09bf464d-5863-ee11-b15e-a0369f7d1d8e",
+   "kurum": "Sosyal Güvenlik Kurumu",
+   "unvan": "Destek Personeli (Aşçı)",
+   "il": "Tekirdağ",
+   "kontenjan": 1,
+   "bos_kadro": 0,
+   "min_puan": null,
+   "max_puan": null,
+   "ogrenim": "Ortaogretim",
+   "nitelikler": [
+    {
+     "kod": "2117",
+     "aciklama": "Aşağıdaki ortaöğretim programlarından birinden mezun olmak."
+    },
+    {
+     "kod": "6003",
+     "aciklama": "Aile ve Tüketici Hizmetleri - Beslenme ve Ev Yönetimi Dalı (Dal kod: 101)"
+    },
+    {
+     "kod": "6003",
+     "aciklama": "Aile ve Tüketici Hizmetleri - Ev Ekonomisi Dalı (Dal kod: 102)"
+    },
+    {
+     "kod": "6030",
+     "aciklama": "Konaklama ve Seyahat Hizmetleri - Turizm / Otelcilik ve Turizm Dalı (Dal kod: 101)"
+    },
+    {
+     "kod": "6057",
+     "aciklama": "Yiyecek İçecek Hizmetleri"
+    }
+   ],
+   "sinif": null,
+   "sinif_kod": null,
+   "derece": null
+  },
+  {
+   "kadro_kodu": "106010458",
+   "kadro_guid": "0ebf464d-5863-ee11-b15e-a0369f7d1d8e",
+   "kurum": "Sosyal Güvenlik Kurumu",
+   "unvan": "Destek Personeli (Aşçı)",
+   "il": "Trabzon",
+   "kontenjan": 1,
+   "bos_kadro": 0,
+   "min_puan": null,
+   "max_puan": null,
+   "ogrenim": "Ortaogretim",
+   "nitelikler": [
+    {
+     "kod": "2117",
+     "aciklama": "Aşağıdaki ortaöğretim programlarından birinden mezun olmak."
+    },
+    {
+     "kod": "6003",
+     "aciklama": "Aile ve Tüketici Hizmetleri - Beslenme ve Ev Yönetimi Dalı (Dal kod: 101)"
+    },
+    {
+     "kod": "6003",
+     "aciklama": "Aile ve Tüketici Hizmetleri - Ev Ekonomisi Dalı (Dal kod: 102)"
+    },
+    {
+     "kod": "6030",
+     "aciklama": "Konaklama ve Seyahat Hizmetleri - Turizm / Otelcilik ve Turizm Dalı (Dal kod: 101)"
+    },
+    {
+     "kod": "6057",
+     "aciklama": "Yiyecek İçecek Hizmetleri"
+    }
+   ],
+   "sinif": null,
+   "sinif_kod": null,
+   "derece": null
+  },
+  {
+   "kadro_kodu": "106010465",
+   "kadro_guid": "01bf464d-5863-ee11-b15e-a0369f7d1d8e",
+   "kurum": "Sosyal Güvenlik Kurumu",
+   "unvan": "Destek Personeli (Temizlik)",
+   "il": "Şanlıurfa",
+   "kontenjan": 3,
+   "bos_kadro": 0,
+   "min_puan": null,
+   "max_puan": null,
+   "ogrenim": "Ortaogretim",
+   "nitelikler": [
+    {
+     "kod": "2001",
+     "aciklama": "Herhangi bir ortaöğretim programından mezun olmak."
+    }
+   ],
+   "sinif": null,
+   "sinif_kod": null,
+   "derece": null
+  },
+  {
+   "kadro_kodu": "106010472",
+   "kadro_guid": "10bf464d-5863-ee11-b15e-a0369f7d1d8e",
+   "kurum": "Sosyal Güvenlik Kurumu",
+   "unvan": "Destek Personeli (Temizlik)",
+   "il": "Uşak",
+   "kontenjan": 1,
+   "bos_kadro": 0,
+   "min_puan": null,
+   "max_puan": null,
+   "ogrenim": "Ortaogretim",
+   "nitelikler": [
+    {
+     "kod": "2001",
+     "aciklama": "Herhangi bir ortaöğretim programından mezun olmak."
+    }
+   ],
+   "sinif": null,
+   "sinif_kod": null,
+   "derece": null
+  },
+  {
+   "kadro_kodu": "106010479",
+   "kadro_guid": "11bf464d-5863-ee11-b15e-a0369f7d1d8e",
+   "kurum": "Sosyal Güvenlik Kurumu",
+   "unvan": "Destek Personeli (Şoför)",
+   "il": "Uşak",
+   "kontenjan": 1,
+   "bos_kadro": 0,
+   "min_puan": null,
+   "max_puan": null,
+   "ogrenim": "Ortaogretim",
+   "nitelikler": [
+    {
+     "kod": "2001",
+     "aciklama": "Herhangi bir ortaöğretim programından mezun olmak."
+    },
+    {
+     "kod": "6506",
+     "aciklama": "B sınıfı sürücü belgesine sahip olmak"
+    },
+    {
+     "kod": "7300",
+     "aciklama": "Bu kadro/pozisyonda vardiya sistemi uygulanmaktadır."
+    },
+    {
+     "kod": "7302",
+     "aciklama": "Bakınız Başvurma Özel Şartları Bölümü Şoför"
+    }
+   ],
+   "sinif": null,
+   "sinif_kod": null,
+   "derece": null
+  },
+  {
+   "kadro_kodu": "106010486",
+   "kadro_guid": "12bf464d-5863-ee11-b15e-a0369f7d1d8e",
+   "kurum": "Sosyal Güvenlik Kurumu",
+   "unvan": "Destek Personeli (Bulaşıkçı)",
+   "il": "Van",
+   "kontenjan": 1,
+   "bos_kadro": 0,
+   "min_puan": null,
+   "max_puan": null,
+   "ogrenim": "Ortaogretim",
+   "nitelikler": [
+    {
+     "kod": "2001",
+     "aciklama": "Herhangi bir ortaöğretim programından mezun olmak."
+    }
+   ],
+   "sinif": null,
+   "sinif_kod": null,
+   "derece": null
+  },
+  {
+   "kadro_kodu": "106010493",
+   "kadro_guid": "17bf464d-5863-ee11-b15e-a0369f7d1d8e",
+   "kurum": "Sosyal Güvenlik Kurumu",
+   "unvan": "Destek Personeli (Bulaşıkçı)",
+   "il": "Yozgat",
+   "kontenjan": 1,
+   "bos_kadro": 0,
+   "min_puan": null,
+   "max_puan": null,
+   "ogrenim": "Ortaogretim",
+   "nitelikler": [
+    {
+     "kod": "2001",
+     "aciklama": "Herhangi bir ortaöğretim programından mezun olmak."
+    }
+   ],
+   "sinif": null,
+   "sinif_kod": null,
+   "derece": null
+  },
+  {
+   "kadro_kodu": "106010500",
+   "kadro_guid": "18bf464d-5863-ee11-b15e-a0369f7d1d8e",
+   "kurum": "Sosyal Güvenlik Kurumu",
+   "unvan": "Destek Personeli (Aşçı)",
+   "il": "Yozgat",
+   "kontenjan": 1,
+   "bos_kadro": 0,
+   "min_puan": null,
+   "max_puan": null,
+   "ogrenim": "Ortaogretim",
+   "nitelikler": [
+    {
+     "kod": "2117",
+     "aciklama": "Aşağıdaki ortaöğretim programlarından birinden mezun olmak."
+    },
+    {
+     "kod": "6003",
+     "aciklama": "Aile ve Tüketici Hizmetleri - Beslenme ve Ev Yönetimi Dalı (Dal kod: 101)"
+    },
+    {
+     "kod": "6003",
+     "aciklama": "Aile ve Tüketici Hizmetleri - Ev Ekonomisi Dalı (Dal kod: 102)"
+    },
+    {
+     "kod": "6030",
+     "aciklama": "Konaklama ve Seyahat Hizmetleri - Turizm / Otelcilik ve Turizm Dalı (Dal kod: 101)"
+    },
+    {
+     "kod": "6057",
+     "aciklama": "Yiyecek İçecek Hizmetleri"
+    }
+   ],
+   "sinif": null,
+   "sinif_kod": null,
+   "derece": null
+  },
+  {
+   "kadro_kodu": "106010507",
+   "kadro_guid": "1bbf464d-5863-ee11-b15e-a0369f7d1d8e",
+   "kurum": "Sosyal Güvenlik Kurumu",
+   "unvan": "Destek Personeli (Aşçı)",
+   "il": "Zonguldak",
+   "kontenjan": 1,
+   "bos_kadro": 0,
+   "min_puan": null,
+   "max_puan": null,
+   "ogrenim": "Ortaogretim",
+   "nitelikler": [
+    {
+     "kod": "2117",
+     "aciklama": "Aşağıdaki ortaöğretim programlarından birinden mezun olmak."
+    },
+    {
+     "kod": "6003",
+     "aciklama": "Aile ve Tüketici Hizmetleri - Beslenme ve Ev Yönetimi Dalı (Dal kod: 101)"
+    },
+    {
+     "kod": "6003",
+     "aciklama": "Aile ve Tüketici Hizmetleri - Ev Ekonomisi Dalı (Dal kod: 102)"
+    },
+    {
+     "kod": "6030",
+     "aciklama": "Konaklama ve Seyahat Hizmetleri - Turizm / Otelcilik ve Turizm Dalı (Dal kod: 101)"
+    },
+    {
+     "kod": "6057",
+     "aciklama": "Yiyecek İçecek Hizmetleri"
+    }
+   ],
+   "sinif": null,
+   "sinif_kod": null,
+   "derece": null
+  },
+  {
+   "kadro_kodu": "106010514",
+   "kadro_guid": "c8be464d-5863-ee11-b15e-a0369f7d1d8e",
+   "kurum": "Sosyal Güvenlik Kurumu",
+   "unvan": "Destek Personeli (Temizlik)",
+   "il": "Karaman",
+   "kontenjan": 1,
+   "bos_kadro": 0,
+   "min_puan": null,
+   "max_puan": null,
+   "ogrenim": "Ortaogretim",
+   "nitelikler": [
+    {
+     "kod": "2001",
+     "aciklama": "Herhangi bir ortaöğretim programından mezun olmak."
+    }
+   ],
+   "sinif": null,
+   "sinif_kod": null,
+   "derece": null
+  },
+  {
+   "kadro_kodu": "106010521",
+   "kadro_guid": "d0be464d-5863-ee11-b15e-a0369f7d1d8e",
+   "kurum": "Sosyal Güvenlik Kurumu",
+   "unvan": "Destek Personeli (Temizlik)",
+   "il": "Kırıkkale",
+   "kontenjan": 1,
+   "bos_kadro": 0,
+   "min_puan": null,
+   "max_puan": null,
+   "ogrenim": "Ortaogretim",
+   "nitelikler": [
+    {
+     "kod": "2001",
+     "aciklama": "Herhangi bir ortaöğretim programından mezun olmak."
+    }
+   ],
+   "sinif": null,
+   "sinif_kod": null,
+   "derece": null
+  },
+  {
+   "kadro_kodu": "106010577",
+   "kadro_guid": "d1be464d-5863-ee11-b15e-a0369f7d1d8e",
+   "kurum": "Sosyal Güvenlik Kurumu",
+   "unvan": "Teknisyen (Elektrik-Elektronik)",
+   "il": "Kırıkkale",
+   "kontenjan": 1,
+   "bos_kadro": 0,
+   "min_puan": null,
+   "max_puan": null,
+   "ogrenim": "Ortaogretim",
+   "nitelikler": [
+    {
+     "kod": "2023",
+     "aciklama": "Aşağıdaki ortaöğretim programlarından birinden mezun olmak."
+    },
+    {
+     "kod": "6013",
+     "aciklama": "Elektrik-Elektronik Teknolojisi"
+    },
+    {
+     "kod": "6014",
+     "aciklama": "Endüstriyel Otomasyon Teknolojileri - Endüstriyel Kontrol Dalı (Dal kod: 1)"
+    },
+    {
+     "kod": "6014",
+     "aciklama": "Endüstriyel Otomasyon Teknolojileri - Endüstriyel Elektronik Dalı (Dal kod: 102)"
+    }
+   ],
+   "sinif": null,
+   "sinif_kod": null,
+   "derece": null
+  },
+  {
+   "kadro_kodu": "106010528",
+   "kadro_guid": "15bf464d-5863-ee11-b15e-a0369f7d1d8e",
+   "kurum": "Sosyal Güvenlik Kurumu",
+   "unvan": "Destek Personeli (Temizlik)",
+   "il": "Yalova",
+   "kontenjan": 1,
+   "bos_kadro": 0,
+   "min_puan": null,
+   "max_puan": null,
+   "ogrenim": "Ortaogretim",
+   "nitelikler": [
+    {
+     "kod": "2001",
+     "aciklama": "Herhangi bir ortaöğretim programından mezun olmak."
+    }
+   ],
+   "sinif": null,
+   "sinif_kod": null,
+   "derece": null
+  },
+  {
+   "kadro_kodu": "106010535",
+   "kadro_guid": "d6be464d-5863-ee11-b15e-a0369f7d1d8e",
+   "kurum": "Sosyal Güvenlik Kurumu",
+   "unvan": "Destek Personeli (Temizlik)",
+   "il": "Kilis",
+   "kontenjan": 2,
+   "bos_kadro": 0,
+   "min_puan": null,
+   "max_puan": null,
+   "ogrenim": "Ortaogretim",
+   "nitelikler": [
+    {
+     "kod": "2001",
+     "aciklama": "Herhangi bir ortaöğretim programından mezun olmak."
+    }
+   ],
+   "sinif": null,
+   "sinif_kod": null,
+   "derece": null
+  },
+  {
+   "kadro_kodu": "106010542",
+   "kadro_guid": "a1be464d-5863-ee11-b15e-a0369f7d1d8e",
+   "kurum": "Sosyal Güvenlik Kurumu",
+   "unvan": "Destek Personeli (Aşçı)",
+   "il": "Düzce",
+   "kontenjan": 1,
+   "bos_kadro": 0,
+   "min_puan": null,
+   "max_puan": null,
+   "ogrenim": "Ortaogretim",
+   "nitelikler": [
+    {
+     "kod": "2117",
+     "aciklama": "Aşağıdaki ortaöğretim programlarından birinden mezun olmak."
+    },
+    {
+     "kod": "6003",
+     "aciklama": "Aile ve Tüketici Hizmetleri - Beslenme ve Ev Yönetimi Dalı (Dal kod: 101)"
+    },
+    {
+     "kod": "6003",
+     "aciklama": "Aile ve Tüketici Hizmetleri - Ev Ekonomisi Dalı (Dal kod: 102)"
+    },
+    {
+     "kod": "6030",
+     "aciklama": "Konaklama ve Seyahat Hizmetleri - Turizm / Otelcilik ve Turizm Dalı (Dal kod: 101)"
+    },
+    {
+     "kod": "6057",
+     "aciklama": "Yiyecek İçecek Hizmetleri"
+    }
+   ],
+   "sinif": null,
+   "sinif_kod": null,
+   "derece": null
+  },
+  {
+   "kadro_kodu": "106010549",
+   "kadro_guid": "a2be464d-5863-ee11-b15e-a0369f7d1d8e",
+   "kurum": "Sosyal Güvenlik Kurumu",
+   "unvan": "Destek Personeli (Temizlik)",
+   "il": "Düzce",
+   "kontenjan": 1,
+   "bos_kadro": 0,
+   "min_puan": null,
+   "max_puan": null,
+   "ogrenim": "Ortaogretim",
+   "nitelikler": [
+    {
+     "kod": "2001",
+     "aciklama": "Herhangi bir ortaöğretim programından mezun olmak."
+    }
+   ],
+   "sinif": null,
+   "sinif_kod": null,
+   "derece": null
+  },
+  {
+   "kadro_kodu": "206010108",
+   "kadro_guid": "5fbe464d-5863-ee11-b15e-a0369f7d1d8e",
+   "kurum": "Sosyal Güvenlik Kurumu",
+   "unvan": "Büro Personeli",
+   "il": "Adana",
+   "kontenjan": 10,
+   "bos_kadro": 2,
+   "min_puan": null,
+   "max_puan": null,
+   "ogrenim": "Onlisans",
+   "nitelikler": [
+    {
+     "kod": "3004",
+     "aciklama": "Aşağıdaki önlisans programlarından birinden mezun olmak."
+    },
+    {
+     "kod": "9098",
+     "aciklama": "Sosyal Güvenlik"
+    }
+   ],
+   "sinif": null,
+   "sinif_kod": null,
+   "derece": null
+  },
+  {
+   "kadro_kodu": "206010661",
+   "kadro_guid": "60be464d-5863-ee11-b15e-a0369f7d1d8e",
+   "kurum": "Sosyal Güvenlik Kurumu",
+   "unvan": "Koruma ve Güvenlik Görevlisi",
+   "il": "Adana",
+   "kontenjan": 1,
+   "bos_kadro": 0,
+   "min_puan": null,
+   "max_puan": null,
+   "ogrenim": "Onlisans",
+   "nitelikler": [
+    {
+     "kod": "3389",
+     "aciklama": "Aşağıdaki önlisans programlarından birinden mezun olmak."
+    },
+    {
+     "kod": "4275",
+     "aciklama": "Güvenlik"
+    },
+    {
+     "kod": "5353",
+     "aciklama": "Özel Güvenlik ve Koruma"
+    },
+    {
+     "kod": "5359",
+     "aciklama": "Savunma ve Güvenlik"
+    },
+    {
+     "kod": "9181",
+     "aciklama": "Güvenli ve Koruma"
+    },
+    {
+     "kod": "9182",
+     "aciklama": "Kamu Güvenlik ve Asayişin Sağlanması"
+    },
+    {
+     "kod": "6551",
+     "aciklama": "Özel Güvenlik Görevlisi Kimlik Kartına Sahip olmak."
+    },
+    {
+     "kod": "7300",
+     "aciklama": "Bu kadro/pozisyonda vardiya sistemi uygulanmaktadır."
+    },
+    {
+     "kod": "7303",
+     "aciklama": "(Bakınız Başvurma Özel Şartları Bölümü Koruma ve Güvenlik Görevlisi)."
+    }
+   ],
+   "sinif": null,
+   "sinif_kod": null,
+   "derece": null
+  },
+  {
+   "kadro_kodu": "206010115",
+   "kadro_guid": "62be464d-5863-ee11-b15e-a0369f7d1d8e",
+   "kurum": "Sosyal Güvenlik Kurumu",
+   "unvan": "Büro Personeli",
+   "il": "Adıyaman",
+   "kontenjan": 3,
+   "bos_kadro": 0,
+   "min_puan": null,
+   "max_puan": null,
+   "ogrenim": "Onlisans",
+   "nitelikler": [
+    {
+     "kod": "3004",
+     "aciklama": "Aşağıdaki önlisans programlarından birinden mezun olmak."
+    },
+    {
+     "kod": "9098",
+     "aciklama": "Sosyal Güvenlik"
+    }
+   ],
+   "sinif": null,
+   "sinif_kod": null,
+   "derece": null
+  },
+  {
+   "kadro_kodu": "206010122",
+   "kadro_guid": "65be464d-5863-ee11-b15e-a0369f7d1d8e",
+   "kurum": "Sosyal Güvenlik Kurumu",
+   "unvan": "Büro Personeli",
+   "il": "Afyonkarahisar",
+   "kontenjan": 8,
+   "bos_kadro": 1,
+   "min_puan": null,
+   "max_puan": null,
+   "ogrenim": "Onlisans",
+   "nitelikler": [
+    {
+     "kod": "3004",
+     "aciklama": "Aşağıdaki önlisans programlarından birinden mezun olmak."
+    },
+    {
+     "kod": "9098",
+     "aciklama": "Sosyal Güvenlik"
+    }
+   ],
+   "sinif": null,
+   "sinif_kod": null,
+   "derece": null
+  },
+  {
+   "kadro_kodu": "206010129",
+   "kadro_guid": "66be464d-5863-ee11-b15e-a0369f7d1d8e",
+   "kurum": "Sosyal Güvenlik Kurumu",
+   "unvan": "Büro Personeli",
+   "il": "Ağrı",
+   "kontenjan": 3,
+   "bos_kadro": 0,
+   "min_puan": null,
+   "max_puan": null,
+   "ogrenim": "Onlisans",
+   "nitelikler": [
+    {
+     "kod": "3004",
+     "aciklama": "Aşağıdaki önlisans programlarından birinden mezun olmak."
+    },
+    {
+     "kod": "9098",
+     "aciklama": "Sosyal Güvenlik"
+    }
+   ],
+   "sinif": null,
+   "sinif_kod": null,
+   "derece": null
+  },
+  {
+   "kadro_kodu": "206010136",
+   "kadro_guid": "68be464d-5863-ee11-b15e-a0369f7d1d8e",
+   "kurum": "Sosyal Güvenlik Kurumu",
+   "unvan": "Büro Personeli",
+   "il": "Amasya",
+   "kontenjan": 2,
+   "bos_kadro": 1,
+   "min_puan": null,
+   "max_puan": null,
+   "ogrenim": "Onlisans",
+   "nitelikler": [
+    {
+     "kod": "3004",
+     "aciklama": "Aşağıdaki önlisans programlarından birinden mezun olmak."
+    },
+    {
+     "kod": "9098",
+     "aciklama": "Sosyal Güvenlik"
+    }
+   ],
+   "sinif": null,
+   "sinif_kod": null,
+   "derece": null
+  },
+  {
+   "kadro_kodu": "206010101",
+   "kadro_guid": "6fbe464d-5863-ee11-b15e-a0369f7d1d8e",
+   "kurum": "Sosyal Güvenlik Kurumu",
+   "unvan": "Büro Personeli",
+   "il": "Ankara",
+   "kontenjan": 16,
+   "bos_kadro": 1,
+   "min_puan": null,
+   "max_puan": null,
+   "ogrenim": "Onlisans",
+   "nitelikler": [
+    {
+     "kod": "3247",
+     "aciklama": "Aşağıdaki önlisans programlarından birinden mezun olmak."
+    },
+    {
+     "kod": "1369",
+     "aciklama": "BİLİŞİM GÜVENLİĞİ TEKNOLOJİSİ"
+    },
+    {
+     "kod": "9104",
+     "aciklama": "Bilgi Güvenliği Teknolojisi"
+    },
+    {
+     "kod": "3248",
+     "aciklama": "Aşağıdaki önlisans programlarından birinden mezun olmak."
+    },
+    {
+     "kod": "1119",
+     "aciklama": "Bilgisayar Donanımı"
+    },
+    {
+     "kod": "1123",
+     "aciklama": "Bilgisayar ve Enformasyon Sistemleri"
+    },
+    {
+     "kod": "4221",
+     "aciklama": "Bilgisayar Teknolojileri ve Bilişim Sistemleri"
+    },
+    {
+     "kod": "4223",
+     "aciklama": "Bilişim Sistemleri ve Teknolojileri"
+    },
+    {
+     "kod": "4321",
+     "aciklama": "Muhabere ve Elektronik Bilgi Sistemleri"
+    },
+    {
+     "kod": "8507",
+     "aciklama": "Bilgisayar Teknolojileri ve Yönetimi"
+    },
+    {
+     "kod": "9075",
+     "aciklama": "Bilgisayar Teknolojisi"
+    },
+    {
+     "kod": "3249",
+     "aciklama": "Aşağıdaki önlisans programlarından birinden mezun olmak."
+    },
+    {
+     "kod": "1121",
+     "aciklama": "Bilgisayar Programcılığı"
+    },
+    {
+     "kod": "1122",
+     "aciklama": "Bilgisayar Teknolojisi ve Programlama"
+    },
+    {
+     "kod": "1353",
+     "aciklama": "Bilgisayar Programcılığı (Internet)"
+    },
+    {
+     "kod": "4399",
+     "aciklama": "Web Teknolojileri ve Programlama"
+    },
+    {
+     "kod": "8506",
+     "aciklama": "Bilgisayar Programlama"
+    },
+    {
+     "kod": "9473",
+     "aciklama": "Bilgisayar Bilimleri"
+    },
+    {
+     "kod": "3253",
+     "aciklama": "Aşağıdaki önlisans programlarından birinden mezun olmak."
+    },
+    {
+     "kod": "1120",
+     "aciklama": "Bilgisayar Operatörlüğü ve Teknikerliği"
+    },
+    {
+     "kod": "4218",
+     "aciklama": "Bilgisayar"
+    },
+    {
+     "kod": "8501",
+     "aciklama": "Bilgisayar Operatörlüğü"
+    },
+    {
+     "kod": "8504",
+     "aciklama": "Bilgi İşlem"
+    },
+    {
+     "kod": "3254",
+     "aciklama": "Aşağıdaki önlisans programlarından birinden mezun olmak."
+    },
+    {
+     "kod": "1352",
+     "aciklama": "Bilgi Yönetimi (Internet)"
+    },
+    {
+     "kod": "5310",
+     "aciklama": "Bilgi Yönetimi"
+    },
+    {
+     "kod": "8508",
+     "aciklama": "Bilişim-Yönetim"
+    },
+    {
+     "kod": "3407",
+     "aciklama": "Aşağıdaki önlisans programlarından birinden mezun olmak."
+    },
+    {
+     "kod": "4217",
+     "aciklama": "Bilgi Teknolojileri"
+    },
+    {
+     "kod": "3408",
+     "aciklama": "Aşağıdaki önlisans programlarından birinden mezun olmak."
+    },
+    {
+     "kod": "9214",
+     "aciklama": "Bilgi ve İletişim Teknolojileri/Bilgisayar"
+    }
+   ],
+   "sinif": null,
+   "sinif_kod": null,
+   "derece": null
+  },
+  {
+   "kadro_kodu": "206010143",
+   "kadro_guid": "69be464d-5863-ee11-b15e-a0369f7d1d8e",
+   "kurum": "Sosyal Güvenlik Kurumu",
+   "unvan": "Büro Personeli",
+   "il": "Ankara",
+   "kontenjan": 5,
+   "bos_kadro": 1,
+   "min_puan": null,
+   "max_puan": null,
+   "ogrenim": "Onlisans",
+   "nitelikler": [
+    {
+     "kod": "3247",
+     "aciklama": "Aşağıdaki önlisans programlarından birinden mezun olmak."
+    },
+    {
+     "kod": "1369",
+     "aciklama": "BİLİŞİM GÜVENLİĞİ TEKNOLOJİSİ"
+    },
+    {
+     "kod": "9104",
+     "aciklama": "Bilgi Güvenliği Teknolojisi"
+    },
+    {
+     "kod": "3248",
+     "aciklama": "Aşağıdaki önlisans programlarından birinden mezun olmak."
+    },
+    {
+     "kod": "1119",
+     "aciklama": "Bilgisayar Donanımı"
+    },
+    {
+     "kod": "1123",
+     "aciklama": "Bilgisayar ve Enformasyon Sistemleri"
+    },
+    {
+     "kod": "4221",
+     "aciklama": "Bilgisayar Teknolojileri ve Bilişim Sistemleri"
+    },
+    {
+     "kod": "4223",
+     "aciklama": "Bilişim Sistemleri ve Teknolojileri"
+    },
+    {
+     "kod": "4321",
+     "aciklama": "Muhabere ve Elektronik Bilgi Sistemleri"
+    },
+    {
+     "kod": "8507",
+     "aciklama": "Bilgisayar Teknolojileri ve Yönetimi"
+    },
+    {
+     "kod": "9075",
+     "aciklama": "Bilgisayar Teknolojisi"
+    },
+    {
+     "kod": "3249",
+     "aciklama": "Aşağıdaki önlisans programlarından birinden mezun olmak."
+    },
+    {
+     "kod": "1121",
+     "aciklama": "Bilgisayar Programcılığı"
+    },
+    {
+     "kod": "1122",
+     "aciklama": "Bilgisayar Teknolojisi ve Programlama"
+    },
+    {
+     "kod": "1353",
+     "aciklama": "Bilgisayar Programcılığı (Internet)"
+    },
+    {
+     "kod": "4399",
+     "aciklama": "Web Teknolojileri ve Programlama"
+    },
+    {
+     "kod": "8506",
+     "aciklama": "Bilgisayar Programlama"
+    },
+    {
+     "kod": "9473",
+     "aciklama": "Bilgisayar Bilimleri"
+    },
+    {
+     "kod": "3253",
+     "aciklama": "Aşağıdaki önlisans programlarından birinden mezun olmak."
+    },
+    {
+     "kod": "1120",
+     "aciklama": "Bilgisayar Operatörlüğü ve Teknikerliği"
+    },
+    {
+     "kod": "4218",
+     "aciklama": "Bilgisayar"
+    },
+    {
+     "kod": "8501",
+     "aciklama": "Bilgisayar Operatörlüğü"
+    },
+    {
+     "kod": "8504",
+     "aciklama": "Bilgi İşlem"
+    },
+    {
+     "kod": "3254",
+     "aciklama": "Aşağıdaki önlisans programlarından birinden mezun olmak."
+    },
+    {
+     "kod": "1352",
+     "aciklama": "Bilgi Yönetimi (Internet)"
+    },
+    {
+     "kod": "5310",
+     "aciklama": "Bilgi Yönetimi"
+    },
+    {
+     "kod": "8508",
+     "aciklama": "Bilişim-Yönetim"
+    },
+    {
+     "kod": "3407",
+     "aciklama": "Aşağıdaki önlisans programlarından birinden mezun olmak."
+    },
+    {
+     "kod": "4217",
+     "aciklama": "Bilgi Teknolojileri"
+    },
+    {
+     "kod": "3408",
+     "aciklama": "Aşağıdaki önlisans programlarından birinden mezun olmak."
+    },
+    {
+     "kod": "9214",
+     "aciklama": "Bilgi ve İletişim Teknolojileri/Bilgisayar"
+    }
+   ],
+   "sinif": null,
+   "sinif_kod": null,
+   "derece": null
+  },
+  {
+   "kadro_kodu": "206010150",
+   "kadro_guid": "6abe464d-5863-ee11-b15e-a0369f7d1d8e",
+   "kurum": "Sosyal Güvenlik Kurumu",
+   "unvan": "Büro Personeli",
+   "il": "Ankara",
+   "kontenjan": 46,
+   "bos_kadro": 1,
+   "min_puan": null,
+   "max_puan": null,
+   "ogrenim": "Onlisans",
+   "nitelikler": [
+    {
+     "kod": "3004",
+     "aciklama": "Aşağıdaki önlisans programlarından birinden mezun olmak."
+    },
+    {
+     "kod": "9098",
+     "aciklama": "Sosyal Güvenlik"
+    }
+   ],
+   "sinif": null,
+   "sinif_kod": null,
+   "derece": null
+  },
+  {
+   "kadro_kodu": "206010668",
+   "kadro_guid": "72be464d-5863-ee11-b15e-a0369f7d1d8e",
+   "kurum": "Sosyal Güvenlik Kurumu",
+   "unvan": "Koruma ve Güvenlik Görevlisi",
+   "il": "Ankara",
+   "kontenjan": 3,
+   "bos_kadro": 0,
+   "min_puan": null,
+   "max_puan": null,
+   "ogrenim": "Onlisans",
+   "nitelikler": [
+    {
+     "kod": "3389",
+     "aciklama": "Aşağıdaki önlisans programlarından birinden mezun olmak."
+    },
+    {
+     "kod": "4275",
+     "aciklama": "Güvenlik"
+    },
+    {
+     "kod": "5353",
+     "aciklama": "Özel Güvenlik ve Koruma"
+    },
+    {
+     "kod": "5359",
+     "aciklama": "Savunma ve Güvenlik"
+    },
+    {
+     "kod": "9181",
+     "aciklama": "Güvenli ve Koruma"
+    },
+    {
+     "kod": "9182",
+     "aciklama": "Kamu Güvenlik ve Asayişin Sağlanması"
+    },
+    {
+     "kod": "6551",
+     "aciklama": "Özel Güvenlik Görevlisi Kimlik Kartına Sahip olmak."
+    },
+    {
+     "kod": "7300",
+     "aciklama": "Bu kadro/pozisyonda vardiya sistemi uygulanmaktadır."
+    },
+    {
+     "kod": "7303",
+     "aciklama": "(Bakınız Başvurma Özel Şartları Bölümü Koruma ve Güvenlik Görevlisi)."
+    }
+   ],
+   "sinif": null,
+   "sinif_kod": null,
+   "derece": null
+  },
+  {
+   "kadro_kodu": "206010157",
+   "kadro_guid": "7dbe464d-5863-ee11-b15e-a0369f7d1d8e",
+   "kurum": "Sosyal Güvenlik Kurumu",
+   "unvan": "Büro Personeli",
+   "il": "Antalya",
+   "kontenjan": 15,
+   "bos_kadro": 1,
+   "min_puan": null,
+   "max_puan": null,
+   "ogrenim": "Onlisans",
+   "nitelikler": [
+    {
+     "kod": "3004",
+     "aciklama": "Aşağıdaki önlisans programlarından birinden mezun olmak."
+    },
+    {
+     "kod": "9098",
+     "aciklama": "Sosyal Güvenlik"
+    }
+   ],
+   "sinif": null,
+   "sinif_kod": null,
+   "derece": null
+  },
+  {
+   "kadro_kodu": "206010164",
+   "kadro_guid": "7fbe464d-5863-ee11-b15e-a0369f7d1d8e",
+   "kurum": "Sosyal Güvenlik Kurumu",
+   "unvan": "Büro Personeli",
+   "il": "Artvin",
+   "kontenjan": 2,
+   "bos_kadro": 1,
+   "min_puan": null,
+   "max_puan": null,
+   "ogrenim": "Onlisans",
+   "nitelikler": [
+    {
+     "kod": "3004",
+     "aciklama": "Aşağıdaki önlisans programlarından birinden mezun olmak."
+    },
+    {
+     "kod": "9098",
+     "aciklama": "Sosyal Güvenlik"
+    }
+   ],
+   "sinif": null,
+   "sinif_kod": null,
+   "derece": null
+  },
+  {
+   "kadro_kodu": "206010171",
+   "kadro_guid": "82be464d-5863-ee11-b15e-a0369f7d1d8e",
+   "kurum": "Sosyal Güvenlik Kurumu",
+   "unvan": "Büro Personeli",
+   "il": "Aydın",
+   "kontenjan": 7,
+   "bos_kadro": 2,
+   "min_puan": null,
+   "max_puan": null,
+   "ogrenim": "Onlisans",
+   "nitelikler": [
+    {
+     "kod": "3004",
+     "aciklama": "Aşağıdaki önlisans programlarından birinden mezun olmak."
+    },
+    {
+     "kod": "9098",
+     "aciklama": "Sosyal Güvenlik"
+    }
+   ],
+   "sinif": null,
+   "sinif_kod": null,
+   "derece": null
+  },
+  {
+   "kadro_kodu": "206010178",
+   "kadro_guid": "83be464d-5863-ee11-b15e-a0369f7d1d8e",
+   "kurum": "Sosyal Güvenlik Kurumu",
+   "unvan": "Büro Personeli",
+   "il": "Balıkesir",
+   "kontenjan": 5,
+   "bos_kadro": 1,
+   "min_puan": null,
+   "max_puan": null,
+   "ogrenim": "Onlisans",
+   "nitelikler": [
+    {
+     "kod": "3004",
+     "aciklama": "Aşağıdaki önlisans programlarından birinden mezun olmak."
+    },
+    {
+     "kod": "9098",
+     "aciklama": "Sosyal Güvenlik"
+    }
+   ],
+   "sinif": null,
+   "sinif_kod": null,
+   "derece": null
+  },
+  {
+   "kadro_kodu": "206010675",
+   "kadro_guid": "85be464d-5863-ee11-b15e-a0369f7d1d8e",
+   "kurum": "Sosyal Güvenlik Kurumu",
+   "unvan": "Koruma ve Güvenlik Görevlisi",
+   "il": "Balıkesir",
+   "kontenjan": 1,
+   "bos_kadro": 0,
+   "min_puan": null,
+   "max_puan": null,
+   "ogrenim": "Onlisans",
+   "nitelikler": [
+    {
+     "kod": "3389",
+     "aciklama": "Aşağıdaki önlisans programlarından birinden mezun olmak."
+    },
+    {
+     "kod": "4275",
+     "aciklama": "Güvenlik"
+    },
+    {
+     "kod": "5353",
+     "aciklama": "Özel Güvenlik ve Koruma"
+    },
+    {
+     "kod": "5359",
+     "aciklama": "Savunma ve Güvenlik"
+    },
+    {
+     "kod": "9181",
+     "aciklama": "Güvenli ve Koruma"
+    },
+    {
+     "kod": "9182",
+     "aciklama": "Kamu Güvenlik ve Asayişin Sağlanması"
+    },
+    {
+     "kod": "6551",
+     "aciklama": "Özel Güvenlik Görevlisi Kimlik Kartına Sahip olmak."
+    },
+    {
+     "kod": "7300",
+     "aciklama": "Bu kadro/pozisyonda vardiya sistemi uygulanmaktadır."
+    },
+    {
+     "kod": "7303",
+     "aciklama": "(Bakınız Başvurma Özel Şartları Bölümü Koruma ve Güvenlik Görevlisi)."
+    }
+   ],
+   "sinif": null,
+   "sinif_kod": null,
+   "derece": null
+  },
+  {
+   "kadro_kodu": "206010185",
+   "kadro_guid": "8bbe464d-5863-ee11-b15e-a0369f7d1d8e",
+   "kurum": "Sosyal Güvenlik Kurumu",
+   "unvan": "Büro Personeli",
+   "il": "Bilecik",
+   "kontenjan": 2,
+   "bos_kadro": 0,
+   "min_puan": null,
+   "max_puan": null,
+   "ogrenim": "Onlisans",
+   "nitelikler": [
+    {
+     "kod": "3004",
+     "aciklama": "Aşağıdaki önlisans programlarından birinden mezun olmak."
+    },
+    {
+     "kod": "9098",
+     "aciklama": "Sosyal Güvenlik"
+    }
+   ],
+   "sinif": null,
+   "sinif_kod": null,
+   "derece": null
+  },
+  {
+   "kadro_kodu": "206010192",
+   "kadro_guid": "8ebe464d-5863-ee11-b15e-a0369f7d1d8e",
+   "kurum": "Sosyal Güvenlik Kurumu",
+   "unvan": "Büro Personeli",
+   "il": "Bitlis",
+   "kontenjan": 2,
+   "bos_kadro": 1,
+   "min_puan": null,
+   "max_puan": null,
+   "ogrenim": "Onlisans",
+   "nitelikler": [
+    {
+     "kod": "3004",
+     "aciklama": "Aşağıdaki önlisans programlarından birinden mezun olmak."
+    },
+    {
+     "kod": "9098",
+     "aciklama": "Sosyal Güvenlik"
+    }
+   ],
+   "sinif": null,
+   "sinif_kod": null,
+   "derece": null
+  },
+  {
+   "kadro_kodu": "206010199",
+   "kadro_guid": "8fbe464d-5863-ee11-b15e-a0369f7d1d8e",
+   "kurum": "Sosyal Güvenlik Kurumu",
+   "unvan": "Büro Personeli",
+   "il": "Bolu",
+   "kontenjan": 3,
+   "bos_kadro": 0,
+   "min_puan": null,
+   "max_puan": null,
+   "ogrenim": "Onlisans",
+   "nitelikler": [
+    {
+     "kod": "3004",
+     "aciklama": "Aşağıdaki önlisans programlarından birinden mezun olmak."
+    },
+    {
+     "kod": "9098",
+     "aciklama": "Sosyal Güvenlik"
+    }
+   ],
+   "sinif": null,
+   "sinif_kod": null,
+   "derece": null
+  },
+  {
+   "kadro_kodu": "206010206",
+   "kadro_guid": "90be464d-5863-ee11-b15e-a0369f7d1d8e",
+   "kurum": "Sosyal Güvenlik Kurumu",
+   "unvan": "Büro Personeli",
+   "il": "Burdur",
+   "kontenjan": 2,
+   "bos_kadro": 0,
+   "min_puan": null,
+   "max_puan": null,
+   "ogrenim": "Onlisans",
+   "nitelikler": [
+    {
+     "kod": "3004",
+     "aciklama": "Aşağıdaki önlisans programlarından birinden mezun olmak."
+    },
+    {
+     "kod": "9098",
+     "aciklama": "Sosyal Güvenlik"
+    }
+   ],
+   "sinif": null,
+   "sinif_kod": null,
+   "derece": null
+  },
+  {
+   "kadro_kodu": "206010213",
+   "kadro_guid": "91be464d-5863-ee11-b15e-a0369f7d1d8e",
+   "kurum": "Sosyal Güvenlik Kurumu",
+   "unvan": "Büro Personeli",
+   "il": "Bursa",
+   "kontenjan": 17,
+   "bos_kadro": 1,
+   "min_puan": null,
+   "max_puan": null,
+   "ogrenim": "Onlisans",
+   "nitelikler": [
+    {
+     "kod": "3004",
+     "aciklama": "Aşağıdaki önlisans programlarından birinden mezun olmak."
+    },
+    {
+     "kod": "9098",
+     "aciklama": "Sosyal Güvenlik"
+    }
+   ],
+   "sinif": null,
+   "sinif_kod": null,
+   "derece": null
+  },
+  {
+   "kadro_kodu": "206010220",
+   "kadro_guid": "95be464d-5863-ee11-b15e-a0369f7d1d8e",
+   "kurum": "Sosyal Güvenlik Kurumu",
+   "unvan": "Büro Personeli",
+   "il": "Çanakkale",
+   "kontenjan": 5,
+   "bos_kadro": 2,
+   "min_puan": null,
+   "max_puan": null,
+   "ogrenim": "Onlisans",
+   "nitelikler": [
+    {
+     "kod": "3004",
+     "aciklama": "Aşağıdaki önlisans programlarından birinden mezun olmak."
+    },
+    {
+     "kod": "9098",
+     "aciklama": "Sosyal Güvenlik"
+    }
+   ],
+   "sinif": null,
+   "sinif_kod": null,
+   "derece": null
+  },
+  {
+   "kadro_kodu": "206010682",
+   "kadro_guid": "96be464d-5863-ee11-b15e-a0369f7d1d8e",
+   "kurum": "Sosyal Güvenlik Kurumu",
+   "unvan": "Koruma ve Güvenlik Görevlisi",
+   "il": "Çanakkale",
+   "kontenjan": 1,
+   "bos_kadro": 0,
+   "min_puan": null,
+   "max_puan": null,
+   "ogrenim": "Onlisans",
+   "nitelikler": [
+    {
+     "kod": "3389",
+     "aciklama": "Aşağıdaki önlisans programlarından birinden mezun olmak."
+    },
+    {
+     "kod": "4275",
+     "aciklama": "Güvenlik"
+    },
+    {
+     "kod": "5353",
+     "aciklama": "Özel Güvenlik ve Koruma"
+    },
+    {
+     "kod": "5359",
+     "aciklama": "Savunma ve Güvenlik"
+    },
+    {
+     "kod": "9181",
+     "aciklama": "Güvenli ve Koruma"
+    },
+    {
+     "kod": "9182",
+     "aciklama": "Kamu Güvenlik ve Asayişin Sağlanması"
+    },
+    {
+     "kod": "6551",
+     "aciklama": "Özel Güvenlik Görevlisi Kimlik Kartına Sahip olmak."
+    },
+    {
+     "kod": "7300",
+     "aciklama": "Bu kadro/pozisyonda vardiya sistemi uygulanmaktadır."
+    },
+    {
+     "kod": "7303",
+     "aciklama": "(Bakınız Başvurma Özel Şartları Bölümü Koruma ve Güvenlik Görevlisi)."
+    }
+   ],
+   "sinif": null,
+   "sinif_kod": null,
+   "derece": null
+  },
+  {
+   "kadro_kodu": "206010227",
+   "kadro_guid": "97be464d-5863-ee11-b15e-a0369f7d1d8e",
+   "kurum": "Sosyal Güvenlik Kurumu",
+   "unvan": "Büro Personeli",
+   "il": "Çankırı",
+   "kontenjan": 5,
+   "bos_kadro": 2,
+   "min_puan": null,
+   "max_puan": null,
+   "ogrenim": "Onlisans",
+   "nitelikler": [
+    {
+     "kod": "3004",
+     "aciklama": "Aşağıdaki önlisans programlarından birinden mezun olmak."
+    },
+    {
+     "kod": "9098",
+     "aciklama": "Sosyal Güvenlik"
+    }
+   ],
+   "sinif": null,
+   "sinif_kod": null,
+   "derece": null
+  },
+  {
+   "kadro_kodu": "206010234",
+   "kadro_guid": "98be464d-5863-ee11-b15e-a0369f7d1d8e",
+   "kurum": "Sosyal Güvenlik Kurumu",
+   "unvan": "Büro Personeli",
+   "il": "Çorum",
+   "kontenjan": 4,
+   "bos_kadro": 1,
+   "min_puan": null,
+   "max_puan": null,
+   "ogrenim": "Onlisans",
+   "nitelikler": [
+    {
+     "kod": "3004",
+     "aciklama": "Aşağıdaki önlisans programlarından birinden mezun olmak."
+    },
+    {
+     "kod": "9098",
+     "aciklama": "Sosyal Güvenlik"
+    }
+   ],
+   "sinif": null,
+   "sinif_kod": null,
+   "derece": null
+  },
+  {
+   "kadro_kodu": "206010241",
+   "kadro_guid": "9bbe464d-5863-ee11-b15e-a0369f7d1d8e",
+   "kurum": "Sosyal Güvenlik Kurumu",
+   "unvan": "Büro Personeli",
+   "il": "Denizli",
+   "kontenjan": 5,
+   "bos_kadro": 1,
+   "min_puan": null,
+   "max_puan": null,
+   "ogrenim": "Onlisans",
+   "nitelikler": [
+    {
+     "kod": "3004",
+     "aciklama": "Aşağıdaki önlisans programlarından birinden mezun olmak."
+    },
+    {
+     "kod": "9098",
+     "aciklama": "Sosyal Güvenlik"
+    }
+   ],
+   "sinif": null,
+   "sinif_kod": null,
+   "derece": null
+  },
+  {
+   "kadro_kodu": "206010689",
+   "kadro_guid": "9cbe464d-5863-ee11-b15e-a0369f7d1d8e",
+   "kurum": "Sosyal Güvenlik Kurumu",
+   "unvan": "Koruma ve Güvenlik Görevlisi",
+   "il": "Denizli",
+   "kontenjan": 1,
+   "bos_kadro": 0,
+   "min_puan": null,
+   "max_puan": null,
+   "ogrenim": "Onlisans",
+   "nitelikler": [
+    {
+     "kod": "3389",
+     "aciklama": "Aşağıdaki önlisans programlarından birinden mezun olmak."
+    },
+    {
+     "kod": "4275",
+     "aciklama": "Güvenlik"
+    },
+    {
+     "kod": "5353",
+     "aciklama": "Özel Güvenlik ve Koruma"
+    },
+    {
+     "kod": "5359",
+     "aciklama": "Savunma ve Güvenlik"
+    },
+    {
+     "kod": "9181",
+     "aciklama": "Güvenli ve Koruma"
+    },
+    {
+     "kod": "9182",
+     "aciklama": "Kamu Güvenlik ve Asayişin Sağlanması"
+    },
+    {
+     "kod": "6551",
+     "aciklama": "Özel Güvenlik Görevlisi Kimlik Kartına Sahip olmak."
+    },
+    {
+     "kod": "7300",
+     "aciklama": "Bu kadro/pozisyonda vardiya sistemi uygulanmaktadır."
+    },
+    {
+     "kod": "7303",
+     "aciklama": "(Bakınız Başvurma Özel Şartları Bölümü Koruma ve Güvenlik Görevlisi)."
+    }
+   ],
+   "sinif": null,
+   "sinif_kod": null,
+   "derece": null
+  },
+  {
+   "kadro_kodu": "206010248",
+   "kadro_guid": "9fbe464d-5863-ee11-b15e-a0369f7d1d8e",
+   "kurum": "Sosyal Güvenlik Kurumu",
+   "unvan": "Büro Personeli",
+   "il": "Diyarbakır",
+   "kontenjan": 7,
+   "bos_kadro": 1,
+   "min_puan": null,
+   "max_puan": null,
+   "ogrenim": "Onlisans",
+   "nitelikler": [
+    {
+     "kod": "3004",
+     "aciklama": "Aşağıdaki önlisans programlarından birinden mezun olmak."
+    },
+    {
+     "kod": "9098",
+     "aciklama": "Sosyal Güvenlik"
+    }
+   ],
+   "sinif": null,
+   "sinif_kod": null,
+   "derece": null
+  },
+  {
+   "kadro_kodu": "206010696",
+   "kadro_guid": "9ebe464d-5863-ee11-b15e-a0369f7d1d8e",
+   "kurum": "Sosyal Güvenlik Kurumu",
+   "unvan": "Koruma ve Güvenlik Görevlisi",
+   "il": "Diyarbakır",
+   "kontenjan": 1,
+   "bos_kadro": 0,
+   "min_puan": null,
+   "max_puan": null,
+   "ogrenim": "Onlisans",
+   "nitelikler": [
+    {
+     "kod": "3389",
+     "aciklama": "Aşağıdaki önlisans programlarından birinden mezun olmak."
+    },
+    {
+     "kod": "4275",
+     "aciklama": "Güvenlik"
+    },
+    {
+     "kod": "5353",
+     "aciklama": "Özel Güvenlik ve Koruma"
+    },
+    {
+     "kod": "5359",
+     "aciklama": "Savunma ve Güvenlik"
+    },
+    {
+     "kod": "9181",
+     "aciklama": "Güvenli ve Koruma"
+    },
+    {
+     "kod": "9182",
+     "aciklama": "Kamu Güvenlik ve Asayişin Sağlanması"
+    },
+    {
+     "kod": "6551",
+     "aciklama": "Özel Güvenlik Görevlisi Kimlik Kartına Sahip olmak."
+    },
+    {
+     "kod": "7300",
+     "aciklama": "Bu kadro/pozisyonda vardiya sistemi uygulanmaktadır."
+    },
+    {
+     "kod": "7303",
+     "aciklama": "(Bakınız Başvurma Özel Şartları Bölümü Koruma ve Güvenlik Görevlisi)."
+    }
+   ],
+   "sinif": null,
+   "sinif_kod": null,
+   "derece": null
+  },
+  {
+   "kadro_kodu": "206010255",
+   "kadro_guid": "a3be464d-5863-ee11-b15e-a0369f7d1d8e",
+   "kurum": "Sosyal Güvenlik Kurumu",
+   "unvan": "Büro Personeli",
+   "il": "Edirne",
+   "kontenjan": 4,
+   "bos_kadro": 0,
+   "min_puan": null,
+   "max_puan": null,
+   "ogrenim": "Onlisans",
+   "nitelikler": [
+    {
+     "kod": "3004",
+     "aciklama": "Aşağıdaki önlisans programlarından birinden mezun olmak."
+    },
+    {
+     "kod": "9098",
+     "aciklama": "Sosyal Güvenlik"
+    }
+   ],
+   "sinif": null,
+   "sinif_kod": null,
+   "derece": null
+  },
+  {
+   "kadro_kodu": "206010262",
+   "kadro_guid": "a6be464d-5863-ee11-b15e-a0369f7d1d8e",
+   "kurum": "Sosyal Güvenlik Kurumu",
+   "unvan": "Büro Personeli",
+   "il": "Elazığ",
+   "kontenjan": 3,
+   "bos_kadro": 0,
+   "min_puan": null,
+   "max_puan": null,
+   "ogrenim": "Onlisans",
+   "nitelikler": [
+    {
+     "kod": "3004",
+     "aciklama": "Aşağıdaki önlisans programlarından birinden mezun olmak."
+    },
+    {
+     "kod": "9098",
+     "aciklama": "Sosyal Güvenlik"
+    }
+   ],
+   "sinif": null,
+   "sinif_kod": null,
+   "derece": null
+  },
+  {
+   "kadro_kodu": "206010269",
+   "kadro_guid": "a7be464d-5863-ee11-b15e-a0369f7d1d8e",
+   "kurum": "Sosyal Güvenlik Kurumu",
+   "unvan": "Büro Personeli",
+   "il": "Erzincan",
+   "kontenjan": 3,
+   "bos_kadro": 0,
+   "min_puan": null,
+   "max_puan": null,
+   "ogrenim": "Onlisans",
+   "nitelikler": [
+    {
+     "kod": "3004",
+     "aciklama": "Aşağıdaki önlisans programlarından birinden mezun olmak."
+    },
+    {
+     "kod": "9098",
+     "aciklama": "Sosyal Güvenlik"
+    }
+   ],
+   "sinif": null,
+   "sinif_kod": null,
+   "derece": null
+  },
+  {
+   "kadro_kodu": "206010276",
+   "kadro_guid": "a8be464d-5863-ee11-b15e-a0369f7d1d8e",
+   "kurum": "Sosyal Güvenlik Kurumu",
+   "unvan": "Büro Personeli",
+   "il": "Erzurum",
+   "kontenjan": 5,
+   "bos_kadro": 0,
+   "min_puan": null,
+   "max_puan": null,
+   "ogrenim": "Onlisans",
+   "nitelikler": [
+    {
+     "kod": "3004",
+     "aciklama": "Aşağıdaki önlisans programlarından birinden mezun olmak."
+    },
+    {
+     "kod": "9098",
+     "aciklama": "Sosyal Güvenlik"
+    }
+   ],
+   "sinif": null,
+   "sinif_kod": null,
+   "derece": null
+  },
+  {
+   "kadro_kodu": "206010283",
+   "kadro_guid": "a9be464d-5863-ee11-b15e-a0369f7d1d8e",
+   "kurum": "Sosyal Güvenlik Kurumu",
+   "unvan": "Büro Personeli",
+   "il": "Eskişehir",
+   "kontenjan": 4,
+   "bos_kadro": 1,
+   "min_puan": null,
+   "max_puan": null,
+   "ogrenim": "Onlisans",
+   "nitelikler": [
+    {
+     "kod": "3004",
+     "aciklama": "Aşağıdaki önlisans programlarından birinden mezun olmak."
+    },
+    {
+     "kod": "9098",
+     "aciklama": "Sosyal Güvenlik"
+    }
+   ],
+   "sinif": null,
+   "sinif_kod": null,
+   "derece": null
+  },
+  {
+   "kadro_kodu": "206010290",
+   "kadro_guid": "aebe464d-5863-ee11-b15e-a0369f7d1d8e",
+   "kurum": "Sosyal Güvenlik Kurumu",
+   "unvan": "Büro Personeli",
+   "il": "Gaziantep",
+   "kontenjan": 9,
+   "bos_kadro": 2,
+   "min_puan": null,
+   "max_puan": null,
+   "ogrenim": "Onlisans",
+   "nitelikler": [
+    {
+     "kod": "3004",
+     "aciklama": "Aşağıdaki önlisans programlarından birinden mezun olmak."
+    },
+    {
+     "kod": "9098",
+     "aciklama": "Sosyal Güvenlik"
+    }
+   ],
+   "sinif": null,
+   "sinif_kod": null,
+   "derece": null
+  },
+  {
+   "kadro_kodu": "206010297",
+   "kadro_guid": "afbe464d-5863-ee11-b15e-a0369f7d1d8e",
+   "kurum": "Sosyal Güvenlik Kurumu",
+   "unvan": "Büro Personeli",
+   "il": "Giresun",
+   "kontenjan": 4,
+   "bos_kadro": 1,
+   "min_puan": null,
+   "max_puan": null,
+   "ogrenim": "Onlisans",
+   "nitelikler": [
+    {
+     "kod": "3004",
+     "aciklama": "Aşağıdaki önlisans programlarından birinden mezun olmak."
+    },
+    {
+     "kod": "9098",
+     "aciklama": "Sosyal Güvenlik"
+    }
+   ],
+   "sinif": null,
+   "sinif_kod": null,
+   "derece": null
+  },
+  {
+   "kadro_kodu": "206010304",
+   "kadro_guid": "b1be464d-5863-ee11-b15e-a0369f7d1d8e",
+   "kurum": "Sosyal Güvenlik Kurumu",
+   "unvan": "Büro Personeli",
+   "il": "Gümüşhane",
+   "kontenjan": 1,
+   "bos_kadro": 1,
+   "min_puan": null,
+   "max_puan": null,
+   "ogrenim": "Onlisans",
+   "nitelikler": [
+    {
+     "kod": "3004",
+     "aciklama": "Aşağıdaki önlisans programlarından birinden mezun olmak."
+    },
+    {
+     "kod": "9098",
+     "aciklama": "Sosyal Güvenlik"
+    }
+   ],
+   "sinif": null,
+   "sinif_kod": null,
+   "derece": null
+  },
+  {
+   "kadro_kodu": "206010311",
+   "kadro_guid": "b2be464d-5863-ee11-b15e-a0369f7d1d8e",
+   "kurum": "Sosyal Güvenlik Kurumu",
+   "unvan": "Büro Personeli",
+   "il": "Hakkari",
+   "kontenjan": 2,
+   "bos_kadro": 0,
+   "min_puan": null,
+   "max_puan": null,
+   "ogrenim": "Onlisans",
+   "nitelikler": [
+    {
+     "kod": "3004",
+     "aciklama": "Aşağıdaki önlisans programlarından birinden mezun olmak."
+    },
+    {
+     "kod": "9098",
+     "aciklama": "Sosyal Güvenlik"
+    }
+   ],
+   "sinif": null,
+   "sinif_kod": null,
+   "derece": null
+  },
+  {
+   "kadro_kodu": "206010318",
+   "kadro_guid": "b5be464d-5863-ee11-b15e-a0369f7d1d8e",
+   "kurum": "Sosyal Güvenlik Kurumu",
+   "unvan": "Büro Personeli",
+   "il": "Hatay",
+   "kontenjan": 15,
+   "bos_kadro": 1,
+   "min_puan": null,
+   "max_puan": null,
+   "ogrenim": "Onlisans",
+   "nitelikler": [
+    {
+     "kod": "3004",
+     "aciklama": "Aşağıdaki önlisans programlarından birinden mezun olmak."
+    },
+    {
+     "kod": "9098",
+     "aciklama": "Sosyal Güvenlik"
+    }
+   ],
+   "sinif": null,
+   "sinif_kod": null,
+   "derece": null
+  },
+  {
+   "kadro_kodu": "206010325",
+   "kadro_guid": "b7be464d-5863-ee11-b15e-a0369f7d1d8e",
+   "kurum": "Sosyal Güvenlik Kurumu",
+   "unvan": "Büro Personeli",
+   "il": "Isparta",
+   "kontenjan": 3,
+   "bos_kadro": 0,
+   "min_puan": null,
+   "max_puan": null,
+   "ogrenim": "Onlisans",
+   "nitelikler": [
+    {
+     "kod": "3004",
+     "aciklama": "Aşağıdaki önlisans programlarından birinden mezun olmak."
+    },
+    {
+     "kod": "9098",
+     "aciklama": "Sosyal Güvenlik"
+    }
+   ],
+   "sinif": null,
+   "sinif_kod": null,
+   "derece": null
+  },
+  {
+   "kadro_kodu": "206010332",
+   "kadro_guid": "e7be464d-5863-ee11-b15e-a0369f7d1d8e",
+   "kurum": "Sosyal Güvenlik Kurumu",
+   "unvan": "Büro Personeli",
+   "il": "Mersin",
+   "kontenjan": 6,
+   "bos_kadro": 1,
+   "min_puan": null,
+   "max_puan": null,
+   "ogrenim": "Onlisans",
+   "nitelikler": [
+    {
+     "kod": "3004",
+     "aciklama": "Aşağıdaki önlisans programlarından birinden mezun olmak."
+    },
+    {
+     "kod": "9098",
+     "aciklama": "Sosyal Güvenlik"
+    }
+   ],
+   "sinif": null,
+   "sinif_kod": null,
+   "derece": null
+  },
+  {
+   "kadro_kodu": "206010703",
+   "kadro_guid": "e8be464d-5863-ee11-b15e-a0369f7d1d8e",
+   "kurum": "Sosyal Güvenlik Kurumu",
+   "unvan": "Koruma ve Güvenlik Görevlisi",
+   "il": "Mersin",
+   "kontenjan": 1,
+   "bos_kadro": 0,
+   "min_puan": null,
+   "max_puan": null,
+   "ogrenim": "Onlisans",
+   "nitelikler": [
+    {
+     "kod": "3389",
+     "aciklama": "Aşağıdaki önlisans programlarından birinden mezun olmak."
+    },
+    {
+     "kod": "4275",
+     "aciklama": "Güvenlik"
+    },
+    {
+     "kod": "5353",
+     "aciklama": "Özel Güvenlik ve Koruma"
+    },
+    {
+     "kod": "5359",
+     "aciklama": "Savunma ve Güvenlik"
+    },
+    {
+     "kod": "9181",
+     "aciklama": "Güvenli ve Koruma"
+    },
+    {
+     "kod": "9182",
+     "aciklama": "Kamu Güvenlik ve Asayişin Sağlanması"
+    },
+    {
+     "kod": "6551",
+     "aciklama": "Özel Güvenlik Görevlisi Kimlik Kartına Sahip olmak."
+    },
+    {
+     "kod": "7300",
+     "aciklama": "Bu kadro/pozisyonda vardiya sistemi uygulanmaktadır."
+    },
+    {
+     "kod": "7303",
+     "aciklama": "(Bakınız Başvurma Özel Şartları Bölümü Koruma ve Güvenlik Görevlisi)."
+    }
+   ],
+   "sinif": null,
+   "sinif_kod": null,
+   "derece": null
+  },
+  {
+   "kadro_kodu": "206010339",
+   "kadro_guid": "bdbe464d-5863-ee11-b15e-a0369f7d1d8e",
+   "kurum": "Sosyal Güvenlik Kurumu",
+   "unvan": "Büro Personeli",
+   "il": "İstanbul",
+   "kontenjan": 250,
+   "bos_kadro": 2,
+   "min_puan": null,
+   "max_puan": null,
+   "ogrenim": "Onlisans",
+   "nitelikler": [
+    {
+     "kod": "3004",
+     "aciklama": "Aşağıdaki önlisans programlarından birinden mezun olmak."
+    },
+    {
+     "kod": "9098",
+     "aciklama": "Sosyal Güvenlik"
+    }
+   ],
+   "sinif": null,
+   "sinif_kod": null,
+   "derece": null
+  },
+  {
+   "kadro_kodu": "206010710",
+   "kadro_guid": "bcbe464d-5863-ee11-b15e-a0369f7d1d8e",
+   "kurum": "Sosyal Güvenlik Kurumu",
+   "unvan": "Koruma ve Güvenlik Görevlisi",
+   "il": "İstanbul",
+   "kontenjan": 6,
+   "bos_kadro": 0,
+   "min_puan": null,
+   "max_puan": null,
+   "ogrenim": "Onlisans",
+   "nitelikler": [
+    {
+     "kod": "3389",
+     "aciklama": "Aşağıdaki önlisans programlarından birinden mezun olmak."
+    },
+    {
+     "kod": "4275",
+     "aciklama": "Güvenlik"
+    },
+    {
+     "kod": "5353",
+     "aciklama": "Özel Güvenlik ve Koruma"
+    },
+    {
+     "kod": "5359",
+     "aciklama": "Savunma ve Güvenlik"
+    },
+    {
+     "kod": "9181",
+     "aciklama": "Güvenli ve Koruma"
+    },
+    {
+     "kod": "9182",
+     "aciklama": "Kamu Güvenlik ve Asayişin Sağlanması"
+    },
+    {
+     "kod": "6551",
+     "aciklama": "Özel Güvenlik Görevlisi Kimlik Kartına Sahip olmak."
+    },
+    {
+     "kod": "7300",
+     "aciklama": "Bu kadro/pozisyonda vardiya sistemi uygulanmaktadır."
+    },
+    {
+     "kod": "7303",
+     "aciklama": "(Bakınız Başvurma Özel Şartları Bölümü Koruma ve Güvenlik Görevlisi)."
+    }
+   ],
+   "sinif": null,
+   "sinif_kod": null,
+   "derece": null
+  },
+  {
+   "kadro_kodu": "206010346",
+   "kadro_guid": "c0be464d-5863-ee11-b15e-a0369f7d1d8e",
+   "kurum": "Sosyal Güvenlik Kurumu",
+   "unvan": "Büro Personeli",
+   "il": "İzmir",
+   "kontenjan": 25,
+   "bos_kadro": 1,
+   "min_puan": null,
+   "max_puan": null,
+   "ogrenim": "Onlisans",
+   "nitelikler": [
+    {
+     "kod": "3004",
+     "aciklama": "Aşağıdaki önlisans programlarından birinden mezun olmak."
+    },
+    {
+     "kod": "9098",
+     "aciklama": "Sosyal Güvenlik"
+    }
+   ],
+   "sinif": null,
+   "sinif_kod": null,
+   "derece": null
+  },
+  {
+   "kadro_kodu": "206010717",
+   "kadro_guid": "c1be464d-5863-ee11-b15e-a0369f7d1d8e",
+   "kurum": "Sosyal Güvenlik Kurumu",
+   "unvan": "Koruma ve Güvenlik Görevlisi",
+   "il": "İzmir",
+   "kontenjan": 2,
+   "bos_kadro": 0,
+   "min_puan": null,
+   "max_puan": null,
+   "ogrenim": "Onlisans",
+   "nitelikler": [
+    {
+     "kod": "3389",
+     "aciklama": "Aşağıdaki önlisans programlarından birinden mezun olmak."
+    },
+    {
+     "kod": "4275",
+     "aciklama": "Güvenlik"
+    },
+    {
+     "kod": "5353",
+     "aciklama": "Özel Güvenlik ve Koruma"
+    },
+    {
+     "kod": "5359",
+     "aciklama": "Savunma ve Güvenlik"
+    },
+    {
+     "kod": "9181",
+     "aciklama": "Güvenli ve Koruma"
+    },
+    {
+     "kod": "9182",
+     "aciklama": "Kamu Güvenlik ve Asayişin Sağlanması"
+    },
+    {
+     "kod": "6551",
+     "aciklama": "Özel Güvenlik Görevlisi Kimlik Kartına Sahip olmak."
+    },
+    {
+     "kod": "7300",
+     "aciklama": "Bu kadro/pozisyonda vardiya sistemi uygulanmaktadır."
+    },
+    {
+     "kod": "7303",
+     "aciklama": "(Bakınız Başvurma Özel Şartları Bölümü Koruma ve Güvenlik Görevlisi)."
+    }
+   ],
+   "sinif": null,
+   "sinif_kod": null,
+   "derece": null
+  },
+  {
+   "kadro_kodu": "206010353",
+   "kadro_guid": "c9be464d-5863-ee11-b15e-a0369f7d1d8e",
+   "kurum": "Sosyal Güvenlik Kurumu",
+   "unvan": "Büro Personeli",
+   "il": "Kars",
+   "kontenjan": 3,
+   "bos_kadro": 0,
+   "min_puan": null,
+   "max_puan": null,
+   "ogrenim": "Onlisans",
+   "nitelikler": [
+    {
+     "kod": "3004",
+     "aciklama": "Aşağıdaki önlisans programlarından birinden mezun olmak."
+    },
+    {
+     "kod": "9098",
+     "aciklama": "Sosyal Güvenlik"
+    }
+   ],
+   "sinif": null,
+   "sinif_kod": null,
+   "derece": null
+  },
+  {
+   "kadro_kodu": "206010360",
+   "kadro_guid": "cabe464d-5863-ee11-b15e-a0369f7d1d8e",
+   "kurum": "Sosyal Güvenlik Kurumu",
+   "unvan": "Büro Personeli",
+   "il": "Kastamonu",
+   "kontenjan": 3,
+   "bos_kadro": 1,
+   "min_puan": null,
+   "max_puan": null,
+   "ogrenim": "Onlisans",
+   "nitelikler": [
+    {
+     "kod": "3004",
+     "aciklama": "Aşağıdaki önlisans programlarından birinden mezun olmak."
+    },
+    {
+     "kod": "9098",
+     "aciklama": "Sosyal Güvenlik"
+    }
+   ],
+   "sinif": null,
+   "sinif_kod": null,
+   "derece": null
+  },
+  {
+   "kadro_kodu": "206010367",
+   "kadro_guid": "cdbe464d-5863-ee11-b15e-a0369f7d1d8e",
+   "kurum": "Sosyal Güvenlik Kurumu",
+   "unvan": "Büro Personeli",
+   "il": "Kayseri",
+   "kontenjan": 6,
+   "bos_kadro": 0,
+   "min_puan": null,
+   "max_puan": null,
+   "ogrenim": "Onlisans",
+   "nitelikler": [
+    {
+     "kod": "3004",
+     "aciklama": "Aşağıdaki önlisans programlarından birinden mezun olmak."
+    },
+    {
+     "kod": "9098",
+     "aciklama": "Sosyal Güvenlik"
+    }
+   ],
+   "sinif": null,
+   "sinif_kod": null,
+   "derece": null
+  },
+  {
+   "kadro_kodu": "206010374",
+   "kadro_guid": "d2be464d-5863-ee11-b15e-a0369f7d1d8e",
+   "kurum": "Sosyal Güvenlik Kurumu",
+   "unvan": "Büro Personeli",
+   "il": "Kırklareli",
+   "kontenjan": 3,
+   "bos_kadro": 1,
+   "min_puan": null,
+   "max_puan": null,
+   "ogrenim": "Onlisans",
+   "nitelikler": [
+    {
+     "kod": "3004",
+     "aciklama": "Aşağıdaki önlisans programlarından birinden mezun olmak."
+    },
+    {
+     "kod": "9098",
+     "aciklama": "Sosyal Güvenlik"
+    }
+   ],
+   "sinif": null,
+   "sinif_kod": null,
+   "derece": null
+  },
+  {
+   "kadro_kodu": "206010381",
+   "kadro_guid": "d3be464d-5863-ee11-b15e-a0369f7d1d8e",
+   "kurum": "Sosyal Güvenlik Kurumu",
+   "unvan": "Büro Personeli",
+   "il": "Kırşehir",
+   "kontenjan": 1,
+   "bos_kadro": 1,
+   "min_puan": null,
+   "max_puan": null,
+   "ogrenim": "Onlisans",
+   "nitelikler": [
+    {
+     "kod": "3004",
+     "aciklama": "Aşağıdaki önlisans programlarından birinden mezun olmak."
+    },
+    {
+     "kod": "9098",
+     "aciklama": "Sosyal Güvenlik"
+    }
+   ],
+   "sinif": null,
+   "sinif_kod": null,
+   "derece": null
+  },
+  {
+   "kadro_kodu": "206010724",
+   "kadro_guid": "d4be464d-5863-ee11-b15e-a0369f7d1d8e",
+   "kurum": "Sosyal Güvenlik Kurumu",
+   "unvan": "Koruma ve Güvenlik Görevlisi",
+   "il": "Kırşehir",
+   "kontenjan": 1,
+   "bos_kadro": 0,
+   "min_puan": null,
+   "max_puan": null,
+   "ogrenim": "Onlisans",
+   "nitelikler": [
+    {
+     "kod": "3389",
+     "aciklama": "Aşağıdaki önlisans programlarından birinden mezun olmak."
+    },
+    {
+     "kod": "4275",
+     "aciklama": "Güvenlik"
+    },
+    {
+     "kod": "5353",
+     "aciklama": "Özel Güvenlik ve Koruma"
+    },
+    {
+     "kod": "5359",
+     "aciklama": "Savunma ve Güvenlik"
+    },
+    {
+     "kod": "9181",
+     "aciklama": "Güvenli ve Koruma"
+    },
+    {
+     "kod": "9182",
+     "aciklama": "Kamu Güvenlik ve Asayişin Sağlanması"
+    },
+    {
+     "kod": "6551",
+     "aciklama": "Özel Güvenlik Görevlisi Kimlik Kartına Sahip olmak."
+    },
+    {
+     "kod": "7300",
+     "aciklama": "Bu kadro/pozisyonda vardiya sistemi uygulanmaktadır."
+    },
+    {
+     "kod": "7303",
+     "aciklama": "(Bakınız Başvurma Özel Şartları Bölümü Koruma ve Güvenlik Görevlisi)."
+    }
+   ],
+   "sinif": null,
+   "sinif_kod": null,
+   "derece": null
+  },
+  {
+   "kadro_kodu": "206010388",
+   "kadro_guid": "d7be464d-5863-ee11-b15e-a0369f7d1d8e",
+   "kurum": "Sosyal Güvenlik Kurumu",
+   "unvan": "Büro Personeli",
+   "il": "Kocaeli",
+   "kontenjan": 24,
+   "bos_kadro": 1,
+   "min_puan": null,
+   "max_puan": null,
+   "ogrenim": "Onlisans",
+   "nitelikler": [
+    {
+     "kod": "3004",
+     "aciklama": "Aşağıdaki önlisans programlarından birinden mezun olmak."
+    },
+    {
+     "kod": "9098",
+     "aciklama": "Sosyal Güvenlik"
+    }
+   ],
+   "sinif": null,
+   "sinif_kod": null,
+   "derece": null
+  },
+  {
+   "kadro_kodu": "206010395",
+   "kadro_guid": "d9be464d-5863-ee11-b15e-a0369f7d1d8e",
+   "kurum": "Sosyal Güvenlik Kurumu",
+   "unvan": "Büro Personeli",
+   "il": "Konya",
+   "kontenjan": 5,
+   "bos_kadro": 1,
+   "min_puan": null,
+   "max_puan": null,
+   "ogrenim": "Onlisans",
+   "nitelikler": [
+    {
+     "kod": "3004",
+     "aciklama": "Aşağıdaki önlisans programlarından birinden mezun olmak."
+    },
+    {
+     "kod": "9098",
+     "aciklama": "Sosyal Güvenlik"
+    }
+   ],
+   "sinif": null,
+   "sinif_kod": null,
+   "derece": null
+  },
+  {
+   "kadro_kodu": "206010731",
+   "kadro_guid": "dabe464d-5863-ee11-b15e-a0369f7d1d8e",
+   "kurum": "Sosyal Güvenlik Kurumu",
+   "unvan": "Koruma ve Güvenlik Görevlisi",
+   "il": "Konya",
+   "kontenjan": 1,
+   "bos_kadro": 0,
+   "min_puan": null,
+   "max_puan": null,
+   "ogrenim": "Onlisans",
+   "nitelikler": [
+    {
+     "kod": "3389",
+     "aciklama": "Aşağıdaki önlisans programlarından birinden mezun olmak."
+    },
+    {
+     "kod": "4275",
+     "aciklama": "Güvenlik"
+    },
+    {
+     "kod": "5353",
+     "aciklama": "Özel Güvenlik ve Koruma"
+    },
+    {
+     "kod": "5359",
+     "aciklama": "Savunma ve Güvenlik"
+    },
+    {
+     "kod": "9181",
+     "aciklama": "Güvenli ve Koruma"
+    },
+    {
+     "kod": "9182",
+     "aciklama": "Kamu Güvenlik ve Asayişin Sağlanması"
+    },
+    {
+     "kod": "6551",
+     "aciklama": "Özel Güvenlik Görevlisi Kimlik Kartına Sahip olmak."
+    },
+    {
+     "kod": "7300",
+     "aciklama": "Bu kadro/pozisyonda vardiya sistemi uygulanmaktadır."
+    },
+    {
+     "kod": "7303",
+     "aciklama": "(Bakınız Başvurma Özel Şartları Bölümü Koruma ve Güvenlik Görevlisi)."
+    }
+   ],
+   "sinif": null,
+   "sinif_kod": null,
+   "derece": null
+  },
+  {
+   "kadro_kodu": "206010402",
+   "kadro_guid": "dcbe464d-5863-ee11-b15e-a0369f7d1d8e",
+   "kurum": "Sosyal Güvenlik Kurumu",
+   "unvan": "Büro Personeli",
+   "il": "Kütahya",
+   "kontenjan": 5,
+   "bos_kadro": 0,
+   "min_puan": null,
+   "max_puan": null,
+   "ogrenim": "Onlisans",
+   "nitelikler": [
+    {
+     "kod": "3004",
+     "aciklama": "Aşağıdaki önlisans programlarından birinden mezun olmak."
+    },
+    {
+     "kod": "9098",
+     "aciklama": "Sosyal Güvenlik"
+    }
+   ],
+   "sinif": null,
+   "sinif_kod": null,
+   "derece": null
+  },
+  {
+   "kadro_kodu": "206010409",
+   "kadro_guid": "ddbe464d-5863-ee11-b15e-a0369f7d1d8e",
+   "kurum": "Sosyal Güvenlik Kurumu",
+   "unvan": "Büro Personeli",
+   "il": "Malatya",
+   "kontenjan": 6,
+   "bos_kadro": 1,
+   "min_puan": null,
+   "max_puan": null,
+   "ogrenim": "Onlisans",
+   "nitelikler": [
+    {
+     "kod": "3004",
+     "aciklama": "Aşağıdaki önlisans programlarından birinden mezun olmak."
+    },
+    {
+     "kod": "9098",
+     "aciklama": "Sosyal Güvenlik"
+    }
+   ],
+   "sinif": null,
+   "sinif_kod": null,
+   "derece": null
+  },
+  {
+   "kadro_kodu": "206010416",
+   "kadro_guid": "dfbe464d-5863-ee11-b15e-a0369f7d1d8e",
+   "kurum": "Sosyal Güvenlik Kurumu",
+   "unvan": "Büro Personeli",
+   "il": "Manisa",
+   "kontenjan": 13,
+   "bos_kadro": 1,
+   "min_puan": null,
+   "max_puan": null,
+   "ogrenim": "Onlisans",
+   "nitelikler": [
+    {
+     "kod": "3004",
+     "aciklama": "Aşağıdaki önlisans programlarından birinden mezun olmak."
+    },
+    {
+     "kod": "9098",
+     "aciklama": "Sosyal Güvenlik"
+    }
+   ],
+   "sinif": null,
+   "sinif_kod": null,
+   "derece": null
+  },
+  {
+   "kadro_kodu": "206010738",
+   "kadro_guid": "e0be464d-5863-ee11-b15e-a0369f7d1d8e",
+   "kurum": "Sosyal Güvenlik Kurumu",
+   "unvan": "Koruma ve Güvenlik Görevlisi",
+   "il": "Manisa",
+   "kontenjan": 1,
+   "bos_kadro": 0,
+   "min_puan": null,
+   "max_puan": null,
+   "ogrenim": "Onlisans",
+   "nitelikler": [
+    {
+     "kod": "3389",
+     "aciklama": "Aşağıdaki önlisans programlarından birinden mezun olmak."
+    },
+    {
+     "kod": "4275",
+     "aciklama": "Güvenlik"
+    },
+    {
+     "kod": "5353",
+     "aciklama": "Özel Güvenlik ve Koruma"
+    },
+    {
+     "kod": "5359",
+     "aciklama": "Savunma ve Güvenlik"
+    },
+    {
+     "kod": "9181",
+     "aciklama": "Güvenli ve Koruma"
+    },
+    {
+     "kod": "9182",
+     "aciklama": "Kamu Güvenlik ve Asayişin Sağlanması"
+    },
+    {
+     "kod": "6551",
+     "aciklama": "Özel Güvenlik Görevlisi Kimlik Kartına Sahip olmak."
+    },
+    {
+     "kod": "7300",
+     "aciklama": "Bu kadro/pozisyonda vardiya sistemi uygulanmaktadır."
+    },
+    {
+     "kod": "7303",
+     "aciklama": "(Bakınız Başvurma Özel Şartları Bölümü Koruma ve Güvenlik Görevlisi)."
+    }
+   ],
+   "sinif": null,
+   "sinif_kod": null,
+   "derece": null
+  },
+  {
+   "kadro_kodu": "206010423",
+   "kadro_guid": "c5be464d-5863-ee11-b15e-a0369f7d1d8e",
+   "kurum": "Sosyal Güvenlik Kurumu",
+   "unvan": "Büro Personeli",
+   "il": "Kahramanmaraş",
+   "kontenjan": 10,
+   "bos_kadro": 1,
+   "min_puan": null,
+   "max_puan": null,
+   "ogrenim": "Onlisans",
+   "nitelikler": [
+    {
+     "kod": "3004",
+     "aciklama": "Aşağıdaki önlisans programlarından birinden mezun olmak."
+    },
+    {
+     "kod": "9098",
+     "aciklama": "Sosyal Güvenlik"
+    }
+   ],
+   "sinif": null,
+   "sinif_kod": null,
+   "derece": null
+  },
+  {
+   "kadro_kodu": "206010430",
+   "kadro_guid": "e1be464d-5863-ee11-b15e-a0369f7d1d8e",
+   "kurum": "Sosyal Güvenlik Kurumu",
+   "unvan": "Büro Personeli",
+   "il": "Mardin",
+   "kontenjan": 5,
+   "bos_kadro": 1,
+   "min_puan": null,
+   "max_puan": null,
+   "ogrenim": "Onlisans",
+   "nitelikler": [
+    {
+     "kod": "3004",
+     "aciklama": "Aşağıdaki önlisans programlarından birinden mezun olmak."
+    },
+    {
+     "kod": "9098",
+     "aciklama": "Sosyal Güvenlik"
+    }
+   ],
+   "sinif": null,
+   "sinif_kod": null,
+   "derece": null
+  },
+  {
+   "kadro_kodu": "206010437",
+   "kadro_guid": "e9be464d-5863-ee11-b15e-a0369f7d1d8e",
+   "kurum": "Sosyal Güvenlik Kurumu",
+   "unvan": "Büro Personeli",
+   "il": "Muğla",
+   "kontenjan": 6,
+   "bos_kadro": 1,
+   "min_puan": null,
+   "max_puan": null,
+   "ogrenim": "Onlisans",
+   "nitelikler": [
+    {
+     "kod": "3004",
+     "aciklama": "Aşağıdaki önlisans programlarından birinden mezun olmak."
+    },
+    {
+     "kod": "9098",
+     "aciklama": "Sosyal Güvenlik"
+    }
+   ],
+   "sinif": null,
+   "sinif_kod": null,
+   "derece": null
+  },
+  {
+   "kadro_kodu": "206010444",
+   "kadro_guid": "ecbe464d-5863-ee11-b15e-a0369f7d1d8e",
+   "kurum": "Sosyal Güvenlik Kurumu",
+   "unvan": "Büro Personeli",
+   "il": "Muş",
+   "kontenjan": 1,
+   "bos_kadro": 0,
+   "min_puan": null,
+   "max_puan": null,
+   "ogrenim": "Onlisans",
+   "nitelikler": [
+    {
+     "kod": "3004",
+     "aciklama": "Aşağıdaki önlisans programlarından birinden mezun olmak."
+    },
+    {
+     "kod": "9098",
+     "aciklama": "Sosyal Güvenlik"
+    }
+   ],
+   "sinif": null,
+   "sinif_kod": null,
+   "derece": null
+  },
+  {
+   "kadro_kodu": "206010451",
+   "kadro_guid": "edbe464d-5863-ee11-b15e-a0369f7d1d8e",
+   "kurum": "Sosyal Güvenlik Kurumu",
+   "unvan": "Büro Personeli",
+   "il": "Nevşehir",
+   "kontenjan": 3,
+   "bos_kadro": 1,
+   "min_puan": null,
+   "max_puan": null,
+   "ogrenim": "Onlisans",
+   "nitelikler": [
+    {
+     "kod": "3004",
+     "aciklama": "Aşağıdaki önlisans programlarından birinden mezun olmak."
+    },
+    {
+     "kod": "9098",
+     "aciklama": "Sosyal Güvenlik"
+    }
+   ],
+   "sinif": null,
+   "sinif_kod": null,
+   "derece": null
+  },
+  {
+   "kadro_kodu": "206010458",
+   "kadro_guid": "eebe464d-5863-ee11-b15e-a0369f7d1d8e",
+   "kurum": "Sosyal Güvenlik Kurumu",
+   "unvan": "Büro Personeli",
+   "il": "Niğde",
+   "kontenjan": 4,
+   "bos_kadro": 0,
+   "min_puan": null,
+   "max_puan": null,
+   "ogrenim": "Onlisans",
+   "nitelikler": [
+    {
+     "kod": "3004",
+     "aciklama": "Aşağıdaki önlisans programlarından birinden mezun olmak."
+    },
+    {
+     "kod": "9098",
+     "aciklama": "Sosyal Güvenlik"
+    }
+   ],
+   "sinif": null,
+   "sinif_kod": null,
+   "derece": null
+  },
+  {
+   "kadro_kodu": "206010465",
+   "kadro_guid": "f0be464d-5863-ee11-b15e-a0369f7d1d8e",
+   "kurum": "Sosyal Güvenlik Kurumu",
+   "unvan": "Büro Personeli",
+   "il": "Ordu",
+   "kontenjan": 4,
+   "bos_kadro": 1,
+   "min_puan": null,
+   "max_puan": null,
+   "ogrenim": "Onlisans",
+   "nitelikler": [
+    {
+     "kod": "3004",
+     "aciklama": "Aşağıdaki önlisans programlarından birinden mezun olmak."
+    },
+    {
+     "kod": "9098",
+     "aciklama": "Sosyal Güvenlik"
+    }
+   ],
+   "sinif": null,
+   "sinif_kod": null,
+   "derece": null
+  },
+  {
+   "kadro_kodu": "206010472",
+   "kadro_guid": "f2be464d-5863-ee11-b15e-a0369f7d1d8e",
+   "kurum": "Sosyal Güvenlik Kurumu",
+   "unvan": "Büro Personeli",
+   "il": "Rize",
+   "kontenjan": 4,
+   "bos_kadro": 0,
+   "min_puan": null,
+   "max_puan": null,
+   "ogrenim": "Onlisans",
+   "nitelikler": [
+    {
+     "kod": "3004",
+     "aciklama": "Aşağıdaki önlisans programlarından birinden mezun olmak."
+    },
+    {
+     "kod": "9098",
+     "aciklama": "Sosyal Güvenlik"
+    }
+   ],
+   "sinif": null,
+   "sinif_kod": null,
+   "derece": null
+  },
+  {
+   "kadro_kodu": "206010479",
+   "kadro_guid": "f5be464d-5863-ee11-b15e-a0369f7d1d8e",
+   "kurum": "Sosyal Güvenlik Kurumu",
+   "unvan": "Büro Personeli",
+   "il": "Sakarya",
+   "kontenjan": 6,
+   "bos_kadro": 2,
+   "min_puan": null,
+   "max_puan": null,
+   "ogrenim": "Onlisans",
+   "nitelikler": [
+    {
+     "kod": "3004",
+     "aciklama": "Aşağıdaki önlisans programlarından birinden mezun olmak."
+    },
+    {
+     "kod": "9098",
+     "aciklama": "Sosyal Güvenlik"
+    }
+   ],
+   "sinif": null,
+   "sinif_kod": null,
+   "derece": null
+  },
+  {
+   "kadro_kodu": "206010745",
+   "kadro_guid": "f6be464d-5863-ee11-b15e-a0369f7d1d8e",
+   "kurum": "Sosyal Güvenlik Kurumu",
+   "unvan": "Koruma ve Güvenlik Görevlisi",
+   "il": "Sakarya",
+   "kontenjan": 1,
+   "bos_kadro": 0,
+   "min_puan": null,
+   "max_puan": null,
+   "ogrenim": "Onlisans",
+   "nitelikler": [
+    {
+     "kod": "3389",
+     "aciklama": "Aşağıdaki önlisans programlarından birinden mezun olmak."
+    },
+    {
+     "kod": "4275",
+     "aciklama": "Güvenlik"
+    },
+    {
+     "kod": "5353",
+     "aciklama": "Özel Güvenlik ve Koruma"
+    },
+    {
+     "kod": "5359",
+     "aciklama": "Savunma ve Güvenlik"
+    },
+    {
+     "kod": "9181",
+     "aciklama": "Güvenli ve Koruma"
+    },
+    {
+     "kod": "9182",
+     "aciklama": "Kamu Güvenlik ve Asayişin Sağlanması"
+    },
+    {
+     "kod": "6551",
+     "aciklama": "Özel Güvenlik Görevlisi Kimlik Kartına Sahip olmak."
+    },
+    {
+     "kod": "7300",
+     "aciklama": "Bu kadro/pozisyonda vardiya sistemi uygulanmaktadır."
+    },
+    {
+     "kod": "7303",
+     "aciklama": "(Bakınız Başvurma Özel Şartları Bölümü Koruma ve Güvenlik Görevlisi)."
+    }
+   ],
+   "sinif": null,
+   "sinif_kod": null,
+   "derece": null
+  },
+  {
+   "kadro_kodu": "206010486",
+   "kadro_guid": "fabe464d-5863-ee11-b15e-a0369f7d1d8e",
+   "kurum": "Sosyal Güvenlik Kurumu",
+   "unvan": "Büro Personeli",
+   "il": "Samsun",
+   "kontenjan": 6,
+   "bos_kadro": 2,
+   "min_puan": null,
+   "max_puan": null,
+   "ogrenim": "Onlisans",
+   "nitelikler": [
+    {
+     "kod": "3004",
+     "aciklama": "Aşağıdaki önlisans programlarından birinden mezun olmak."
+    },
+    {
+     "kod": "9098",
+     "aciklama": "Sosyal Güvenlik"
+    }
+   ],
+   "sinif": null,
+   "sinif_kod": null,
+   "derece": null
+  },
+  {
+   "kadro_kodu": "206010752",
+   "kadro_guid": "f9be464d-5863-ee11-b15e-a0369f7d1d8e",
+   "kurum": "Sosyal Güvenlik Kurumu",
+   "unvan": "Koruma ve Güvenlik Görevlisi",
+   "il": "Samsun",
+   "kontenjan": 1,
+   "bos_kadro": 0,
+   "min_puan": null,
+   "max_puan": null,
+   "ogrenim": "Onlisans",
+   "nitelikler": [
+    {
+     "kod": "3389",
+     "aciklama": "Aşağıdaki önlisans programlarından birinden mezun olmak."
+    },
+    {
+     "kod": "4275",
+     "aciklama": "Güvenlik"
+    },
+    {
+     "kod": "5353",
+     "aciklama": "Özel Güvenlik ve Koruma"
+    },
+    {
+     "kod": "5359",
+     "aciklama": "Savunma ve Güvenlik"
+    },
+    {
+     "kod": "9181",
+     "aciklama": "Güvenli ve Koruma"
+    },
+    {
+     "kod": "9182",
+     "aciklama": "Kamu Güvenlik ve Asayişin Sağlanması"
+    },
+    {
+     "kod": "6551",
+     "aciklama": "Özel Güvenlik Görevlisi Kimlik Kartına Sahip olmak."
+    },
+    {
+     "kod": "7300",
+     "aciklama": "Bu kadro/pozisyonda vardiya sistemi uygulanmaktadır."
+    },
+    {
+     "kod": "7303",
+     "aciklama": "(Bakınız Başvurma Özel Şartları Bölümü Koruma ve Güvenlik Görevlisi)."
+    }
+   ],
+   "sinif": null,
+   "sinif_kod": null,
+   "derece": null
+  },
+  {
+   "kadro_kodu": "206010493",
+   "kadro_guid": "fdbe464d-5863-ee11-b15e-a0369f7d1d8e",
+   "kurum": "Sosyal Güvenlik Kurumu",
+   "unvan": "Büro Personeli",
+   "il": "Siirt",
+   "kontenjan": 1,
+   "bos_kadro": 0,
+   "min_puan": null,
+   "max_puan": null,
+   "ogrenim": "Onlisans",
+   "nitelikler": [
+    {
+     "kod": "3004",
+     "aciklama": "Aşağıdaki önlisans programlarından birinden mezun olmak."
+    },
+    {
+     "kod": "9098",
+     "aciklama": "Sosyal Güvenlik"
+    }
+   ],
+   "sinif": null,
+   "sinif_kod": null,
+   "derece": null
+  },
+  {
+   "kadro_kodu": "206010500",
+   "kadro_guid": "febe464d-5863-ee11-b15e-a0369f7d1d8e",
+   "kurum": "Sosyal Güvenlik Kurumu",
+   "unvan": "Büro Personeli",
+   "il": "Sinop",
+   "kontenjan": 2,
+   "bos_kadro": 1,
+   "min_puan": null,
+   "max_puan": null,
+   "ogrenim": "Onlisans",
+   "nitelikler": [
+    {
+     "kod": "3004",
+     "aciklama": "Aşağıdaki önlisans programlarından birinden mezun olmak."
+    },
+    {
+     "kod": "9098",
+     "aciklama": "Sosyal Güvenlik"
+    }
+   ],
+   "sinif": null,
+   "sinif_kod": null,
+   "derece": null
+  },
+  {
+   "kadro_kodu": "206010507",
+   "kadro_guid": "ffbe464d-5863-ee11-b15e-a0369f7d1d8e",
+   "kurum": "Sosyal Güvenlik Kurumu",
+   "unvan": "Büro Personeli",
+   "il": "Sivas",
+   "kontenjan": 4,
+   "bos_kadro": 1,
+   "min_puan": null,
+   "max_puan": null,
+   "ogrenim": "Onlisans",
+   "nitelikler": [
+    {
+     "kod": "3004",
+     "aciklama": "Aşağıdaki önlisans programlarından birinden mezun olmak."
+    },
+    {
+     "kod": "9098",
+     "aciklama": "Sosyal Güvenlik"
+    }
+   ],
+   "sinif": null,
+   "sinif_kod": null,
+   "derece": null
+  },
+  {
+   "kadro_kodu": "206010514",
+   "kadro_guid": "06bf464d-5863-ee11-b15e-a0369f7d1d8e",
+   "kurum": "Sosyal Güvenlik Kurumu",
+   "unvan": "Büro Personeli",
+   "il": "Tekirdağ",
+   "kontenjan": 8,
+   "bos_kadro": 2,
+   "min_puan": null,
+   "max_puan": null,
+   "ogrenim": "Onlisans",
+   "nitelikler": [
+    {
+     "kod": "3004",
+     "aciklama": "Aşağıdaki önlisans programlarından birinden mezun olmak."
+    },
+    {
+     "kod": "9098",
+     "aciklama": "Sosyal Güvenlik"
+    }
+   ],
+   "sinif": null,
+   "sinif_kod": null,
+   "derece": null
+  },
+  {
+   "kadro_kodu": "206010759",
+   "kadro_guid": "05bf464d-5863-ee11-b15e-a0369f7d1d8e",
+   "kurum": "Sosyal Güvenlik Kurumu",
+   "unvan": "Koruma ve Güvenlik Görevlisi",
+   "il": "Tekirdağ",
+   "kontenjan": 1,
+   "bos_kadro": 0,
+   "min_puan": null,
+   "max_puan": null,
+   "ogrenim": "Onlisans",
+   "nitelikler": [
+    {
+     "kod": "3389",
+     "aciklama": "Aşağıdaki önlisans programlarından birinden mezun olmak."
+    },
+    {
+     "kod": "4275",
+     "aciklama": "Güvenlik"
+    },
+    {
+     "kod": "5353",
+     "aciklama": "Özel Güvenlik ve Koruma"
+    },
+    {
+     "kod": "5359",
+     "aciklama": "Savunma ve Güvenlik"
+    },
+    {
+     "kod": "9181",
+     "aciklama": "Güvenli ve Koruma"
+    },
+    {
+     "kod": "9182",
+     "aciklama": "Kamu Güvenlik ve Asayişin Sağlanması"
+    },
+    {
+     "kod": "6551",
+     "aciklama": "Özel Güvenlik Görevlisi Kimlik Kartına Sahip olmak."
+    },
+    {
+     "kod": "7300",
+     "aciklama": "Bu kadro/pozisyonda vardiya sistemi uygulanmaktadır."
+    },
+    {
+     "kod": "7303",
+     "aciklama": "(Bakınız Başvurma Özel Şartları Bölümü Koruma ve Güvenlik Görevlisi)."
+    }
+   ],
+   "sinif": null,
+   "sinif_kod": null,
+   "derece": null
+  },
+  {
+   "kadro_kodu": "206010521",
+   "kadro_guid": "0bbf464d-5863-ee11-b15e-a0369f7d1d8e",
+   "kurum": "Sosyal Güvenlik Kurumu",
+   "unvan": "Büro Personeli",
+   "il": "Tokat",
+   "kontenjan": 3,
+   "bos_kadro": 1,
+   "min_puan": null,
+   "max_puan": null,
+   "ogrenim": "Onlisans",
+   "nitelikler": [
+    {
+     "kod": "3004",
+     "aciklama": "Aşağıdaki önlisans programlarından birinden mezun olmak."
+    },
+    {
+     "kod": "9098",
+     "aciklama": "Sosyal Güvenlik"
+    }
+   ],
+   "sinif": null,
+   "sinif_kod": null,
+   "derece": null
+  },
+  {
+   "kadro_kodu": "206010528",
+   "kadro_guid": "0cbf464d-5863-ee11-b15e-a0369f7d1d8e",
+   "kurum": "Sosyal Güvenlik Kurumu",
+   "unvan": "Büro Personeli",
+   "il": "Trabzon",
+   "kontenjan": 7,
+   "bos_kadro": 2,
+   "min_puan": null,
+   "max_puan": null,
+   "ogrenim": "Onlisans",
+   "nitelikler": [
+    {
+     "kod": "3004",
+     "aciklama": "Aşağıdaki önlisans programlarından birinden mezun olmak."
+    },
+    {
+     "kod": "9098",
+     "aciklama": "Sosyal Güvenlik"
+    }
+   ],
+   "sinif": null,
+   "sinif_kod": null,
+   "derece": null
+  },
+  {
+   "kadro_kodu": "206010766",
+   "kadro_guid": "0dbf464d-5863-ee11-b15e-a0369f7d1d8e",
+   "kurum": "Sosyal Güvenlik Kurumu",
+   "unvan": "Koruma ve Güvenlik Görevlisi",
+   "il": "Trabzon",
+   "kontenjan": 1,
+   "bos_kadro": 0,
+   "min_puan": null,
+   "max_puan": null,
+   "ogrenim": "Onlisans",
+   "nitelikler": [
+    {
+     "kod": "3389",
+     "aciklama": "Aşağıdaki önlisans programlarından birinden mezun olmak."
+    },
+    {
+     "kod": "4275",
+     "aciklama": "Güvenlik"
+    },
+    {
+     "kod": "5353",
+     "aciklama": "Özel Güvenlik ve Koruma"
+    },
+    {
+     "kod": "5359",
+     "aciklama": "Savunma ve Güvenlik"
+    },
+    {
+     "kod": "9181",
+     "aciklama": "Güvenli ve Koruma"
+    },
+    {
+     "kod": "9182",
+     "aciklama": "Kamu Güvenlik ve Asayişin Sağlanması"
+    },
+    {
+     "kod": "6551",
+     "aciklama": "Özel Güvenlik Görevlisi Kimlik Kartına Sahip olmak."
+    },
+    {
+     "kod": "7300",
+     "aciklama": "Bu kadro/pozisyonda vardiya sistemi uygulanmaktadır."
+    },
+    {
+     "kod": "7303",
+     "aciklama": "(Bakınız Başvurma Özel Şartları Bölümü Koruma ve Güvenlik Görevlisi)."
+    }
+   ],
+   "sinif": null,
+   "sinif_kod": null,
+   "derece": null
+  },
+  {
+   "kadro_kodu": "206010535",
+   "kadro_guid": "02bf464d-5863-ee11-b15e-a0369f7d1d8e",
+   "kurum": "Sosyal Güvenlik Kurumu",
+   "unvan": "Büro Personeli",
+   "il": "Şanlıurfa",
+   "kontenjan": 6,
+   "bos_kadro": 0,
+   "min_puan": null,
+   "max_puan": null,
+   "ogrenim": "Onlisans",
+   "nitelikler": [
+    {
+     "kod": "3004",
+     "aciklama": "Aşağıdaki önlisans programlarından birinden mezun olmak."
+    },
+    {
+     "kod": "9098",
+     "aciklama": "Sosyal Güvenlik"
+    }
+   ],
+   "sinif": null,
+   "sinif_kod": null,
+   "derece": null
+  },
+  {
+   "kadro_kodu": "206010542",
+   "kadro_guid": "0fbf464d-5863-ee11-b15e-a0369f7d1d8e",
+   "kurum": "Sosyal Güvenlik Kurumu",
+   "unvan": "Büro Personeli",
+   "il": "Uşak",
+   "kontenjan": 2,
+   "bos_kadro": 1,
+   "min_puan": null,
+   "max_puan": null,
+   "ogrenim": "Onlisans",
+   "nitelikler": [
+    {
+     "kod": "3004",
+     "aciklama": "Aşağıdaki önlisans programlarından birinden mezun olmak."
+    },
+    {
+     "kod": "9098",
+     "aciklama": "Sosyal Güvenlik"
+    }
+   ],
+   "sinif": null,
+   "sinif_kod": null,
+   "derece": null
+  },
+  {
+   "kadro_kodu": "206010549",
+   "kadro_guid": "13bf464d-5863-ee11-b15e-a0369f7d1d8e",
+   "kurum": "Sosyal Güvenlik Kurumu",
+   "unvan": "Büro Personeli",
+   "il": "Van",
+   "kontenjan": 6,
+   "bos_kadro": 1,
+   "min_puan": null,
+   "max_puan": null,
+   "ogrenim": "Onlisans",
+   "nitelikler": [
+    {
+     "kod": "3004",
+     "aciklama": "Aşağıdaki önlisans programlarından birinden mezun olmak."
+    },
+    {
+     "kod": "9098",
+     "aciklama": "Sosyal Güvenlik"
+    }
+   ],
+   "sinif": null,
+   "sinif_kod": null,
+   "derece": null
+  },
+  {
+   "kadro_kodu": "206010556",
+   "kadro_guid": "19bf464d-5863-ee11-b15e-a0369f7d1d8e",
+   "kurum": "Sosyal Güvenlik Kurumu",
+   "unvan": "Büro Personeli",
+   "il": "Yozgat",
+   "kontenjan": 1,
+   "bos_kadro": 1,
+   "min_puan": null,
+   "max_puan": null,
+   "ogrenim": "Onlisans",
+   "nitelikler": [
+    {
+     "kod": "3004",
+     "aciklama": "Aşağıdaki önlisans programlarından birinden mezun olmak."
+    },
+    {
+     "kod": "9098",
+     "aciklama": "Sosyal Güvenlik"
+    }
+   ],
+   "sinif": null,
+   "sinif_kod": null,
+   "derece": null
+  },
+  {
+   "kadro_kodu": "206010563",
+   "kadro_guid": "1abf464d-5863-ee11-b15e-a0369f7d1d8e",
+   "kurum": "Sosyal Güvenlik Kurumu",
+   "unvan": "Büro Personeli",
+   "il": "Zonguldak",
+   "kontenjan": 5,
+   "bos_kadro": 2,
+   "min_puan": null,
+   "max_puan": null,
+   "ogrenim": "Onlisans",
+   "nitelikler": [
+    {
+     "kod": "3004",
+     "aciklama": "Aşağıdaki önlisans programlarından birinden mezun olmak."
+    },
+    {
+     "kod": "9098",
+     "aciklama": "Sosyal Güvenlik"
+    }
+   ],
+   "sinif": null,
+   "sinif_kod": null,
+   "derece": null
+  },
+  {
+   "kadro_kodu": "206010570",
+   "kadro_guid": "67be464d-5863-ee11-b15e-a0369f7d1d8e",
+   "kurum": "Sosyal Güvenlik Kurumu",
+   "unvan": "Büro Personeli",
+   "il": "Aksaray",
+   "kontenjan": 3,
+   "bos_kadro": 0,
+   "min_puan": null,
+   "max_puan": null,
+   "ogrenim": "Onlisans",
+   "nitelikler": [
+    {
+     "kod": "3004",
+     "aciklama": "Aşağıdaki önlisans programlarından birinden mezun olmak."
+    },
+    {
+     "kod": "9098",
+     "aciklama": "Sosyal Güvenlik"
+    }
+   ],
+   "sinif": null,
+   "sinif_kod": null,
+   "derece": null
+  },
+  {
+   "kadro_kodu": "206010577",
+   "kadro_guid": "8abe464d-5863-ee11-b15e-a0369f7d1d8e",
+   "kurum": "Sosyal Güvenlik Kurumu",
+   "unvan": "Büro Personeli",
+   "il": "Bayburt",
+   "kontenjan": 1,
+   "bos_kadro": 1,
+   "min_puan": null,
+   "max_puan": null,
+   "ogrenim": "Onlisans",
+   "nitelikler": [
+    {
+     "kod": "3004",
+     "aciklama": "Aşağıdaki önlisans programlarından birinden mezun olmak."
+    },
+    {
+     "kod": "9098",
+     "aciklama": "Sosyal Güvenlik"
+    }
+   ],
+   "sinif": null,
+   "sinif_kod": null,
+   "derece": null
+  },
+  {
+   "kadro_kodu": "206010584",
+   "kadro_guid": "c7be464d-5863-ee11-b15e-a0369f7d1d8e",
+   "kurum": "Sosyal Güvenlik Kurumu",
+   "unvan": "Büro Personeli",
+   "il": "Karaman",
+   "kontenjan": 1,
+   "bos_kadro": 0,
+   "min_puan": null,
+   "max_puan": null,
+   "ogrenim": "Onlisans",
+   "nitelikler": [
+    {
+     "kod": "3004",
+     "aciklama": "Aşağıdaki önlisans programlarından birinden mezun olmak."
+    },
+    {
+     "kod": "9098",
+     "aciklama": "Sosyal Güvenlik"
+    }
+   ],
+   "sinif": null,
+   "sinif_kod": null,
+   "derece": null
+  },
+  {
+   "kadro_kodu": "206010773",
+   "kadro_guid": "cfbe464d-5863-ee11-b15e-a0369f7d1d8e",
+   "kurum": "Sosyal Güvenlik Kurumu",
+   "unvan": "Koruma ve Güvenlik Görevlisi",
+   "il": "Kırıkkale",
+   "kontenjan": 1,
+   "bos_kadro": 0,
+   "min_puan": null,
+   "max_puan": null,
+   "ogrenim": "Onlisans",
+   "nitelikler": [
+    {
+     "kod": "3389",
+     "aciklama": "Aşağıdaki önlisans programlarından birinden mezun olmak."
+    },
+    {
+     "kod": "4275",
+     "aciklama": "Güvenlik"
+    },
+    {
+     "kod": "5353",
+     "aciklama": "Özel Güvenlik ve Koruma"
+    },
+    {
+     "kod": "5359",
+     "aciklama": "Savunma ve Güvenlik"
+    },
+    {
+     "kod": "9181",
+     "aciklama": "Güvenli ve Koruma"
+    },
+    {
+     "kod": "9182",
+     "aciklama": "Kamu Güvenlik ve Asayişin Sağlanması"
+    },
+    {
+     "kod": "6551",
+     "aciklama": "Özel Güvenlik Görevlisi Kimlik Kartına Sahip olmak."
+    },
+    {
+     "kod": "7300",
+     "aciklama": "Bu kadro/pozisyonda vardiya sistemi uygulanmaktadır."
+    },
+    {
+     "kod": "7303",
+     "aciklama": "(Bakınız Başvurma Özel Şartları Bölümü Koruma ve Güvenlik Görevlisi)."
+    }
+   ],
+   "sinif": null,
+   "sinif_kod": null,
+   "derece": null
+  },
+  {
+   "kadro_kodu": "206010591",
+   "kadro_guid": "88be464d-5863-ee11-b15e-a0369f7d1d8e",
+   "kurum": "Sosyal Güvenlik Kurumu",
+   "unvan": "Büro Personeli",
+   "il": "Batman",
+   "kontenjan": 3,
+   "bos_kadro": 0,
+   "min_puan": null,
+   "max_puan": null,
+   "ogrenim": "Onlisans",
+   "nitelikler": [
+    {
+     "kod": "3004",
+     "aciklama": "Aşağıdaki önlisans programlarından birinden mezun olmak."
+    },
+    {
+     "kod": "9098",
+     "aciklama": "Sosyal Güvenlik"
+    }
+   ],
+   "sinif": null,
+   "sinif_kod": null,
+   "derece": null
+  },
+  {
+   "kadro_kodu": "206010780",
+   "kadro_guid": "89be464d-5863-ee11-b15e-a0369f7d1d8e",
+   "kurum": "Sosyal Güvenlik Kurumu",
+   "unvan": "Koruma ve Güvenlik Görevlisi",
+   "il": "Batman",
+   "kontenjan": 1,
+   "bos_kadro": 0,
+   "min_puan": null,
+   "max_puan": null,
+   "ogrenim": "Onlisans",
+   "nitelikler": [
+    {
+     "kod": "3389",
+     "aciklama": "Aşağıdaki önlisans programlarından birinden mezun olmak."
+    },
+    {
+     "kod": "4275",
+     "aciklama": "Güvenlik"
+    },
+    {
+     "kod": "5353",
+     "aciklama": "Özel Güvenlik ve Koruma"
+    },
+    {
+     "kod": "5359",
+     "aciklama": "Savunma ve Güvenlik"
+    },
+    {
+     "kod": "9181",
+     "aciklama": "Güvenli ve Koruma"
+    },
+    {
+     "kod": "9182",
+     "aciklama": "Kamu Güvenlik ve Asayişin Sağlanması"
+    },
+    {
+     "kod": "6551",
+     "aciklama": "Özel Güvenlik Görevlisi Kimlik Kartına Sahip olmak."
+    },
+    {
+     "kod": "7300",
+     "aciklama": "Bu kadro/pozisyonda vardiya sistemi uygulanmaktadır."
+    },
+    {
+     "kod": "7303",
+     "aciklama": "(Bakınız Başvurma Özel Şartları Bölümü Koruma ve Güvenlik Görevlisi)."
+    }
+   ],
+   "sinif": null,
+   "sinif_kod": null,
+   "derece": null
+  },
+  {
+   "kadro_kodu": "206010598",
+   "kadro_guid": "04bf464d-5863-ee11-b15e-a0369f7d1d8e",
+   "kurum": "Sosyal Güvenlik Kurumu",
+   "unvan": "Büro Personeli",
+   "il": "Şırnak",
+   "kontenjan": 3,
+   "bos_kadro": 0,
+   "min_puan": null,
+   "max_puan": null,
+   "ogrenim": "Onlisans",
+   "nitelikler": [
+    {
+     "kod": "3004",
+     "aciklama": "Aşağıdaki önlisans programlarından birinden mezun olmak."
+    },
+    {
+     "kod": "9098",
+     "aciklama": "Sosyal Güvenlik"
+    }
+   ],
+   "sinif": null,
+   "sinif_kod": null,
+   "derece": null
+  },
+  {
+   "kadro_kodu": "206010605",
+   "kadro_guid": "87be464d-5863-ee11-b15e-a0369f7d1d8e",
+   "kurum": "Sosyal Güvenlik Kurumu",
+   "unvan": "Büro Personeli",
+   "il": "Bartın",
+   "kontenjan": 2,
+   "bos_kadro": 1,
+   "min_puan": null,
+   "max_puan": null,
+   "ogrenim": "Onlisans",
+   "nitelikler": [
+    {
+     "kod": "3004",
+     "aciklama": "Aşağıdaki önlisans programlarından birinden mezun olmak."
+    },
+    {
+     "kod": "9098",
+     "aciklama": "Sosyal Güvenlik"
+    }
+   ],
+   "sinif": null,
+   "sinif_kod": null,
+   "derece": null
+  },
+  {
+   "kadro_kodu": "206010612",
+   "kadro_guid": "7ebe464d-5863-ee11-b15e-a0369f7d1d8e",
+   "kurum": "Sosyal Güvenlik Kurumu",
+   "unvan": "Büro Personeli",
+   "il": "Ardahan",
+   "kontenjan": 4,
+   "bos_kadro": 0,
+   "min_puan": null,
+   "max_puan": null,
+   "ogrenim": "Onlisans",
+   "nitelikler": [
+    {
+     "kod": "3004",
+     "aciklama": "Aşağıdaki önlisans programlarından birinden mezun olmak."
+    },
+    {
+     "kod": "9098",
+     "aciklama": "Sosyal Güvenlik"
+    }
+   ],
+   "sinif": null,
+   "sinif_kod": null,
+   "derece": null
+  },
+  {
+   "kadro_kodu": "206010619",
+   "kadro_guid": "b6be464d-5863-ee11-b15e-a0369f7d1d8e",
+   "kurum": "Sosyal Güvenlik Kurumu",
+   "unvan": "Büro Personeli",
+   "il": "Iğdır",
+   "kontenjan": 1,
+   "bos_kadro": 0,
+   "min_puan": null,
+   "max_puan": null,
+   "ogrenim": "Onlisans",
+   "nitelikler": [
+    {
+     "kod": "3004",
+     "aciklama": "Aşağıdaki önlisans programlarından birinden mezun olmak."
+    },
+    {
+     "kod": "9098",
+     "aciklama": "Sosyal Güvenlik"
+    }
+   ],
+   "sinif": null,
+   "sinif_kod": null,
+   "derece": null
+  },
+  {
+   "kadro_kodu": "206010626",
+   "kadro_guid": "14bf464d-5863-ee11-b15e-a0369f7d1d8e",
+   "kurum": "Sosyal Güvenlik Kurumu",
+   "unvan": "Büro Personeli",
+   "il": "Yalova",
+   "kontenjan": 5,
+   "bos_kadro": 0,
+   "min_puan": null,
+   "max_puan": null,
+   "ogrenim": "Onlisans",
+   "nitelikler": [
+    {
+     "kod": "3004",
+     "aciklama": "Aşağıdaki önlisans programlarından birinden mezun olmak."
+    },
+    {
+     "kod": "9098",
+     "aciklama": "Sosyal Güvenlik"
+    }
+   ],
+   "sinif": null,
+   "sinif_kod": null,
+   "derece": null
+  },
+  {
+   "kadro_kodu": "206010787",
+   "kadro_guid": "16bf464d-5863-ee11-b15e-a0369f7d1d8e",
+   "kurum": "Sosyal Güvenlik Kurumu",
+   "unvan": "Koruma ve Güvenlik Görevlisi",
+   "il": "Yalova",
+   "kontenjan": 1,
+   "bos_kadro": 0,
+   "min_puan": null,
+   "max_puan": null,
+   "ogrenim": "Onlisans",
+   "nitelikler": [
+    {
+     "kod": "3389",
+     "aciklama": "Aşağıdaki önlisans programlarından birinden mezun olmak."
+    },
+    {
+     "kod": "4275",
+     "aciklama": "Güvenlik"
+    },
+    {
+     "kod": "5353",
+     "aciklama": "Özel Güvenlik ve Koruma"
+    },
+    {
+     "kod": "5359",
+     "aciklama": "Savunma ve Güvenlik"
+    },
+    {
+     "kod": "9181",
+     "aciklama": "Güvenli ve Koruma"
+    },
+    {
+     "kod": "9182",
+     "aciklama": "Kamu Güvenlik ve Asayişin Sağlanması"
+    },
+    {
+     "kod": "6551",
+     "aciklama": "Özel Güvenlik Görevlisi Kimlik Kartına Sahip olmak."
+    },
+    {
+     "kod": "7300",
+     "aciklama": "Bu kadro/pozisyonda vardiya sistemi uygulanmaktadır."
+    },
+    {
+     "kod": "7303",
+     "aciklama": "(Bakınız Başvurma Özel Şartları Bölümü Koruma ve Güvenlik Görevlisi)."
+    }
+   ],
+   "sinif": null,
+   "sinif_kod": null,
+   "derece": null
+  },
+  {
+   "kadro_kodu": "206010633",
+   "kadro_guid": "c6be464d-5863-ee11-b15e-a0369f7d1d8e",
+   "kurum": "Sosyal Güvenlik Kurumu",
+   "unvan": "Büro Personeli",
+   "il": "Karabük",
+   "kontenjan": 2,
+   "bos_kadro": 1,
+   "min_puan": null,
+   "max_puan": null,
+   "ogrenim": "Onlisans",
+   "nitelikler": [
+    {
+     "kod": "3004",
+     "aciklama": "Aşağıdaki önlisans programlarından birinden mezun olmak."
+    },
+    {
+     "kod": "9098",
+     "aciklama": "Sosyal Güvenlik"
+    }
+   ],
+   "sinif": null,
+   "sinif_kod": null,
+   "derece": null
+  },
+  {
+   "kadro_kodu": "206010640",
+   "kadro_guid": "d5be464d-5863-ee11-b15e-a0369f7d1d8e",
+   "kurum": "Sosyal Güvenlik Kurumu",
+   "unvan": "Büro Personeli",
+   "il": "Kilis",
+   "kontenjan": 2,
+   "bos_kadro": 0,
+   "min_puan": null,
+   "max_puan": null,
+   "ogrenim": "Onlisans",
+   "nitelikler": [
+    {
+     "kod": "3004",
+     "aciklama": "Aşağıdaki önlisans programlarından birinden mezun olmak."
+    },
+    {
+     "kod": "9098",
+     "aciklama": "Sosyal Güvenlik"
+    }
+   ],
+   "sinif": null,
+   "sinif_kod": null,
+   "derece": null
+  },
+  {
+   "kadro_kodu": "206010647",
+   "kadro_guid": "f1be464d-5863-ee11-b15e-a0369f7d1d8e",
+   "kurum": "Sosyal Güvenlik Kurumu",
+   "unvan": "Büro Personeli",
+   "il": "Osmaniye",
+   "kontenjan": 3,
+   "bos_kadro": 0,
+   "min_puan": null,
+   "max_puan": null,
+   "ogrenim": "Onlisans",
+   "nitelikler": [
+    {
+     "kod": "3004",
+     "aciklama": "Aşağıdaki önlisans programlarından birinden mezun olmak."
+    },
+    {
+     "kod": "9098",
+     "aciklama": "Sosyal Güvenlik"
+    }
+   ],
+   "sinif": null,
+   "sinif_kod": null,
+   "derece": null
+  },
+  {
+   "kadro_kodu": "206010654",
+   "kadro_guid": "a0be464d-5863-ee11-b15e-a0369f7d1d8e",
+   "kurum": "Sosyal Güvenlik Kurumu",
+   "unvan": "Büro Personeli",
+   "il": "Düzce",
+   "kontenjan": 1,
+   "bos_kadro": 0,
+   "min_puan": null,
+   "max_puan": null,
+   "ogrenim": "Onlisans",
+   "nitelikler": [
+    {
+     "kod": "3004",
+     "aciklama": "Aşağıdaki önlisans programlarından birinden mezun olmak."
+    },
+    {
+     "kod": "9098",
+     "aciklama": "Sosyal Güvenlik"
+    }
+   ],
+   "sinif": null,
+   "sinif_kod": null,
+   "derece": null
+  },
+  {
+   "kadro_kodu": "306010101",
+   "kadro_guid": "61be464d-5863-ee11-b15e-a0369f7d1d8e",
+   "kurum": "Sosyal Güvenlik Kurumu",
+   "unvan": "Büro Personeli",
+   "il": "Adana",
+   "kontenjan": 5,
+   "bos_kadro": 16,
+   "min_puan": null,
+   "max_puan": null,
+   "ogrenim": "Lisans",
+   "nitelikler": [
+    {
+     "kod": "4421",
+     "aciklama": "Aşağıdaki lisans programlarından birinden mezun olmak."
+    },
+    {
+     "kod": "3159",
+     "aciklama": "Ekonomi"
+    },
+    {
+     "kod": "3213",
+     "aciklama": "İktisat"
+    },
+    {
+     "kod": "4386",
+     "aciklama": "Uluslararası Ekonomi"
+    },
+    {
+     "kod": "5106",
+     "aciklama": "Ekonomi-Yönetim Bilimleri Programları"
+    },
+    {
+     "kod": "8208",
+     "aciklama": "İş İdaresi ve İktisat"
+    },
+    {
+     "kod": "9113",
+     "aciklama": "Ekonomi Politik ve Toplum Felsefesi"
+    },
+    {
+     "kod": "9221",
+     "aciklama": "Ekonomi ve İdari Bilimler / Ekonomi ve İdari Bilimler Programları"
+    },
+    {
+     "kod": "4431",
+     "aciklama": "Aşağıdaki lisans programlarından birinden mezun olmak."
+    },
+    {
+     "kod": "3226",
+     "aciklama": "İşletme / İşletmecilik"
+    },
+    {
+     "kod": "3227",
+     "aciklama": "İşletme Bilgi Yönetimi"
+    },
+    {
+     "kod": "3381",
+     "aciklama": "Muhasebe ve Finansman"
+    },
+    {
+     "kod": "5123",
+     "aciklama": "Muhasebe ve Finansal Yönetim / Muhasebe ve Finans Yönetimi"
+    },
+    {
+     "kod": "5143",
+     "aciklama": "Yönetim Bilimleri / Yönetim Bilimleri Programları"
+    },
+    {
+     "kod": "8207",
+     "aciklama": "İş İdaresi"
+    },
+    {
+     "kod": "8208",
+     "aciklama": "İş İdaresi ve İktisat"
+    },
+    {
+     "kod": "8296",
+     "aciklama": "Yönetim ve Organizasyon"
+    },
+    {
+     "kod": "8334",
+     "aciklama": "Pazarlama"
+    },
+    {
+     "kod": "9552",
+     "aciklama": "İşletme-Maliye"
+    },
+    {
+     "kod": "9584",
+     "aciklama": "Yönetim Bilimleri ve Liderlik"
+    },
+    {
+     "kod": "4459",
+     "aciklama": "Aşağıdaki lisans programlarından birinden mezun olmak."
+    },
+    {
+     "kod": "3254",
+     "aciklama": "Maliye"
+    },
+    {
+     "kod": "4322",
+     "aciklama": "Muhasebe ve Maliye"
+    },
+    {
+     "kod": "8225",
+     "aciklama": "Maliye-Muhasebe"
+    },
+    {
+     "kod": "4463",
+     "aciklama": "Aşağıdaki lisans programlarından birinden mezun olmak."
+    },
+    {
+     "kod": "3306",
+     "aciklama": "Sigortacılık"
+    },
+    {
+     "kod": "5127",
+     "aciklama": "Sigortacılık ve Risk Yönetimi"
+    },
+    {
+     "kod": "9360",
+     "aciklama": "Sigortacılık ve Sosya Güvenlik"
+    },
+    {
+     "kod": "9526",
+     "aciklama": "Sigortacılık ve Aktüerya"
+    },
+    {
+     "kod": "9568",
+     "aciklama": "Sigortacılık ve Aktüerya Bilimleri"
+    },
+    {
+     "kod": "4503",
+     "aciklama": "Aşağıdaki lisans programlarından birinden mezun olmak."
+    },
+    {
+     "kod": "3237",
+     "aciklama": "Kamu Yönetimi"
+    },
+    {
+     "kod": "3313",
+     "aciklama": "Siyaset Bilimi"
+    },
+    {
+     "kod": "3314",
+     "aciklama": "Siyaset Bilimi ve Kamu Yönetimi"
+    }
+   ],
+   "sinif": null,
+   "sinif_kod": null,
+   "derece": null
+  },
+  {
+   "kadro_kodu": "306010108",
+   "kadro_guid": "73be464d-5863-ee11-b15e-a0369f7d1d8e",
+   "kurum": "Sosyal Güvenlik Kurumu",
+   "unvan": "Büro Personeli",
+   "il": "Ankara",
+   "kontenjan": 35,
+   "bos_kadro": 1,
+   "min_puan": null,
+   "max_puan": null,
+   "ogrenim": "Lisans",
+   "nitelikler": [
+    {
+     "kod": "4429",
+     "aciklama": "Aşağıdaki lisans programlarından birinden mezun olmak."
+    },
+    {
+     "kod": "3141",
+     "aciklama": "Çalışma Ekonomisi ve Endüstri İlişkileri"
+    },
+    {
+     "kod": "8312",
+     "aciklama": "Çalışma Ekonomisi"
+    }
+   ],
+   "sinif": null,
+   "sinif_kod": null,
+   "derece": null
+  },
+  {
+   "kadro_kodu": "306010115",
+   "kadro_guid": "74be464d-5863-ee11-b15e-a0369f7d1d8e",
+   "kurum": "Sosyal Güvenlik Kurumu",
+   "unvan": "Büro Personeli",
+   "il": "Ankara",
+   "kontenjan": 34,
+   "bos_kadro": 13,
+   "min_puan": null,
+   "max_puan": null,
+   "ogrenim": "Lisans",
+   "nitelikler": [
+    {
+     "kod": "4421",
+     "aciklama": "Aşağıdaki lisans programlarından birinden mezun olmak."
+    },
+    {
+     "kod": "3159",
+     "aciklama": "Ekonomi"
+    },
+    {
+     "kod": "3213",
+     "aciklama": "İktisat"
+    },
+    {
+     "kod": "4386",
+     "aciklama": "Uluslararası Ekonomi"
+    },
+    {
+     "kod": "5106",
+     "aciklama": "Ekonomi-Yönetim Bilimleri Programları"
+    },
+    {
+     "kod": "8208",
+     "aciklama": "İş İdaresi ve İktisat"
+    },
+    {
+     "kod": "9113",
+     "aciklama": "Ekonomi Politik ve Toplum Felsefesi"
+    },
+    {
+     "kod": "9221",
+     "aciklama": "Ekonomi ve İdari Bilimler / Ekonomi ve İdari Bilimler Programları"
+    },
+    {
+     "kod": "4431",
+     "aciklama": "Aşağıdaki lisans programlarından birinden mezun olmak."
+    },
+    {
+     "kod": "3226",
+     "aciklama": "İşletme / İşletmecilik"
+    },
+    {
+     "kod": "3227",
+     "aciklama": "İşletme Bilgi Yönetimi"
+    },
+    {
+     "kod": "3381",
+     "aciklama": "Muhasebe ve Finansman"
+    },
+    {
+     "kod": "5123",
+     "aciklama": "Muhasebe ve Finansal Yönetim / Muhasebe ve Finans Yönetimi"
+    },
+    {
+     "kod": "5143",
+     "aciklama": "Yönetim Bilimleri / Yönetim Bilimleri Programları"
+    },
+    {
+     "kod": "8207",
+     "aciklama": "İş İdaresi"
+    },
+    {
+     "kod": "8208",
+     "aciklama": "İş İdaresi ve İktisat"
+    },
+    {
+     "kod": "8296",
+     "aciklama": "Yönetim ve Organizasyon"
+    },
+    {
+     "kod": "8334",
+     "aciklama": "Pazarlama"
+    },
+    {
+     "kod": "9552",
+     "aciklama": "İşletme-Maliye"
+    },
+    {
+     "kod": "9584",
+     "aciklama": "Yönetim Bilimleri ve Liderlik"
+    },
+    {
+     "kod": "4459",
+     "aciklama": "Aşağıdaki lisans programlarından birinden mezun olmak."
+    },
+    {
+     "kod": "3254",
+     "aciklama": "Maliye"
+    },
+    {
+     "kod": "4322",
+     "aciklama": "Muhasebe ve Maliye"
+    },
+    {
+     "kod": "8225",
+     "aciklama": "Maliye-Muhasebe"
+    },
+    {
+     "kod": "4463",
+     "aciklama": "Aşağıdaki lisans programlarından birinden mezun olmak."
+    },
+    {
+     "kod": "3306",
+     "aciklama": "Sigortacılık"
+    },
+    {
+     "kod": "5127",
+     "aciklama": "Sigortacılık ve Risk Yönetimi"
+    },
+    {
+     "kod": "9360",
+     "aciklama": "Sigortacılık ve Sosya Güvenlik"
+    },
+    {
+     "kod": "9526",
+     "aciklama": "Sigortacılık ve Aktüerya"
+    },
+    {
+     "kod": "9568",
+     "aciklama": "Sigortacılık ve Aktüerya Bilimleri"
+    },
+    {
+     "kod": "4503",
+     "aciklama": "Aşağıdaki lisans programlarından birinden mezun olmak."
+    },
+    {
+     "kod": "3237",
+     "aciklama": "Kamu Yönetimi"
+    },
+    {
+     "kod": "3313",
+     "aciklama": "Siyaset Bilimi"
+    },
+    {
+     "kod": "3314",
+     "aciklama": "Siyaset Bilimi ve Kamu Yönetimi"
+    }
+   ],
+   "sinif": null,
+   "sinif_kod": null,
+   "derece": null
+  },
+  {
+   "kadro_kodu": "306010122",
+   "kadro_guid": "75be464d-5863-ee11-b15e-a0369f7d1d8e",
+   "kurum": "Sosyal Güvenlik Kurumu",
+   "unvan": "Büro Personeli",
+   "il": "Ankara",
+   "kontenjan": 2,
+   "bos_kadro": 2,
+   "min_puan": null,
+   "max_puan": null,
+   "ogrenim": "Lisans",
+   "nitelikler": [
+    {
+     "kod": "4269",
+     "aciklama": "Aşağıdaki lisans programlarından birinden mezun olmak."
+    },
+    {
+     "kod": "4272",
+     "aciklama": "Görsel Sanatlar ve İletişim Tasarımı"
+    },
+    {
+     "kod": "5109",
+     "aciklama": "Görsel İletişim Tasarımı"
+    },
+    {
+     "kod": "7190",
+     "aciklama": "Görsel İletişim Sanatı"
+    },
+    {
+     "kod": "7191",
+     "aciklama": "Görsel Sanatlar ve Görsel İletişim Tasarımı"
+    },
+    {
+     "kod": "8353",
+     "aciklama": "Görüntü Sanatları"
+    },
+    {
+     "kod": "9162",
+     "aciklama": "Görsel Sanatlar"
+    },
+    {
+     "kod": "9195",
+     "aciklama": "Medya ve Görsel Sanatlar"
+    },
+    {
+     "kod": "9220",
+     "aciklama": "Medya ve Uygulamalı Görsel Sanatlar"
+    },
+    {
+     "kod": "9231",
+     "aciklama": "Görsel İletişim"
+    },
+    {
+     "kod": "9470",
+     "aciklama": "Görsel Sanatlar ve Medya"
+    },
+    {
+     "kod": "4271",
+     "aciklama": "Aşağıdaki lisans programlarından birinden mezun olmak."
+    },
+    {
+     "kod": "3259",
+     "aciklama": "Medya ve İletişim Sistemleri"
+    },
+    {
+     "kod": "8244",
+     "aciklama": "Medya ve İletişim"
+    },
+    {
+     "kod": "9142",
+     "aciklama": "Yeni Medya"
+    },
+    {
+     "kod": "9414",
+     "aciklama": "Yeni Medya ve Gazetecilik"
+    },
+    {
+     "kod": "9462",
+     "aciklama": "Yeni Medya ve İletişim Sistemleri"
+    },
+    {
+     "kod": "9471",
+     "aciklama": "Yeni Medya ve İletişim"
+    },
+    {
+     "kod": "4273",
+     "aciklama": "Aşağıdaki lisans programlarından birinden mezun olmak."
+    },
+    {
+     "kod": "1362",
+     "aciklama": "İletişim Tasarımı ve Yeni Medya"
+    },
+    {
+     "kod": "3215",
+     "aciklama": "İletişim"
+    },
+    {
+     "kod": "5113",
+     "aciklama": "İletişim Tasarımı"
+    },
+    {
+     "kod": "7168",
+     "aciklama": "İletişim ve Tasarım"
+    },
+    {
+     "kod": "7212",
+     "aciklama": "İletişim Tasarımı (Multimedia)"
+    },
+    {
+     "kod": "8132",
+     "aciklama": "İletişim Sanatları"
+    },
+    {
+     "kod": "8327",
+     "aciklama": "İletişim Bilimleri"
+    },
+    {
+     "kod": "9281",
+     "aciklama": "İletişim Tasarımı ve Yönetimi"
+    },
+    {
+     "kod": "9442",
+     "aciklama": "İletişim Tasarımı ve Medya"
+    },
+    {
+     "kod": "4275",
+     "aciklama": "Aşağıdaki lisans programlarından birinden mezun olmak."
+    },
+    {
+     "kod": "3121",
+     "aciklama": "Basın ve Yayın / Basın-Yayın"
+    },
+    {
+     "kod": "6188",
+     "aciklama": "Gazetecilik"
+    },
+    {
+     "kod": "8122",
+     "aciklama": "Basım ve Yayımcılık"
+    },
+    {
+     "kod": "8148",
+     "aciklama": "Basın ve Yayımcılık"
+    },
+    {
+     "kod": "8191",
+     "aciklama": "Gazetecilik ve Halkla İlişkiler"
+    },
+    {
+     "kod": "9408",
+     "aciklama": "Gazetecilik ve Kiitle İletişimi"
+    },
+    {
+     "kod": "4285",
+     "aciklama": "Aşağıdaki lisans programlarından birinden mezun olmak."
+    },
+    {
+     "kod": "3287",
+     "aciklama": "Radyo, Sinema ve Televizyon / Radyo, Televizyon ve Sinema / Radyo-Televizyon, Sinema"
+    },
+    {
+     "kod": "3288",
+     "aciklama": "Radyo, Tv ve Sinema"
+    },
+    {
+     "kod": "3289",
+     "aciklama": "Radyo-Tv-Sinema"
+    },
+    {
+     "kod": "3307",
+     "aciklama": "Sinema ve Televizyon"
+    },
+    {
+     "kod": "3308",
+     "aciklama": "Sinema-Tv"
+    },
+    {
+     "kod": "5126",
+     "aciklama": "Radyo-Tv-Sinema ve Görsel Sanatlar"
+    },
+    {
+     "kod": "8246",
+     "aciklama": "Sinema-Tv Fotoğraf / Sinema-Tv-Fotoğraf"
+    },
+    {
+     "kod": "8247",
+     "aciklama": "Radyo ve Televizyon / Radyo-Tv"
+    },
+    {
+     "kod": "8292",
+     "aciklama": "Sinema"
+    },
+    {
+     "kod": "9309",
+     "aciklama": "Sinema ve Dijital Medya"
+    }
+   ],
+   "sinif": null,
+   "sinif_kod": null,
+   "derece": null
+  },
+  {
+   "kadro_kodu": "306010129",
+   "kadro_guid": "76be464d-5863-ee11-b15e-a0369f7d1d8e",
+   "kurum": "Sosyal Güvenlik Kurumu",
+   "unvan": "Büro Personeli",
+   "il": "Ankara",
+   "kontenjan": 3,
+   "bos_kadro": 0,
+   "min_puan": null,
+   "max_puan": null,
+   "ogrenim": "Lisans",
+   "nitelikler": [
+    {
+     "kod": "4449",
+     "aciklama": "Aşağıdaki lisans programlarından birinden mezun olmak."
+    },
+    {
+     "kod": "9144",
+     "aciklama": "Gayrimenkul ve Varlık Değerlendirme / Gayrimenkul ve Varlık Değerleme"
+    },
+    {
+     "kod": "9459",
+     "aciklama": "Gayrimenkul Geliştirme ve Yönetimi"
+    }
+   ],
+   "sinif": null,
+   "sinif_kod": null,
+   "derece": null
+  },
+  {
+   "kadro_kodu": "306010136",
+   "kadro_guid": "77be464d-5863-ee11-b15e-a0369f7d1d8e",
+   "kurum": "Sosyal Güvenlik Kurumu",
+   "unvan": "Büro Personeli",
+   "il": "Ankara",
+   "kontenjan": 10,
+   "bos_kadro": 0,
+   "min_puan": null,
+   "max_puan": null,
+   "ogrenim": "Lisans",
+   "nitelikler": [
+    {
+     "kod": "4453",
+     "aciklama": "Aşağıdaki lisans programlarından birinden mezun olmak."
+    },
+    {
+     "kod": "3268",
+     "aciklama": "Muhasebe"
+    },
+    {
+     "kod": "3269",
+     "aciklama": "Muhasebe Bilgi Sistemleri"
+    },
+    {
+     "kod": "3381",
+     "aciklama": "Muhasebe ve Finansman"
+    },
+    {
+     "kod": "4322",
+     "aciklama": "Muhasebe ve Maliye"
+    },
+    {
+     "kod": "5123",
+     "aciklama": "Muhasebe ve Finansal Yönetim / Muhasebe ve Finans Yönetimi"
+    },
+    {
+     "kod": "9115",
+     "aciklama": "Muhasebe ve Denetim"
+    },
+    {
+     "kod": "9262",
+     "aciklama": "Finans ve Muhasebe"
+    },
+    {
+     "kod": "9308",
+     "aciklama": "İşletme-Muhasebe ve Denetim"
+    }
+   ],
+   "sinif": null,
+   "sinif_kod": null,
+   "derece": null
+  },
+  {
+   "kadro_kodu": "306010143",
+   "kadro_guid": "78be464d-5863-ee11-b15e-a0369f7d1d8e",
+   "kurum": "Sosyal Güvenlik Kurumu",
+   "unvan": "Büro Personeli",
+   "il": "Ankara",
+   "kontenjan": 50,
+   "bos_kadro": 15,
+   "min_puan": null,
+   "max_puan": null,
+   "ogrenim": "Lisans",
+   "nitelikler": [
+    {
+     "kod": "4421",
+     "aciklama": "Aşağıdaki lisans programlarından birinden mezun olmak."
+    },
+    {
+     "kod": "3159",
+     "aciklama": "Ekonomi"
+    },
+    {
+     "kod": "3213",
+     "aciklama": "İktisat"
+    },
+    {
+     "kod": "4386",
+     "aciklama": "Uluslararası Ekonomi"
+    },
+    {
+     "kod": "5106",
+     "aciklama": "Ekonomi-Yönetim Bilimleri Programları"
+    },
+    {
+     "kod": "8208",
+     "aciklama": "İş İdaresi ve İktisat"
+    },
+    {
+     "kod": "9113",
+     "aciklama": "Ekonomi Politik ve Toplum Felsefesi"
+    },
+    {
+     "kod": "9221",
+     "aciklama": "Ekonomi ve İdari Bilimler / Ekonomi ve İdari Bilimler Programları"
+    },
+    {
+     "kod": "4431",
+     "aciklama": "Aşağıdaki lisans programlarından birinden mezun olmak."
+    },
+    {
+     "kod": "3226",
+     "aciklama": "İşletme / İşletmecilik"
+    },
+    {
+     "kod": "3227",
+     "aciklama": "İşletme Bilgi Yönetimi"
+    },
+    {
+     "kod": "3381",
+     "aciklama": "Muhasebe ve Finansman"
+    },
+    {
+     "kod": "5123",
+     "aciklama": "Muhasebe ve Finansal Yönetim / Muhasebe ve Finans Yönetimi"
+    },
+    {
+     "kod": "5143",
+     "aciklama": "Yönetim Bilimleri / Yönetim Bilimleri Programları"
+    },
+    {
+     "kod": "8207",
+     "aciklama": "İş İdaresi"
+    },
+    {
+     "kod": "8208",
+     "aciklama": "İş İdaresi ve İktisat"
+    },
+    {
+     "kod": "8296",
+     "aciklama": "Yönetim ve Organizasyon"
+    },
+    {
+     "kod": "8334",
+     "aciklama": "Pazarlama"
+    },
+    {
+     "kod": "9552",
+     "aciklama": "İşletme-Maliye"
+    },
+    {
+     "kod": "9584",
+     "aciklama": "Yönetim Bilimleri ve Liderlik"
+    },
+    {
+     "kod": "4459",
+     "aciklama": "Aşağıdaki lisans programlarından birinden mezun olmak."
+    },
+    {
+     "kod": "3254",
+     "aciklama": "Maliye"
+    },
+    {
+     "kod": "4322",
+     "aciklama": "Muhasebe ve Maliye"
+    },
+    {
+     "kod": "8225",
+     "aciklama": "Maliye-Muhasebe"
+    },
+    {
+     "kod": "4463",
+     "aciklama": "Aşağıdaki lisans programlarından birinden mezun olmak."
+    },
+    {
+     "kod": "3306",
+     "aciklama": "Sigortacılık"
+    },
+    {
+     "kod": "5127",
+     "aciklama": "Sigortacılık ve Risk Yönetimi"
+    },
+    {
+     "kod": "9360",
+     "aciklama": "Sigortacılık ve Sosya Güvenlik"
+    },
+    {
+     "kod": "9526",
+     "aciklama": "Sigortacılık ve Aktüerya"
+    },
+    {
+     "kod": "9568",
+     "aciklama": "Sigortacılık ve Aktüerya Bilimleri"
+    },
+    {
+     "kod": "4503",
+     "aciklama": "Aşağıdaki lisans programlarından birinden mezun olmak."
+    },
+    {
+     "kod": "3237",
+     "aciklama": "Kamu Yönetimi"
+    },
+    {
+     "kod": "3313",
+     "aciklama": "Siyaset Bilimi"
+    },
+    {
+     "kod": "3314",
+     "aciklama": "Siyaset Bilimi ve Kamu Yönetimi"
+    }
+   ],
+   "sinif": null,
+   "sinif_kod": null,
+   "derece": null
+  },
+  {
+   "kadro_kodu": "306010150",
+   "kadro_guid": "79be464d-5863-ee11-b15e-a0369f7d1d8e",
+   "kurum": "Sosyal Güvenlik Kurumu",
+   "unvan": "Büro Personeli",
+   "il": "Antalya",
+   "kontenjan": 15,
+   "bos_kadro": 11,
+   "min_puan": null,
+   "max_puan": null,
+   "ogrenim": "Lisans",
+   "nitelikler": [
+    {
+     "kod": "4421",
+     "aciklama": "Aşağıdaki lisans programlarından birinden mezun olmak."
+    },
+    {
+     "kod": "3159",
+     "aciklama": "Ekonomi"
+    },
+    {
+     "kod": "3213",
+     "aciklama": "İktisat"
+    },
+    {
+     "kod": "4386",
+     "aciklama": "Uluslararası Ekonomi"
+    },
+    {
+     "kod": "5106",
+     "aciklama": "Ekonomi-Yönetim Bilimleri Programları"
+    },
+    {
+     "kod": "8208",
+     "aciklama": "İş İdaresi ve İktisat"
+    },
+    {
+     "kod": "9113",
+     "aciklama": "Ekonomi Politik ve Toplum Felsefesi"
+    },
+    {
+     "kod": "9221",
+     "aciklama": "Ekonomi ve İdari Bilimler / Ekonomi ve İdari Bilimler Programları"
+    },
+    {
+     "kod": "4431",
+     "aciklama": "Aşağıdaki lisans programlarından birinden mezun olmak."
+    },
+    {
+     "kod": "3226",
+     "aciklama": "İşletme / İşletmecilik"
+    },
+    {
+     "kod": "3227",
+     "aciklama": "İşletme Bilgi Yönetimi"
+    },
+    {
+     "kod": "3381",
+     "aciklama": "Muhasebe ve Finansman"
+    },
+    {
+     "kod": "5123",
+     "aciklama": "Muhasebe ve Finansal Yönetim / Muhasebe ve Finans Yönetimi"
+    },
+    {
+     "kod": "5143",
+     "aciklama": "Yönetim Bilimleri / Yönetim Bilimleri Programları"
+    },
+    {
+     "kod": "8207",
+     "aciklama": "İş İdaresi"
+    },
+    {
+     "kod": "8208",
+     "aciklama": "İş İdaresi ve İktisat"
+    },
+    {
+     "kod": "8296",
+     "aciklama": "Yönetim ve Organizasyon"
+    },
+    {
+     "kod": "8334",
+     "aciklama": "Pazarlama"
+    },
+    {
+     "kod": "9552",
+     "aciklama": "İşletme-Maliye"
+    },
+    {
+     "kod": "9584",
+     "aciklama": "Yönetim Bilimleri ve Liderlik"
+    },
+    {
+     "kod": "4459",
+     "aciklama": "Aşağıdaki lisans programlarından birinden mezun olmak."
+    },
+    {
+     "kod": "3254",
+     "aciklama": "Maliye"
+    },
+    {
+     "kod": "4322",
+     "aciklama": "Muhasebe ve Maliye"
+    },
+    {
+     "kod": "8225",
+     "aciklama": "Maliye-Muhasebe"
+    },
+    {
+     "kod": "4463",
+     "aciklama": "Aşağıdaki lisans programlarından birinden mezun olmak."
+    },
+    {
+     "kod": "3306",
+     "aciklama": "Sigortacılık"
+    },
+    {
+     "kod": "5127",
+     "aciklama": "Sigortacılık ve Risk Yönetimi"
+    },
+    {
+     "kod": "9360",
+     "aciklama": "Sigortacılık ve Sosya Güvenlik"
+    },
+    {
+     "kod": "9526",
+     "aciklama": "Sigortacılık ve Aktüerya"
+    },
+    {
+     "kod": "9568",
+     "aciklama": "Sigortacılık ve Aktüerya Bilimleri"
+    },
+    {
+     "kod": "4503",
+     "aciklama": "Aşağıdaki lisans programlarından birinden mezun olmak."
+    },
+    {
+     "kod": "3237",
+     "aciklama": "Kamu Yönetimi"
+    },
+    {
+     "kod": "3313",
+     "aciklama": "Siyaset Bilimi"
+    },
+    {
+     "kod": "3314",
+     "aciklama": "Siyaset Bilimi ve Kamu Yönetimi"
+    }
+   ],
+   "sinif": null,
+   "sinif_kod": null,
+   "derece": null
+  },
+  {
+   "kadro_kodu": "306010157",
+   "kadro_guid": "86be464d-5863-ee11-b15e-a0369f7d1d8e",
+   "kurum": "Sosyal Güvenlik Kurumu",
+   "unvan": "Büro Personeli",
+   "il": "Balıkesir",
+   "kontenjan": 5,
+   "bos_kadro": 13,
+   "min_puan": null,
+   "max_puan": null,
+   "ogrenim": "Lisans",
+   "nitelikler": [
+    {
+     "kod": "4421",
+     "aciklama": "Aşağıdaki lisans programlarından birinden mezun olmak."
+    },
+    {
+     "kod": "3159",
+     "aciklama": "Ekonomi"
+    },
+    {
+     "kod": "3213",
+     "aciklama": "İktisat"
+    },
+    {
+     "kod": "4386",
+     "aciklama": "Uluslararası Ekonomi"
+    },
+    {
+     "kod": "5106",
+     "aciklama": "Ekonomi-Yönetim Bilimleri Programları"
+    },
+    {
+     "kod": "8208",
+     "aciklama": "İş İdaresi ve İktisat"
+    },
+    {
+     "kod": "9113",
+     "aciklama": "Ekonomi Politik ve Toplum Felsefesi"
+    },
+    {
+     "kod": "9221",
+     "aciklama": "Ekonomi ve İdari Bilimler / Ekonomi ve İdari Bilimler Programları"
+    },
+    {
+     "kod": "4431",
+     "aciklama": "Aşağıdaki lisans programlarından birinden mezun olmak."
+    },
+    {
+     "kod": "3226",
+     "aciklama": "İşletme / İşletmecilik"
+    },
+    {
+     "kod": "3227",
+     "aciklama": "İşletme Bilgi Yönetimi"
+    },
+    {
+     "kod": "3381",
+     "aciklama": "Muhasebe ve Finansman"
+    },
+    {
+     "kod": "5123",
+     "aciklama": "Muhasebe ve Finansal Yönetim / Muhasebe ve Finans Yönetimi"
+    },
+    {
+     "kod": "5143",
+     "aciklama": "Yönetim Bilimleri / Yönetim Bilimleri Programları"
+    },
+    {
+     "kod": "8207",
+     "aciklama": "İş İdaresi"
+    },
+    {
+     "kod": "8208",
+     "aciklama": "İş İdaresi ve İktisat"
+    },
+    {
+     "kod": "8296",
+     "aciklama": "Yönetim ve Organizasyon"
+    },
+    {
+     "kod": "8334",
+     "aciklama": "Pazarlama"
+    },
+    {
+     "kod": "9552",
+     "aciklama": "İşletme-Maliye"
+    },
+    {
+     "kod": "9584",
+     "aciklama": "Yönetim Bilimleri ve Liderlik"
+    },
+    {
+     "kod": "4459",
+     "aciklama": "Aşağıdaki lisans programlarından birinden mezun olmak."
+    },
+    {
+     "kod": "3254",
+     "aciklama": "Maliye"
+    },
+    {
+     "kod": "4322",
+     "aciklama": "Muhasebe ve Maliye"
+    },
+    {
+     "kod": "8225",
+     "aciklama": "Maliye-Muhasebe"
+    },
+    {
+     "kod": "4463",
+     "aciklama": "Aşağıdaki lisans programlarından birinden mezun olmak."
+    },
+    {
+     "kod": "3306",
+     "aciklama": "Sigortacılık"
+    },
+    {
+     "kod": "5127",
+     "aciklama": "Sigortacılık ve Risk Yönetimi"
+    },
+    {
+     "kod": "9360",
+     "aciklama": "Sigortacılık ve Sosya Güvenlik"
+    },
+    {
+     "kod": "9526",
+     "aciklama": "Sigortacılık ve Aktüerya"
+    },
+    {
+     "kod": "9568",
+     "aciklama": "Sigortacılık ve Aktüerya Bilimleri"
+    },
+    {
+     "kod": "4503",
+     "aciklama": "Aşağıdaki lisans programlarından birinden mezun olmak."
+    },
+    {
+     "kod": "3237",
+     "aciklama": "Kamu Yönetimi"
+    },
+    {
+     "kod": "3313",
+     "aciklama": "Siyaset Bilimi"
+    },
+    {
+     "kod": "3314",
+     "aciklama": "Siyaset Bilimi ve Kamu Yönetimi"
+    }
+   ],
+   "sinif": null,
+   "sinif_kod": null,
+   "derece": null
+  },
+  {
+   "kadro_kodu": "306010164",
+   "kadro_guid": "93be464d-5863-ee11-b15e-a0369f7d1d8e",
+   "kurum": "Sosyal Güvenlik Kurumu",
+   "unvan": "Büro Personeli",
+   "il": "Bursa",
+   "kontenjan": 16,
+   "bos_kadro": 14,
+   "min_puan": null,
+   "max_puan": null,
+   "ogrenim": "Lisans",
+   "nitelikler": [
+    {
+     "kod": "4421",
+     "aciklama": "Aşağıdaki lisans programlarından birinden mezun olmak."
+    },
+    {
+     "kod": "3159",
+     "aciklama": "Ekonomi"
+    },
+    {
+     "kod": "3213",
+     "aciklama": "İktisat"
+    },
+    {
+     "kod": "4386",
+     "aciklama": "Uluslararası Ekonomi"
+    },
+    {
+     "kod": "5106",
+     "aciklama": "Ekonomi-Yönetim Bilimleri Programları"
+    },
+    {
+     "kod": "8208",
+     "aciklama": "İş İdaresi ve İktisat"
+    },
+    {
+     "kod": "9113",
+     "aciklama": "Ekonomi Politik ve Toplum Felsefesi"
+    },
+    {
+     "kod": "9221",
+     "aciklama": "Ekonomi ve İdari Bilimler / Ekonomi ve İdari Bilimler Programları"
+    },
+    {
+     "kod": "4431",
+     "aciklama": "Aşağıdaki lisans programlarından birinden mezun olmak."
+    },
+    {
+     "kod": "3226",
+     "aciklama": "İşletme / İşletmecilik"
+    },
+    {
+     "kod": "3227",
+     "aciklama": "İşletme Bilgi Yönetimi"
+    },
+    {
+     "kod": "3381",
+     "aciklama": "Muhasebe ve Finansman"
+    },
+    {
+     "kod": "5123",
+     "aciklama": "Muhasebe ve Finansal Yönetim / Muhasebe ve Finans Yönetimi"
+    },
+    {
+     "kod": "5143",
+     "aciklama": "Yönetim Bilimleri / Yönetim Bilimleri Programları"
+    },
+    {
+     "kod": "8207",
+     "aciklama": "İş İdaresi"
+    },
+    {
+     "kod": "8208",
+     "aciklama": "İş İdaresi ve İktisat"
+    },
+    {
+     "kod": "8296",
+     "aciklama": "Yönetim ve Organizasyon"
+    },
+    {
+     "kod": "8334",
+     "aciklama": "Pazarlama"
+    },
+    {
+     "kod": "9552",
+     "aciklama": "İşletme-Maliye"
+    },
+    {
+     "kod": "9584",
+     "aciklama": "Yönetim Bilimleri ve Liderlik"
+    },
+    {
+     "kod": "4459",
+     "aciklama": "Aşağıdaki lisans programlarından birinden mezun olmak."
+    },
+    {
+     "kod": "3254",
+     "aciklama": "Maliye"
+    },
+    {
+     "kod": "4322",
+     "aciklama": "Muhasebe ve Maliye"
+    },
+    {
+     "kod": "8225",
+     "aciklama": "Maliye-Muhasebe"
+    },
+    {
+     "kod": "4463",
+     "aciklama": "Aşağıdaki lisans programlarından birinden mezun olmak."
+    },
+    {
+     "kod": "3306",
+     "aciklama": "Sigortacılık"
+    },
+    {
+     "kod": "5127",
+     "aciklama": "Sigortacılık ve Risk Yönetimi"
+    },
+    {
+     "kod": "9360",
+     "aciklama": "Sigortacılık ve Sosya Güvenlik"
+    },
+    {
+     "kod": "9526",
+     "aciklama": "Sigortacılık ve Aktüerya"
+    },
+    {
+     "kod": "9568",
+     "aciklama": "Sigortacılık ve Aktüerya Bilimleri"
+    },
+    {
+     "kod": "4503",
+     "aciklama": "Aşağıdaki lisans programlarından birinden mezun olmak."
+    },
+    {
+     "kod": "3237",
+     "aciklama": "Kamu Yönetimi"
+    },
+    {
+     "kod": "3313",
+     "aciklama": "Siyaset Bilimi"
+    },
+    {
+     "kod": "3314",
+     "aciklama": "Siyaset Bilimi ve Kamu Yönetimi"
+    }
+   ],
+   "sinif": null,
+   "sinif_kod": null,
+   "derece": null
+  },
+  {
+   "kadro_kodu": "306010171",
+   "kadro_guid": "9dbe464d-5863-ee11-b15e-a0369f7d1d8e",
+   "kurum": "Sosyal Güvenlik Kurumu",
+   "unvan": "Büro Personeli",
+   "il": "Denizli",
+   "kontenjan": 5,
+   "bos_kadro": 11,
+   "min_puan": null,
+   "max_puan": null,
+   "ogrenim": "Lisans",
+   "nitelikler": [
+    {
+     "kod": "4421",
+     "aciklama": "Aşağıdaki lisans programlarından birinden mezun olmak."
+    },
+    {
+     "kod": "3159",
+     "aciklama": "Ekonomi"
+    },
+    {
+     "kod": "3213",
+     "aciklama": "İktisat"
+    },
+    {
+     "kod": "4386",
+     "aciklama": "Uluslararası Ekonomi"
+    },
+    {
+     "kod": "5106",
+     "aciklama": "Ekonomi-Yönetim Bilimleri Programları"
+    },
+    {
+     "kod": "8208",
+     "aciklama": "İş İdaresi ve İktisat"
+    },
+    {
+     "kod": "9113",
+     "aciklama": "Ekonomi Politik ve Toplum Felsefesi"
+    },
+    {
+     "kod": "9221",
+     "aciklama": "Ekonomi ve İdari Bilimler / Ekonomi ve İdari Bilimler Programları"
+    },
+    {
+     "kod": "4431",
+     "aciklama": "Aşağıdaki lisans programlarından birinden mezun olmak."
+    },
+    {
+     "kod": "3226",
+     "aciklama": "İşletme / İşletmecilik"
+    },
+    {
+     "kod": "3227",
+     "aciklama": "İşletme Bilgi Yönetimi"
+    },
+    {
+     "kod": "3381",
+     "aciklama": "Muhasebe ve Finansman"
+    },
+    {
+     "kod": "5123",
+     "aciklama": "Muhasebe ve Finansal Yönetim / Muhasebe ve Finans Yönetimi"
+    },
+    {
+     "kod": "5143",
+     "aciklama": "Yönetim Bilimleri / Yönetim Bilimleri Programları"
+    },
+    {
+     "kod": "8207",
+     "aciklama": "İş İdaresi"
+    },
+    {
+     "kod": "8208",
+     "aciklama": "İş İdaresi ve İktisat"
+    },
+    {
+     "kod": "8296",
+     "aciklama": "Yönetim ve Organizasyon"
+    },
+    {
+     "kod": "8334",
+     "aciklama": "Pazarlama"
+    },
+    {
+     "kod": "9552",
+     "aciklama": "İşletme-Maliye"
+    },
+    {
+     "kod": "9584",
+     "aciklama": "Yönetim Bilimleri ve Liderlik"
+    },
+    {
+     "kod": "4459",
+     "aciklama": "Aşağıdaki lisans programlarından birinden mezun olmak."
+    },
+    {
+     "kod": "3254",
+     "aciklama": "Maliye"
+    },
+    {
+     "kod": "4322",
+     "aciklama": "Muhasebe ve Maliye"
+    },
+    {
+     "kod": "8225",
+     "aciklama": "Maliye-Muhasebe"
+    },
+    {
+     "kod": "4463",
+     "aciklama": "Aşağıdaki lisans programlarından birinden mezun olmak."
+    },
+    {
+     "kod": "3306",
+     "aciklama": "Sigortacılık"
+    },
+    {
+     "kod": "5127",
+     "aciklama": "Sigortacılık ve Risk Yönetimi"
+    },
+    {
+     "kod": "9360",
+     "aciklama": "Sigortacılık ve Sosya Güvenlik"
+    },
+    {
+     "kod": "9526",
+     "aciklama": "Sigortacılık ve Aktüerya"
+    },
+    {
+     "kod": "9568",
+     "aciklama": "Sigortacılık ve Aktüerya Bilimleri"
+    },
+    {
+     "kod": "4503",
+     "aciklama": "Aşağıdaki lisans programlarından birinden mezun olmak."
+    },
+    {
+     "kod": "3237",
+     "aciklama": "Kamu Yönetimi"
+    },
+    {
+     "kod": "3313",
+     "aciklama": "Siyaset Bilimi"
+    },
+    {
+     "kod": "3314",
+     "aciklama": "Siyaset Bilimi ve Kamu Yönetimi"
+    }
+   ],
+   "sinif": null,
+   "sinif_kod": null,
+   "derece": null
+  },
+  {
+   "kadro_kodu": "306010178",
+   "kadro_guid": "acbe464d-5863-ee11-b15e-a0369f7d1d8e",
+   "kurum": "Sosyal Güvenlik Kurumu",
+   "unvan": "Büro Personeli",
+   "il": "Eskişehir",
+   "kontenjan": 5,
+   "bos_kadro": 15,
+   "min_puan": null,
+   "max_puan": null,
+   "ogrenim": "Lisans",
+   "nitelikler": [
+    {
+     "kod": "4421",
+     "aciklama": "Aşağıdaki lisans programlarından birinden mezun olmak."
+    },
+    {
+     "kod": "3159",
+     "aciklama": "Ekonomi"
+    },
+    {
+     "kod": "3213",
+     "aciklama": "İktisat"
+    },
+    {
+     "kod": "4386",
+     "aciklama": "Uluslararası Ekonomi"
+    },
+    {
+     "kod": "5106",
+     "aciklama": "Ekonomi-Yönetim Bilimleri Programları"
+    },
+    {
+     "kod": "8208",
+     "aciklama": "İş İdaresi ve İktisat"
+    },
+    {
+     "kod": "9113",
+     "aciklama": "Ekonomi Politik ve Toplum Felsefesi"
+    },
+    {
+     "kod": "9221",
+     "aciklama": "Ekonomi ve İdari Bilimler / Ekonomi ve İdari Bilimler Programları"
+    },
+    {
+     "kod": "4431",
+     "aciklama": "Aşağıdaki lisans programlarından birinden mezun olmak."
+    },
+    {
+     "kod": "3226",
+     "aciklama": "İşletme / İşletmecilik"
+    },
+    {
+     "kod": "3227",
+     "aciklama": "İşletme Bilgi Yönetimi"
+    },
+    {
+     "kod": "3381",
+     "aciklama": "Muhasebe ve Finansman"
+    },
+    {
+     "kod": "5123",
+     "aciklama": "Muhasebe ve Finansal Yönetim / Muhasebe ve Finans Yönetimi"
+    },
+    {
+     "kod": "5143",
+     "aciklama": "Yönetim Bilimleri / Yönetim Bilimleri Programları"
+    },
+    {
+     "kod": "8207",
+     "aciklama": "İş İdaresi"
+    },
+    {
+     "kod": "8208",
+     "aciklama": "İş İdaresi ve İktisat"
+    },
+    {
+     "kod": "8296",
+     "aciklama": "Yönetim ve Organizasyon"
+    },
+    {
+     "kod": "8334",
+     "aciklama": "Pazarlama"
+    },
+    {
+     "kod": "9552",
+     "aciklama": "İşletme-Maliye"
+    },
+    {
+     "kod": "9584",
+     "aciklama": "Yönetim Bilimleri ve Liderlik"
+    },
+    {
+     "kod": "4459",
+     "aciklama": "Aşağıdaki lisans programlarından birinden mezun olmak."
+    },
+    {
+     "kod": "3254",
+     "aciklama": "Maliye"
+    },
+    {
+     "kod": "4322",
+     "aciklama": "Muhasebe ve Maliye"
+    },
+    {
+     "kod": "8225",
+     "aciklama": "Maliye-Muhasebe"
+    },
+    {
+     "kod": "4463",
+     "aciklama": "Aşağıdaki lisans programlarından birinden mezun olmak."
+    },
+    {
+     "kod": "3306",
+     "aciklama": "Sigortacılık"
+    },
+    {
+     "kod": "5127",
+     "aciklama": "Sigortacılık ve Risk Yönetimi"
+    },
+    {
+     "kod": "9360",
+     "aciklama": "Sigortacılık ve Sosya Güvenlik"
+    },
+    {
+     "kod": "9526",
+     "aciklama": "Sigortacılık ve Aktüerya"
+    },
+    {
+     "kod": "9568",
+     "aciklama": "Sigortacılık ve Aktüerya Bilimleri"
+    },
+    {
+     "kod": "4503",
+     "aciklama": "Aşağıdaki lisans programlarından birinden mezun olmak."
+    },
+    {
+     "kod": "3237",
+     "aciklama": "Kamu Yönetimi"
+    },
+    {
+     "kod": "3313",
+     "aciklama": "Siyaset Bilimi"
+    },
+    {
+     "kod": "3314",
+     "aciklama": "Siyaset Bilimi ve Kamu Yönetimi"
+    }
+   ],
+   "sinif": null,
+   "sinif_kod": null,
+   "derece": null
+  },
+  {
+   "kadro_kodu": "306010185",
+   "kadro_guid": "adbe464d-5863-ee11-b15e-a0369f7d1d8e",
+   "kurum": "Sosyal Güvenlik Kurumu",
+   "unvan": "Büro Personeli",
+   "il": "Gaziantep",
+   "kontenjan": 9,
+   "bos_kadro": 8,
+   "min_puan": null,
+   "max_puan": null,
+   "ogrenim": "Lisans",
+   "nitelikler": [
+    {
+     "kod": "4421",
+     "aciklama": "Aşağıdaki lisans programlarından birinden mezun olmak."
+    },
+    {
+     "kod": "3159",
+     "aciklama": "Ekonomi"
+    },
+    {
+     "kod": "3213",
+     "aciklama": "İktisat"
+    },
+    {
+     "kod": "4386",
+     "aciklama": "Uluslararası Ekonomi"
+    },
+    {
+     "kod": "5106",
+     "aciklama": "Ekonomi-Yönetim Bilimleri Programları"
+    },
+    {
+     "kod": "8208",
+     "aciklama": "İş İdaresi ve İktisat"
+    },
+    {
+     "kod": "9113",
+     "aciklama": "Ekonomi Politik ve Toplum Felsefesi"
+    },
+    {
+     "kod": "9221",
+     "aciklama": "Ekonomi ve İdari Bilimler / Ekonomi ve İdari Bilimler Programları"
+    },
+    {
+     "kod": "4431",
+     "aciklama": "Aşağıdaki lisans programlarından birinden mezun olmak."
+    },
+    {
+     "kod": "3226",
+     "aciklama": "İşletme / İşletmecilik"
+    },
+    {
+     "kod": "3227",
+     "aciklama": "İşletme Bilgi Yönetimi"
+    },
+    {
+     "kod": "3381",
+     "aciklama": "Muhasebe ve Finansman"
+    },
+    {
+     "kod": "5123",
+     "aciklama": "Muhasebe ve Finansal Yönetim / Muhasebe ve Finans Yönetimi"
+    },
+    {
+     "kod": "5143",
+     "aciklama": "Yönetim Bilimleri / Yönetim Bilimleri Programları"
+    },
+    {
+     "kod": "8207",
+     "aciklama": "İş İdaresi"
+    },
+    {
+     "kod": "8208",
+     "aciklama": "İş İdaresi ve İktisat"
+    },
+    {
+     "kod": "8296",
+     "aciklama": "Yönetim ve Organizasyon"
+    },
+    {
+     "kod": "8334",
+     "aciklama": "Pazarlama"
+    },
+    {
+     "kod": "9552",
+     "aciklama": "İşletme-Maliye"
+    },
+    {
+     "kod": "9584",
+     "aciklama": "Yönetim Bilimleri ve Liderlik"
+    },
+    {
+     "kod": "4459",
+     "aciklama": "Aşağıdaki lisans programlarından birinden mezun olmak."
+    },
+    {
+     "kod": "3254",
+     "aciklama": "Maliye"
+    },
+    {
+     "kod": "4322",
+     "aciklama": "Muhasebe ve Maliye"
+    },
+    {
+     "kod": "8225",
+     "aciklama": "Maliye-Muhasebe"
+    },
+    {
+     "kod": "4463",
+     "aciklama": "Aşağıdaki lisans programlarından birinden mezun olmak."
+    },
+    {
+     "kod": "3306",
+     "aciklama": "Sigortacılık"
+    },
+    {
+     "kod": "5127",
+     "aciklama": "Sigortacılık ve Risk Yönetimi"
+    },
+    {
+     "kod": "9360",
+     "aciklama": "Sigortacılık ve Sosya Güvenlik"
+    },
+    {
+     "kod": "9526",
+     "aciklama": "Sigortacılık ve Aktüerya"
+    },
+    {
+     "kod": "9568",
+     "aciklama": "Sigortacılık ve Aktüerya Bilimleri"
+    },
+    {
+     "kod": "4503",
+     "aciklama": "Aşağıdaki lisans programlarından birinden mezun olmak."
+    },
+    {
+     "kod": "3237",
+     "aciklama": "Kamu Yönetimi"
+    },
+    {
+     "kod": "3313",
+     "aciklama": "Siyaset Bilimi"
+    },
+    {
+     "kod": "3314",
+     "aciklama": "Siyaset Bilimi ve Kamu Yönetimi"
+    }
+   ],
+   "sinif": null,
+   "sinif_kod": null,
+   "derece": null
+  },
+  {
+   "kadro_kodu": "306010227",
+   "kadro_guid": "e4be464d-5863-ee11-b15e-a0369f7d1d8e",
+   "kurum": "Sosyal Güvenlik Kurumu",
+   "unvan": "Büro Personeli",
+   "il": "Mersin",
+   "kontenjan": 6,
+   "bos_kadro": 8,
+   "min_puan": null,
+   "max_puan": null,
+   "ogrenim": "Lisans",
+   "nitelikler": [
+    {
+     "kod": "4421",
+     "aciklama": "Aşağıdaki lisans programlarından birinden mezun olmak."
+    },
+    {
+     "kod": "3159",
+     "aciklama": "Ekonomi"
+    },
+    {
+     "kod": "3213",
+     "aciklama": "İktisat"
+    },
+    {
+     "kod": "4386",
+     "aciklama": "Uluslararası Ekonomi"
+    },
+    {
+     "kod": "5106",
+     "aciklama": "Ekonomi-Yönetim Bilimleri Programları"
+    },
+    {
+     "kod": "8208",
+     "aciklama": "İş İdaresi ve İktisat"
+    },
+    {
+     "kod": "9113",
+     "aciklama": "Ekonomi Politik ve Toplum Felsefesi"
+    },
+    {
+     "kod": "9221",
+     "aciklama": "Ekonomi ve İdari Bilimler / Ekonomi ve İdari Bilimler Programları"
+    },
+    {
+     "kod": "4431",
+     "aciklama": "Aşağıdaki lisans programlarından birinden mezun olmak."
+    },
+    {
+     "kod": "3226",
+     "aciklama": "İşletme / İşletmecilik"
+    },
+    {
+     "kod": "3227",
+     "aciklama": "İşletme Bilgi Yönetimi"
+    },
+    {
+     "kod": "3381",
+     "aciklama": "Muhasebe ve Finansman"
+    },
+    {
+     "kod": "5123",
+     "aciklama": "Muhasebe ve Finansal Yönetim / Muhasebe ve Finans Yönetimi"
+    },
+    {
+     "kod": "5143",
+     "aciklama": "Yönetim Bilimleri / Yönetim Bilimleri Programları"
+    },
+    {
+     "kod": "8207",
+     "aciklama": "İş İdaresi"
+    },
+    {
+     "kod": "8208",
+     "aciklama": "İş İdaresi ve İktisat"
+    },
+    {
+     "kod": "8296",
+     "aciklama": "Yönetim ve Organizasyon"
+    },
+    {
+     "kod": "8334",
+     "aciklama": "Pazarlama"
+    },
+    {
+     "kod": "9552",
+     "aciklama": "İşletme-Maliye"
+    },
+    {
+     "kod": "9584",
+     "aciklama": "Yönetim Bilimleri ve Liderlik"
+    },
+    {
+     "kod": "4459",
+     "aciklama": "Aşağıdaki lisans programlarından birinden mezun olmak."
+    },
+    {
+     "kod": "3254",
+     "aciklama": "Maliye"
+    },
+    {
+     "kod": "4322",
+     "aciklama": "Muhasebe ve Maliye"
+    },
+    {
+     "kod": "8225",
+     "aciklama": "Maliye-Muhasebe"
+    },
+    {
+     "kod": "4463",
+     "aciklama": "Aşağıdaki lisans programlarından birinden mezun olmak."
+    },
+    {
+     "kod": "3306",
+     "aciklama": "Sigortacılık"
+    },
+    {
+     "kod": "5127",
+     "aciklama": "Sigortacılık ve Risk Yönetimi"
+    },
+    {
+     "kod": "9360",
+     "aciklama": "Sigortacılık ve Sosya Güvenlik"
+    },
+    {
+     "kod": "9526",
+     "aciklama": "Sigortacılık ve Aktüerya"
+    },
+    {
+     "kod": "9568",
+     "aciklama": "Sigortacılık ve Aktüerya Bilimleri"
+    },
+    {
+     "kod": "4503",
+     "aciklama": "Aşağıdaki lisans programlarından birinden mezun olmak."
+    },
+    {
+     "kod": "3237",
+     "aciklama": "Kamu Yönetimi"
+    },
+    {
+     "kod": "3313",
+     "aciklama": "Siyaset Bilimi"
+    },
+    {
+     "kod": "3314",
+     "aciklama": "Siyaset Bilimi ve Kamu Yönetimi"
+    }
+   ],
+   "sinif": null,
+   "sinif_kod": null,
+   "derece": null
+  },
+  {
+   "kadro_kodu": "306010192",
+   "kadro_guid": "bebe464d-5863-ee11-b15e-a0369f7d1d8e",
+   "kurum": "Sosyal Güvenlik Kurumu",
+   "unvan": "Büro Personeli",
+   "il": "İstanbul",
+   "kontenjan": 250,
+   "bos_kadro": 15,
+   "min_puan": null,
+   "max_puan": null,
+   "ogrenim": "Lisans",
+   "nitelikler": [
+    {
+     "kod": "4421",
+     "aciklama": "Aşağıdaki lisans programlarından birinden mezun olmak."
+    },
+    {
+     "kod": "3159",
+     "aciklama": "Ekonomi"
+    },
+    {
+     "kod": "3213",
+     "aciklama": "İktisat"
+    },
+    {
+     "kod": "4386",
+     "aciklama": "Uluslararası Ekonomi"
+    },
+    {
+     "kod": "5106",
+     "aciklama": "Ekonomi-Yönetim Bilimleri Programları"
+    },
+    {
+     "kod": "8208",
+     "aciklama": "İş İdaresi ve İktisat"
+    },
+    {
+     "kod": "9113",
+     "aciklama": "Ekonomi Politik ve Toplum Felsefesi"
+    },
+    {
+     "kod": "9221",
+     "aciklama": "Ekonomi ve İdari Bilimler / Ekonomi ve İdari Bilimler Programları"
+    },
+    {
+     "kod": "4431",
+     "aciklama": "Aşağıdaki lisans programlarından birinden mezun olmak."
+    },
+    {
+     "kod": "3226",
+     "aciklama": "İşletme / İşletmecilik"
+    },
+    {
+     "kod": "3227",
+     "aciklama": "İşletme Bilgi Yönetimi"
+    },
+    {
+     "kod": "3381",
+     "aciklama": "Muhasebe ve Finansman"
+    },
+    {
+     "kod": "5123",
+     "aciklama": "Muhasebe ve Finansal Yönetim / Muhasebe ve Finans Yönetimi"
+    },
+    {
+     "kod": "5143",
+     "aciklama": "Yönetim Bilimleri / Yönetim Bilimleri Programları"
+    },
+    {
+     "kod": "8207",
+     "aciklama": "İş İdaresi"
+    },
+    {
+     "kod": "8208",
+     "aciklama": "İş İdaresi ve İktisat"
+    },
+    {
+     "kod": "8296",
+     "aciklama": "Yönetim ve Organizasyon"
+    },
+    {
+     "kod": "8334",
+     "aciklama": "Pazarlama"
+    },
+    {
+     "kod": "9552",
+     "aciklama": "İşletme-Maliye"
+    },
+    {
+     "kod": "9584",
+     "aciklama": "Yönetim Bilimleri ve Liderlik"
+    },
+    {
+     "kod": "4459",
+     "aciklama": "Aşağıdaki lisans programlarından birinden mezun olmak."
+    },
+    {
+     "kod": "3254",
+     "aciklama": "Maliye"
+    },
+    {
+     "kod": "4322",
+     "aciklama": "Muhasebe ve Maliye"
+    },
+    {
+     "kod": "8225",
+     "aciklama": "Maliye-Muhasebe"
+    },
+    {
+     "kod": "4463",
+     "aciklama": "Aşağıdaki lisans programlarından birinden mezun olmak."
+    },
+    {
+     "kod": "3306",
+     "aciklama": "Sigortacılık"
+    },
+    {
+     "kod": "5127",
+     "aciklama": "Sigortacılık ve Risk Yönetimi"
+    },
+    {
+     "kod": "9360",
+     "aciklama": "Sigortacılık ve Sosya Güvenlik"
+    },
+    {
+     "kod": "9526",
+     "aciklama": "Sigortacılık ve Aktüerya"
+    },
+    {
+     "kod": "9568",
+     "aciklama": "Sigortacılık ve Aktüerya Bilimleri"
+    },
+    {
+     "kod": "4503",
+     "aciklama": "Aşağıdaki lisans programlarından birinden mezun olmak."
+    },
+    {
+     "kod": "3237",
+     "aciklama": "Kamu Yönetimi"
+    },
+    {
+     "kod": "3313",
+     "aciklama": "Siyaset Bilimi"
+    },
+    {
+     "kod": "3314",
+     "aciklama": "Siyaset Bilimi ve Kamu Yönetimi"
+    }
+   ],
+   "sinif": null,
+   "sinif_kod": null,
+   "derece": null
+  },
+  {
+   "kadro_kodu": "306010199",
+   "kadro_guid": "bfbe464d-5863-ee11-b15e-a0369f7d1d8e",
+   "kurum": "Sosyal Güvenlik Kurumu",
+   "unvan": "Büro Personeli",
+   "il": "İzmir",
+   "kontenjan": 24,
+   "bos_kadro": 12,
+   "min_puan": null,
+   "max_puan": null,
+   "ogrenim": "Lisans",
+   "nitelikler": [
+    {
+     "kod": "4421",
+     "aciklama": "Aşağıdaki lisans programlarından birinden mezun olmak."
+    },
+    {
+     "kod": "3159",
+     "aciklama": "Ekonomi"
+    },
+    {
+     "kod": "3213",
+     "aciklama": "İktisat"
+    },
+    {
+     "kod": "4386",
+     "aciklama": "Uluslararası Ekonomi"
+    },
+    {
+     "kod": "5106",
+     "aciklama": "Ekonomi-Yönetim Bilimleri Programları"
+    },
+    {
+     "kod": "8208",
+     "aciklama": "İş İdaresi ve İktisat"
+    },
+    {
+     "kod": "9113",
+     "aciklama": "Ekonomi Politik ve Toplum Felsefesi"
+    },
+    {
+     "kod": "9221",
+     "aciklama": "Ekonomi ve İdari Bilimler / Ekonomi ve İdari Bilimler Programları"
+    },
+    {
+     "kod": "4431",
+     "aciklama": "Aşağıdaki lisans programlarından birinden mezun olmak."
+    },
+    {
+     "kod": "3226",
+     "aciklama": "İşletme / İşletmecilik"
+    },
+    {
+     "kod": "3227",
+     "aciklama": "İşletme Bilgi Yönetimi"
+    },
+    {
+     "kod": "3381",
+     "aciklama": "Muhasebe ve Finansman"
+    },
+    {
+     "kod": "5123",
+     "aciklama": "Muhasebe ve Finansal Yönetim / Muhasebe ve Finans Yönetimi"
+    },
+    {
+     "kod": "5143",
+     "aciklama": "Yönetim Bilimleri / Yönetim Bilimleri Programları"
+    },
+    {
+     "kod": "8207",
+     "aciklama": "İş İdaresi"
+    },
+    {
+     "kod": "8208",
+     "aciklama": "İş İdaresi ve İktisat"
+    },
+    {
+     "kod": "8296",
+     "aciklama": "Yönetim ve Organizasyon"
+    },
+    {
+     "kod": "8334",
+     "aciklama": "Pazarlama"
+    },
+    {
+     "kod": "9552",
+     "aciklama": "İşletme-Maliye"
+    },
+    {
+     "kod": "9584",
+     "aciklama": "Yönetim Bilimleri ve Liderlik"
+    },
+    {
+     "kod": "4459",
+     "aciklama": "Aşağıdaki lisans programlarından birinden mezun olmak."
+    },
+    {
+     "kod": "3254",
+     "aciklama": "Maliye"
+    },
+    {
+     "kod": "4322",
+     "aciklama": "Muhasebe ve Maliye"
+    },
+    {
+     "kod": "8225",
+     "aciklama": "Maliye-Muhasebe"
+    },
+    {
+     "kod": "4463",
+     "aciklama": "Aşağıdaki lisans programlarından birinden mezun olmak."
+    },
+    {
+     "kod": "3306",
+     "aciklama": "Sigortacılık"
+    },
+    {
+     "kod": "5127",
+     "aciklama": "Sigortacılık ve Risk Yönetimi"
+    },
+    {
+     "kod": "9360",
+     "aciklama": "Sigortacılık ve Sosya Güvenlik"
+    },
+    {
+     "kod": "9526",
+     "aciklama": "Sigortacılık ve Aktüerya"
+    },
+    {
+     "kod": "9568",
+     "aciklama": "Sigortacılık ve Aktüerya Bilimleri"
+    },
+    {
+     "kod": "4503",
+     "aciklama": "Aşağıdaki lisans programlarından birinden mezun olmak."
+    },
+    {
+     "kod": "3237",
+     "aciklama": "Kamu Yönetimi"
+    },
+    {
+     "kod": "3313",
+     "aciklama": "Siyaset Bilimi"
+    },
+    {
+     "kod": "3314",
+     "aciklama": "Siyaset Bilimi ve Kamu Yönetimi"
+    }
+   ],
+   "sinif": null,
+   "sinif_kod": null,
+   "derece": null
+  },
+  {
+   "kadro_kodu": "306010206",
+   "kadro_guid": "cebe464d-5863-ee11-b15e-a0369f7d1d8e",
+   "kurum": "Sosyal Güvenlik Kurumu",
+   "unvan": "Büro Personeli",
+   "il": "Kayseri",
+   "kontenjan": 5,
+   "bos_kadro": 9,
+   "min_puan": null,
+   "max_puan": null,
+   "ogrenim": "Lisans",
+   "nitelikler": [
+    {
+     "kod": "4421",
+     "aciklama": "Aşağıdaki lisans programlarından birinden mezun olmak."
+    },
+    {
+     "kod": "3159",
+     "aciklama": "Ekonomi"
+    },
+    {
+     "kod": "3213",
+     "aciklama": "İktisat"
+    },
+    {
+     "kod": "4386",
+     "aciklama": "Uluslararası Ekonomi"
+    },
+    {
+     "kod": "5106",
+     "aciklama": "Ekonomi-Yönetim Bilimleri Programları"
+    },
+    {
+     "kod": "8208",
+     "aciklama": "İş İdaresi ve İktisat"
+    },
+    {
+     "kod": "9113",
+     "aciklama": "Ekonomi Politik ve Toplum Felsefesi"
+    },
+    {
+     "kod": "9221",
+     "aciklama": "Ekonomi ve İdari Bilimler / Ekonomi ve İdari Bilimler Programları"
+    },
+    {
+     "kod": "4431",
+     "aciklama": "Aşağıdaki lisans programlarından birinden mezun olmak."
+    },
+    {
+     "kod": "3226",
+     "aciklama": "İşletme / İşletmecilik"
+    },
+    {
+     "kod": "3227",
+     "aciklama": "İşletme Bilgi Yönetimi"
+    },
+    {
+     "kod": "3381",
+     "aciklama": "Muhasebe ve Finansman"
+    },
+    {
+     "kod": "5123",
+     "aciklama": "Muhasebe ve Finansal Yönetim / Muhasebe ve Finans Yönetimi"
+    },
+    {
+     "kod": "5143",
+     "aciklama": "Yönetim Bilimleri / Yönetim Bilimleri Programları"
+    },
+    {
+     "kod": "8207",
+     "aciklama": "İş İdaresi"
+    },
+    {
+     "kod": "8208",
+     "aciklama": "İş İdaresi ve İktisat"
+    },
+    {
+     "kod": "8296",
+     "aciklama": "Yönetim ve Organizasyon"
+    },
+    {
+     "kod": "8334",
+     "aciklama": "Pazarlama"
+    },
+    {
+     "kod": "9552",
+     "aciklama": "İşletme-Maliye"
+    },
+    {
+     "kod": "9584",
+     "aciklama": "Yönetim Bilimleri ve Liderlik"
+    },
+    {
+     "kod": "4459",
+     "aciklama": "Aşağıdaki lisans programlarından birinden mezun olmak."
+    },
+    {
+     "kod": "3254",
+     "aciklama": "Maliye"
+    },
+    {
+     "kod": "4322",
+     "aciklama": "Muhasebe ve Maliye"
+    },
+    {
+     "kod": "8225",
+     "aciklama": "Maliye-Muhasebe"
+    },
+    {
+     "kod": "4463",
+     "aciklama": "Aşağıdaki lisans programlarından birinden mezun olmak."
+    },
+    {
+     "kod": "3306",
+     "aciklama": "Sigortacılık"
+    },
+    {
+     "kod": "5127",
+     "aciklama": "Sigortacılık ve Risk Yönetimi"
+    },
+    {
+     "kod": "9360",
+     "aciklama": "Sigortacılık ve Sosya Güvenlik"
+    },
+    {
+     "kod": "9526",
+     "aciklama": "Sigortacılık ve Aktüerya"
+    },
+    {
+     "kod": "9568",
+     "aciklama": "Sigortacılık ve Aktüerya Bilimleri"
+    },
+    {
+     "kod": "4503",
+     "aciklama": "Aşağıdaki lisans programlarından birinden mezun olmak."
+    },
+    {
+     "kod": "3237",
+     "aciklama": "Kamu Yönetimi"
+    },
+    {
+     "kod": "3313",
+     "aciklama": "Siyaset Bilimi"
+    },
+    {
+     "kod": "3314",
+     "aciklama": "Siyaset Bilimi ve Kamu Yönetimi"
+    }
+   ],
+   "sinif": null,
+   "sinif_kod": null,
+   "derece": null
+  },
+  {
+   "kadro_kodu": "306010213",
+   "kadro_guid": "dbbe464d-5863-ee11-b15e-a0369f7d1d8e",
+   "kurum": "Sosyal Güvenlik Kurumu",
+   "unvan": "Büro Personeli",
+   "il": "Konya",
+   "kontenjan": 14,
+   "bos_kadro": 11,
+   "min_puan": null,
+   "max_puan": null,
+   "ogrenim": "Lisans",
+   "nitelikler": [
+    {
+     "kod": "4421",
+     "aciklama": "Aşağıdaki lisans programlarından birinden mezun olmak."
+    },
+    {
+     "kod": "3159",
+     "aciklama": "Ekonomi"
+    },
+    {
+     "kod": "3213",
+     "aciklama": "İktisat"
+    },
+    {
+     "kod": "4386",
+     "aciklama": "Uluslararası Ekonomi"
+    },
+    {
+     "kod": "5106",
+     "aciklama": "Ekonomi-Yönetim Bilimleri Programları"
+    },
+    {
+     "kod": "8208",
+     "aciklama": "İş İdaresi ve İktisat"
+    },
+    {
+     "kod": "9113",
+     "aciklama": "Ekonomi Politik ve Toplum Felsefesi"
+    },
+    {
+     "kod": "9221",
+     "aciklama": "Ekonomi ve İdari Bilimler / Ekonomi ve İdari Bilimler Programları"
+    },
+    {
+     "kod": "4431",
+     "aciklama": "Aşağıdaki lisans programlarından birinden mezun olmak."
+    },
+    {
+     "kod": "3226",
+     "aciklama": "İşletme / İşletmecilik"
+    },
+    {
+     "kod": "3227",
+     "aciklama": "İşletme Bilgi Yönetimi"
+    },
+    {
+     "kod": "3381",
+     "aciklama": "Muhasebe ve Finansman"
+    },
+    {
+     "kod": "5123",
+     "aciklama": "Muhasebe ve Finansal Yönetim / Muhasebe ve Finans Yönetimi"
+    },
+    {
+     "kod": "5143",
+     "aciklama": "Yönetim Bilimleri / Yönetim Bilimleri Programları"
+    },
+    {
+     "kod": "8207",
+     "aciklama": "İş İdaresi"
+    },
+    {
+     "kod": "8208",
+     "aciklama": "İş İdaresi ve İktisat"
+    },
+    {
+     "kod": "8296",
+     "aciklama": "Yönetim ve Organizasyon"
+    },
+    {
+     "kod": "8334",
+     "aciklama": "Pazarlama"
+    },
+    {
+     "kod": "9552",
+     "aciklama": "İşletme-Maliye"
+    },
+    {
+     "kod": "9584",
+     "aciklama": "Yönetim Bilimleri ve Liderlik"
+    },
+    {
+     "kod": "4459",
+     "aciklama": "Aşağıdaki lisans programlarından birinden mezun olmak."
+    },
+    {
+     "kod": "3254",
+     "aciklama": "Maliye"
+    },
+    {
+     "kod": "4322",
+     "aciklama": "Muhasebe ve Maliye"
+    },
+    {
+     "kod": "8225",
+     "aciklama": "Maliye-Muhasebe"
+    },
+    {
+     "kod": "4463",
+     "aciklama": "Aşağıdaki lisans programlarından birinden mezun olmak."
+    },
+    {
+     "kod": "3306",
+     "aciklama": "Sigortacılık"
+    },
+    {
+     "kod": "5127",
+     "aciklama": "Sigortacılık ve Risk Yönetimi"
+    },
+    {
+     "kod": "9360",
+     "aciklama": "Sigortacılık ve Sosya Güvenlik"
+    },
+    {
+     "kod": "9526",
+     "aciklama": "Sigortacılık ve Aktüerya"
+    },
+    {
+     "kod": "9568",
+     "aciklama": "Sigortacılık ve Aktüerya Bilimleri"
+    },
+    {
+     "kod": "4503",
+     "aciklama": "Aşağıdaki lisans programlarından birinden mezun olmak."
+    },
+    {
+     "kod": "3237",
+     "aciklama": "Kamu Yönetimi"
+    },
+    {
+     "kod": "3313",
+     "aciklama": "Siyaset Bilimi"
+    },
+    {
+     "kod": "3314",
+     "aciklama": "Siyaset Bilimi ve Kamu Yönetimi"
+    }
+   ],
+   "sinif": null,
+   "sinif_kod": null,
+   "derece": null
+  },
+  {
+   "kadro_kodu": "306010220",
+   "kadro_guid": "e3be464d-5863-ee11-b15e-a0369f7d1d8e",
+   "kurum": "Sosyal Güvenlik Kurumu",
+   "unvan": "Büro Personeli",
+   "il": "Mardin",
+   "kontenjan": 5,
+   "bos_kadro": 9,
+   "min_puan": null,
+   "max_puan": null,
+   "ogrenim": "Lisans",
+   "nitelikler": [
+    {
+     "kod": "4421",
+     "aciklama": "Aşağıdaki lisans programlarından birinden mezun olmak."
+    },
+    {
+     "kod": "3159",
+     "aciklama": "Ekonomi"
+    },
+    {
+     "kod": "3213",
+     "aciklama": "İktisat"
+    },
+    {
+     "kod": "4386",
+     "aciklama": "Uluslararası Ekonomi"
+    },
+    {
+     "kod": "5106",
+     "aciklama": "Ekonomi-Yönetim Bilimleri Programları"
+    },
+    {
+     "kod": "8208",
+     "aciklama": "İş İdaresi ve İktisat"
+    },
+    {
+     "kod": "9113",
+     "aciklama": "Ekonomi Politik ve Toplum Felsefesi"
+    },
+    {
+     "kod": "9221",
+     "aciklama": "Ekonomi ve İdari Bilimler / Ekonomi ve İdari Bilimler Programları"
+    },
+    {
+     "kod": "4431",
+     "aciklama": "Aşağıdaki lisans programlarından birinden mezun olmak."
+    },
+    {
+     "kod": "3226",
+     "aciklama": "İşletme / İşletmecilik"
+    },
+    {
+     "kod": "3227",
+     "aciklama": "İşletme Bilgi Yönetimi"
+    },
+    {
+     "kod": "3381",
+     "aciklama": "Muhasebe ve Finansman"
+    },
+    {
+     "kod": "5123",
+     "aciklama": "Muhasebe ve Finansal Yönetim / Muhasebe ve Finans Yönetimi"
+    },
+    {
+     "kod": "5143",
+     "aciklama": "Yönetim Bilimleri / Yönetim Bilimleri Programları"
+    },
+    {
+     "kod": "8207",
+     "aciklama": "İş İdaresi"
+    },
+    {
+     "kod": "8208",
+     "aciklama": "İş İdaresi ve İktisat"
+    },
+    {
+     "kod": "8296",
+     "aciklama": "Yönetim ve Organizasyon"
+    },
+    {
+     "kod": "8334",
+     "aciklama": "Pazarlama"
+    },
+    {
+     "kod": "9552",
+     "aciklama": "İşletme-Maliye"
+    },
+    {
+     "kod": "9584",
+     "aciklama": "Yönetim Bilimleri ve Liderlik"
+    },
+    {
+     "kod": "4459",
+     "aciklama": "Aşağıdaki lisans programlarından birinden mezun olmak."
+    },
+    {
+     "kod": "3254",
+     "aciklama": "Maliye"
+    },
+    {
+     "kod": "4322",
+     "aciklama": "Muhasebe ve Maliye"
+    },
+    {
+     "kod": "8225",
+     "aciklama": "Maliye-Muhasebe"
+    },
+    {
+     "kod": "4463",
+     "aciklama": "Aşağıdaki lisans programlarından birinden mezun olmak."
+    },
+    {
+     "kod": "3306",
+     "aciklama": "Sigortacılık"
+    },
+    {
+     "kod": "5127",
+     "aciklama": "Sigortacılık ve Risk Yönetimi"
+    },
+    {
+     "kod": "9360",
+     "aciklama": "Sigortacılık ve Sosya Güvenlik"
+    },
+    {
+     "kod": "9526",
+     "aciklama": "Sigortacılık ve Aktüerya"
+    },
+    {
+     "kod": "9568",
+     "aciklama": "Sigortacılık ve Aktüerya Bilimleri"
+    },
+    {
+     "kod": "4503",
+     "aciklama": "Aşağıdaki lisans programlarından birinden mezun olmak."
+    },
+    {
+     "kod": "3237",
+     "aciklama": "Kamu Yönetimi"
+    },
+    {
+     "kod": "3313",
+     "aciklama": "Siyaset Bilimi"
+    },
+    {
+     "kod": "3314",
+     "aciklama": "Siyaset Bilimi ve Kamu Yönetimi"
+    }
+   ],
+   "sinif": null,
+   "sinif_kod": null,
+   "derece": null
+  },
+  {
+   "kadro_kodu": "306010234",
+   "kadro_guid": "ebbe464d-5863-ee11-b15e-a0369f7d1d8e",
+   "kurum": "Sosyal Güvenlik Kurumu",
+   "unvan": "Büro Personeli",
+   "il": "Muğla",
+   "kontenjan": 7,
+   "bos_kadro": 12,
+   "min_puan": null,
+   "max_puan": null,
+   "ogrenim": "Lisans",
+   "nitelikler": [
+    {
+     "kod": "4421",
+     "aciklama": "Aşağıdaki lisans programlarından birinden mezun olmak."
+    },
+    {
+     "kod": "3159",
+     "aciklama": "Ekonomi"
+    },
+    {
+     "kod": "3213",
+     "aciklama": "İktisat"
+    },
+    {
+     "kod": "4386",
+     "aciklama": "Uluslararası Ekonomi"
+    },
+    {
+     "kod": "5106",
+     "aciklama": "Ekonomi-Yönetim Bilimleri Programları"
+    },
+    {
+     "kod": "8208",
+     "aciklama": "İş İdaresi ve İktisat"
+    },
+    {
+     "kod": "9113",
+     "aciklama": "Ekonomi Politik ve Toplum Felsefesi"
+    },
+    {
+     "kod": "9221",
+     "aciklama": "Ekonomi ve İdari Bilimler / Ekonomi ve İdari Bilimler Programları"
+    },
+    {
+     "kod": "4431",
+     "aciklama": "Aşağıdaki lisans programlarından birinden mezun olmak."
+    },
+    {
+     "kod": "3226",
+     "aciklama": "İşletme / İşletmecilik"
+    },
+    {
+     "kod": "3227",
+     "aciklama": "İşletme Bilgi Yönetimi"
+    },
+    {
+     "kod": "3381",
+     "aciklama": "Muhasebe ve Finansman"
+    },
+    {
+     "kod": "5123",
+     "aciklama": "Muhasebe ve Finansal Yönetim / Muhasebe ve Finans Yönetimi"
+    },
+    {
+     "kod": "5143",
+     "aciklama": "Yönetim Bilimleri / Yönetim Bilimleri Programları"
+    },
+    {
+     "kod": "8207",
+     "aciklama": "İş İdaresi"
+    },
+    {
+     "kod": "8208",
+     "aciklama": "İş İdaresi ve İktisat"
+    },
+    {
+     "kod": "8296",
+     "aciklama": "Yönetim ve Organizasyon"
+    },
+    {
+     "kod": "8334",
+     "aciklama": "Pazarlama"
+    },
+    {
+     "kod": "9552",
+     "aciklama": "İşletme-Maliye"
+    },
+    {
+     "kod": "9584",
+     "aciklama": "Yönetim Bilimleri ve Liderlik"
+    },
+    {
+     "kod": "4459",
+     "aciklama": "Aşağıdaki lisans programlarından birinden mezun olmak."
+    },
+    {
+     "kod": "3254",
+     "aciklama": "Maliye"
+    },
+    {
+     "kod": "4322",
+     "aciklama": "Muhasebe ve Maliye"
+    },
+    {
+     "kod": "8225",
+     "aciklama": "Maliye-Muhasebe"
+    },
+    {
+     "kod": "4463",
+     "aciklama": "Aşağıdaki lisans programlarından birinden mezun olmak."
+    },
+    {
+     "kod": "3306",
+     "aciklama": "Sigortacılık"
+    },
+    {
+     "kod": "5127",
+     "aciklama": "Sigortacılık ve Risk Yönetimi"
+    },
+    {
+     "kod": "9360",
+     "aciklama": "Sigortacılık ve Sosya Güvenlik"
+    },
+    {
+     "kod": "9526",
+     "aciklama": "Sigortacılık ve Aktüerya"
+    },
+    {
+     "kod": "9568",
+     "aciklama": "Sigortacılık ve Aktüerya Bilimleri"
+    },
+    {
+     "kod": "4503",
+     "aciklama": "Aşağıdaki lisans programlarından birinden mezun olmak."
+    },
+    {
+     "kod": "3237",
+     "aciklama": "Kamu Yönetimi"
+    },
+    {
+     "kod": "3313",
+     "aciklama": "Siyaset Bilimi"
+    },
+    {
+     "kod": "3314",
+     "aciklama": "Siyaset Bilimi ve Kamu Yönetimi"
+    }
+   ],
+   "sinif": null,
+   "sinif_kod": null,
+   "derece": null
+  },
+  {
+   "kadro_kodu": "306010241",
+   "kadro_guid": "f7be464d-5863-ee11-b15e-a0369f7d1d8e",
+   "kurum": "Sosyal Güvenlik Kurumu",
+   "unvan": "Büro Personeli",
+   "il": "Sakarya",
+   "kontenjan": 7,
+   "bos_kadro": 14,
+   "min_puan": null,
+   "max_puan": null,
+   "ogrenim": "Lisans",
+   "nitelikler": [
+    {
+     "kod": "4421",
+     "aciklama": "Aşağıdaki lisans programlarından birinden mezun olmak."
+    },
+    {
+     "kod": "3159",
+     "aciklama": "Ekonomi"
+    },
+    {
+     "kod": "3213",
+     "aciklama": "İktisat"
+    },
+    {
+     "kod": "4386",
+     "aciklama": "Uluslararası Ekonomi"
+    },
+    {
+     "kod": "5106",
+     "aciklama": "Ekonomi-Yönetim Bilimleri Programları"
+    },
+    {
+     "kod": "8208",
+     "aciklama": "İş İdaresi ve İktisat"
+    },
+    {
+     "kod": "9113",
+     "aciklama": "Ekonomi Politik ve Toplum Felsefesi"
+    },
+    {
+     "kod": "9221",
+     "aciklama": "Ekonomi ve İdari Bilimler / Ekonomi ve İdari Bilimler Programları"
+    },
+    {
+     "kod": "4431",
+     "aciklama": "Aşağıdaki lisans programlarından birinden mezun olmak."
+    },
+    {
+     "kod": "3226",
+     "aciklama": "İşletme / İşletmecilik"
+    },
+    {
+     "kod": "3227",
+     "aciklama": "İşletme Bilgi Yönetimi"
+    },
+    {
+     "kod": "3381",
+     "aciklama": "Muhasebe ve Finansman"
+    },
+    {
+     "kod": "5123",
+     "aciklama": "Muhasebe ve Finansal Yönetim / Muhasebe ve Finans Yönetimi"
+    },
+    {
+     "kod": "5143",
+     "aciklama": "Yönetim Bilimleri / Yönetim Bilimleri Programları"
+    },
+    {
+     "kod": "8207",
+     "aciklama": "İş İdaresi"
+    },
+    {
+     "kod": "8208",
+     "aciklama": "İş İdaresi ve İktisat"
+    },
+    {
+     "kod": "8296",
+     "aciklama": "Yönetim ve Organizasyon"
+    },
+    {
+     "kod": "8334",
+     "aciklama": "Pazarlama"
+    },
+    {
+     "kod": "9552",
+     "aciklama": "İşletme-Maliye"
+    },
+    {
+     "kod": "9584",
+     "aciklama": "Yönetim Bilimleri ve Liderlik"
+    },
+    {
+     "kod": "4459",
+     "aciklama": "Aşağıdaki lisans programlarından birinden mezun olmak."
+    },
+    {
+     "kod": "3254",
+     "aciklama": "Maliye"
+    },
+    {
+     "kod": "4322",
+     "aciklama": "Muhasebe ve Maliye"
+    },
+    {
+     "kod": "8225",
+     "aciklama": "Maliye-Muhasebe"
+    },
+    {
+     "kod": "4463",
+     "aciklama": "Aşağıdaki lisans programlarından birinden mezun olmak."
+    },
+    {
+     "kod": "3306",
+     "aciklama": "Sigortacılık"
+    },
+    {
+     "kod": "5127",
+     "aciklama": "Sigortacılık ve Risk Yönetimi"
+    },
+    {
+     "kod": "9360",
+     "aciklama": "Sigortacılık ve Sosya Güvenlik"
+    },
+    {
+     "kod": "9526",
+     "aciklama": "Sigortacılık ve Aktüerya"
+    },
+    {
+     "kod": "9568",
+     "aciklama": "Sigortacılık ve Aktüerya Bilimleri"
+    },
+    {
+     "kod": "4503",
+     "aciklama": "Aşağıdaki lisans programlarından birinden mezun olmak."
+    },
+    {
+     "kod": "3237",
+     "aciklama": "Kamu Yönetimi"
+    },
+    {
+     "kod": "3313",
+     "aciklama": "Siyaset Bilimi"
+    },
+    {
+     "kod": "3314",
+     "aciklama": "Siyaset Bilimi ve Kamu Yönetimi"
+    }
+   ],
+   "sinif": null,
+   "sinif_kod": null,
+   "derece": null
+  },
+  {
+   "kadro_kodu": "306010248",
+   "kadro_guid": "f8be464d-5863-ee11-b15e-a0369f7d1d8e",
+   "kurum": "Sosyal Güvenlik Kurumu",
+   "unvan": "Büro Personeli",
+   "il": "Samsun",
+   "kontenjan": 5,
+   "bos_kadro": 10,
+   "min_puan": null,
+   "max_puan": null,
+   "ogrenim": "Lisans",
+   "nitelikler": [
+    {
+     "kod": "4421",
+     "aciklama": "Aşağıdaki lisans programlarından birinden mezun olmak."
+    },
+    {
+     "kod": "3159",
+     "aciklama": "Ekonomi"
+    },
+    {
+     "kod": "3213",
+     "aciklama": "İktisat"
+    },
+    {
+     "kod": "4386",
+     "aciklama": "Uluslararası Ekonomi"
+    },
+    {
+     "kod": "5106",
+     "aciklama": "Ekonomi-Yönetim Bilimleri Programları"
+    },
+    {
+     "kod": "8208",
+     "aciklama": "İş İdaresi ve İktisat"
+    },
+    {
+     "kod": "9113",
+     "aciklama": "Ekonomi Politik ve Toplum Felsefesi"
+    },
+    {
+     "kod": "9221",
+     "aciklama": "Ekonomi ve İdari Bilimler / Ekonomi ve İdari Bilimler Programları"
+    },
+    {
+     "kod": "4431",
+     "aciklama": "Aşağıdaki lisans programlarından birinden mezun olmak."
+    },
+    {
+     "kod": "3226",
+     "aciklama": "İşletme / İşletmecilik"
+    },
+    {
+     "kod": "3227",
+     "aciklama": "İşletme Bilgi Yönetimi"
+    },
+    {
+     "kod": "3381",
+     "aciklama": "Muhasebe ve Finansman"
+    },
+    {
+     "kod": "5123",
+     "aciklama": "Muhasebe ve Finansal Yönetim / Muhasebe ve Finans Yönetimi"
+    },
+    {
+     "kod": "5143",
+     "aciklama": "Yönetim Bilimleri / Yönetim Bilimleri Programları"
+    },
+    {
+     "kod": "8207",
+     "aciklama": "İş İdaresi"
+    },
+    {
+     "kod": "8208",
+     "aciklama": "İş İdaresi ve İktisat"
+    },
+    {
+     "kod": "8296",
+     "aciklama": "Yönetim ve Organizasyon"
+    },
+    {
+     "kod": "8334",
+     "aciklama": "Pazarlama"
+    },
+    {
+     "kod": "9552",
+     "aciklama": "İşletme-Maliye"
+    },
+    {
+     "kod": "9584",
+     "aciklama": "Yönetim Bilimleri ve Liderlik"
+    },
+    {
+     "kod": "4459",
+     "aciklama": "Aşağıdaki lisans programlarından birinden mezun olmak."
+    },
+    {
+     "kod": "3254",
+     "aciklama": "Maliye"
+    },
+    {
+     "kod": "4322",
+     "aciklama": "Muhasebe ve Maliye"
+    },
+    {
+     "kod": "8225",
+     "aciklama": "Maliye-Muhasebe"
+    },
+    {
+     "kod": "4463",
+     "aciklama": "Aşağıdaki lisans programlarından birinden mezun olmak."
+    },
+    {
+     "kod": "3306",
+     "aciklama": "Sigortacılık"
+    },
+    {
+     "kod": "5127",
+     "aciklama": "Sigortacılık ve Risk Yönetimi"
+    },
+    {
+     "kod": "9360",
+     "aciklama": "Sigortacılık ve Sosya Güvenlik"
+    },
+    {
+     "kod": "9526",
+     "aciklama": "Sigortacılık ve Aktüerya"
+    },
+    {
+     "kod": "9568",
+     "aciklama": "Sigortacılık ve Aktüerya Bilimleri"
+    },
+    {
+     "kod": "4503",
+     "aciklama": "Aşağıdaki lisans programlarından birinden mezun olmak."
+    },
+    {
+     "kod": "3237",
+     "aciklama": "Kamu Yönetimi"
+    },
+    {
+     "kod": "3313",
+     "aciklama": "Siyaset Bilimi"
+    },
+    {
+     "kod": "3314",
+     "aciklama": "Siyaset Bilimi ve Kamu Yönetimi"
+    }
+   ],
+   "sinif": null,
+   "sinif_kod": null,
+   "derece": null
+  },
+  {
+   "kadro_kodu": "306010262",
+   "kadro_guid": "0abf464d-5863-ee11-b15e-a0369f7d1d8e",
+   "kurum": "Sosyal Güvenlik Kurumu",
+   "unvan": "Büro Personeli",
+   "il": "Tekirdağ",
+   "kontenjan": 7,
+   "bos_kadro": 13,
+   "min_puan": null,
+   "max_puan": null,
+   "ogrenim": "Lisans",
+   "nitelikler": [
+    {
+     "kod": "4421",
+     "aciklama": "Aşağıdaki lisans programlarından birinden mezun olmak."
+    },
+    {
+     "kod": "3159",
+     "aciklama": "Ekonomi"
+    },
+    {
+     "kod": "3213",
+     "aciklama": "İktisat"
+    },
+    {
+     "kod": "4386",
+     "aciklama": "Uluslararası Ekonomi"
+    },
+    {
+     "kod": "5106",
+     "aciklama": "Ekonomi-Yönetim Bilimleri Programları"
+    },
+    {
+     "kod": "8208",
+     "aciklama": "İş İdaresi ve İktisat"
+    },
+    {
+     "kod": "9113",
+     "aciklama": "Ekonomi Politik ve Toplum Felsefesi"
+    },
+    {
+     "kod": "9221",
+     "aciklama": "Ekonomi ve İdari Bilimler / Ekonomi ve İdari Bilimler Programları"
+    },
+    {
+     "kod": "4431",
+     "aciklama": "Aşağıdaki lisans programlarından birinden mezun olmak."
+    },
+    {
+     "kod": "3226",
+     "aciklama": "İşletme / İşletmecilik"
+    },
+    {
+     "kod": "3227",
+     "aciklama": "İşletme Bilgi Yönetimi"
+    },
+    {
+     "kod": "3381",
+     "aciklama": "Muhasebe ve Finansman"
+    },
+    {
+     "kod": "5123",
+     "aciklama": "Muhasebe ve Finansal Yönetim / Muhasebe ve Finans Yönetimi"
+    },
+    {
+     "kod": "5143",
+     "aciklama": "Yönetim Bilimleri / Yönetim Bilimleri Programları"
+    },
+    {
+     "kod": "8207",
+     "aciklama": "İş İdaresi"
+    },
+    {
+     "kod": "8208",
+     "aciklama": "İş İdaresi ve İktisat"
+    },
+    {
+     "kod": "8296",
+     "aciklama": "Yönetim ve Organizasyon"
+    },
+    {
+     "kod": "8334",
+     "aciklama": "Pazarlama"
+    },
+    {
+     "kod": "9552",
+     "aciklama": "İşletme-Maliye"
+    },
+    {
+     "kod": "9584",
+     "aciklama": "Yönetim Bilimleri ve Liderlik"
+    },
+    {
+     "kod": "4459",
+     "aciklama": "Aşağıdaki lisans programlarından birinden mezun olmak."
+    },
+    {
+     "kod": "3254",
+     "aciklama": "Maliye"
+    },
+    {
+     "kod": "4322",
+     "aciklama": "Muhasebe ve Maliye"
+    },
+    {
+     "kod": "8225",
+     "aciklama": "Maliye-Muhasebe"
+    },
+    {
+     "kod": "4463",
+     "aciklama": "Aşağıdaki lisans programlarından birinden mezun olmak."
+    },
+    {
+     "kod": "3306",
+     "aciklama": "Sigortacılık"
+    },
+    {
+     "kod": "5127",
+     "aciklama": "Sigortacılık ve Risk Yönetimi"
+    },
+    {
+     "kod": "9360",
+     "aciklama": "Sigortacılık ve Sosya Güvenlik"
+    },
+    {
+     "kod": "9526",
+     "aciklama": "Sigortacılık ve Aktüerya"
+    },
+    {
+     "kod": "9568",
+     "aciklama": "Sigortacılık ve Aktüerya Bilimleri"
+    },
+    {
+     "kod": "4503",
+     "aciklama": "Aşağıdaki lisans programlarından birinden mezun olmak."
+    },
+    {
+     "kod": "3237",
+     "aciklama": "Kamu Yönetimi"
+    },
+    {
+     "kod": "3313",
+     "aciklama": "Siyaset Bilimi"
+    },
+    {
+     "kod": "3314",
+     "aciklama": "Siyaset Bilimi ve Kamu Yönetimi"
+    }
+   ],
+   "sinif": null,
+   "sinif_kod": null,
+   "derece": null
+  },
+  {
+   "kadro_kodu": "306010255",
+   "kadro_guid": "03bf464d-5863-ee11-b15e-a0369f7d1d8e",
+   "kurum": "Sosyal Güvenlik Kurumu",
+   "unvan": "Büro Personeli",
+   "il": "Şanlıurfa",
+   "kontenjan": 5,
+   "bos_kadro": 8,
+   "min_puan": null,
+   "max_puan": null,
+   "ogrenim": "Lisans",
+   "nitelikler": [
+    {
+     "kod": "4421",
+     "aciklama": "Aşağıdaki lisans programlarından birinden mezun olmak."
+    },
+    {
+     "kod": "3159",
+     "aciklama": "Ekonomi"
+    },
+    {
+     "kod": "3213",
+     "aciklama": "İktisat"
+    },
+    {
+     "kod": "4386",
+     "aciklama": "Uluslararası Ekonomi"
+    },
+    {
+     "kod": "5106",
+     "aciklama": "Ekonomi-Yönetim Bilimleri Programları"
+    },
+    {
+     "kod": "8208",
+     "aciklama": "İş İdaresi ve İktisat"
+    },
+    {
+     "kod": "9113",
+     "aciklama": "Ekonomi Politik ve Toplum Felsefesi"
+    },
+    {
+     "kod": "9221",
+     "aciklama": "Ekonomi ve İdari Bilimler / Ekonomi ve İdari Bilimler Programları"
+    },
+    {
+     "kod": "4431",
+     "aciklama": "Aşağıdaki lisans programlarından birinden mezun olmak."
+    },
+    {
+     "kod": "3226",
+     "aciklama": "İşletme / İşletmecilik"
+    },
+    {
+     "kod": "3227",
+     "aciklama": "İşletme Bilgi Yönetimi"
+    },
+    {
+     "kod": "3381",
+     "aciklama": "Muhasebe ve Finansman"
+    },
+    {
+     "kod": "5123",
+     "aciklama": "Muhasebe ve Finansal Yönetim / Muhasebe ve Finans Yönetimi"
+    },
+    {
+     "kod": "5143",
+     "aciklama": "Yönetim Bilimleri / Yönetim Bilimleri Programları"
+    },
+    {
+     "kod": "8207",
+     "aciklama": "İş İdaresi"
+    },
+    {
+     "kod": "8208",
+     "aciklama": "İş İdaresi ve İktisat"
+    },
+    {
+     "kod": "8296",
+     "aciklama": "Yönetim ve Organizasyon"
+    },
+    {
+     "kod": "8334",
+     "aciklama": "Pazarlama"
+    },
+    {
+     "kod": "9552",
+     "aciklama": "İşletme-Maliye"
+    },
+    {
+     "kod": "9584",
+     "aciklama": "Yönetim Bilimleri ve Liderlik"
+    },
+    {
+     "kod": "4459",
+     "aciklama": "Aşağıdaki lisans programlarından birinden mezun olmak."
+    },
+    {
+     "kod": "3254",
+     "aciklama": "Maliye"
+    },
+    {
+     "kod": "4322",
+     "aciklama": "Muhasebe ve Maliye"
+    },
+    {
+     "kod": "8225",
+     "aciklama": "Maliye-Muhasebe"
+    },
+    {
+     "kod": "4463",
+     "aciklama": "Aşağıdaki lisans programlarından birinden mezun olmak."
+    },
+    {
+     "kod": "3306",
+     "aciklama": "Sigortacılık"
+    },
+    {
+     "kod": "5127",
+     "aciklama": "Sigortacılık ve Risk Yönetimi"
+    },
+    {
+     "kod": "9360",
+     "aciklama": "Sigortacılık ve Sosya Güvenlik"
+    },
+    {
+     "kod": "9526",
+     "aciklama": "Sigortacılık ve Aktüerya"
+    },
+    {
+     "kod": "9568",
+     "aciklama": "Sigortacılık ve Aktüerya Bilimleri"
+    },
+    {
+     "kod": "4503",
+     "aciklama": "Aşağıdaki lisans programlarından birinden mezun olmak."
+    },
+    {
+     "kod": "3237",
+     "aciklama": "Kamu Yönetimi"
+    },
+    {
+     "kod": "3313",
+     "aciklama": "Siyaset Bilimi"
+    },
+    {
+     "kod": "3314",
+     "aciklama": "Siyaset Bilimi ve Kamu Yönetimi"
+    }
+   ],
+   "sinif": null,
+   "sinif_kod": null,
+   "derece": null
+  }
+ ]
+}

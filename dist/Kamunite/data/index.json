@@ -1,0 +1,1370 @@
+[
+  {
+    "id": "2026-1",
+    "yil": "2026",
+    "donem": "1",
+    "baslik": "2026/1 KPSS Robotu",
+    "scraped_kadro": 1106,
+    "stated_kadro": 1106,
+    "scraped_kontenjan": 2083,
+    "stated_kontenjan": 2083,
+    "stated_basvuran": 249297,
+    "stated_yerlesen": 2082,
+    "kadro_match": true,
+    "kontenjan_match": true,
+    "branch_counts": {
+      "Ortaogretim": 141,
+      "Onlisans": 410,
+      "Lisans": 555
+    }
+  },
+  {
+    "id": "2025-5",
+    "yil": "2025",
+    "donem": "5",
+    "baslik": "2025/5 KPSS Robotu",
+    "scraped_kadro": 5737,
+    "stated_kadro": 5737,
+    "scraped_kontenjan": 15247,
+    "stated_kontenjan": 15247,
+    "stated_basvuran": 241386,
+    "stated_yerlesen": 15247,
+    "kadro_match": true,
+    "kontenjan_match": true,
+    "branch_counts": {
+      "Ortaogretim": 606,
+      "Onlisans": 2982,
+      "Lisans": 2149
+    }
+  },
+  {
+    "id": "2025-4",
+    "yil": "2025",
+    "donem": "4",
+    "baslik": "2025/4 KPSS Robotu",
+    "scraped_kadro": 5265,
+    "stated_kadro": 5265,
+    "scraped_kontenjan": 15342,
+    "stated_kontenjan": 15342,
+    "stated_basvuran": 227700,
+    "stated_yerlesen": 15342,
+    "kadro_match": true,
+    "kontenjan_match": true,
+    "branch_counts": {
+      "Ortaogretim": 633,
+      "Onlisans": 2745,
+      "Lisans": 1887
+    }
+  },
+  {
+    "id": "2025-3",
+    "yil": "2025",
+    "donem": "3",
+    "baslik": "2025/3 KPSS Robotu",
+    "scraped_kadro": 336,
+    "stated_kadro": 336,
+    "scraped_kontenjan": 527,
+    "stated_kontenjan": 527,
+    "stated_basvuran": null,
+    "stated_yerlesen": null,
+    "kadro_match": true,
+    "kontenjan_match": true,
+    "branch_counts": {
+      "Ortaogretim": 14,
+      "Onlisans": 84,
+      "Lisans": 238
+    }
+  },
+  {
+    "id": "2025-2",
+    "yil": "2025",
+    "donem": "2",
+    "baslik": "2025/2 KPSS Robotu",
+    "scraped_kadro": 1808,
+    "stated_kadro": 1808,
+    "scraped_kontenjan": 3732,
+    "stated_kontenjan": 3732,
+    "stated_basvuran": 332715,
+    "stated_yerlesen": 3729,
+    "kadro_match": true,
+    "kontenjan_match": true,
+    "branch_counts": {
+      "Ortaogretim": 248,
+      "Onlisans": 570,
+      "Lisans": 990
+    }
+  },
+  {
+    "id": "2025-1",
+    "yil": "2025",
+    "donem": "1",
+    "baslik": "2025/1 KPSS Robotu",
+    "scraped_kadro": 1391,
+    "stated_kadro": 1391,
+    "scraped_kontenjan": 2673,
+    "stated_kontenjan": 2673,
+    "stated_basvuran": 292377,
+    "stated_yerlesen": 2655,
+    "kadro_match": true,
+    "kontenjan_match": true,
+    "branch_counts": {
+      "Ortaogretim": 175,
+      "Onlisans": 418,
+      "Lisans": 798
+    }
+  },
+  {
+    "id": "2024-5",
+    "yil": "2024",
+    "donem": "5",
+    "baslik": "2024/5 KPSS Robotu",
+    "scraped_kadro": 7920,
+    "stated_kadro": 7920,
+    "scraped_kontenjan": 27000,
+    "stated_kontenjan": 27000,
+    "stated_basvuran": 239230,
+    "stated_yerlesen": 27000,
+    "kadro_match": true,
+    "kontenjan_match": true,
+    "branch_counts": {
+      "Ortaogretim": 1676,
+      "Onlisans": 3685,
+      "Lisans": 2559
+    }
+  },
+  {
+    "id": "2024-4",
+    "yil": "2024",
+    "donem": "4",
+    "baslik": "2024/4 KPSS Robotu",
+    "scraped_kadro": 3602,
+    "stated_kadro": 3602,
+    "scraped_kontenjan": 5500,
+    "stated_kontenjan": 5500,
+    "stated_basvuran": 255687,
+    "stated_yerlesen": 5500,
+    "kadro_match": true,
+    "kontenjan_match": true,
+    "branch_counts": {
+      "Ortaogretim": 1274,
+      "Onlisans": 1030,
+      "Lisans": 1298
+    }
+  },
+  {
+    "id": "2024-3",
+    "yil": "2024",
+    "donem": "3",
+    "baslik": "2024/3 KPSS Robotu",
+    "scraped_kadro": 206,
+    "stated_kadro": 206,
+    "scraped_kontenjan": 695,
+    "stated_kontenjan": 695,
+    "stated_basvuran": 103552,
+    "stated_yerlesen": 695,
+    "kadro_match": true,
+    "kontenjan_match": true,
+    "branch_counts": {
+      "Ortaogretim": 0,
+      "Onlisans": 85,
+      "Lisans": 121
+    }
+  },
+  {
+    "id": "2024-2",
+    "yil": "2024",
+    "donem": "2",
+    "baslik": "2024/2 KPSS Robotu",
+    "scraped_kadro": 864,
+    "stated_kadro": 864,
+    "scraped_kontenjan": 1615,
+    "stated_kontenjan": 1615,
+    "stated_basvuran": 303918,
+    "stated_yerlesen": 1615,
+    "kadro_match": true,
+    "kontenjan_match": true,
+    "branch_counts": {
+      "Ortaogretim": 41,
+      "Onlisans": 268,
+      "Lisans": 555
+    }
+  },
+  {
+    "id": "2024-1",
+    "yil": "2024",
+    "donem": "1",
+    "baslik": "2024/1 KPSS Robotu",
+    "scraped_kadro": 919,
+    "stated_kadro": 919,
+    "scraped_kontenjan": 1816,
+    "stated_kontenjan": 1816,
+    "stated_basvuran": 98526,
+    "stated_yerlesen": 1816,
+    "kadro_match": true,
+    "kontenjan_match": true,
+    "branch_counts": {
+      "Ortaogretim": 69,
+      "Onlisans": 346,
+      "Lisans": 504
+    }
+  },
+  {
+    "id": "2023-6",
+    "yil": "2023",
+    "donem": "6",
+    "baslik": "2023/6 KPSS Robotu",
+    "scraped_kadro": 192,
+    "stated_kadro": 192,
+    "scraped_kontenjan": 1392,
+    "stated_kontenjan": 1392,
+    "stated_basvuran": null,
+    "stated_yerlesen": null,
+    "kadro_match": true,
+    "kontenjan_match": true,
+    "branch_counts": {
+      "Ortaogretim": 69,
+      "Onlisans": 99,
+      "Lisans": 24
+    }
+  },
+  {
+    "id": "2023-5",
+    "yil": "2023",
+    "donem": "5",
+    "baslik": "2023/5 KPSS Robotu",
+    "scraped_kadro": 7039,
+    "stated_kadro": 7039,
+    "scraped_kontenjan": 31600,
+    "stated_kontenjan": 31600,
+    "stated_basvuran": 191080,
+    "stated_yerlesen": 31600,
+    "kadro_match": true,
+    "kontenjan_match": true,
+    "branch_counts": {
+      "Ortaogretim": 589,
+      "Onlisans": 4544,
+      "Lisans": 1906
+    }
+  },
+  {
+    "id": "2023-2",
+    "yil": "2023",
+    "donem": "2",
+    "baslik": "2023/2 KPSS Robotu",
+    "scraped_kadro": 1487,
+    "stated_kadro": 1487,
+    "scraped_kontenjan": 3742,
+    "stated_kontenjan": 3742,
+    "stated_basvuran": 161701,
+    "stated_yerlesen": 3721,
+    "kadro_match": true,
+    "kontenjan_match": true,
+    "branch_counts": {
+      "Ortaogretim": 110,
+      "Onlisans": 541,
+      "Lisans": 836
+    }
+  },
+  {
+    "id": "2023-1",
+    "yil": "2023",
+    "donem": "1",
+    "baslik": "2023/1 KPSS Robotu",
+    "scraped_kadro": 1036,
+    "stated_kadro": 1036,
+    "scraped_kontenjan": 1818,
+    "stated_kontenjan": 1818,
+    "stated_basvuran": 134800,
+    "stated_yerlesen": 1815,
+    "kadro_match": true,
+    "kontenjan_match": true,
+    "branch_counts": {
+      "Ortaogretim": 56,
+      "Onlisans": 421,
+      "Lisans": 559
+    }
+  },
+  {
+    "id": "2022-11",
+    "yil": "2022",
+    "donem": "11",
+    "baslik": "2022/11 KPSS Robotu",
+    "scraped_kadro": 9744,
+    "stated_kadro": 9744,
+    "scraped_kontenjan": 31183,
+    "stated_kontenjan": 31183,
+    "stated_basvuran": 253555,
+    "stated_yerlesen": 31183,
+    "kadro_match": true,
+    "kontenjan_match": true,
+    "branch_counts": {
+      "Ortaogretim": 1390,
+      "Onlisans": 5286,
+      "Lisans": 3068
+    }
+  },
+  {
+    "id": "2022-5",
+    "yil": "2022",
+    "donem": "5",
+    "baslik": "2022/5 KPSS Robotu",
+    "scraped_kadro": 3802,
+    "stated_kadro": 3802,
+    "scraped_kontenjan": 10000,
+    "stated_kontenjan": 10000,
+    "stated_basvuran": null,
+    "stated_yerlesen": null,
+    "kadro_match": true,
+    "kontenjan_match": true,
+    "branch_counts": {
+      "Ortaogretim": 310,
+      "Onlisans": 1980,
+      "Lisans": 1512
+    }
+  },
+  {
+    "id": "2022-2",
+    "yil": "2022",
+    "donem": "2",
+    "baslik": "2022/2 KPSS Robotu",
+    "scraped_kadro": 1432,
+    "stated_kadro": 1432,
+    "scraped_kontenjan": 2845,
+    "stated_kontenjan": 2845,
+    "stated_basvuran": 412100,
+    "stated_yerlesen": 2834,
+    "kadro_match": true,
+    "kontenjan_match": true,
+    "branch_counts": {
+      "Ortaogretim": 82,
+      "Onlisans": 547,
+      "Lisans": 803
+    }
+  },
+  {
+    "id": "2022-1",
+    "yil": "2022",
+    "donem": "1",
+    "baslik": "2022/1 KPSS Robotu",
+    "scraped_kadro": 937,
+    "stated_kadro": 937,
+    "scraped_kontenjan": 1878,
+    "stated_kontenjan": 1878,
+    "stated_basvuran": 58967,
+    "stated_yerlesen": 1875,
+    "kadro_match": true,
+    "kontenjan_match": true,
+    "branch_counts": {
+      "Ortaogretim": 44,
+      "Onlisans": 323,
+      "Lisans": 570
+    }
+  },
+  {
+    "id": "2021-10",
+    "yil": "2021",
+    "donem": "10",
+    "baslik": "2021/10 KPSS Robotu",
+    "scraped_kadro": 7670,
+    "stated_kadro": 7670,
+    "scraped_kontenjan": 20000,
+    "stated_kontenjan": 20000,
+    "stated_basvuran": 46694,
+    "stated_yerlesen": 20000,
+    "kadro_match": true,
+    "kontenjan_match": true,
+    "branch_counts": {
+      "Ortaogretim": 730,
+      "Onlisans": 4102,
+      "Lisans": 2838
+    }
+  },
+  {
+    "id": "2021-2",
+    "yil": "2021",
+    "donem": "2",
+    "baslik": "2021/2 KPSS Robotu",
+    "scraped_kadro": 1355,
+    "stated_kadro": 1355,
+    "scraped_kontenjan": 2389,
+    "stated_kontenjan": 2389,
+    "stated_basvuran": 11317,
+    "stated_yerlesen": 2380,
+    "kadro_match": true,
+    "kontenjan_match": true,
+    "branch_counts": {
+      "Ortaogretim": 55,
+      "Onlisans": 367,
+      "Lisans": 933
+    }
+  },
+  {
+    "id": "2021-1",
+    "yil": "2021",
+    "donem": "1",
+    "baslik": "2021/1 KPSS Robotu",
+    "scraped_kadro": 670,
+    "stated_kadro": 670,
+    "scraped_kontenjan": 1027,
+    "stated_kontenjan": 1027,
+    "stated_basvuran": 70713,
+    "stated_yerlesen": 1020,
+    "kadro_match": true,
+    "kontenjan_match": true,
+    "branch_counts": {
+      "Ortaogretim": 63,
+      "Onlisans": 197,
+      "Lisans": 410
+    }
+  },
+  {
+    "id": "2020-72",
+    "yil": "2020",
+    "donem": "72",
+    "baslik": "2020/7 Yeniden Yerleştirme Yapılması KPSS Robotu",
+    "scraped_kadro": 1121,
+    "stated_kadro": 1121,
+    "scraped_kontenjan": 2347,
+    "stated_kontenjan": 2347,
+    "stated_basvuran": null,
+    "stated_yerlesen": null,
+    "kadro_match": true,
+    "kontenjan_match": true,
+    "branch_counts": {
+      "Ortaogretim": 47,
+      "Onlisans": 135,
+      "Lisans": 939
+    }
+  },
+  {
+    "id": "2020-14",
+    "yil": "2020",
+    "donem": "14",
+    "baslik": "2020/14 KPSS Robotu",
+    "scraped_kadro": 3616,
+    "stated_kadro": 3616,
+    "scraped_kontenjan": 12000,
+    "stated_kontenjan": 12000,
+    "stated_basvuran": 138186,
+    "stated_yerlesen": 11995,
+    "kadro_match": true,
+    "kontenjan_match": true,
+    "branch_counts": {
+      "Ortaogretim": 728,
+      "Onlisans": 1413,
+      "Lisans": 1475
+    }
+  },
+  {
+    "id": "2020-11",
+    "yil": "2020",
+    "donem": "11",
+    "baslik": "2020/11 KPSS Robotu",
+    "scraped_kadro": 129,
+    "stated_kadro": 129,
+    "scraped_kontenjan": 200,
+    "stated_kontenjan": 200,
+    "stated_basvuran": null,
+    "stated_yerlesen": null,
+    "kadro_match": true,
+    "kontenjan_match": true,
+    "branch_counts": {
+      "Ortaogretim": 5,
+      "Onlisans": 5,
+      "Lisans": 119
+    }
+  },
+  {
+    "id": "2020-8",
+    "yil": "2020",
+    "donem": "8",
+    "baslik": "2020/8 KPSS Robotu",
+    "scraped_kadro": 60,
+    "stated_kadro": 60,
+    "scraped_kontenjan": 3000,
+    "stated_kontenjan": 3000,
+    "stated_basvuran": 40114,
+    "stated_yerlesen": 3000,
+    "kadro_match": true,
+    "kontenjan_match": true,
+    "branch_counts": {
+      "Ortaogretim": 5,
+      "Onlisans": 33,
+      "Lisans": 22
+    }
+  },
+  {
+    "id": "2020-7",
+    "yil": "2020",
+    "donem": "7",
+    "baslik": "2020/7 KPSS Robotu",
+    "scraped_kadro": 1121,
+    "stated_kadro": 1121,
+    "scraped_kontenjan": 2347,
+    "stated_kontenjan": 2347,
+    "stated_basvuran": 28404,
+    "stated_yerlesen": 2347,
+    "kadro_match": true,
+    "kontenjan_match": true,
+    "branch_counts": {
+      "Ortaogretim": 47,
+      "Onlisans": 135,
+      "Lisans": 939
+    }
+  },
+  {
+    "id": "2020-5",
+    "yil": "2020",
+    "donem": "5",
+    "baslik": "2020/5 KPSS Robotu",
+    "scraped_kadro": 4437,
+    "stated_kadro": 4437,
+    "scraped_kontenjan": 17956,
+    "stated_kontenjan": 17956,
+    "stated_basvuran": 0,
+    "stated_yerlesen": 17947,
+    "kadro_match": true,
+    "kontenjan_match": true,
+    "branch_counts": {
+      "Ortaogretim": 1280,
+      "Onlisans": 1676,
+      "Lisans": 1481
+    }
+  },
+  {
+    "id": "2020-4",
+    "yil": "2020",
+    "donem": "4",
+    "baslik": "2020/4 KPSS Robotu",
+    "scraped_kadro": 3331,
+    "stated_kadro": 3331,
+    "scraped_kontenjan": 8844,
+    "stated_kontenjan": 8844,
+    "stated_basvuran": 82726,
+    "stated_yerlesen": 8844,
+    "kadro_match": true,
+    "kontenjan_match": true,
+    "branch_counts": {
+      "Ortaogretim": 353,
+      "Onlisans": 1746,
+      "Lisans": 1232
+    }
+  },
+  {
+    "id": "2020-2",
+    "yil": "2020",
+    "donem": "2",
+    "baslik": "2020/2 KPSS Robotu",
+    "scraped_kadro": 1070,
+    "stated_kadro": 1070,
+    "scraped_kontenjan": 1677,
+    "stated_kontenjan": 1677,
+    "stated_basvuran": 452180,
+    "stated_yerlesen": 1677,
+    "kadro_match": true,
+    "kontenjan_match": true,
+    "branch_counts": {
+      "Ortaogretim": 70,
+      "Onlisans": 296,
+      "Lisans": 704
+    }
+  },
+  {
+    "id": "2020-1",
+    "yil": "2020",
+    "donem": "1",
+    "baslik": "2020/1 KPSS Robotu",
+    "scraped_kadro": 1222,
+    "stated_kadro": 1222,
+    "scraped_kontenjan": 2582,
+    "stated_kontenjan": 2582,
+    "stated_basvuran": 107546,
+    "stated_yerlesen": 2579,
+    "kadro_match": true,
+    "kontenjan_match": true,
+    "branch_counts": {
+      "Ortaogretim": 74,
+      "Onlisans": 364,
+      "Lisans": 784
+    }
+  },
+  {
+    "id": "2019-7",
+    "yil": "2019",
+    "donem": "7",
+    "baslik": "2019/7 KPSS Robotu",
+    "scraped_kadro": 4040,
+    "stated_kadro": 4040,
+    "scraped_kontenjan": 8845,
+    "stated_kontenjan": 8845,
+    "stated_basvuran": 95227,
+    "stated_yerlesen": 8845,
+    "kadro_match": true,
+    "kontenjan_match": true,
+    "branch_counts": {
+      "Ortaogretim": 459,
+      "Onlisans": 2001,
+      "Lisans": 1580
+    }
+  },
+  {
+    "id": "2019-6",
+    "yil": "2019",
+    "donem": "6",
+    "baslik": "2019/6 KPSS Robotu",
+    "scraped_kadro": 928,
+    "stated_kadro": 928,
+    "scraped_kontenjan": 2313,
+    "stated_kontenjan": 2313,
+    "stated_basvuran": 123651,
+    "stated_yerlesen": 2313,
+    "kadro_match": true,
+    "kontenjan_match": true,
+    "branch_counts": {
+      "Ortaogretim": 46,
+      "Onlisans": 191,
+      "Lisans": 691
+    }
+  },
+  {
+    "id": "2019-4",
+    "yil": "2019",
+    "donem": "4",
+    "baslik": "2019/4 KPSS Robotu",
+    "scraped_kadro": 4635,
+    "stated_kadro": 4635,
+    "scraped_kontenjan": 12000,
+    "stated_kontenjan": 12000,
+    "stated_basvuran": 141835,
+    "stated_yerlesen": 12000,
+    "kadro_match": true,
+    "kontenjan_match": true,
+    "branch_counts": {
+      "Ortaogretim": 713,
+      "Onlisans": 1940,
+      "Lisans": 1982
+    }
+  },
+  {
+    "id": "2019-2",
+    "yil": "2019",
+    "donem": "2",
+    "baslik": "2019/2 KPSS Robotu",
+    "scraped_kadro": 1130,
+    "stated_kadro": 1142,
+    "scraped_kontenjan": 1735,
+    "stated_kontenjan": 1749,
+    "stated_basvuran": 100272,
+    "stated_yerlesen": 1735,
+    "kadro_match": false,
+    "kontenjan_match": false,
+    "branch_counts": {
+      "Ortaogretim": 64,
+      "Onlisans": 341,
+      "Lisans": 725
+    }
+  },
+  {
+    "id": "2019-1",
+    "yil": "2019",
+    "donem": "1",
+    "baslik": "2019/1 KPSS Robotu",
+    "scraped_kadro": 659,
+    "stated_kadro": 659,
+    "scraped_kontenjan": 1014,
+    "stated_kontenjan": 1014,
+    "stated_basvuran": 94290,
+    "stated_yerlesen": 1014,
+    "kadro_match": true,
+    "kontenjan_match": true,
+    "branch_counts": {
+      "Ortaogretim": 82,
+      "Onlisans": 205,
+      "Lisans": 372
+    }
+  },
+  {
+    "id": "2018-5",
+    "yil": "2018",
+    "donem": "5",
+    "baslik": "2018/5 KPSS Robotu",
+    "scraped_kadro": 6459,
+    "stated_kadro": 6459,
+    "scraped_kontenjan": 18000,
+    "stated_kontenjan": 18000,
+    "stated_basvuran": 123065,
+    "stated_yerlesen": 17981,
+    "kadro_match": true,
+    "kontenjan_match": true,
+    "branch_counts": {
+      "Ortaogretim": 912,
+      "Onlisans": 3210,
+      "Lisans": 2337
+    }
+  },
+  {
+    "id": "2018-4",
+    "yil": "2018",
+    "donem": "4",
+    "baslik": "2018/4 KPSS Robotu",
+    "scraped_kadro": 1920,
+    "stated_kadro": 1920,
+    "scraped_kontenjan": 9000,
+    "stated_kontenjan": 9000,
+    "stated_basvuran": 106726,
+    "stated_yerlesen": 8999,
+    "kadro_match": true,
+    "kontenjan_match": true,
+    "branch_counts": {
+      "Ortaogretim": 323,
+      "Onlisans": 669,
+      "Lisans": 928
+    }
+  },
+  {
+    "id": "2018-2",
+    "yil": "2018",
+    "donem": "2",
+    "baslik": "2018/2 KPSS Robotu",
+    "scraped_kadro": 1030,
+    "stated_kadro": 1030,
+    "scraped_kontenjan": 1729,
+    "stated_kontenjan": 1729,
+    "stated_basvuran": 366820,
+    "stated_yerlesen": 1729,
+    "kadro_match": true,
+    "kontenjan_match": true,
+    "branch_counts": {
+      "Ortaogretim": 106,
+      "Onlisans": 234,
+      "Lisans": 690
+    }
+  },
+  {
+    "id": "2018-1",
+    "yil": "2018",
+    "donem": "1",
+    "baslik": "2018/1 KPSS Robotu",
+    "scraped_kadro": 942,
+    "stated_kadro": 942,
+    "scraped_kontenjan": 1471,
+    "stated_kontenjan": 1471,
+    "stated_basvuran": 115863,
+    "stated_yerlesen": 1470,
+    "kadro_match": true,
+    "kontenjan_match": true,
+    "branch_counts": {
+      "Ortaogretim": 55,
+      "Onlisans": 366,
+      "Lisans": 521
+    }
+  },
+  {
+    "id": "2017-8",
+    "yil": "2017",
+    "donem": "8",
+    "baslik": "2017/8 KPSS Robotu",
+    "scraped_kadro": 347,
+    "stated_kadro": 347,
+    "scraped_kontenjan": 347,
+    "stated_kontenjan": 347,
+    "stated_basvuran": null,
+    "stated_yerlesen": null,
+    "kadro_match": true,
+    "kontenjan_match": true,
+    "branch_counts": {
+      "Ortaogretim": 0,
+      "Onlisans": 0,
+      "Lisans": 347
+    }
+  },
+  {
+    "id": "2017-7",
+    "yil": "2017",
+    "donem": "7",
+    "baslik": "2017/7 KPSS Robotu",
+    "scraped_kadro": 1058,
+    "stated_kadro": 1058,
+    "scraped_kontenjan": 2058,
+    "stated_kontenjan": 2058,
+    "stated_basvuran": 25319,
+    "stated_yerlesen": 2058,
+    "kadro_match": true,
+    "kontenjan_match": true,
+    "branch_counts": {
+      "Ortaogretim": 0,
+      "Onlisans": 0,
+      "Lisans": 1058
+    }
+  },
+  {
+    "id": "2017-6",
+    "yil": "2017",
+    "donem": "6",
+    "baslik": "2017/6 KPSS Robotu",
+    "scraped_kadro": 753,
+    "stated_kadro": 753,
+    "scraped_kontenjan": 1300,
+    "stated_kontenjan": 1300,
+    "stated_basvuran": 10954,
+    "stated_yerlesen": 1299,
+    "kadro_match": true,
+    "kontenjan_match": true,
+    "branch_counts": {
+      "Ortaogretim": 0,
+      "Onlisans": 738,
+      "Lisans": 15
+    }
+  },
+  {
+    "id": "2017-5",
+    "yil": "2017",
+    "donem": "5",
+    "baslik": "2017/5 KPSS Robotu",
+    "scraped_kadro": 3985,
+    "stated_kadro": 3985,
+    "scraped_kontenjan": 12500,
+    "stated_kontenjan": 12500,
+    "stated_basvuran": 120246,
+    "stated_yerlesen": 12496,
+    "kadro_match": true,
+    "kontenjan_match": true,
+    "branch_counts": {
+      "Ortaogretim": 517,
+      "Onlisans": 2385,
+      "Lisans": 1083
+    }
+  },
+  {
+    "id": "2017-4",
+    "yil": "2017",
+    "donem": "4",
+    "baslik": "2017/4 KPSS Robotu",
+    "scraped_kadro": 199,
+    "stated_kadro": 199,
+    "scraped_kontenjan": 640,
+    "stated_kontenjan": 640,
+    "stated_basvuran": 38191,
+    "stated_yerlesen": 640,
+    "kadro_match": true,
+    "kontenjan_match": true,
+    "branch_counts": {
+      "Ortaogretim": 0,
+      "Onlisans": 54,
+      "Lisans": 145
+    }
+  },
+  {
+    "id": "2017-3",
+    "yil": "2017",
+    "donem": "3",
+    "baslik": "2017/3 KPSS Robotu",
+    "scraped_kadro": 921,
+    "stated_kadro": 921,
+    "scraped_kontenjan": 3890,
+    "stated_kontenjan": 3890,
+    "stated_basvuran": 49174,
+    "stated_yerlesen": 3882,
+    "kadro_match": true,
+    "kontenjan_match": true,
+    "branch_counts": {
+      "Ortaogretim": 120,
+      "Onlisans": 529,
+      "Lisans": 272
+    }
+  },
+  {
+    "id": "2017-2",
+    "yil": "2017",
+    "donem": "2",
+    "baslik": "2017/2 KPSS Robotu",
+    "scraped_kadro": 1181,
+    "stated_kadro": 1181,
+    "scraped_kontenjan": 2038,
+    "stated_kontenjan": 2038,
+    "stated_basvuran": 151081,
+    "stated_yerlesen": 2034,
+    "kadro_match": true,
+    "kontenjan_match": true,
+    "branch_counts": {
+      "Ortaogretim": 108,
+      "Onlisans": 561,
+      "Lisans": 512
+    }
+  },
+  {
+    "id": "2017-1",
+    "yil": "2017",
+    "donem": "1",
+    "baslik": "2017/1 KPSS Robotu",
+    "scraped_kadro": 1230,
+    "stated_kadro": 1230,
+    "scraped_kontenjan": 2641,
+    "stated_kontenjan": 2641,
+    "stated_basvuran": 339568,
+    "stated_yerlesen": 2638,
+    "kadro_match": true,
+    "kontenjan_match": true,
+    "branch_counts": {
+      "Ortaogretim": 83,
+      "Onlisans": 374,
+      "Lisans": 773
+    }
+  },
+  {
+    "id": "2016-7",
+    "yil": "2016",
+    "donem": "7",
+    "baslik": "2016/7 KPSS Robotu",
+    "scraped_kadro": 2979,
+    "stated_kadro": 2979,
+    "scraped_kontenjan": 4984,
+    "stated_kontenjan": 4984,
+    "stated_basvuran": 73506,
+    "stated_yerlesen": 4963,
+    "kadro_match": true,
+    "kontenjan_match": true,
+    "branch_counts": {
+      "Ortaogretim": 785,
+      "Onlisans": 1012,
+      "Lisans": 1182
+    }
+  },
+  {
+    "id": "2016-6",
+    "yil": "2016",
+    "donem": "6",
+    "baslik": "2016/6 KPSS Robotu",
+    "scraped_kadro": 618,
+    "stated_kadro": 618,
+    "scraped_kontenjan": 2808,
+    "stated_kontenjan": 2808,
+    "stated_basvuran": null,
+    "stated_yerlesen": null,
+    "kadro_match": true,
+    "kontenjan_match": true,
+    "branch_counts": {
+      "Ortaogretim": 168,
+      "Onlisans": 239,
+      "Lisans": 211
+    }
+  },
+  {
+    "id": "2016-4",
+    "yil": "2016",
+    "donem": "4",
+    "baslik": "2016/4 KPSS Robotu",
+    "scraped_kadro": 844,
+    "stated_kadro": 844,
+    "scraped_kontenjan": 1677,
+    "stated_kontenjan": 1677,
+    "stated_basvuran": 25260,
+    "stated_yerlesen": 1677,
+    "kadro_match": true,
+    "kontenjan_match": true,
+    "branch_counts": {
+      "Ortaogretim": 0,
+      "Onlisans": 0,
+      "Lisans": 844
+    }
+  },
+  {
+    "id": "2016-3",
+    "yil": "2016",
+    "donem": "3",
+    "baslik": "2016/3 KPSS Robotu",
+    "scraped_kadro": 1625,
+    "stated_kadro": 1625,
+    "scraped_kontenjan": 3103,
+    "stated_kontenjan": 3103,
+    "stated_basvuran": 42423,
+    "stated_yerlesen": 3090,
+    "kadro_match": true,
+    "kontenjan_match": true,
+    "branch_counts": {
+      "Ortaogretim": 310,
+      "Onlisans": 665,
+      "Lisans": 650
+    }
+  },
+  {
+    "id": "2016-2",
+    "yil": "2016",
+    "donem": "2",
+    "baslik": "2016/2 KPSS Robotu",
+    "scraped_kadro": 1272,
+    "stated_kadro": 1272,
+    "scraped_kontenjan": 2051,
+    "stated_kontenjan": 2051,
+    "stated_basvuran": 1862302,
+    "stated_yerlesen": 2051,
+    "kadro_match": true,
+    "kontenjan_match": true,
+    "branch_counts": {
+      "Ortaogretim": 82,
+      "Onlisans": 484,
+      "Lisans": 706
+    }
+  },
+  {
+    "id": "2016-1",
+    "yil": "2016",
+    "donem": "1",
+    "baslik": "2016/1 KPSS Robotu",
+    "scraped_kadro": 3524,
+    "stated_kadro": 3524,
+    "scraped_kontenjan": 10174,
+    "stated_kontenjan": 10174,
+    "stated_basvuran": 293219,
+    "stated_yerlesen": 10164,
+    "kadro_match": true,
+    "kontenjan_match": true,
+    "branch_counts": {
+      "Ortaogretim": 500,
+      "Onlisans": 1366,
+      "Lisans": 1658
+    }
+  },
+  {
+    "id": "2015-3",
+    "yil": "2015",
+    "donem": "3",
+    "baslik": "2015/3 KPSS Robotu",
+    "scraped_kadro": 2434,
+    "stated_kadro": 2434,
+    "scraped_kontenjan": 4920,
+    "stated_kontenjan": 4920,
+    "stated_basvuran": 70920,
+    "stated_yerlesen": 4918,
+    "kadro_match": true,
+    "kontenjan_match": true,
+    "branch_counts": {
+      "Ortaogretim": 636,
+      "Onlisans": 688,
+      "Lisans": 1110
+    }
+  },
+  {
+    "id": "2015-2",
+    "yil": "2015",
+    "donem": "2",
+    "baslik": "2015/2 KPSS Robotu",
+    "scraped_kadro": 1147,
+    "stated_kadro": 1147,
+    "scraped_kontenjan": 2159,
+    "stated_kontenjan": 2159,
+    "stated_basvuran": 164656,
+    "stated_yerlesen": 2157,
+    "kadro_match": true,
+    "kontenjan_match": true,
+    "branch_counts": {
+      "Ortaogretim": 63,
+      "Onlisans": 244,
+      "Lisans": 840
+    }
+  },
+  {
+    "id": "2015-1",
+    "yil": "2015",
+    "donem": "1",
+    "baslik": "2015/1 KPSS Robotu",
+    "scraped_kadro": 3841,
+    "stated_kadro": 3841,
+    "scraped_kontenjan": 13213,
+    "stated_kontenjan": 13213,
+    "stated_basvuran": 473192,
+    "stated_yerlesen": 13206,
+    "kadro_match": true,
+    "kontenjan_match": true,
+    "branch_counts": {
+      "Ortaogretim": 476,
+      "Onlisans": 1419,
+      "Lisans": 1946
+    }
+  },
+  {
+    "id": "2014-4",
+    "yil": "2014",
+    "donem": "4",
+    "baslik": "2014/4 KPSS Robotu",
+    "scraped_kadro": 41,
+    "stated_kadro": 41,
+    "scraped_kontenjan": 48,
+    "stated_kontenjan": 48,
+    "stated_basvuran": 11147,
+    "stated_yerlesen": 48,
+    "kadro_match": true,
+    "kontenjan_match": true,
+    "branch_counts": {
+      "Ortaogretim": 0,
+      "Onlisans": 0,
+      "Lisans": 41
+    }
+  },
+  {
+    "id": "2014-3",
+    "yil": "2014",
+    "donem": "3",
+    "baslik": "2014/3 KPSS Robotu",
+    "scraped_kadro": 1157,
+    "stated_kadro": 1157,
+    "scraped_kontenjan": 4522,
+    "stated_kontenjan": 4522,
+    "stated_basvuran": 82477,
+    "stated_yerlesen": 4516,
+    "kadro_match": true,
+    "kontenjan_match": true,
+    "branch_counts": {
+      "Ortaogretim": 226,
+      "Onlisans": 442,
+      "Lisans": 489
+    }
+  },
+  {
+    "id": "2014-2",
+    "yil": "2014",
+    "donem": "2",
+    "baslik": "2014/2 KPSS Robotu",
+    "scraped_kadro": 1695,
+    "stated_kadro": 1695,
+    "scraped_kontenjan": 5067,
+    "stated_kontenjan": 5067,
+    "stated_basvuran": 1176978,
+    "stated_yerlesen": 5053,
+    "kadro_match": true,
+    "kontenjan_match": true,
+    "branch_counts": {
+      "Ortaogretim": 135,
+      "Onlisans": 363,
+      "Lisans": 1197
+    }
+  },
+  {
+    "id": "2014-1",
+    "yil": "2014",
+    "donem": "1",
+    "baslik": "2014/1 KPSS Robotu",
+    "scraped_kadro": 3756,
+    "stated_kadro": 3756,
+    "scraped_kontenjan": 10210,
+    "stated_kontenjan": 10210,
+    "stated_basvuran": 623974,
+    "stated_yerlesen": 10035,
+    "kadro_match": true,
+    "kontenjan_match": true,
+    "branch_counts": {
+      "Ortaogretim": 585,
+      "Onlisans": 1026,
+      "Lisans": 2145
+    }
+  },
+  {
+    "id": "2013-5",
+    "yil": "2013",
+    "donem": "5",
+    "baslik": "2013/5 KPSS Robotu",
+    "scraped_kadro": 104,
+    "stated_kadro": 104,
+    "scraped_kontenjan": 117,
+    "stated_kontenjan": 117,
+    "stated_basvuran": 6797,
+    "stated_yerlesen": 117,
+    "kadro_match": true,
+    "kontenjan_match": true,
+    "branch_counts": {
+      "Ortaogretim": 0,
+      "Onlisans": 0,
+      "Lisans": 104
+    }
+  },
+  {
+    "id": "2013-4",
+    "yil": "2013",
+    "donem": "4",
+    "baslik": "2013/4 KPSS Robotu",
+    "scraped_kadro": 451,
+    "stated_kadro": 451,
+    "scraped_kontenjan": 467,
+    "stated_kontenjan": 467,
+    "stated_basvuran": 15664,
+    "stated_yerlesen": 467,
+    "kadro_match": true,
+    "kontenjan_match": true,
+    "branch_counts": {
+      "Ortaogretim": 0,
+      "Onlisans": 0,
+      "Lisans": 451
+    }
+  },
+  {
+    "id": "2013-3",
+    "yil": "2013",
+    "donem": "3",
+    "baslik": "2013/3 KPSS Robotu",
+    "scraped_kadro": 1542,
+    "stated_kadro": 1542,
+    "scraped_kontenjan": 3317,
+    "stated_kontenjan": 3317,
+    "stated_basvuran": 59804,
+    "stated_yerlesen": 3315,
+    "kadro_match": true,
+    "kontenjan_match": true,
+    "branch_counts": {
+      "Ortaogretim": 513,
+      "Onlisans": 611,
+      "Lisans": 418
+    }
+  },
+  {
+    "id": "2013-2",
+    "yil": "2013",
+    "donem": "2",
+    "baslik": "2013/2 KPSS Robotu",
+    "scraped_kadro": 4083,
+    "stated_kadro": 4083,
+    "scraped_kontenjan": 11415,
+    "stated_kontenjan": 11415,
+    "stated_basvuran": 958762,
+    "stated_yerlesen": 11402,
+    "kadro_match": true,
+    "kontenjan_match": true,
+    "branch_counts": {
+      "Ortaogretim": 703,
+      "Onlisans": 1248,
+      "Lisans": 2132
+    }
+  },
+  {
+    "id": "2013-1",
+    "yil": "2013",
+    "donem": "1",
+    "baslik": "2013/1 KPSS Robotu",
+    "scraped_kadro": 6995,
+    "stated_kadro": 6995,
+    "scraped_kontenjan": 18846,
+    "stated_kontenjan": 18846,
+    "stated_basvuran": 997809,
+    "stated_yerlesen": 18805,
+    "kadro_match": true,
+    "kontenjan_match": true,
+    "branch_counts": {
+      "Ortaogretim": 899,
+      "Onlisans": 2125,
+      "Lisans": 3971
+    }
+  },
+  {
+    "id": "2012-6",
+    "yil": "2012",
+    "donem": "6",
+    "baslik": "2012/6 KPSS Robotu",
+    "scraped_kadro": 2585,
+    "stated_kadro": 2585,
+    "scraped_kontenjan": 2600,
+    "stated_kontenjan": 2600,
+    "stated_basvuran": 20164,
+    "stated_yerlesen": 2600,
+    "kadro_match": true,
+    "kontenjan_match": true,
+    "branch_counts": {
+      "Ortaogretim": 0,
+      "Onlisans": 0,
+      "Lisans": 2585
+    }
+  },
+  {
+    "id": "2012-5",
+    "yil": "2012",
+    "donem": "5",
+    "baslik": "2012/5 KPSS Robotu",
+    "scraped_kadro": 5135,
+    "stated_kadro": 5135,
+    "scraped_kontenjan": 10881,
+    "stated_kontenjan": 10881,
+    "stated_basvuran": 85135,
+    "stated_yerlesen": 10678,
+    "kadro_match": true,
+    "kontenjan_match": true,
+    "branch_counts": {
+      "Ortaogretim": 1947,
+      "Onlisans": 1485,
+      "Lisans": 1703
+    }
+  },
+  {
+    "id": "2012-4",
+    "yil": "2012",
+    "donem": "4",
+    "baslik": "2012/4 KPSS Robotu",
+    "scraped_kadro": 2138,
+    "stated_kadro": 2138,
+    "scraped_kontenjan": 3050,
+    "stated_kontenjan": 3050,
+    "stated_basvuran": 47844,
+    "stated_yerlesen": 2770,
+    "kadro_match": true,
+    "kontenjan_match": true,
+    "branch_counts": {
+      "Ortaogretim": 1184,
+      "Onlisans": 577,
+      "Lisans": 377
+    }
+  },
+  {
+    "id": "2012-3",
+    "yil": "2012",
+    "donem": "3",
+    "baslik": "2012/3 KPSS Robotu",
+    "scraped_kadro": 366,
+    "stated_kadro": 366,
+    "scraped_kontenjan": 378,
+    "stated_kontenjan": 378,
+    "stated_basvuran": 13091,
+    "stated_yerlesen": 378,
+    "kadro_match": true,
+    "kontenjan_match": true,
+    "branch_counts": {
+      "Ortaogretim": 0,
+      "Onlisans": 0,
+      "Lisans": 366
+    }
+  },
+  {
+    "id": "2012-2",
+    "yil": "2012",
+    "donem": "2",
+    "baslik": "2012/2 KPSS Robotu",
+    "scraped_kadro": 3058,
+    "stated_kadro": 3058,
+    "scraped_kontenjan": 7328,
+    "stated_kontenjan": 7328,
+    "stated_basvuran": 1406182,
+    "stated_yerlesen": 7310,
+    "kadro_match": true,
+    "kontenjan_match": true,
+    "branch_counts": {
+      "Ortaogretim": 329,
+      "Onlisans": 937,
+      "Lisans": 1792
+    }
+  },
+  {
+    "id": "2012-1",
+    "yil": "2012",
+    "donem": "1",
+    "baslik": "2012/1 KPSS Robotu",
+    "scraped_kadro": 7195,
+    "stated_kadro": 7195,
+    "scraped_kontenjan": 17482,
+    "stated_kontenjan": 17482,
+    "stated_basvuran": 605984,
+    "stated_yerlesen": 16947,
+    "kadro_match": true,
+    "kontenjan_match": true,
+    "branch_counts": {
+      "Ortaogretim": 967,
+      "Onlisans": 2079,
+      "Lisans": 4149
+    }
+  }
+]

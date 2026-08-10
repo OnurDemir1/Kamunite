@@ -1,0 +1,8 @@
+{
+  "_aciklama": "Denk/es-adli bolum gruplari (normalize edilmis, veride dogrulanmis). Kullanici gruptan birini secince eslestirme grubun TAMAMINI yakalar. Hem gecmis KPSS hem guncel ilanlarda gecerli. Yalnizca gercekten denk/ayni programlar; tangansiyel yakinlar (or. Matematik-Bilgisayar Programciligi) kasitli olarak DAHIL DEGIL.",
+  "gruplar": [
+    ["bilgisayar programciligi", "bilgisayar programciligi (internet)", "bilgisayar programciligi bolumu"],
+    ["yonetim bilisim sistemleri", "yonetim bilimi ve bilisim sistemleri"],
+    ["amerikan kulturu ve edebiyati", "amerikan dili ve edebiyati"]
+  ]
+}

@@ -1,0 +1,5512 @@
+{
+ "id": "2024-3",
+ "yil": "2024",
+ "donem": "3",
+ "baslik": "2024/3 KPSS Robotu",
+ "url": "https://kpss.memurlar.net/kpssrobotu/2024/3/",
+ "stats": {
+  "stated_kadro": 206,
+  "stated_kontenjan": 695,
+  "stated_basvuran": 103552,
+  "stated_yerlesen": 695
+ },
+ "branch_counts": {
+  "Ortaogretim": 0,
+  "Onlisans": 85,
+  "Lisans": 121
+ },
+ "scraped_kadro": 206,
+ "scraped_kontenjan": 695,
+ "kadrolar": [
+  {
+   "kadro_kodu": "203010472",
+   "kadro_guid": "64709dcc-9ab6-ee11-b162-a0369f7d1d8e",
+   "kurum": "Milli Eğitim Bakanlığı",
+   "unvan": "Büro Personeli",
+   "il": "Nevşehir",
+   "kontenjan": 1,
+   "bos_kadro": null,
+   "min_puan": 95.093,
+   "max_puan": 95.093,
+   "ogrenim": "Onlisans",
+   "nitelikler": [
+    {
+     "kod": "3001",
+     "aciklama": "Herhangi bir önlisans programından mezun olmak."
+    }
+   ],
+   "sinif": "Sözleşmeli",
+   "sinif_kod": null,
+   "derece": null
+  },
+  {
+   "kadro_kodu": "203010598",
+   "kadro_guid": "d16f9dcc-9ab6-ee11-b162-a0369f7d1d8e",
+   "kurum": "Milli Eğitim Bakanlığı",
+   "unvan": "Büro Personeli",
+   "il": "Aksaray",
+   "kontenjan": 1,
+   "bos_kadro": null,
+   "min_puan": 89.669,
+   "max_puan": 89.669,
+   "ogrenim": "Onlisans",
+   "nitelikler": [
+    {
+     "kod": "3001",
+     "aciklama": "Herhangi bir önlisans programından mezun olmak."
+    }
+   ],
+   "sinif": "Sözleşmeli",
+   "sinif_kod": null,
+   "derece": null
+  },
+  {
+   "kadro_kodu": "203010479",
+   "kadro_guid": "65709dcc-9ab6-ee11-b162-a0369f7d1d8e",
+   "kurum": "Milli Eğitim Bakanlığı",
+   "unvan": "Büro Personeli",
+   "il": "Niğde",
+   "kontenjan": 1,
+   "bos_kadro": null,
+   "min_puan": 89.369,
+   "max_puan": 89.369,
+   "ogrenim": "Onlisans",
+   "nitelikler": [
+    {
+     "kod": "3001",
+     "aciklama": "Herhangi bir önlisans programından mezun olmak."
+    }
+   ],
+   "sinif": "Sözleşmeli",
+   "sinif_kod": null,
+   "derece": null
+  },
+  {
+   "kadro_kodu": "203010220",
+   "kadro_guid": "f96f9dcc-9ab6-ee11-b162-a0369f7d1d8e",
+   "kurum": "Milli Eğitim Bakanlığı",
+   "unvan": "Büro Personeli",
+   "il": "Bolu",
+   "kontenjan": 2,
+   "bos_kadro": null,
+   "min_puan": 87.542,
+   "max_puan": 90.518,
+   "ogrenim": "Onlisans",
+   "nitelikler": [
+    {
+     "kod": "3001",
+     "aciklama": "Herhangi bir önlisans programından mezun olmak."
+    }
+   ],
+   "sinif": "Sözleşmeli",
+   "sinif_kod": null,
+   "derece": null
+  },
+  {
+   "kadro_kodu": "203010668",
+   "kadro_guid": "3b709dcc-9ab6-ee11-b162-a0369f7d1d8e",
+   "kurum": "Milli Eğitim Bakanlığı",
+   "unvan": "Büro Personeli",
+   "il": "Karabük",
+   "kontenjan": 1,
+   "bos_kadro": null,
+   "min_puan": 87.472,
+   "max_puan": 87.472,
+   "ogrenim": "Onlisans",
+   "nitelikler": [
+    {
+     "kod": "3001",
+     "aciklama": "Herhangi bir önlisans programından mezun olmak."
+    }
+   ],
+   "sinif": "Sözleşmeli",
+   "sinif_kod": null,
+   "derece": null
+  },
+  {
+   "kadro_kodu": "203010626",
+   "kadro_guid": "ee6f9dcc-9ab6-ee11-b162-a0369f7d1d8e",
+   "kurum": "Milli Eğitim Bakanlığı",
+   "unvan": "Büro Personeli",
+   "il": "Batman",
+   "kontenjan": 2,
+   "bos_kadro": null,
+   "min_puan": 87.312,
+   "max_puan": 88.023,
+   "ogrenim": "Onlisans",
+   "nitelikler": [
+    {
+     "kod": "3001",
+     "aciklama": "Herhangi bir önlisans programından mezun olmak."
+    }
+   ],
+   "sinif": "Sözleşmeli",
+   "sinif_kod": null,
+   "derece": null
+  },
+  {
+   "kadro_kodu": "203010423",
+   "kadro_guid": "51709dcc-9ab6-ee11-b162-a0369f7d1d8e",
+   "kurum": "Milli Eğitim Bakanlığı",
+   "unvan": "Büro Personeli",
+   "il": "Kütahya",
+   "kontenjan": 2,
+   "bos_kadro": null,
+   "min_puan": 86.996,
+   "max_puan": 91.951,
+   "ogrenim": "Onlisans",
+   "nitelikler": [
+    {
+     "kod": "3001",
+     "aciklama": "Herhangi bir önlisans programından mezun olmak."
+    }
+   ],
+   "sinif": "Sözleşmeli",
+   "sinif_kod": null,
+   "derece": null
+  },
+  {
+   "kadro_kodu": "203010192",
+   "kadro_guid": "e76f9dcc-9ab6-ee11-b162-a0369f7d1d8e",
+   "kurum": "Milli Eğitim Bakanlığı",
+   "unvan": "Büro Personeli",
+   "il": "Balıkesir",
+   "kontenjan": 3,
+   "bos_kadro": null,
+   "min_puan": 86.902,
+   "max_puan": 87.141,
+   "ogrenim": "Onlisans",
+   "nitelikler": [
+    {
+     "kod": "3001",
+     "aciklama": "Herhangi bir önlisans programından mezun olmak."
+    }
+   ],
+   "sinif": "Sözleşmeli",
+   "sinif_kod": null,
+   "derece": null
+  },
+  {
+   "kadro_kodu": "203010444",
+   "kadro_guid": "5a709dcc-9ab6-ee11-b162-a0369f7d1d8e",
+   "kurum": "Milli Eğitim Bakanlığı",
+   "unvan": "Büro Personeli",
+   "il": "Mardin",
+   "kontenjan": 2,
+   "bos_kadro": null,
+   "min_puan": 86.671,
+   "max_puan": 90.573,
+   "ogrenim": "Onlisans",
+   "nitelikler": [
+    {
+     "kod": "3001",
+     "aciklama": "Herhangi bir önlisans programından mezun olmak."
+    }
+   ],
+   "sinif": "Sözleşmeli",
+   "sinif_kod": null,
+   "derece": null
+  },
+  {
+   "kadro_kodu": "203010549",
+   "kadro_guid": "82709dcc-9ab6-ee11-b162-a0369f7d1d8e",
+   "kurum": "Milli Eğitim Bakanlığı",
+   "unvan": "Büro Personeli",
+   "il": "Trabzon",
+   "kontenjan": 3,
+   "bos_kadro": null,
+   "min_puan": 86.568,
+   "max_puan": 89.262,
+   "ogrenim": "Onlisans",
+   "nitelikler": [
+    {
+     "kod": "3001",
+     "aciklama": "Herhangi bir önlisans programından mezun olmak."
+    }
+   ],
+   "sinif": "Sözleşmeli",
+   "sinif_kod": null,
+   "derece": null
+  },
+  {
+   "kadro_kodu": "203010654",
+   "kadro_guid": "2b709dcc-9ab6-ee11-b162-a0369f7d1d8e",
+   "kurum": "Milli Eğitim Bakanlığı",
+   "unvan": "Büro Personeli",
+   "il": "Iğdır",
+   "kontenjan": 1,
+   "bos_kadro": null,
+   "min_puan": 86.537,
+   "max_puan": 86.537,
+   "ogrenim": "Onlisans",
+   "nitelikler": [
+    {
+     "kod": "3001",
+     "aciklama": "Herhangi bir önlisans programından mezun olmak."
+    }
+   ],
+   "sinif": "Sözleşmeli",
+   "sinif_kod": null,
+   "derece": null
+  },
+  {
+   "kadro_kodu": "203010493",
+   "kadro_guid": "6e709dcc-9ab6-ee11-b162-a0369f7d1d8e",
+   "kurum": "Milli Eğitim Bakanlığı",
+   "unvan": "Büro Personeli",
+   "il": "Rize",
+   "kontenjan": 1,
+   "bos_kadro": null,
+   "min_puan": 86.418,
+   "max_puan": 86.418,
+   "ogrenim": "Onlisans",
+   "nitelikler": [
+    {
+     "kod": "3001",
+     "aciklama": "Herhangi bir önlisans programından mezun olmak."
+    }
+   ],
+   "sinif": "Sözleşmeli",
+   "sinif_kod": null,
+   "derece": null
+  },
+  {
+   "kadro_kodu": "203010633",
+   "kadro_guid": "7d709dcc-9ab6-ee11-b162-a0369f7d1d8e",
+   "kurum": "Milli Eğitim Bakanlığı",
+   "unvan": "Büro Personeli",
+   "il": "Şırnak",
+   "kontenjan": 3,
+   "bos_kadro": null,
+   "min_puan": 86.415,
+   "max_puan": 94.111,
+   "ogrenim": "Onlisans",
+   "nitelikler": [
+    {
+     "kod": "3001",
+     "aciklama": "Herhangi bir önlisans programından mezun olmak."
+    }
+   ],
+   "sinif": "Sözleşmeli",
+   "sinif_kod": null,
+   "derece": null
+  },
+  {
+   "kadro_kodu": "203010521",
+   "kadro_guid": "76709dcc-9ab6-ee11-b162-a0369f7d1d8e",
+   "kurum": "Milli Eğitim Bakanlığı",
+   "unvan": "Büro Personeli",
+   "il": "Sinop",
+   "kontenjan": 3,
+   "bos_kadro": null,
+   "min_puan": 86.374,
+   "max_puan": 91.171,
+   "ogrenim": "Onlisans",
+   "nitelikler": [
+    {
+     "kod": "3001",
+     "aciklama": "Herhangi bir önlisans programından mezun olmak."
+    }
+   ],
+   "sinif": "Sözleşmeli",
+   "sinif_kod": null,
+   "derece": null
+  },
+  {
+   "kadro_kodu": "203010514",
+   "kadro_guid": "73709dcc-9ab6-ee11-b162-a0369f7d1d8e",
+   "kurum": "Milli Eğitim Bakanlığı",
+   "unvan": "Büro Personeli",
+   "il": "Siirt",
+   "kontenjan": 1,
+   "bos_kadro": null,
+   "min_puan": 86.364,
+   "max_puan": 86.364,
+   "ogrenim": "Onlisans",
+   "nitelikler": [
+    {
+     "kod": "3001",
+     "aciklama": "Herhangi bir önlisans programından mezun olmak."
+    }
+   ],
+   "sinif": "Sözleşmeli",
+   "sinif_kod": null,
+   "derece": null
+  },
+  {
+   "kadro_kodu": "203010577",
+   "kadro_guid": "88709dcc-9ab6-ee11-b162-a0369f7d1d8e",
+   "kurum": "Milli Eğitim Bakanlığı",
+   "unvan": "Büro Personeli",
+   "il": "Van",
+   "kontenjan": 6,
+   "bos_kadro": null,
+   "min_puan": 86.33,
+   "max_puan": 90.809,
+   "ogrenim": "Onlisans",
+   "nitelikler": [
+    {
+     "kod": "3001",
+     "aciklama": "Herhangi bir önlisans programından mezun olmak."
+    }
+   ],
+   "sinif": "Sözleşmeli",
+   "sinif_kod": null,
+   "derece": null
+  },
+  {
+   "kadro_kodu": "203010346",
+   "kadro_guid": "2e709dcc-9ab6-ee11-b162-a0369f7d1d8e",
+   "kurum": "Milli Eğitim Bakanlığı",
+   "unvan": "Büro Personeli",
+   "il": "Isparta",
+   "kontenjan": 5,
+   "bos_kadro": null,
+   "min_puan": 86.247,
+   "max_puan": 89.295,
+   "ogrenim": "Onlisans",
+   "nitelikler": [
+    {
+     "kod": "3001",
+     "aciklama": "Herhangi bir önlisans programından mezun olmak."
+    }
+   ],
+   "sinif": "Sözleşmeli",
+   "sinif_kod": null,
+   "derece": null
+  },
+  {
+   "kadro_kodu": "203010605",
+   "kadro_guid": "ef6f9dcc-9ab6-ee11-b162-a0369f7d1d8e",
+   "kurum": "Milli Eğitim Bakanlığı",
+   "unvan": "Büro Personeli",
+   "il": "Bayburt",
+   "kontenjan": 1,
+   "bos_kadro": null,
+   "min_puan": 86.228,
+   "max_puan": 86.228,
+   "ogrenim": "Onlisans",
+   "nitelikler": [
+    {
+     "kod": "3001",
+     "aciklama": "Herhangi bir önlisans programından mezun olmak."
+    }
+   ],
+   "sinif": "Sözleşmeli",
+   "sinif_kod": null,
+   "derece": null
+  },
+  {
+   "kadro_kodu": "203010269",
+   "kadro_guid": "0a709dcc-9ab6-ee11-b162-a0369f7d1d8e",
+   "kurum": "Milli Eğitim Bakanlığı",
+   "unvan": "Büro Personeli",
+   "il": "Diyarbakır",
+   "kontenjan": 10,
+   "bos_kadro": null,
+   "min_puan": 86.215,
+   "max_puan": 87.522,
+   "ogrenim": "Onlisans",
+   "nitelikler": [
+    {
+     "kod": "3001",
+     "aciklama": "Herhangi bir önlisans programından mezun olmak."
+    }
+   ],
+   "sinif": "Sözleşmeli",
+   "sinif_kod": null,
+   "derece": null
+  },
+  {
+   "kadro_kodu": "203010255",
+   "kadro_guid": "04709dcc-9ab6-ee11-b162-a0369f7d1d8e",
+   "kurum": "Milli Eğitim Bakanlığı",
+   "unvan": "Büro Personeli",
+   "il": "Çorum",
+   "kontenjan": 3,
+   "bos_kadro": null,
+   "min_puan": 86.12,
+   "max_puan": 86.974,
+   "ogrenim": "Onlisans",
+   "nitelikler": [
+    {
+     "kod": "3001",
+     "aciklama": "Herhangi bir önlisans programından mezun olmak."
+    }
+   ],
+   "sinif": "Sözleşmeli",
+   "sinif_kod": null,
+   "derece": null
+  },
+  {
+   "kadro_kodu": "203010283",
+   "kadro_guid": "13709dcc-9ab6-ee11-b162-a0369f7d1d8e",
+   "kurum": "Milli Eğitim Bakanlığı",
+   "unvan": "Büro Personeli",
+   "il": "Elazığ",
+   "kontenjan": 3,
+   "bos_kadro": null,
+   "min_puan": 86.03,
+   "max_puan": 92.085,
+   "ogrenim": "Onlisans",
+   "nitelikler": [
+    {
+     "kod": "3001",
+     "aciklama": "Herhangi bir önlisans programından mezun olmak."
+    }
+   ],
+   "sinif": "Sözleşmeli",
+   "sinif_kod": null,
+   "derece": null
+  },
+  {
+   "kadro_kodu": "203010157",
+   "kadro_guid": "d56f9dcc-9ab6-ee11-b162-a0369f7d1d8e",
+   "kurum": "Milli Eğitim Bakanlığı",
+   "unvan": "Büro Personeli",
+   "il": "Amasya",
+   "kontenjan": 2,
+   "bos_kadro": null,
+   "min_puan": 85.993,
+   "max_puan": 86.096,
+   "ogrenim": "Onlisans",
+   "nitelikler": [
+    {
+     "kod": "3001",
+     "aciklama": "Herhangi bir önlisans programından mezun olmak."
+    }
+   ],
+   "sinif": "Sözleşmeli",
+   "sinif_kod": null,
+   "derece": null
+  },
+  {
+   "kadro_kodu": "203010276",
+   "kadro_guid": "10709dcc-9ab6-ee11-b162-a0369f7d1d8e",
+   "kurum": "Milli Eğitim Bakanlığı",
+   "unvan": "Büro Personeli",
+   "il": "Edirne",
+   "kontenjan": 3,
+   "bos_kadro": null,
+   "min_puan": 85.939,
+   "max_puan": 86.687,
+   "ogrenim": "Onlisans",
+   "nitelikler": [
+    {
+     "kod": "3001",
+     "aciklama": "Herhangi bir önlisans programından mezun olmak."
+    }
+   ],
+   "sinif": "Sözleşmeli",
+   "sinif_kod": null,
+   "derece": null
+  },
+  {
+   "kadro_kodu": "203010451",
+   "kadro_guid": "5e709dcc-9ab6-ee11-b162-a0369f7d1d8e",
+   "kurum": "Milli Eğitim Bakanlığı",
+   "unvan": "Büro Personeli",
+   "il": "Mersin",
+   "kontenjan": 9,
+   "bos_kadro": null,
+   "min_puan": 85.851,
+   "max_puan": 88.482,
+   "ogrenim": "Onlisans",
+   "nitelikler": [
+    {
+     "kod": "3001",
+     "aciklama": "Herhangi bir önlisans programından mezun olmak."
+    }
+   ],
+   "sinif": "Sözleşmeli",
+   "sinif_kod": null,
+   "derece": null
+  },
+  {
+   "kadro_kodu": "203010619",
+   "kadro_guid": "43709dcc-9ab6-ee11-b162-a0369f7d1d8e",
+   "kurum": "Milli Eğitim Bakanlığı",
+   "unvan": "Büro Personeli",
+   "il": "Kırıkkale",
+   "kontenjan": 4,
+   "bos_kadro": null,
+   "min_puan": 85.847,
+   "max_puan": 91.404,
+   "ogrenim": "Onlisans",
+   "nitelikler": [
+    {
+     "kod": "3001",
+     "aciklama": "Herhangi bir önlisans programından mezun olmak."
+    }
+   ],
+   "sinif": "Sözleşmeli",
+   "sinif_kod": null,
+   "derece": null
+  },
+  {
+   "kadro_kodu": "203010465",
+   "kadro_guid": "63709dcc-9ab6-ee11-b162-a0369f7d1d8e",
+   "kurum": "Milli Eğitim Bakanlığı",
+   "unvan": "Büro Personeli",
+   "il": "Muş",
+   "kontenjan": 4,
+   "bos_kadro": null,
+   "min_puan": 85.793,
+   "max_puan": 90.016,
+   "ogrenim": "Onlisans",
+   "nitelikler": [
+    {
+     "kod": "3001",
+     "aciklama": "Herhangi bir önlisans programından mezun olmak."
+    }
+   ],
+   "sinif": "Sözleşmeli",
+   "sinif_kod": null,
+   "derece": null
+  },
+  {
+   "kadro_kodu": "203010325",
+   "kadro_guid": "22709dcc-9ab6-ee11-b162-a0369f7d1d8e",
+   "kurum": "Milli Eğitim Bakanlığı",
+   "unvan": "Büro Personeli",
+   "il": "Gümüşhane",
+   "kontenjan": 1,
+   "bos_kadro": null,
+   "min_puan": 85.739,
+   "max_puan": 85.739,
+   "ogrenim": "Onlisans",
+   "nitelikler": [
+    {
+     "kod": "3001",
+     "aciklama": "Herhangi bir önlisans programından mezun olmak."
+    }
+   ],
+   "sinif": "Sözleşmeli",
+   "sinif_kod": null,
+   "derece": null
+  },
+  {
+   "kadro_kodu": "203010640",
+   "kadro_guid": "eb6f9dcc-9ab6-ee11-b162-a0369f7d1d8e",
+   "kurum": "Milli Eğitim Bakanlığı",
+   "unvan": "Büro Personeli",
+   "il": "Bartın",
+   "kontenjan": 3,
+   "bos_kadro": null,
+   "min_puan": 85.703,
+   "max_puan": 92.001,
+   "ogrenim": "Onlisans",
+   "nitelikler": [
+    {
+     "kod": "3001",
+     "aciklama": "Herhangi bir önlisans programından mezun olmak."
+    }
+   ],
+   "sinif": "Sözleşmeli",
+   "sinif_kod": null,
+   "derece": null
+  },
+  {
+   "kadro_kodu": "203010311",
+   "kadro_guid": "1e709dcc-9ab6-ee11-b162-a0369f7d1d8e",
+   "kurum": "Milli Eğitim Bakanlığı",
+   "unvan": "Büro Personeli",
+   "il": "Gaziantep",
+   "kontenjan": 13,
+   "bos_kadro": null,
+   "min_puan": 85.69,
+   "max_puan": 88.897,
+   "ogrenim": "Onlisans",
+   "nitelikler": [
+    {
+     "kod": "3001",
+     "aciklama": "Herhangi bir önlisans programından mezun olmak."
+    }
+   ],
+   "sinif": "Sözleşmeli",
+   "sinif_kod": null,
+   "derece": null
+  },
+  {
+   "kadro_kodu": "203010542",
+   "kadro_guid": "81709dcc-9ab6-ee11-b162-a0369f7d1d8e",
+   "kurum": "Milli Eğitim Bakanlığı",
+   "unvan": "Büro Personeli",
+   "il": "Tokat",
+   "kontenjan": 4,
+   "bos_kadro": null,
+   "min_puan": 85.682,
+   "max_puan": 86.361,
+   "ogrenim": "Onlisans",
+   "nitelikler": [
+    {
+     "kod": "3001",
+     "aciklama": "Herhangi bir önlisans programından mezun olmak."
+    }
+   ],
+   "sinif": "Sözleşmeli",
+   "sinif_kod": null,
+   "derece": null
+  },
+  {
+   "kadro_kodu": "203010206",
+   "kadro_guid": "f36f9dcc-9ab6-ee11-b162-a0369f7d1d8e",
+   "kurum": "Milli Eğitim Bakanlığı",
+   "unvan": "Büro Personeli",
+   "il": "Bingöl",
+   "kontenjan": 5,
+   "bos_kadro": null,
+   "min_puan": 85.643,
+   "max_puan": 85.97,
+   "ogrenim": "Onlisans",
+   "nitelikler": [
+    {
+     "kod": "3001",
+     "aciklama": "Herhangi bir önlisans programından mezun olmak."
+    }
+   ],
+   "sinif": "Sözleşmeli",
+   "sinif_kod": null,
+   "derece": null
+  },
+  {
+   "kadro_kodu": "203010563",
+   "kadro_guid": "7a709dcc-9ab6-ee11-b162-a0369f7d1d8e",
+   "kurum": "Milli Eğitim Bakanlığı",
+   "unvan": "Büro Personeli",
+   "il": "Şanlıurfa",
+   "kontenjan": 16,
+   "bos_kadro": null,
+   "min_puan": 85.604,
+   "max_puan": 86.91,
+   "ogrenim": "Onlisans",
+   "nitelikler": [
+    {
+     "kod": "3001",
+     "aciklama": "Herhangi bir önlisans programından mezun olmak."
+    }
+   ],
+   "sinif": "Sözleşmeli",
+   "sinif_kod": null,
+   "derece": null
+  },
+  {
+   "kadro_kodu": "203010213",
+   "kadro_guid": "f86f9dcc-9ab6-ee11-b162-a0369f7d1d8e",
+   "kurum": "Milli Eğitim Bakanlığı",
+   "unvan": "Büro Personeli",
+   "il": "Bitlis",
+   "kontenjan": 6,
+   "bos_kadro": null,
+   "min_puan": 85.602,
+   "max_puan": 89.736,
+   "ogrenim": "Onlisans",
+   "nitelikler": [
+    {
+     "kod": "3001",
+     "aciklama": "Herhangi bir önlisans programından mezun olmak."
+    }
+   ],
+   "sinif": "Sözleşmeli",
+   "sinif_kod": null,
+   "derece": null
+  },
+  {
+   "kadro_kodu": "203010164",
+   "kadro_guid": "d66f9dcc-9ab6-ee11-b162-a0369f7d1d8e",
+   "kurum": "Milli Eğitim Bakanlığı",
+   "unvan": "Büro Personeli",
+   "il": "Ankara",
+   "kontenjan": 13,
+   "bos_kadro": null,
+   "min_puan": 85.57,
+   "max_puan": 91.936,
+   "ogrenim": "Onlisans",
+   "nitelikler": [
+    {
+     "kod": "3001",
+     "aciklama": "Herhangi bir önlisans programından mezun olmak."
+    }
+   ],
+   "sinif": "Sözleşmeli",
+   "sinif_kod": null,
+   "derece": null
+  },
+  {
+   "kadro_kodu": "203010437",
+   "kadro_guid": "59709dcc-9ab6-ee11-b162-a0369f7d1d8e",
+   "kurum": "Milli Eğitim Bakanlığı",
+   "unvan": "Büro Personeli",
+   "il": "Manisa",
+   "kontenjan": 5,
+   "bos_kadro": null,
+   "min_puan": 85.561,
+   "max_puan": 86.933,
+   "ogrenim": "Onlisans",
+   "nitelikler": [
+    {
+     "kod": "3001",
+     "aciklama": "Herhangi bir önlisans programından mezun olmak."
+    }
+   ],
+   "sinif": "Sözleşmeli",
+   "sinif_kod": null,
+   "derece": null
+  },
+  {
+   "kadro_kodu": "203010409",
+   "kadro_guid": "4a709dcc-9ab6-ee11-b162-a0369f7d1d8e",
+   "kurum": "Milli Eğitim Bakanlığı",
+   "unvan": "Büro Personeli",
+   "il": "Kocaeli",
+   "kontenjan": 1,
+   "bos_kadro": null,
+   "min_puan": 85.518,
+   "max_puan": 85.518,
+   "ogrenim": "Onlisans",
+   "nitelikler": [
+    {
+     "kod": "3001",
+     "aciklama": "Herhangi bir önlisans programından mezun olmak."
+    }
+   ],
+   "sinif": "Sözleşmeli",
+   "sinif_kod": null,
+   "derece": null
+  },
+  {
+   "kadro_kodu": "203010388",
+   "kadro_guid": "41709dcc-9ab6-ee11-b162-a0369f7d1d8e",
+   "kurum": "Milli Eğitim Bakanlığı",
+   "unvan": "Büro Personeli",
+   "il": "Kayseri",
+   "kontenjan": 7,
+   "bos_kadro": null,
+   "min_puan": 85.503,
+   "max_puan": 86.998,
+   "ogrenim": "Onlisans",
+   "nitelikler": [
+    {
+     "kod": "3001",
+     "aciklama": "Herhangi bir önlisans programından mezun olmak."
+    }
+   ],
+   "sinif": "Sözleşmeli",
+   "sinif_kod": null,
+   "derece": null
+  },
+  {
+   "kadro_kodu": "203010227",
+   "kadro_guid": "fb6f9dcc-9ab6-ee11-b162-a0369f7d1d8e",
+   "kurum": "Milli Eğitim Bakanlığı",
+   "unvan": "Büro Personeli",
+   "il": "Burdur",
+   "kontenjan": 2,
+   "bos_kadro": null,
+   "min_puan": 85.498,
+   "max_puan": 88.84,
+   "ogrenim": "Onlisans",
+   "nitelikler": [
+    {
+     "kod": "3001",
+     "aciklama": "Herhangi bir önlisans programından mezun olmak."
+    }
+   ],
+   "sinif": "Sözleşmeli",
+   "sinif_kod": null,
+   "derece": null
+  },
+  {
+   "kadro_kodu": "203010500",
+   "kadro_guid": "6f709dcc-9ab6-ee11-b162-a0369f7d1d8e",
+   "kurum": "Milli Eğitim Bakanlığı",
+   "unvan": "Büro Personeli",
+   "il": "Sakarya",
+   "kontenjan": 3,
+   "bos_kadro": null,
+   "min_puan": 85.495,
+   "max_puan": 86.303,
+   "ogrenim": "Onlisans",
+   "nitelikler": [
+    {
+     "kod": "3001",
+     "aciklama": "Herhangi bir önlisans programından mezun olmak."
+    }
+   ],
+   "sinif": "Sözleşmeli",
+   "sinif_kod": null,
+   "derece": null
+  },
+  {
+   "kadro_kodu": "203010150",
+   "kadro_guid": "ce6f9dcc-9ab6-ee11-b162-a0369f7d1d8e",
+   "kurum": "Milli Eğitim Bakanlığı",
+   "unvan": "Büro Personeli",
+   "il": "Ağrı",
+   "kontenjan": 8,
+   "bos_kadro": null,
+   "min_puan": 85.48,
+   "max_puan": 88.277,
+   "ogrenim": "Onlisans",
+   "nitelikler": [
+    {
+     "kod": "3001",
+     "aciklama": "Herhangi bir önlisans programından mezun olmak."
+    }
+   ],
+   "sinif": "Sözleşmeli",
+   "sinif_kod": null,
+   "derece": null
+  },
+  {
+   "kadro_kodu": "203010661",
+   "kadro_guid": "8c709dcc-9ab6-ee11-b162-a0369f7d1d8e",
+   "kurum": "Milli Eğitim Bakanlığı",
+   "unvan": "Büro Personeli",
+   "il": "Yalova",
+   "kontenjan": 3,
+   "bos_kadro": null,
+   "min_puan": 85.43,
+   "max_puan": 86.638,
+   "ogrenim": "Onlisans",
+   "nitelikler": [
+    {
+     "kod": "3001",
+     "aciklama": "Herhangi bir önlisans programından mezun olmak."
+    }
+   ],
+   "sinif": "Sözleşmeli",
+   "sinif_kod": null,
+   "derece": null
+  },
+  {
+   "kadro_kodu": "203010199",
+   "kadro_guid": "f26f9dcc-9ab6-ee11-b162-a0369f7d1d8e",
+   "kurum": "Milli Eğitim Bakanlığı",
+   "unvan": "Büro Personeli",
+   "il": "Bilecik",
+   "kontenjan": 2,
+   "bos_kadro": null,
+   "min_puan": 85.386,
+   "max_puan": 85.479,
+   "ogrenim": "Onlisans",
+   "nitelikler": [
+    {
+     "kod": "3001",
+     "aciklama": "Herhangi bir önlisans programından mezun olmak."
+    }
+   ],
+   "sinif": "Sözleşmeli",
+   "sinif_kod": null,
+   "derece": null
+  },
+  {
+   "kadro_kodu": "203010332",
+   "kadro_guid": "26709dcc-9ab6-ee11-b162-a0369f7d1d8e",
+   "kurum": "Milli Eğitim Bakanlığı",
+   "unvan": "Büro Personeli",
+   "il": "Hakkari",
+   "kontenjan": 3,
+   "bos_kadro": null,
+   "min_puan": 85.356,
+   "max_puan": 86.009,
+   "ogrenim": "Onlisans",
+   "nitelikler": [
+    {
+     "kod": "3001",
+     "aciklama": "Herhangi bir önlisans programından mezun olmak."
+    }
+   ],
+   "sinif": "Sözleşmeli",
+   "sinif_kod": null,
+   "derece": null
+  },
+  {
+   "kadro_kodu": "203010248",
+   "kadro_guid": "03709dcc-9ab6-ee11-b162-a0369f7d1d8e",
+   "kurum": "Milli Eğitim Bakanlığı",
+   "unvan": "Büro Personeli",
+   "il": "Çankırı",
+   "kontenjan": 2,
+   "bos_kadro": null,
+   "min_puan": 85.355,
+   "max_puan": 85.69,
+   "ogrenim": "Onlisans",
+   "nitelikler": [
+    {
+     "kod": "3001",
+     "aciklama": "Herhangi bir önlisans programından mezun olmak."
+    }
+   ],
+   "sinif": "Sözleşmeli",
+   "sinif_kod": null,
+   "derece": null
+  },
+  {
+   "kadro_kodu": "203010234",
+   "kadro_guid": "fc6f9dcc-9ab6-ee11-b162-a0369f7d1d8e",
+   "kurum": "Milli Eğitim Bakanlığı",
+   "unvan": "Büro Personeli",
+   "il": "Bursa",
+   "kontenjan": 10,
+   "bos_kadro": null,
+   "min_puan": 85.345,
+   "max_puan": 89.396,
+   "ogrenim": "Onlisans",
+   "nitelikler": [
+    {
+     "kod": "3001",
+     "aciklama": "Herhangi bir önlisans programından mezun olmak."
+    }
+   ],
+   "sinif": "Sözleşmeli",
+   "sinif_kod": null,
+   "derece": null
+  },
+  {
+   "kadro_kodu": "203010535",
+   "kadro_guid": "7e709dcc-9ab6-ee11-b162-a0369f7d1d8e",
+   "kurum": "Milli Eğitim Bakanlığı",
+   "unvan": "Büro Personeli",
+   "il": "Tekirdağ",
+   "kontenjan": 2,
+   "bos_kadro": null,
+   "min_puan": 85.314,
+   "max_puan": 85.33,
+   "ogrenim": "Onlisans",
+   "nitelikler": [
+    {
+     "kod": "3001",
+     "aciklama": "Herhangi bir önlisans programından mezun olmak."
+    }
+   ],
+   "sinif": "Sözleşmeli",
+   "sinif_kod": null,
+   "derece": null
+  },
+  {
+   "kadro_kodu": "203010486",
+   "kadro_guid": "68709dcc-9ab6-ee11-b162-a0369f7d1d8e",
+   "kurum": "Milli Eğitim Bakanlığı",
+   "unvan": "Büro Personeli",
+   "il": "Ordu",
+   "kontenjan": 4,
+   "bos_kadro": null,
+   "min_puan": 85.309,
+   "max_puan": 86.392,
+   "ogrenim": "Onlisans",
+   "nitelikler": [
+    {
+     "kod": "3001",
+     "aciklama": "Herhangi bir önlisans programından mezun olmak."
+    }
+   ],
+   "sinif": "Sözleşmeli",
+   "sinif_kod": null,
+   "derece": null
+  },
+  {
+   "kadro_kodu": "203010374",
+   "kadro_guid": "3d709dcc-9ab6-ee11-b162-a0369f7d1d8e",
+   "kurum": "Milli Eğitim Bakanlığı",
+   "unvan": "Büro Personeli",
+   "il": "Kars",
+   "kontenjan": 4,
+   "bos_kadro": null,
+   "min_puan": 85.281,
+   "max_puan": 85.352,
+   "ogrenim": "Onlisans",
+   "nitelikler": [
+    {
+     "kod": "3001",
+     "aciklama": "Herhangi bir önlisans programından mezun olmak."
+    }
+   ],
+   "sinif": "Sözleşmeli",
+   "sinif_kod": null,
+   "derece": null
+  },
+  {
+   "kadro_kodu": "203010241",
+   "kadro_guid": "ff6f9dcc-9ab6-ee11-b162-a0369f7d1d8e",
+   "kurum": "Milli Eğitim Bakanlığı",
+   "unvan": "Büro Personeli",
+   "il": "Çanakkale",
+   "kontenjan": 5,
+   "bos_kadro": null,
+   "min_puan": 85.246,
+   "max_puan": 87.246,
+   "ogrenim": "Onlisans",
+   "nitelikler": [
+    {
+     "kod": "3001",
+     "aciklama": "Herhangi bir önlisans programından mezun olmak."
+    }
+   ],
+   "sinif": "Sözleşmeli",
+   "sinif_kod": null,
+   "derece": null
+  },
+  {
+   "kadro_kodu": "203010171",
+   "kadro_guid": "dc6f9dcc-9ab6-ee11-b162-a0369f7d1d8e",
+   "kurum": "Milli Eğitim Bakanlığı",
+   "unvan": "Büro Personeli",
+   "il": "Antalya",
+   "kontenjan": 7,
+   "bos_kadro": null,
+   "min_puan": 85.238,
+   "max_puan": 91.961,
+   "ogrenim": "Onlisans",
+   "nitelikler": [
+    {
+     "kod": "3001",
+     "aciklama": "Herhangi bir önlisans programından mezun olmak."
+    }
+   ],
+   "sinif": "Sözleşmeli",
+   "sinif_kod": null,
+   "derece": null
+  },
+  {
+   "kadro_kodu": "203010689",
+   "kadro_guid": "0d709dcc-9ab6-ee11-b162-a0369f7d1d8e",
+   "kurum": "Milli Eğitim Bakanlığı",
+   "unvan": "Büro Personeli",
+   "il": "Düzce",
+   "kontenjan": 2,
+   "bos_kadro": null,
+   "min_puan": 85.208,
+   "max_puan": 85.236,
+   "ogrenim": "Onlisans",
+   "nitelikler": [
+    {
+     "kod": "3001",
+     "aciklama": "Herhangi bir önlisans programından mezun olmak."
+    }
+   ],
+   "sinif": "Sözleşmeli",
+   "sinif_kod": null,
+   "derece": null
+  },
+  {
+   "kadro_kodu": "203010262",
+   "kadro_guid": "08709dcc-9ab6-ee11-b162-a0369f7d1d8e",
+   "kurum": "Milli Eğitim Bakanlığı",
+   "unvan": "Büro Personeli",
+   "il": "Denizli",
+   "kontenjan": 5,
+   "bos_kadro": null,
+   "min_puan": 85.19,
+   "max_puan": 86.545,
+   "ogrenim": "Onlisans",
+   "nitelikler": [
+    {
+     "kod": "3001",
+     "aciklama": "Herhangi bir önlisans programından mezun olmak."
+    }
+   ],
+   "sinif": "Sözleşmeli",
+   "sinif_kod": null,
+   "derece": null
+  },
+  {
+   "kadro_kodu": "203010136",
+   "kadro_guid": "ca6f9dcc-9ab6-ee11-b162-a0369f7d1d8e",
+   "kurum": "Milli Eğitim Bakanlığı",
+   "unvan": "Büro Personeli",
+   "il": "Adıyaman",
+   "kontenjan": 14,
+   "bos_kadro": null,
+   "min_puan": 85.187,
+   "max_puan": 93.314,
+   "ogrenim": "Onlisans",
+   "nitelikler": [
+    {
+     "kod": "3001",
+     "aciklama": "Herhangi bir önlisans programından mezun olmak."
+    }
+   ],
+   "sinif": "Sözleşmeli",
+   "sinif_kod": null,
+   "derece": null
+  },
+  {
+   "kadro_kodu": "203010556",
+   "kadro_guid": "86709dcc-9ab6-ee11-b162-a0369f7d1d8e",
+   "kurum": "Milli Eğitim Bakanlığı",
+   "unvan": "Büro Personeli",
+   "il": "Tunceli",
+   "kontenjan": 5,
+   "bos_kadro": null,
+   "min_puan": 85.184,
+   "max_puan": 86.151,
+   "ogrenim": "Onlisans",
+   "nitelikler": [
+    {
+     "kod": "3001",
+     "aciklama": "Herhangi bir önlisans programından mezun olmak."
+    }
+   ],
+   "sinif": "Sözleşmeli",
+   "sinif_kod": null,
+   "derece": null
+  },
+  {
+   "kadro_kodu": "203010402",
+   "kadro_guid": "46709dcc-9ab6-ee11-b162-a0369f7d1d8e",
+   "kurum": "Milli Eğitim Bakanlığı",
+   "unvan": "Büro Personeli",
+   "il": "Kırşehir",
+   "kontenjan": 4,
+   "bos_kadro": null,
+   "min_puan": 85.176,
+   "max_puan": 85.565,
+   "ogrenim": "Onlisans",
+   "nitelikler": [
+    {
+     "kod": "3001",
+     "aciklama": "Herhangi bir önlisans programından mezun olmak."
+    }
+   ],
+   "sinif": "Sözleşmeli",
+   "sinif_kod": null,
+   "derece": null
+  },
+  {
+   "kadro_kodu": "203010304",
+   "kadro_guid": "1d709dcc-9ab6-ee11-b162-a0369f7d1d8e",
+   "kurum": "Milli Eğitim Bakanlığı",
+   "unvan": "Büro Personeli",
+   "il": "Eskişehir",
+   "kontenjan": 6,
+   "bos_kadro": null,
+   "min_puan": 85.172,
+   "max_puan": 86.959,
+   "ogrenim": "Onlisans",
+   "nitelikler": [
+    {
+     "kod": "3001",
+     "aciklama": "Herhangi bir önlisans programından mezun olmak."
+    }
+   ],
+   "sinif": "Sözleşmeli",
+   "sinif_kod": null,
+   "derece": null
+  },
+  {
+   "kadro_kodu": "203010129",
+   "kadro_guid": "c36f9dcc-9ab6-ee11-b162-a0369f7d1d8e",
+   "kurum": "Milli Eğitim Bakanlığı",
+   "unvan": "Büro Personeli",
+   "il": "Adana",
+   "kontenjan": 19,
+   "bos_kadro": null,
+   "min_puan": 85.167,
+   "max_puan": 92.404,
+   "ogrenim": "Onlisans",
+   "nitelikler": [
+    {
+     "kod": "3001",
+     "aciklama": "Herhangi bir önlisans programından mezun olmak."
+    }
+   ],
+   "sinif": "Sözleşmeli",
+   "sinif_kod": null,
+   "derece": null
+  },
+  {
+   "kadro_kodu": "203010507",
+   "kadro_guid": "72709dcc-9ab6-ee11-b162-a0369f7d1d8e",
+   "kurum": "Milli Eğitim Bakanlığı",
+   "unvan": "Büro Personeli",
+   "il": "Samsun",
+   "kontenjan": 10,
+   "bos_kadro": null,
+   "min_puan": 85.158,
+   "max_puan": 91.404,
+   "ogrenim": "Onlisans",
+   "nitelikler": [
+    {
+     "kod": "3001",
+     "aciklama": "Herhangi bir önlisans programından mezun olmak."
+    }
+   ],
+   "sinif": "Sözleşmeli",
+   "sinif_kod": null,
+   "derece": null
+  },
+  {
+   "kadro_kodu": "203010430",
+   "kadro_guid": "52709dcc-9ab6-ee11-b162-a0369f7d1d8e",
+   "kurum": "Milli Eğitim Bakanlığı",
+   "unvan": "Büro Personeli",
+   "il": "Malatya",
+   "kontenjan": 13,
+   "bos_kadro": null,
+   "min_puan": 85.122,
+   "max_puan": 92.891,
+   "ogrenim": "Onlisans",
+   "nitelikler": [
+    {
+     "kod": "3001",
+     "aciklama": "Herhangi bir önlisans programından mezun olmak."
+    }
+   ],
+   "sinif": "Sözleşmeli",
+   "sinif_kod": null,
+   "derece": null
+  },
+  {
+   "kadro_kodu": "203010612",
+   "kadro_guid": "3c709dcc-9ab6-ee11-b162-a0369f7d1d8e",
+   "kurum": "Milli Eğitim Bakanlığı",
+   "unvan": "Büro Personeli",
+   "il": "Karaman",
+   "kontenjan": 3,
+   "bos_kadro": null,
+   "min_puan": 85.119,
+   "max_puan": 85.402,
+   "ogrenim": "Onlisans",
+   "nitelikler": [
+    {
+     "kod": "3001",
+     "aciklama": "Herhangi bir önlisans programından mezun olmak."
+    }
+   ],
+   "sinif": "Sözleşmeli",
+   "sinif_kod": null,
+   "derece": null
+  },
+  {
+   "kadro_kodu": "203010416",
+   "kadro_guid": "4d709dcc-9ab6-ee11-b162-a0369f7d1d8e",
+   "kurum": "Milli Eğitim Bakanlığı",
+   "unvan": "Büro Personeli",
+   "il": "Konya",
+   "kontenjan": 18,
+   "bos_kadro": null,
+   "min_puan": 85.114,
+   "max_puan": 92.944,
+   "ogrenim": "Onlisans",
+   "nitelikler": [
+    {
+     "kod": "3001",
+     "aciklama": "Herhangi bir önlisans programından mezun olmak."
+    }
+   ],
+   "sinif": "Sözleşmeli",
+   "sinif_kod": null,
+   "derece": null
+  },
+  {
+   "kadro_kodu": "203010297",
+   "kadro_guid": "1a709dcc-9ab6-ee11-b162-a0369f7d1d8e",
+   "kurum": "Milli Eğitim Bakanlığı",
+   "unvan": "Büro Personeli",
+   "il": "Erzurum",
+   "kontenjan": 7,
+   "bos_kadro": null,
+   "min_puan": 85.101,
+   "max_puan": 86.99,
+   "ogrenim": "Onlisans",
+   "nitelikler": [
+    {
+     "kod": "3001",
+     "aciklama": "Herhangi bir önlisans programından mezun olmak."
+    }
+   ],
+   "sinif": "Sözleşmeli",
+   "sinif_kod": null,
+   "derece": null
+  },
+  {
+   "kadro_kodu": "203010353",
+   "kadro_guid": "33709dcc-9ab6-ee11-b162-a0369f7d1d8e",
+   "kurum": "Milli Eğitim Bakanlığı",
+   "unvan": "Büro Personeli",
+   "il": "İstanbul",
+   "kontenjan": 15,
+   "bos_kadro": null,
+   "min_puan": 85.101,
+   "max_puan": 88.671,
+   "ogrenim": "Onlisans",
+   "nitelikler": [
+    {
+     "kod": "3001",
+     "aciklama": "Herhangi bir önlisans programından mezun olmak."
+    }
+   ],
+   "sinif": "Sözleşmeli",
+   "sinif_kod": null,
+   "derece": null
+  },
+  {
+   "kadro_kodu": "203010528",
+   "kadro_guid": "77709dcc-9ab6-ee11-b162-a0369f7d1d8e",
+   "kurum": "Milli Eğitim Bakanlığı",
+   "unvan": "Büro Personeli",
+   "il": "Sivas",
+   "kontenjan": 7,
+   "bos_kadro": null,
+   "min_puan": 85.096,
+   "max_puan": 89.21,
+   "ogrenim": "Onlisans",
+   "nitelikler": [
+    {
+     "kod": "3001",
+     "aciklama": "Herhangi bir önlisans programından mezun olmak."
+    }
+   ],
+   "sinif": "Sözleşmeli",
+   "sinif_kod": null,
+   "derece": null
+  },
+  {
+   "kadro_kodu": "203010318",
+   "kadro_guid": "21709dcc-9ab6-ee11-b162-a0369f7d1d8e",
+   "kurum": "Milli Eğitim Bakanlığı",
+   "unvan": "Büro Personeli",
+   "il": "Giresun",
+   "kontenjan": 4,
+   "bos_kadro": null,
+   "min_puan": 85.088,
+   "max_puan": 86.034,
+   "ogrenim": "Onlisans",
+   "nitelikler": [
+    {
+     "kod": "3001",
+     "aciklama": "Herhangi bir önlisans programından mezun olmak."
+    }
+   ],
+   "sinif": "Sözleşmeli",
+   "sinif_kod": null,
+   "derece": null
+  },
+  {
+   "kadro_kodu": "203010143",
+   "kadro_guid": "cb6f9dcc-9ab6-ee11-b162-a0369f7d1d8e",
+   "kurum": "Milli Eğitim Bakanlığı",
+   "unvan": "Büro Personeli",
+   "il": "Afyonkarahisar",
+   "kontenjan": 5,
+   "bos_kadro": null,
+   "min_puan": 85.053,
+   "max_puan": 85.622,
+   "ogrenim": "Onlisans",
+   "nitelikler": [
+    {
+     "kod": "3001",
+     "aciklama": "Herhangi bir önlisans programından mezun olmak."
+    }
+   ],
+   "sinif": "Sözleşmeli",
+   "sinif_kod": null,
+   "derece": null
+  },
+  {
+   "kadro_kodu": "203010591",
+   "kadro_guid": "90709dcc-9ab6-ee11-b162-a0369f7d1d8e",
+   "kurum": "Milli Eğitim Bakanlığı",
+   "unvan": "Büro Personeli",
+   "il": "Zonguldak",
+   "kontenjan": 4,
+   "bos_kadro": null,
+   "min_puan": 85.052,
+   "max_puan": 86.86,
+   "ogrenim": "Onlisans",
+   "nitelikler": [
+    {
+     "kod": "3001",
+     "aciklama": "Herhangi bir önlisans programından mezun olmak."
+    }
+   ],
+   "sinif": "Sözleşmeli",
+   "sinif_kod": null,
+   "derece": null
+  },
+  {
+   "kadro_kodu": "203010290",
+   "kadro_guid": "17709dcc-9ab6-ee11-b162-a0369f7d1d8e",
+   "kurum": "Milli Eğitim Bakanlığı",
+   "unvan": "Büro Personeli",
+   "il": "Erzincan",
+   "kontenjan": 4,
+   "bos_kadro": null,
+   "min_puan": 84.97,
+   "max_puan": 87.026,
+   "ogrenim": "Onlisans",
+   "nitelikler": [
+    {
+     "kod": "3001",
+     "aciklama": "Herhangi bir önlisans programından mezun olmak."
+    }
+   ],
+   "sinif": "Sözleşmeli",
+   "sinif_kod": null,
+   "derece": null
+  },
+  {
+   "kadro_kodu": "203010395",
+   "kadro_guid": "44709dcc-9ab6-ee11-b162-a0369f7d1d8e",
+   "kurum": "Milli Eğitim Bakanlığı",
+   "unvan": "Büro Personeli",
+   "il": "Kırklareli",
+   "kontenjan": 2,
+   "bos_kadro": null,
+   "min_puan": 84.97,
+   "max_puan": 85.55,
+   "ogrenim": "Onlisans",
+   "nitelikler": [
+    {
+     "kod": "3001",
+     "aciklama": "Herhangi bir önlisans programından mezun olmak."
+    }
+   ],
+   "sinif": "Sözleşmeli",
+   "sinif_kod": null,
+   "derece": null
+  },
+  {
+   "kadro_kodu": "203010367",
+   "kadro_guid": "3a709dcc-9ab6-ee11-b162-a0369f7d1d8e",
+   "kurum": "Milli Eğitim Bakanlığı",
+   "unvan": "Büro Personeli",
+   "il": "Kahramanmaraş",
+   "kontenjan": 11,
+   "bos_kadro": null,
+   "min_puan": 84.97,
+   "max_puan": 88.967,
+   "ogrenim": "Onlisans",
+   "nitelikler": [
+    {
+     "kod": "3001",
+     "aciklama": "Herhangi bir önlisans programından mezun olmak."
+    }
+   ],
+   "sinif": "Sözleşmeli",
+   "sinif_kod": null,
+   "derece": null
+  },
+  {
+   "kadro_kodu": "203010458",
+   "kadro_guid": "5f709dcc-9ab6-ee11-b162-a0369f7d1d8e",
+   "kurum": "Milli Eğitim Bakanlığı",
+   "unvan": "Büro Personeli",
+   "il": "Muğla",
+   "kontenjan": 8,
+   "bos_kadro": null,
+   "min_puan": 84.969,
+   "max_puan": 85.855,
+   "ogrenim": "Onlisans",
+   "nitelikler": [
+    {
+     "kod": "3001",
+     "aciklama": "Herhangi bir önlisans programından mezun olmak."
+    }
+   ],
+   "sinif": "Sözleşmeli",
+   "sinif_kod": null,
+   "derece": null
+  },
+  {
+   "kadro_kodu": "203010570",
+   "kadro_guid": "87709dcc-9ab6-ee11-b162-a0369f7d1d8e",
+   "kurum": "Milli Eğitim Bakanlığı",
+   "unvan": "Büro Personeli",
+   "il": "Uşak",
+   "kontenjan": 5,
+   "bos_kadro": null,
+   "min_puan": 84.965,
+   "max_puan": 87.984,
+   "ogrenim": "Onlisans",
+   "nitelikler": [
+    {
+     "kod": "3001",
+     "aciklama": "Herhangi bir önlisans programından mezun olmak."
+    }
+   ],
+   "sinif": "Sözleşmeli",
+   "sinif_kod": null,
+   "derece": null
+  },
+  {
+   "kadro_kodu": "203010360",
+   "kadro_guid": "34709dcc-9ab6-ee11-b162-a0369f7d1d8e",
+   "kurum": "Milli Eğitim Bakanlığı",
+   "unvan": "Büro Personeli",
+   "il": "İzmir",
+   "kontenjan": 20,
+   "bos_kadro": null,
+   "min_puan": 84.961,
+   "max_puan": 92.537,
+   "ogrenim": "Onlisans",
+   "nitelikler": [
+    {
+     "kod": "3001",
+     "aciklama": "Herhangi bir önlisans programından mezun olmak."
+    }
+   ],
+   "sinif": "Sözleşmeli",
+   "sinif_kod": null,
+   "derece": null
+  },
+  {
+   "kadro_kodu": "203010185",
+   "kadro_guid": "e66f9dcc-9ab6-ee11-b162-a0369f7d1d8e",
+   "kurum": "Milli Eğitim Bakanlığı",
+   "unvan": "Büro Personeli",
+   "il": "Aydın",
+   "kontenjan": 8,
+   "bos_kadro": null,
+   "min_puan": 84.923,
+   "max_puan": 98.313,
+   "ogrenim": "Onlisans",
+   "nitelikler": [
+    {
+     "kod": "3001",
+     "aciklama": "Herhangi bir önlisans programından mezun olmak."
+    }
+   ],
+   "sinif": "Sözleşmeli",
+   "sinif_kod": null,
+   "derece": null
+  },
+  {
+   "kadro_kodu": "203010682",
+   "kadro_guid": "6a709dcc-9ab6-ee11-b162-a0369f7d1d8e",
+   "kurum": "Milli Eğitim Bakanlığı",
+   "unvan": "Büro Personeli",
+   "il": "Osmaniye",
+   "kontenjan": 9,
+   "bos_kadro": null,
+   "min_puan": 84.92,
+   "max_puan": 86.615,
+   "ogrenim": "Onlisans",
+   "nitelikler": [
+    {
+     "kod": "3001",
+     "aciklama": "Herhangi bir önlisans programından mezun olmak."
+    }
+   ],
+   "sinif": "Sözleşmeli",
+   "sinif_kod": null,
+   "derece": null
+  },
+  {
+   "kadro_kodu": "203010584",
+   "kadro_guid": "8d709dcc-9ab6-ee11-b162-a0369f7d1d8e",
+   "kurum": "Milli Eğitim Bakanlığı",
+   "unvan": "Büro Personeli",
+   "il": "Yozgat",
+   "kontenjan": 6,
+   "bos_kadro": null,
+   "min_puan": 84.918,
+   "max_puan": 85.423,
+   "ogrenim": "Onlisans",
+   "nitelikler": [
+    {
+     "kod": "3001",
+     "aciklama": "Herhangi bir önlisans programından mezun olmak."
+    }
+   ],
+   "sinif": "Sözleşmeli",
+   "sinif_kod": null,
+   "derece": null
+  },
+  {
+   "kadro_kodu": "203010381",
+   "kadro_guid": "40709dcc-9ab6-ee11-b162-a0369f7d1d8e",
+   "kurum": "Milli Eğitim Bakanlığı",
+   "unvan": "Büro Personeli",
+   "il": "Kastamonu",
+   "kontenjan": 5,
+   "bos_kadro": null,
+   "min_puan": 84.905,
+   "max_puan": 84.979,
+   "ogrenim": "Onlisans",
+   "nitelikler": [
+    {
+     "kod": "3001",
+     "aciklama": "Herhangi bir önlisans programından mezun olmak."
+    }
+   ],
+   "sinif": "Sözleşmeli",
+   "sinif_kod": null,
+   "derece": null
+  },
+  {
+   "kadro_kodu": "203010675",
+   "kadro_guid": "47709dcc-9ab6-ee11-b162-a0369f7d1d8e",
+   "kurum": "Milli Eğitim Bakanlığı",
+   "unvan": "Büro Personeli",
+   "il": "Kilis",
+   "kontenjan": 5,
+   "bos_kadro": null,
+   "min_puan": 84.897,
+   "max_puan": 88.503,
+   "ogrenim": "Onlisans",
+   "nitelikler": [
+    {
+     "kod": "3001",
+     "aciklama": "Herhangi bir önlisans programından mezun olmak."
+    }
+   ],
+   "sinif": "Sözleşmeli",
+   "sinif_kod": null,
+   "derece": null
+  },
+  {
+   "kadro_kodu": "203010339",
+   "kadro_guid": "27709dcc-9ab6-ee11-b162-a0369f7d1d8e",
+   "kurum": "Milli Eğitim Bakanlığı",
+   "unvan": "Büro Personeli",
+   "il": "Hatay",
+   "kontenjan": 22,
+   "bos_kadro": null,
+   "min_puan": 84.858,
+   "max_puan": 86.343,
+   "ogrenim": "Onlisans",
+   "nitelikler": [
+    {
+     "kod": "3001",
+     "aciklama": "Herhangi bir önlisans programından mezun olmak."
+    }
+   ],
+   "sinif": "Sözleşmeli",
+   "sinif_kod": null,
+   "derece": null
+  },
+  {
+   "kadro_kodu": "203010647",
+   "kadro_guid": "df6f9dcc-9ab6-ee11-b162-a0369f7d1d8e",
+   "kurum": "Milli Eğitim Bakanlığı",
+   "unvan": "Büro Personeli",
+   "il": "Ardahan",
+   "kontenjan": 4,
+   "bos_kadro": null,
+   "min_puan": 84.812,
+   "max_puan": 85.12,
+   "ogrenim": "Onlisans",
+   "nitelikler": [
+    {
+     "kod": "3001",
+     "aciklama": "Herhangi bir önlisans programından mezun olmak."
+    }
+   ],
+   "sinif": "Sözleşmeli",
+   "sinif_kod": null,
+   "derece": null
+  },
+  {
+   "kadro_kodu": "203010178",
+   "kadro_guid": "e36f9dcc-9ab6-ee11-b162-a0369f7d1d8e",
+   "kurum": "Milli Eğitim Bakanlığı",
+   "unvan": "Büro Personeli",
+   "il": "Artvin",
+   "kontenjan": 4,
+   "bos_kadro": null,
+   "min_puan": 84.78,
+   "max_puan": 84.925,
+   "ogrenim": "Onlisans",
+   "nitelikler": [
+    {
+     "kod": "3001",
+     "aciklama": "Herhangi bir önlisans programından mezun olmak."
+    }
+   ],
+   "sinif": "Sözleşmeli",
+   "sinif_kod": null,
+   "derece": null
+  },
+  {
+   "kadro_kodu": "203010101",
+   "kadro_guid": "d76f9dcc-9ab6-ee11-b162-a0369f7d1d8e",
+   "kurum": "Milli Eğitim Bakanlığı",
+   "unvan": "Büro Personeli",
+   "il": "Ankara",
+   "kontenjan": 5,
+   "bos_kadro": null,
+   "min_puan": 84.565,
+   "max_puan": 84.832,
+   "ogrenim": "Onlisans",
+   "nitelikler": [
+    {
+     "kod": "3003",
+     "aciklama": "Aşağıdaki önlisans programlarından birinden mezun olmak."
+    },
+    {
+     "kod": "1102",
+     "aciklama": "Adalet"
+    },
+    {
+     "kod": "6352",
+     "aciklama": "Adalet Meslek Yüksekokulu"
+    }
+   ],
+   "sinif": "Sözleşmeli",
+   "sinif_kod": null,
+   "derece": null
+  },
+  {
+   "kadro_kodu": "203010108",
+   "kadro_guid": "d86f9dcc-9ab6-ee11-b162-a0369f7d1d8e",
+   "kurum": "Milli Eğitim Bakanlığı",
+   "unvan": "Büro Personeli",
+   "il": "Ankara",
+   "kontenjan": 10,
+   "bos_kadro": null,
+   "min_puan": 76.369,
+   "max_puan": 83.009,
+   "ogrenim": "Onlisans",
+   "nitelikler": [
+    {
+     "kod": "3173",
+     "aciklama": "Aşağıdaki önlisans programlarından birinden mezun olmak."
+    },
+    {
+     "kod": "1117",
+     "aciklama": "Bilgisayar Destekli Muhasebe"
+    },
+    {
+     "kod": "1124",
+     "aciklama": "Bilgisayarlı Muhasebe ve Vergi Uygulama"
+    },
+    {
+     "kod": "1249",
+     "aciklama": "Muhasebe"
+    },
+    {
+     "kod": "9032",
+     "aciklama": "Muhasebe ve Vergi Uygulamaları"
+    },
+    {
+     "kod": "9331",
+     "aciklama": "İşletme-Muhasebe"
+    }
+   ],
+   "sinif": "Sözleşmeli",
+   "sinif_kod": null,
+   "derece": null
+  },
+  {
+   "kadro_kodu": "203010122",
+   "kadro_guid": "da6f9dcc-9ab6-ee11-b162-a0369f7d1d8e",
+   "kurum": "Milli Eğitim Bakanlığı",
+   "unvan": "Büro Personeli",
+   "il": "Ankara",
+   "kontenjan": 5,
+   "bos_kadro": null,
+   "min_puan": 75.443,
+   "max_puan": 78.104,
+   "ogrenim": "Onlisans",
+   "nitelikler": [
+    {
+     "kod": "3254",
+     "aciklama": "Aşağıdaki önlisans programlarından birinden mezun olmak."
+    },
+    {
+     "kod": "1352",
+     "aciklama": "Bilgi Yönetimi (Internet)"
+    },
+    {
+     "kod": "5310",
+     "aciklama": "Bilgi Yönetimi"
+    },
+    {
+     "kod": "8508",
+     "aciklama": "Bilişim-Yönetim"
+    }
+   ],
+   "sinif": "Sözleşmeli",
+   "sinif_kod": null,
+   "derece": null
+  },
+  {
+   "kadro_kodu": "203010115",
+   "kadro_guid": "d96f9dcc-9ab6-ee11-b162-a0369f7d1d8e",
+   "kurum": "Milli Eğitim Bakanlığı",
+   "unvan": "Büro Personeli",
+   "il": "Ankara",
+   "kontenjan": 10,
+   "bos_kadro": null,
+   "min_puan": 74.172,
+   "max_puan": 81.029,
+   "ogrenim": "Onlisans",
+   "nitelikler": [
+    {
+     "kod": "3183",
+     "aciklama": "Aşağıdaki önlisans programlarından birinden mezun olmak."
+    },
+    {
+     "kod": "5338",
+     "aciklama": "İnsan Kaynakları"
+    },
+    {
+     "kod": "6271",
+     "aciklama": "Personel Yönetimi"
+    },
+    {
+     "kod": "9073",
+     "aciklama": "İnsan Kaynakları Yönetimi"
+    }
+   ],
+   "sinif": "Sözleşmeli",
+   "sinif_kod": null,
+   "derece": null
+  },
+  {
+   "kadro_kodu": "303010192",
+   "kadro_guid": "19709dcc-9ab6-ee11-b162-a0369f7d1d8e",
+   "kurum": "Milli Eğitim Bakanlığı",
+   "unvan": "Mühendis (İnşaat)",
+   "il": "Erzurum",
+   "kontenjan": 1,
+   "bos_kadro": null,
+   "min_puan": 94.69,
+   "max_puan": 94.69,
+   "ogrenim": "Lisans",
+   "nitelikler": [
+    {
+     "kod": "4669",
+     "aciklama": "Aşağıdaki lisans programlarından birinden mezun olmak."
+    },
+    {
+     "kod": "3221",
+     "aciklama": "İnşaat Mühendisliği"
+    }
+   ],
+   "sinif": "Sözleşmeli",
+   "sinif_kod": null,
+   "derece": null
+  },
+  {
+   "kadro_kodu": "303010941",
+   "kadro_guid": "06709dcc-9ab6-ee11-b162-a0369f7d1d8e",
+   "kurum": "Milli Eğitim Bakanlığı",
+   "unvan": "Avukat",
+   "il": "Çorum",
+   "kontenjan": 1,
+   "bos_kadro": null,
+   "min_puan": 93.498,
+   "max_puan": 93.498,
+   "ogrenim": "Lisans",
+   "nitelikler": [
+    {
+     "kod": "4419",
+     "aciklama": "Aşağıdaki lisans programlarından birinden mezun olmak."
+    },
+    {
+     "kod": "3209",
+     "aciklama": "Hukuk"
+    },
+    {
+     "kod": "7205",
+     "aciklama": "Avukatlık Ruhsatı Sahibi olmak."
+    },
+    {
+     "kod": "7361",
+     "aciklama": "(Bakınız Başvurma Özel Şartları Bölümü Avukat)."
+    }
+   ],
+   "sinif": "Sözleşmeli",
+   "sinif_kod": null,
+   "derece": null
+  },
+  {
+   "kadro_kodu": "303010101",
+   "kadro_guid": "db6f9dcc-9ab6-ee11-b162-a0369f7d1d8e",
+   "kurum": "Milli Eğitim Bakanlığı",
+   "unvan": "Avukat",
+   "il": "Ankara",
+   "kontenjan": 2,
+   "bos_kadro": null,
+   "min_puan": 93.019,
+   "max_puan": 94.583,
+   "ogrenim": "Lisans",
+   "nitelikler": [
+    {
+     "kod": "4419",
+     "aciklama": "Aşağıdaki lisans programlarından birinden mezun olmak."
+    },
+    {
+     "kod": "3209",
+     "aciklama": "Hukuk"
+    },
+    {
+     "kod": "7205",
+     "aciklama": "Avukatlık Ruhsatı Sahibi olmak."
+    },
+    {
+     "kod": "7361",
+     "aciklama": "(Bakınız Başvurma Özel Şartları Bölümü Avukat)."
+    }
+   ],
+   "sinif": "Sözleşmeli",
+   "sinif_kod": null,
+   "derece": null
+  },
+  {
+   "kadro_kodu": "303010241",
+   "kadro_guid": "5b709dcc-9ab6-ee11-b162-a0369f7d1d8e",
+   "kurum": "Milli Eğitim Bakanlığı",
+   "unvan": "Mühendis (İnşaat)",
+   "il": "Mardin",
+   "kontenjan": 1,
+   "bos_kadro": null,
+   "min_puan": 91.793,
+   "max_puan": 91.793,
+   "ogrenim": "Lisans",
+   "nitelikler": [
+    {
+     "kod": "4669",
+     "aciklama": "Aşağıdaki lisans programlarından birinden mezun olmak."
+    },
+    {
+     "kod": "3221",
+     "aciklama": "İnşaat Mühendisliği"
+    }
+   ],
+   "sinif": "Sözleşmeli",
+   "sinif_kod": null,
+   "derece": null
+  },
+  {
+   "kadro_kodu": "303010311",
+   "kadro_guid": "69709dcc-9ab6-ee11-b162-a0369f7d1d8e",
+   "kurum": "Milli Eğitim Bakanlığı",
+   "unvan": "Mühendis (Elektrik/Elektronik)",
+   "il": "Osmaniye",
+   "kontenjan": 1,
+   "bos_kadro": null,
+   "min_puan": 91.445,
+   "max_puan": 91.445,
+   "ogrenim": "Lisans",
+   "nitelikler": [
+    {
+     "kod": "4611",
+     "aciklama": "Aşağıdaki lisans programlarından birinden mezun olmak."
+    },
+    {
+     "kod": "3160",
+     "aciklama": "Elektrik Mühendisliği"
+    },
+    {
+     "kod": "3162",
+     "aciklama": "Elektrik ve Elektronik Mühendisliği / Elektrik-Elektronik Mühendisliği"
+    }
+   ],
+   "sinif": "Sözleşmeli",
+   "sinif_kod": null,
+   "derece": null
+  },
+  {
+   "kadro_kodu": "303010927",
+   "kadro_guid": "cf6f9dcc-9ab6-ee11-b162-a0369f7d1d8e",
+   "kurum": "Milli Eğitim Bakanlığı",
+   "unvan": "Avukat",
+   "il": "Ağrı",
+   "kontenjan": 1,
+   "bos_kadro": null,
+   "min_puan": 91.36,
+   "max_puan": 91.36,
+   "ogrenim": "Lisans",
+   "nitelikler": [
+    {
+     "kod": "4419",
+     "aciklama": "Aşağıdaki lisans programlarından birinden mezun olmak."
+    },
+    {
+     "kod": "3209",
+     "aciklama": "Hukuk"
+    },
+    {
+     "kod": "7205",
+     "aciklama": "Avukatlık Ruhsatı Sahibi olmak."
+    },
+    {
+     "kod": "7361",
+     "aciklama": "(Bakınız Başvurma Özel Şartları Bölümü Avukat)."
+    }
+   ],
+   "sinif": "Sözleşmeli",
+   "sinif_kod": null,
+   "derece": null
+  },
+  {
+   "kadro_kodu": "303010934",
+   "kadro_guid": "e16f9dcc-9ab6-ee11-b162-a0369f7d1d8e",
+   "kurum": "Milli Eğitim Bakanlığı",
+   "unvan": "Avukat",
+   "il": "Artvin",
+   "kontenjan": 1,
+   "bos_kadro": null,
+   "min_puan": 91.196,
+   "max_puan": 91.196,
+   "ogrenim": "Lisans",
+   "nitelikler": [
+    {
+     "kod": "4419",
+     "aciklama": "Aşağıdaki lisans programlarından birinden mezun olmak."
+    },
+    {
+     "kod": "3209",
+     "aciklama": "Hukuk"
+    },
+    {
+     "kod": "7205",
+     "aciklama": "Avukatlık Ruhsatı Sahibi olmak."
+    },
+    {
+     "kod": "7361",
+     "aciklama": "(Bakınız Başvurma Özel Şartları Bölümü Avukat)."
+    }
+   ],
+   "sinif": "Sözleşmeli",
+   "sinif_kod": null,
+   "derece": null
+  },
+  {
+   "kadro_kodu": "303010164",
+   "kadro_guid": "09709dcc-9ab6-ee11-b162-a0369f7d1d8e",
+   "kurum": "Milli Eğitim Bakanlığı",
+   "unvan": "Mühendis (İnşaat)",
+   "il": "Denizli",
+   "kontenjan": 1,
+   "bos_kadro": null,
+   "min_puan": 91.179,
+   "max_puan": 91.179,
+   "ogrenim": "Lisans",
+   "nitelikler": [
+    {
+     "kod": "4669",
+     "aciklama": "Aşağıdaki lisans programlarından birinden mezun olmak."
+    },
+    {
+     "kod": "3221",
+     "aciklama": "İnşaat Mühendisliği"
+    }
+   ],
+   "sinif": "Sözleşmeli",
+   "sinif_kod": null,
+   "derece": null
+  },
+  {
+   "kadro_kodu": "303010297",
+   "kadro_guid": "15709dcc-9ab6-ee11-b162-a0369f7d1d8e",
+   "kurum": "Milli Eğitim Bakanlığı",
+   "unvan": "Mühendis (Elektrik/Elektronik)",
+   "il": "Elazığ",
+   "kontenjan": 1,
+   "bos_kadro": null,
+   "min_puan": 91.134,
+   "max_puan": 91.134,
+   "ogrenim": "Lisans",
+   "nitelikler": [
+    {
+     "kod": "4611",
+     "aciklama": "Aşağıdaki lisans programlarından birinden mezun olmak."
+    },
+    {
+     "kod": "3160",
+     "aciklama": "Elektrik Mühendisliği"
+    },
+    {
+     "kod": "3162",
+     "aciklama": "Elektrik ve Elektronik Mühendisliği / Elektrik-Elektronik Mühendisliği"
+    }
+   ],
+   "sinif": "Sözleşmeli",
+   "sinif_kod": null,
+   "derece": null
+  },
+  {
+   "kadro_kodu": "303010108",
+   "kadro_guid": "c46f9dcc-9ab6-ee11-b162-a0369f7d1d8e",
+   "kurum": "Milli Eğitim Bakanlığı",
+   "unvan": "Mühendis (İnşaat)",
+   "il": "Adana",
+   "kontenjan": 1,
+   "bos_kadro": null,
+   "min_puan": 90.366,
+   "max_puan": 90.366,
+   "ogrenim": "Lisans",
+   "nitelikler": [
+    {
+     "kod": "4669",
+     "aciklama": "Aşağıdaki lisans programlarından birinden mezun olmak."
+    },
+    {
+     "kod": "3221",
+     "aciklama": "İnşaat Mühendisliği"
+    }
+   ],
+   "sinif": "Sözleşmeli",
+   "sinif_kod": null,
+   "derece": null
+  },
+  {
+   "kadro_kodu": "303010150",
+   "kadro_guid": "fd6f9dcc-9ab6-ee11-b162-a0369f7d1d8e",
+   "kurum": "Milli Eğitim Bakanlığı",
+   "unvan": "Mühendis (İnşaat)",
+   "il": "Bursa",
+   "kontenjan": 1,
+   "bos_kadro": null,
+   "min_puan": 90.346,
+   "max_puan": 90.346,
+   "ogrenim": "Lisans",
+   "nitelikler": [
+    {
+     "kod": "4669",
+     "aciklama": "Aşağıdaki lisans programlarından birinden mezun olmak."
+    },
+    {
+     "kod": "3221",
+     "aciklama": "İnşaat Mühendisliği"
+    }
+   ],
+   "sinif": "Sözleşmeli",
+   "sinif_kod": null,
+   "derece": null
+  },
+  {
+   "kadro_kodu": "303010129",
+   "kadro_guid": "e26f9dcc-9ab6-ee11-b162-a0369f7d1d8e",
+   "kurum": "Milli Eğitim Bakanlığı",
+   "unvan": "Mühendis (İnşaat)",
+   "il": "Artvin",
+   "kontenjan": 1,
+   "bos_kadro": null,
+   "min_puan": 90.235,
+   "max_puan": 90.235,
+   "ogrenim": "Lisans",
+   "nitelikler": [
+    {
+     "kod": "4669",
+     "aciklama": "Aşağıdaki lisans programlarından birinden mezun olmak."
+    },
+    {
+     "kod": "3221",
+     "aciklama": "İnşaat Mühendisliği"
+    }
+   ],
+   "sinif": "Sözleşmeli",
+   "sinif_kod": null,
+   "derece": null
+  },
+  {
+   "kadro_kodu": "303010122",
+   "kadro_guid": "d46f9dcc-9ab6-ee11-b162-a0369f7d1d8e",
+   "kurum": "Milli Eğitim Bakanlığı",
+   "unvan": "Mühendis (İnşaat)",
+   "il": "Amasya",
+   "kontenjan": 1,
+   "bos_kadro": null,
+   "min_puan": 90.131,
+   "max_puan": 90.131,
+   "ogrenim": "Lisans",
+   "nitelikler": [
+    {
+     "kod": "4669",
+     "aciklama": "Aşağıdaki lisans programlarından birinden mezun olmak."
+    },
+    {
+     "kod": "3221",
+     "aciklama": "İnşaat Mühendisliği"
+    }
+   ],
+   "sinif": "Sözleşmeli",
+   "sinif_kod": null,
+   "derece": null
+  },
+  {
+   "kadro_kodu": "303010178",
+   "kadro_guid": "12709dcc-9ab6-ee11-b162-a0369f7d1d8e",
+   "kurum": "Milli Eğitim Bakanlığı",
+   "unvan": "Mühendis (İnşaat)",
+   "il": "Elazığ",
+   "kontenjan": 1,
+   "bos_kadro": null,
+   "min_puan": 90.088,
+   "max_puan": 90.088,
+   "ogrenim": "Lisans",
+   "nitelikler": [
+    {
+     "kod": "4669",
+     "aciklama": "Aşağıdaki lisans programlarından birinden mezun olmak."
+    },
+    {
+     "kod": "3221",
+     "aciklama": "İnşaat Mühendisliği"
+    }
+   ],
+   "sinif": "Sözleşmeli",
+   "sinif_kod": null,
+   "derece": null
+  },
+  {
+   "kadro_kodu": "303010115",
+   "kadro_guid": "c96f9dcc-9ab6-ee11-b162-a0369f7d1d8e",
+   "kurum": "Milli Eğitim Bakanlığı",
+   "unvan": "Mühendis (İnşaat)",
+   "il": "Adıyaman",
+   "kontenjan": 1,
+   "bos_kadro": null,
+   "min_puan": 90.054,
+   "max_puan": 90.054,
+   "ogrenim": "Lisans",
+   "nitelikler": [
+    {
+     "kod": "4669",
+     "aciklama": "Aşağıdaki lisans programlarından birinden mezun olmak."
+    },
+    {
+     "kod": "3221",
+     "aciklama": "İnşaat Mühendisliği"
+    }
+   ],
+   "sinif": "Sözleşmeli",
+   "sinif_kod": null,
+   "derece": null
+  },
+  {
+   "kadro_kodu": "303010227",
+   "kadro_guid": "53709dcc-9ab6-ee11-b162-a0369f7d1d8e",
+   "kurum": "Milli Eğitim Bakanlığı",
+   "unvan": "Mühendis (İnşaat)",
+   "il": "Malatya",
+   "kontenjan": 1,
+   "bos_kadro": null,
+   "min_puan": 90.009,
+   "max_puan": 90.009,
+   "ogrenim": "Lisans",
+   "nitelikler": [
+    {
+     "kod": "4669",
+     "aciklama": "Aşağıdaki lisans programlarından birinden mezun olmak."
+    },
+    {
+     "kod": "3221",
+     "aciklama": "İnşaat Mühendisliği"
+    }
+   ],
+   "sinif": "Sözleşmeli",
+   "sinif_kod": null,
+   "derece": null
+  },
+  {
+   "kadro_kodu": "303010220",
+   "kadro_guid": "4c709dcc-9ab6-ee11-b162-a0369f7d1d8e",
+   "kurum": "Milli Eğitim Bakanlığı",
+   "unvan": "Mühendis (İnşaat)",
+   "il": "Konya",
+   "kontenjan": 1,
+   "bos_kadro": null,
+   "min_puan": 90.004,
+   "max_puan": 90.004,
+   "ogrenim": "Lisans",
+   "nitelikler": [
+    {
+     "kod": "4669",
+     "aciklama": "Aşağıdaki lisans programlarından birinden mezun olmak."
+    },
+    {
+     "kod": "3221",
+     "aciklama": "İnşaat Mühendisliği"
+    }
+   ],
+   "sinif": "Sözleşmeli",
+   "sinif_kod": null,
+   "derece": null
+  },
+  {
+   "kadro_kodu": "303010255",
+   "kadro_guid": "d26f9dcc-9ab6-ee11-b162-a0369f7d1d8e",
+   "kurum": "Milli Eğitim Bakanlığı",
+   "unvan": "Mühendis (İnşaat)",
+   "il": "Aksaray",
+   "kontenjan": 1,
+   "bos_kadro": null,
+   "min_puan": 89.998,
+   "max_puan": 89.998,
+   "ogrenim": "Lisans",
+   "nitelikler": [
+    {
+     "kod": "4669",
+     "aciklama": "Aşağıdaki lisans programlarından birinden mezun olmak."
+    },
+    {
+     "kod": "3221",
+     "aciklama": "İnşaat Mühendisliği"
+    }
+   ],
+   "sinif": "Sözleşmeli",
+   "sinif_kod": null,
+   "derece": null
+  },
+  {
+   "kadro_kodu": "303010136",
+   "kadro_guid": "e86f9dcc-9ab6-ee11-b162-a0369f7d1d8e",
+   "kurum": "Milli Eğitim Bakanlığı",
+   "unvan": "Mühendis (İnşaat)",
+   "il": "Balıkesir",
+   "kontenjan": 1,
+   "bos_kadro": null,
+   "min_puan": 89.981,
+   "max_puan": 89.981,
+   "ogrenim": "Lisans",
+   "nitelikler": [
+    {
+     "kod": "4669",
+     "aciklama": "Aşağıdaki lisans programlarından birinden mezun olmak."
+    },
+    {
+     "kod": "3221",
+     "aciklama": "İnşaat Mühendisliği"
+    }
+   ],
+   "sinif": "Sözleşmeli",
+   "sinif_kod": null,
+   "derece": null
+  },
+  {
+   "kadro_kodu": "303010213",
+   "kadro_guid": "4b709dcc-9ab6-ee11-b162-a0369f7d1d8e",
+   "kurum": "Milli Eğitim Bakanlığı",
+   "unvan": "Mühendis (İnşaat)",
+   "il": "Kocaeli",
+   "kontenjan": 1,
+   "bos_kadro": null,
+   "min_puan": 89.972,
+   "max_puan": 89.972,
+   "ogrenim": "Lisans",
+   "nitelikler": [
+    {
+     "kod": "4669",
+     "aciklama": "Aşağıdaki lisans programlarından birinden mezun olmak."
+    },
+    {
+     "kod": "3221",
+     "aciklama": "İnşaat Mühendisliği"
+    }
+   ],
+   "sinif": "Sözleşmeli",
+   "sinif_kod": null,
+   "derece": null
+  },
+  {
+   "kadro_kodu": "303010143",
+   "kadro_guid": "f16f9dcc-9ab6-ee11-b162-a0369f7d1d8e",
+   "kurum": "Milli Eğitim Bakanlığı",
+   "unvan": "Mühendis (İnşaat)",
+   "il": "Bilecik",
+   "kontenjan": 1,
+   "bos_kadro": null,
+   "min_puan": 89.933,
+   "max_puan": 89.933,
+   "ogrenim": "Lisans",
+   "nitelikler": [
+    {
+     "kod": "4669",
+     "aciklama": "Aşağıdaki lisans programlarından birinden mezun olmak."
+    },
+    {
+     "kod": "3221",
+     "aciklama": "İnşaat Mühendisliği"
+    }
+   ],
+   "sinif": "Sözleşmeli",
+   "sinif_kod": null,
+   "derece": null
+  },
+  {
+   "kadro_kodu": "303010234",
+   "kadro_guid": "58709dcc-9ab6-ee11-b162-a0369f7d1d8e",
+   "kurum": "Milli Eğitim Bakanlığı",
+   "unvan": "Mühendis (İnşaat)",
+   "il": "Manisa",
+   "kontenjan": 1,
+   "bos_kadro": null,
+   "min_puan": 89.933,
+   "max_puan": 89.933,
+   "ogrenim": "Lisans",
+   "nitelikler": [
+    {
+     "kod": "4669",
+     "aciklama": "Aşağıdaki lisans programlarından birinden mezun olmak."
+    },
+    {
+     "kod": "3221",
+     "aciklama": "İnşaat Mühendisliği"
+    }
+   ],
+   "sinif": "Sözleşmeli",
+   "sinif_kod": null,
+   "derece": null
+  },
+  {
+   "kadro_kodu": "303010157",
+   "kadro_guid": "fe6f9dcc-9ab6-ee11-b162-a0369f7d1d8e",
+   "kurum": "Milli Eğitim Bakanlığı",
+   "unvan": "Mühendis (İnşaat)",
+   "il": "Çanakkale",
+   "kontenjan": 1,
+   "bos_kadro": null,
+   "min_puan": 89.903,
+   "max_puan": 89.903,
+   "ogrenim": "Lisans",
+   "nitelikler": [
+    {
+     "kod": "4669",
+     "aciklama": "Aşağıdaki lisans programlarından birinden mezun olmak."
+    },
+    {
+     "kod": "3221",
+     "aciklama": "İnşaat Mühendisliği"
+    }
+   ],
+   "sinif": "Sözleşmeli",
+   "sinif_kod": null,
+   "derece": null
+  },
+  {
+   "kadro_kodu": "303010171",
+   "kadro_guid": "11709dcc-9ab6-ee11-b162-a0369f7d1d8e",
+   "kurum": "Milli Eğitim Bakanlığı",
+   "unvan": "Mühendis (İnşaat)",
+   "il": "Edirne",
+   "kontenjan": 1,
+   "bos_kadro": null,
+   "min_puan": 89.885,
+   "max_puan": 89.885,
+   "ogrenim": "Lisans",
+   "nitelikler": [
+    {
+     "kod": "4669",
+     "aciklama": "Aşağıdaki lisans programlarından birinden mezun olmak."
+    },
+    {
+     "kod": "3221",
+     "aciklama": "İnşaat Mühendisliği"
+    }
+   ],
+   "sinif": "Sözleşmeli",
+   "sinif_kod": null,
+   "derece": null
+  },
+  {
+   "kadro_kodu": "303010199",
+   "kadro_guid": "23709dcc-9ab6-ee11-b162-a0369f7d1d8e",
+   "kurum": "Milli Eğitim Bakanlığı",
+   "unvan": "Mühendis (İnşaat)",
+   "il": "Gümüşhane",
+   "kontenjan": 1,
+   "bos_kadro": null,
+   "min_puan": 89.862,
+   "max_puan": 89.862,
+   "ogrenim": "Lisans",
+   "nitelikler": [
+    {
+     "kod": "4669",
+     "aciklama": "Aşağıdaki lisans programlarından birinden mezun olmak."
+    },
+    {
+     "kod": "3221",
+     "aciklama": "İnşaat Mühendisliği"
+    }
+   ],
+   "sinif": "Sözleşmeli",
+   "sinif_kod": null,
+   "derece": null
+  },
+  {
+   "kadro_kodu": "303010206",
+   "kadro_guid": "2d709dcc-9ab6-ee11-b162-a0369f7d1d8e",
+   "kurum": "Milli Eğitim Bakanlığı",
+   "unvan": "Mühendis (İnşaat)",
+   "il": "Isparta",
+   "kontenjan": 1,
+   "bos_kadro": null,
+   "min_puan": 89.836,
+   "max_puan": 89.836,
+   "ogrenim": "Lisans",
+   "nitelikler": [
+    {
+     "kod": "4669",
+     "aciklama": "Aşağıdaki lisans programlarından birinden mezun olmak."
+    },
+    {
+     "kod": "3221",
+     "aciklama": "İnşaat Mühendisliği"
+    }
+   ],
+   "sinif": "Sözleşmeli",
+   "sinif_kod": null,
+   "derece": null
+  },
+  {
+   "kadro_kodu": "303010185",
+   "kadro_guid": "18709dcc-9ab6-ee11-b162-a0369f7d1d8e",
+   "kurum": "Milli Eğitim Bakanlığı",
+   "unvan": "Mühendis (İnşaat)",
+   "il": "Erzincan",
+   "kontenjan": 1,
+   "bos_kadro": null,
+   "min_puan": 89.82,
+   "max_puan": 89.82,
+   "ogrenim": "Lisans",
+   "nitelikler": [
+    {
+     "kod": "4669",
+     "aciklama": "Aşağıdaki lisans programlarından birinden mezun olmak."
+    },
+    {
+     "kod": "3221",
+     "aciklama": "İnşaat Mühendisliği"
+    }
+   ],
+   "sinif": "Sözleşmeli",
+   "sinif_kod": null,
+   "derece": null
+  },
+  {
+   "kadro_kodu": "303010248",
+   "kadro_guid": "74709dcc-9ab6-ee11-b162-a0369f7d1d8e",
+   "kurum": "Milli Eğitim Bakanlığı",
+   "unvan": "Mühendis (İnşaat)",
+   "il": "Siirt",
+   "kontenjan": 1,
+   "bos_kadro": null,
+   "min_puan": 89.808,
+   "max_puan": 89.808,
+   "ogrenim": "Lisans",
+   "nitelikler": [
+    {
+     "kod": "4669",
+     "aciklama": "Aşağıdaki lisans programlarından birinden mezun olmak."
+    },
+    {
+     "kod": "3221",
+     "aciklama": "İnşaat Mühendisliği"
+    }
+   ],
+   "sinif": "Sözleşmeli",
+   "sinif_kod": null,
+   "derece": null
+  },
+  {
+   "kadro_kodu": "303010864",
+   "kadro_guid": "35709dcc-9ab6-ee11-b162-a0369f7d1d8e",
+   "kurum": "Milli Eğitim Bakanlığı",
+   "unvan": "Diyetisyen",
+   "il": "İzmir",
+   "kontenjan": 1,
+   "bos_kadro": null,
+   "min_puan": 89.804,
+   "max_puan": 89.804,
+   "ogrenim": "Lisans",
+   "nitelikler": [
+    {
+     "kod": "4797",
+     "aciklama": "Aşağıdaki lisans programlarından birinden mezun olmak."
+    },
+    {
+     "kod": "3122",
+     "aciklama": "Beslenme ve Diyetetik"
+    }
+   ],
+   "sinif": "Sözleşmeli",
+   "sinif_kod": null,
+   "derece": null
+  },
+  {
+   "kadro_kodu": "303010801",
+   "kadro_guid": "ea6f9dcc-9ab6-ee11-b162-a0369f7d1d8e",
+   "kurum": "Milli Eğitim Bakanlığı",
+   "unvan": "Diyetisyen",
+   "il": "Balıkesir",
+   "kontenjan": 1,
+   "bos_kadro": null,
+   "min_puan": 89.782,
+   "max_puan": 89.782,
+   "ogrenim": "Lisans",
+   "nitelikler": [
+    {
+     "kod": "4797",
+     "aciklama": "Aşağıdaki lisans programlarından birinden mezun olmak."
+    },
+    {
+     "kod": "3122",
+     "aciklama": "Beslenme ve Diyetetik"
+    }
+   ],
+   "sinif": "Sözleşmeli",
+   "sinif_kod": null,
+   "derece": null
+  },
+  {
+   "kadro_kodu": "303010850",
+   "kadro_guid": "2f709dcc-9ab6-ee11-b162-a0369f7d1d8e",
+   "kurum": "Milli Eğitim Bakanlığı",
+   "unvan": "Diyetisyen",
+   "il": "Isparta",
+   "kontenjan": 1,
+   "bos_kadro": null,
+   "min_puan": 89.754,
+   "max_puan": 89.754,
+   "ogrenim": "Lisans",
+   "nitelikler": [
+    {
+     "kod": "4797",
+     "aciklama": "Aşağıdaki lisans programlarından birinden mezun olmak."
+    },
+    {
+     "kod": "3122",
+     "aciklama": "Beslenme ve Diyetetik"
+    }
+   ],
+   "sinif": "Sözleşmeli",
+   "sinif_kod": null,
+   "derece": null
+  },
+  {
+   "kadro_kodu": "303010262",
+   "kadro_guid": "f06f9dcc-9ab6-ee11-b162-a0369f7d1d8e",
+   "kurum": "Milli Eğitim Bakanlığı",
+   "unvan": "Mühendis (İnşaat)",
+   "il": "Bayburt",
+   "kontenjan": 1,
+   "bos_kadro": null,
+   "min_puan": 89.683,
+   "max_puan": 89.683,
+   "ogrenim": "Lisans",
+   "nitelikler": [
+    {
+     "kod": "4669",
+     "aciklama": "Aşağıdaki lisans programlarından birinden mezun olmak."
+    },
+    {
+     "kod": "3221",
+     "aciklama": "İnşaat Mühendisliği"
+    }
+   ],
+   "sinif": "Sözleşmeli",
+   "sinif_kod": null,
+   "derece": null
+  },
+  {
+   "kadro_kodu": "303010906",
+   "kadro_guid": "84709dcc-9ab6-ee11-b162-a0369f7d1d8e",
+   "kurum": "Milli Eğitim Bakanlığı",
+   "unvan": "Diyetisyen",
+   "il": "Trabzon",
+   "kontenjan": 1,
+   "bos_kadro": null,
+   "min_puan": 89.677,
+   "max_puan": 89.677,
+   "ogrenim": "Lisans",
+   "nitelikler": [
+    {
+     "kod": "4797",
+     "aciklama": "Aşağıdaki lisans programlarından birinden mezun olmak."
+    },
+    {
+     "kod": "3122",
+     "aciklama": "Beslenme ve Diyetetik"
+    }
+   ],
+   "sinif": "Sözleşmeli",
+   "sinif_kod": null,
+   "derece": null
+  },
+  {
+   "kadro_kodu": "303010878",
+   "kadro_guid": "50709dcc-9ab6-ee11-b162-a0369f7d1d8e",
+   "kurum": "Milli Eğitim Bakanlığı",
+   "unvan": "Diyetisyen",
+   "il": "Kütahya",
+   "kontenjan": 1,
+   "bos_kadro": null,
+   "min_puan": 89.633,
+   "max_puan": 89.633,
+   "ogrenim": "Lisans",
+   "nitelikler": [
+    {
+     "kod": "4797",
+     "aciklama": "Aşağıdaki lisans programlarından birinden mezun olmak."
+    },
+    {
+     "kod": "3122",
+     "aciklama": "Beslenme ve Diyetetik"
+    }
+   ],
+   "sinif": "Sözleşmeli",
+   "sinif_kod": null,
+   "derece": null
+  },
+  {
+   "kadro_kodu": "303010822",
+   "kadro_guid": "fa6f9dcc-9ab6-ee11-b162-a0369f7d1d8e",
+   "kurum": "Milli Eğitim Bakanlığı",
+   "unvan": "Diyetisyen",
+   "il": "Bolu",
+   "kontenjan": 1,
+   "bos_kadro": null,
+   "min_puan": 89.502,
+   "max_puan": 89.502,
+   "ogrenim": "Lisans",
+   "nitelikler": [
+    {
+     "kod": "4797",
+     "aciklama": "Aşağıdaki lisans programlarından birinden mezun olmak."
+    },
+    {
+     "kod": "3122",
+     "aciklama": "Beslenme ve Diyetetik"
+    }
+   ],
+   "sinif": "Sözleşmeli",
+   "sinif_kod": null,
+   "derece": null
+  },
+  {
+   "kadro_kodu": "303010913",
+   "kadro_guid": "7b709dcc-9ab6-ee11-b162-a0369f7d1d8e",
+   "kurum": "Milli Eğitim Bakanlığı",
+   "unvan": "Diyetisyen",
+   "il": "Şanlıurfa",
+   "kontenjan": 1,
+   "bos_kadro": null,
+   "min_puan": 89.474,
+   "max_puan": 89.474,
+   "ogrenim": "Lisans",
+   "nitelikler": [
+    {
+     "kod": "4797",
+     "aciklama": "Aşağıdaki lisans programlarından birinden mezun olmak."
+    },
+    {
+     "kod": "3122",
+     "aciklama": "Beslenme ve Diyetetik"
+    }
+   ],
+   "sinif": "Sözleşmeli",
+   "sinif_kod": null,
+   "derece": null
+  },
+  {
+   "kadro_kodu": "303010829",
+   "kadro_guid": "00709dcc-9ab6-ee11-b162-a0369f7d1d8e",
+   "kurum": "Milli Eğitim Bakanlığı",
+   "unvan": "Diyetisyen",
+   "il": "Çanakkale",
+   "kontenjan": 1,
+   "bos_kadro": null,
+   "min_puan": 89.387,
+   "max_puan": 89.387,
+   "ogrenim": "Lisans",
+   "nitelikler": [
+    {
+     "kod": "4797",
+     "aciklama": "Aşağıdaki lisans programlarından birinden mezun olmak."
+    },
+    {
+     "kod": "3122",
+     "aciklama": "Beslenme ve Diyetetik"
+    }
+   ],
+   "sinif": "Sözleşmeli",
+   "sinif_kod": null,
+   "derece": null
+  },
+  {
+   "kadro_kodu": "303010794",
+   "kadro_guid": "de6f9dcc-9ab6-ee11-b162-a0369f7d1d8e",
+   "kurum": "Milli Eğitim Bakanlığı",
+   "unvan": "Diyetisyen",
+   "il": "Antalya",
+   "kontenjan": 1,
+   "bos_kadro": null,
+   "min_puan": 89.327,
+   "max_puan": 89.327,
+   "ogrenim": "Lisans",
+   "nitelikler": [
+    {
+     "kod": "4797",
+     "aciklama": "Aşağıdaki lisans programlarından birinden mezun olmak."
+    },
+    {
+     "kod": "3122",
+     "aciklama": "Beslenme ve Diyetetik"
+    }
+   ],
+   "sinif": "Sözleşmeli",
+   "sinif_kod": null,
+   "derece": null
+  },
+  {
+   "kadro_kodu": "303010304",
+   "kadro_guid": "55709dcc-9ab6-ee11-b162-a0369f7d1d8e",
+   "kurum": "Milli Eğitim Bakanlığı",
+   "unvan": "Mühendis (Elektrik/Elektronik)",
+   "il": "Malatya",
+   "kontenjan": 1,
+   "bos_kadro": null,
+   "min_puan": 89.318,
+   "max_puan": 89.318,
+   "ogrenim": "Lisans",
+   "nitelikler": [
+    {
+     "kod": "4611",
+     "aciklama": "Aşağıdaki lisans programlarından birinden mezun olmak."
+    },
+    {
+     "kod": "3160",
+     "aciklama": "Elektrik Mühendisliği"
+    },
+    {
+     "kod": "3162",
+     "aciklama": "Elektrik ve Elektronik Mühendisliği / Elektrik-Elektronik Mühendisliği"
+    }
+   ],
+   "sinif": "Sözleşmeli",
+   "sinif_kod": null,
+   "derece": null
+  },
+  {
+   "kadro_kodu": "303010857",
+   "kadro_guid": "32709dcc-9ab6-ee11-b162-a0369f7d1d8e",
+   "kurum": "Milli Eğitim Bakanlığı",
+   "unvan": "Diyetisyen",
+   "il": "İstanbul",
+   "kontenjan": 1,
+   "bos_kadro": null,
+   "min_puan": 89.264,
+   "max_puan": 89.264,
+   "ogrenim": "Lisans",
+   "nitelikler": [
+    {
+     "kod": "4797",
+     "aciklama": "Aşağıdaki lisans programlarından birinden mezun olmak."
+    },
+    {
+     "kod": "3122",
+     "aciklama": "Beslenme ve Diyetetik"
+    }
+   ],
+   "sinif": "Sözleşmeli",
+   "sinif_kod": null,
+   "derece": null
+  },
+  {
+   "kadro_kodu": "303010871",
+   "kadro_guid": "38709dcc-9ab6-ee11-b162-a0369f7d1d8e",
+   "kurum": "Milli Eğitim Bakanlığı",
+   "unvan": "Diyetisyen",
+   "il": "Kahramanmaraş",
+   "kontenjan": 1,
+   "bos_kadro": null,
+   "min_puan": 89.239,
+   "max_puan": 89.239,
+   "ogrenim": "Lisans",
+   "nitelikler": [
+    {
+     "kod": "4797",
+     "aciklama": "Aşağıdaki lisans programlarından birinden mezun olmak."
+    },
+    {
+     "kod": "3122",
+     "aciklama": "Beslenme ve Diyetetik"
+    }
+   ],
+   "sinif": "Sözleşmeli",
+   "sinif_kod": null,
+   "derece": null
+  },
+  {
+   "kadro_kodu": "303010920",
+   "kadro_guid": "8a709dcc-9ab6-ee11-b162-a0369f7d1d8e",
+   "kurum": "Milli Eğitim Bakanlığı",
+   "unvan": "Diyetisyen",
+   "il": "Van",
+   "kontenjan": 1,
+   "bos_kadro": null,
+   "min_puan": 89.23,
+   "max_puan": 89.23,
+   "ogrenim": "Lisans",
+   "nitelikler": [
+    {
+     "kod": "4797",
+     "aciklama": "Aşağıdaki lisans programlarından birinden mezun olmak."
+    },
+    {
+     "kod": "3122",
+     "aciklama": "Beslenme ve Diyetetik"
+    }
+   ],
+   "sinif": "Sözleşmeli",
+   "sinif_kod": null,
+   "derece": null
+  },
+  {
+   "kadro_kodu": "303010843",
+   "kadro_guid": "2a709dcc-9ab6-ee11-b162-a0369f7d1d8e",
+   "kurum": "Milli Eğitim Bakanlığı",
+   "unvan": "Diyetisyen",
+   "il": "Hatay",
+   "kontenjan": 1,
+   "bos_kadro": null,
+   "min_puan": 89.168,
+   "max_puan": 89.168,
+   "ogrenim": "Lisans",
+   "nitelikler": [
+    {
+     "kod": "4797",
+     "aciklama": "Aşağıdaki lisans programlarından birinden mezun olmak."
+    },
+    {
+     "kod": "3122",
+     "aciklama": "Beslenme ve Diyetetik"
+    }
+   ],
+   "sinif": "Sözleşmeli",
+   "sinif_kod": null,
+   "derece": null
+  },
+  {
+   "kadro_kodu": "303010815",
+   "kadro_guid": "f76f9dcc-9ab6-ee11-b162-a0369f7d1d8e",
+   "kurum": "Milli Eğitim Bakanlığı",
+   "unvan": "Diyetisyen",
+   "il": "Bitlis",
+   "kontenjan": 1,
+   "bos_kadro": null,
+   "min_puan": 89.159,
+   "max_puan": 89.159,
+   "ogrenim": "Lisans",
+   "nitelikler": [
+    {
+     "kod": "4797",
+     "aciklama": "Aşağıdaki lisans programlarından birinden mezun olmak."
+    },
+    {
+     "kod": "3122",
+     "aciklama": "Beslenme ve Diyetetik"
+    }
+   ],
+   "sinif": "Sözleşmeli",
+   "sinif_kod": null,
+   "derece": null
+  },
+  {
+   "kadro_kodu": "303010899",
+   "kadro_guid": "7f709dcc-9ab6-ee11-b162-a0369f7d1d8e",
+   "kurum": "Milli Eğitim Bakanlığı",
+   "unvan": "Diyetisyen",
+   "il": "Tekirdağ",
+   "kontenjan": 1,
+   "bos_kadro": null,
+   "min_puan": 89.129,
+   "max_puan": 89.129,
+   "ogrenim": "Lisans",
+   "nitelikler": [
+    {
+     "kod": "4797",
+     "aciklama": "Aşağıdaki lisans programlarından birinden mezun olmak."
+    },
+    {
+     "kod": "3122",
+     "aciklama": "Beslenme ve Diyetetik"
+    }
+   ],
+   "sinif": "Sözleşmeli",
+   "sinif_kod": null,
+   "derece": null
+  },
+  {
+   "kadro_kodu": "303010808",
+   "kadro_guid": "f46f9dcc-9ab6-ee11-b162-a0369f7d1d8e",
+   "kurum": "Milli Eğitim Bakanlığı",
+   "unvan": "Diyetisyen",
+   "il": "Bingöl",
+   "kontenjan": 1,
+   "bos_kadro": null,
+   "min_puan": 89.095,
+   "max_puan": 89.095,
+   "ogrenim": "Lisans",
+   "nitelikler": [
+    {
+     "kod": "4797",
+     "aciklama": "Aşağıdaki lisans programlarından birinden mezun olmak."
+    },
+    {
+     "kod": "3122",
+     "aciklama": "Beslenme ve Diyetetik"
+    }
+   ],
+   "sinif": "Sözleşmeli",
+   "sinif_kod": null,
+   "derece": null
+  },
+  {
+   "kadro_kodu": "303010836",
+   "kadro_guid": "0c709dcc-9ab6-ee11-b162-a0369f7d1d8e",
+   "kurum": "Milli Eğitim Bakanlığı",
+   "unvan": "Diyetisyen",
+   "il": "Diyarbakır",
+   "kontenjan": 1,
+   "bos_kadro": null,
+   "min_puan": 89.086,
+   "max_puan": 89.086,
+   "ogrenim": "Lisans",
+   "nitelikler": [
+    {
+     "kod": "4797",
+     "aciklama": "Aşağıdaki lisans programlarından birinden mezun olmak."
+    },
+    {
+     "kod": "3122",
+     "aciklama": "Beslenme ve Diyetetik"
+    }
+   ],
+   "sinif": "Sözleşmeli",
+   "sinif_kod": null,
+   "derece": null
+  },
+  {
+   "kadro_kodu": "303010885",
+   "kadro_guid": "54709dcc-9ab6-ee11-b162-a0369f7d1d8e",
+   "kurum": "Milli Eğitim Bakanlığı",
+   "unvan": "Diyetisyen",
+   "il": "Malatya",
+   "kontenjan": 1,
+   "bos_kadro": null,
+   "min_puan": 88.921,
+   "max_puan": 88.921,
+   "ogrenim": "Lisans",
+   "nitelikler": [
+    {
+     "kod": "4797",
+     "aciklama": "Aşağıdaki lisans programlarından birinden mezun olmak."
+    },
+    {
+     "kod": "3122",
+     "aciklama": "Beslenme ve Diyetetik"
+    }
+   ],
+   "sinif": "Sözleşmeli",
+   "sinif_kod": null,
+   "derece": null
+  },
+  {
+   "kadro_kodu": "303010892",
+   "kadro_guid": "62709dcc-9ab6-ee11-b162-a0369f7d1d8e",
+   "kurum": "Milli Eğitim Bakanlığı",
+   "unvan": "Diyetisyen",
+   "il": "Muş",
+   "kontenjan": 1,
+   "bos_kadro": null,
+   "min_puan": 88.911,
+   "max_puan": 88.911,
+   "ogrenim": "Lisans",
+   "nitelikler": [
+    {
+     "kod": "4797",
+     "aciklama": "Aşağıdaki lisans programlarından birinden mezun olmak."
+    },
+    {
+     "kod": "3122",
+     "aciklama": "Beslenme ve Diyetetik"
+    }
+   ],
+   "sinif": "Sözleşmeli",
+   "sinif_kod": null,
+   "derece": null
+  },
+  {
+   "kadro_kodu": "303010787",
+   "kadro_guid": "c76f9dcc-9ab6-ee11-b162-a0369f7d1d8e",
+   "kurum": "Milli Eğitim Bakanlığı",
+   "unvan": "Diyetisyen",
+   "il": "Adıyaman",
+   "kontenjan": 1,
+   "bos_kadro": null,
+   "min_puan": 88.786,
+   "max_puan": 88.786,
+   "ogrenim": "Lisans",
+   "nitelikler": [
+    {
+     "kod": "4797",
+     "aciklama": "Aşağıdaki lisans programlarından birinden mezun olmak."
+    },
+    {
+     "kod": "3122",
+     "aciklama": "Beslenme ve Diyetetik"
+    }
+   ],
+   "sinif": "Sözleşmeli",
+   "sinif_kod": null,
+   "derece": null
+  },
+  {
+   "kadro_kodu": "303010591",
+   "kadro_guid": "5c709dcc-9ab6-ee11-b162-a0369f7d1d8e",
+   "kurum": "Milli Eğitim Bakanlığı",
+   "unvan": "Hemşire",
+   "il": "Mardin",
+   "kontenjan": 1,
+   "bos_kadro": null,
+   "min_puan": 88.333,
+   "max_puan": 88.333,
+   "ogrenim": "Lisans",
+   "nitelikler": [
+    {
+     "kod": "4605",
+     "aciklama": "Aşağıdaki lisans programlarından birinden mezun olmak."
+    },
+    {
+     "kod": "3204",
+     "aciklama": "Hemşirelik"
+    },
+    {
+     "kod": "3205",
+     "aciklama": "Hemşirelik ve Sağlık Hizmetleri"
+    },
+    {
+     "kod": "3297",
+     "aciklama": "Sağlık Memurluğu"
+    }
+   ],
+   "sinif": "Sözleşmeli",
+   "sinif_kod": null,
+   "derece": null
+  },
+  {
+   "kadro_kodu": "303010598",
+   "kadro_guid": "5d709dcc-9ab6-ee11-b162-a0369f7d1d8e",
+   "kurum": "Milli Eğitim Bakanlığı",
+   "unvan": "Hemşire",
+   "il": "Mersin",
+   "kontenjan": 2,
+   "bos_kadro": null,
+   "min_puan": 87.871,
+   "max_puan": 88.268,
+   "ogrenim": "Lisans",
+   "nitelikler": [
+    {
+     "kod": "4605",
+     "aciklama": "Aşağıdaki lisans programlarından birinden mezun olmak."
+    },
+    {
+     "kod": "3204",
+     "aciklama": "Hemşirelik"
+    },
+    {
+     "kod": "3205",
+     "aciklama": "Hemşirelik ve Sağlık Hizmetleri"
+    },
+    {
+     "kod": "3297",
+     "aciklama": "Sağlık Memurluğu"
+    }
+   ],
+   "sinif": "Sözleşmeli",
+   "sinif_kod": null,
+   "derece": null
+  },
+  {
+   "kadro_kodu": "303010276",
+   "kadro_guid": "29709dcc-9ab6-ee11-b162-a0369f7d1d8e",
+   "kurum": "Milli Eğitim Bakanlığı",
+   "unvan": "Mühendis (Makine)",
+   "il": "Hatay",
+   "kontenjan": 1,
+   "bos_kadro": null,
+   "min_puan": 87.743,
+   "max_puan": 87.743,
+   "ogrenim": "Lisans",
+   "nitelikler": [
+    {
+     "kod": "4639",
+     "aciklama": "Aşağıdaki lisans programlarından birinden mezun olmak."
+    },
+    {
+     "kod": "3252",
+     "aciklama": "Makine Mühendisliği"
+    },
+    {
+     "kod": "4314",
+     "aciklama": "Makine ve İmalat Mühendisliği"
+    },
+    {
+     "kod": "4315",
+     "aciklama": "Makine ve Üretim Mühendisliği"
+    },
+    {
+     "kod": "9441",
+     "aciklama": "Makine ve Malzeme Mühendisliği"
+    }
+   ],
+   "sinif": "Sözleşmeli",
+   "sinif_kod": null,
+   "derece": null
+  },
+  {
+   "kadro_kodu": "303010402",
+   "kadro_guid": "02709dcc-9ab6-ee11-b162-a0369f7d1d8e",
+   "kurum": "Milli Eğitim Bakanlığı",
+   "unvan": "Hemşire",
+   "il": "Çankırı",
+   "kontenjan": 1,
+   "bos_kadro": null,
+   "min_puan": 87.333,
+   "max_puan": 87.333,
+   "ogrenim": "Lisans",
+   "nitelikler": [
+    {
+     "kod": "4605",
+     "aciklama": "Aşağıdaki lisans programlarından birinden mezun olmak."
+    },
+    {
+     "kod": "3204",
+     "aciklama": "Hemşirelik"
+    },
+    {
+     "kod": "3205",
+     "aciklama": "Hemşirelik ve Sağlık Hizmetleri"
+    },
+    {
+     "kod": "3297",
+     "aciklama": "Sağlık Memurluğu"
+    }
+   ],
+   "sinif": "Sözleşmeli",
+   "sinif_kod": null,
+   "derece": null
+  },
+  {
+   "kadro_kodu": "303010269",
+   "kadro_guid": "c66f9dcc-9ab6-ee11-b162-a0369f7d1d8e",
+   "kurum": "Milli Eğitim Bakanlığı",
+   "unvan": "Mühendis (Makine)",
+   "il": "Adana",
+   "kontenjan": 1,
+   "bos_kadro": null,
+   "min_puan": 87.211,
+   "max_puan": 87.211,
+   "ogrenim": "Lisans",
+   "nitelikler": [
+    {
+     "kod": "4639",
+     "aciklama": "Aşağıdaki lisans programlarından birinden mezun olmak."
+    },
+    {
+     "kod": "3252",
+     "aciklama": "Makine Mühendisliği"
+    },
+    {
+     "kod": "4314",
+     "aciklama": "Makine ve İmalat Mühendisliği"
+    },
+    {
+     "kod": "4315",
+     "aciklama": "Makine ve Üretim Mühendisliği"
+    },
+    {
+     "kod": "9441",
+     "aciklama": "Makine ve Malzeme Mühendisliği"
+    }
+   ],
+   "sinif": "Sözleşmeli",
+   "sinif_kod": null,
+   "derece": null
+  },
+  {
+   "kadro_kodu": "303010290",
+   "kadro_guid": "6b709dcc-9ab6-ee11-b162-a0369f7d1d8e",
+   "kurum": "Milli Eğitim Bakanlığı",
+   "unvan": "Mühendis (Makine)",
+   "il": "Osmaniye",
+   "kontenjan": 1,
+   "bos_kadro": null,
+   "min_puan": 87.158,
+   "max_puan": 87.158,
+   "ogrenim": "Lisans",
+   "nitelikler": [
+    {
+     "kod": "4639",
+     "aciklama": "Aşağıdaki lisans programlarından birinden mezun olmak."
+    },
+    {
+     "kod": "3252",
+     "aciklama": "Makine Mühendisliği"
+    },
+    {
+     "kod": "4314",
+     "aciklama": "Makine ve İmalat Mühendisliği"
+    },
+    {
+     "kod": "4315",
+     "aciklama": "Makine ve Üretim Mühendisliği"
+    },
+    {
+     "kod": "9441",
+     "aciklama": "Makine ve Malzeme Mühendisliği"
+    }
+   ],
+   "sinif": "Sözleşmeli",
+   "sinif_kod": null,
+   "derece": null
+  },
+  {
+   "kadro_kodu": "303010283",
+   "kadro_guid": "39709dcc-9ab6-ee11-b162-a0369f7d1d8e",
+   "kurum": "Milli Eğitim Bakanlığı",
+   "unvan": "Mühendis (Makine)",
+   "il": "Kahramanmaraş",
+   "kontenjan": 1,
+   "bos_kadro": null,
+   "min_puan": 86.962,
+   "max_puan": 86.962,
+   "ogrenim": "Lisans",
+   "nitelikler": [
+    {
+     "kod": "4639",
+     "aciklama": "Aşağıdaki lisans programlarından birinden mezun olmak."
+    },
+    {
+     "kod": "3252",
+     "aciklama": "Makine Mühendisliği"
+    },
+    {
+     "kod": "4314",
+     "aciklama": "Makine ve İmalat Mühendisliği"
+    },
+    {
+     "kod": "4315",
+     "aciklama": "Makine ve Üretim Mühendisliği"
+    },
+    {
+     "kod": "9441",
+     "aciklama": "Makine ve Malzeme Mühendisliği"
+    }
+   ],
+   "sinif": "Sözleşmeli",
+   "sinif_kod": null,
+   "derece": null
+  },
+  {
+   "kadro_kodu": "303010542",
+   "kadro_guid": "42709dcc-9ab6-ee11-b162-a0369f7d1d8e",
+   "kurum": "Milli Eğitim Bakanlığı",
+   "unvan": "Hemşire",
+   "il": "Kayseri",
+   "kontenjan": 1,
+   "bos_kadro": null,
+   "min_puan": 86.548,
+   "max_puan": 86.548,
+   "ogrenim": "Lisans",
+   "nitelikler": [
+    {
+     "kod": "4605",
+     "aciklama": "Aşağıdaki lisans programlarından birinden mezun olmak."
+    },
+    {
+     "kod": "3204",
+     "aciklama": "Hemşirelik"
+    },
+    {
+     "kod": "3205",
+     "aciklama": "Hemşirelik ve Sağlık Hizmetleri"
+    },
+    {
+     "kod": "3297",
+     "aciklama": "Sağlık Memurluğu"
+    }
+   ],
+   "sinif": "Sözleşmeli",
+   "sinif_kod": null,
+   "derece": null
+  },
+  {
+   "kadro_kodu": "303010773",
+   "kadro_guid": "6c709dcc-9ab6-ee11-b162-a0369f7d1d8e",
+   "kurum": "Milli Eğitim Bakanlığı",
+   "unvan": "Hemşire",
+   "il": "Osmaniye",
+   "kontenjan": 1,
+   "bos_kadro": null,
+   "min_puan": 85.205,
+   "max_puan": 85.205,
+   "ogrenim": "Lisans",
+   "nitelikler": [
+    {
+     "kod": "4605",
+     "aciklama": "Aşağıdaki lisans programlarından birinden mezun olmak."
+    },
+    {
+     "kod": "3204",
+     "aciklama": "Hemşirelik"
+    },
+    {
+     "kod": "3205",
+     "aciklama": "Hemşirelik ve Sağlık Hizmetleri"
+    },
+    {
+     "kod": "3297",
+     "aciklama": "Sağlık Memurluğu"
+    }
+   ],
+   "sinif": "Sözleşmeli",
+   "sinif_kod": null,
+   "derece": null
+  },
+  {
+   "kadro_kodu": "303010374",
+   "kadro_guid": "e96f9dcc-9ab6-ee11-b162-a0369f7d1d8e",
+   "kurum": "Milli Eğitim Bakanlığı",
+   "unvan": "Hemşire",
+   "il": "Balıkesir",
+   "kontenjan": 1,
+   "bos_kadro": null,
+   "min_puan": 85.143,
+   "max_puan": 85.143,
+   "ogrenim": "Lisans",
+   "nitelikler": [
+    {
+     "kod": "4605",
+     "aciklama": "Aşağıdaki lisans programlarından birinden mezun olmak."
+    },
+    {
+     "kod": "3204",
+     "aciklama": "Hemşirelik"
+    },
+    {
+     "kod": "3205",
+     "aciklama": "Hemşirelik ve Sağlık Hizmetleri"
+    },
+    {
+     "kod": "3297",
+     "aciklama": "Sağlık Memurluğu"
+    }
+   ],
+   "sinif": "Sözleşmeli",
+   "sinif_kod": null,
+   "derece": null
+  },
+  {
+   "kadro_kodu": "303010619",
+   "kadro_guid": "66709dcc-9ab6-ee11-b162-a0369f7d1d8e",
+   "kurum": "Milli Eğitim Bakanlığı",
+   "unvan": "Hemşire",
+   "il": "Niğde",
+   "kontenjan": 1,
+   "bos_kadro": null,
+   "min_puan": 84.85,
+   "max_puan": 84.85,
+   "ogrenim": "Lisans",
+   "nitelikler": [
+    {
+     "kod": "4605",
+     "aciklama": "Aşağıdaki lisans programlarından birinden mezun olmak."
+    },
+    {
+     "kod": "3204",
+     "aciklama": "Hemşirelik"
+    },
+    {
+     "kod": "3205",
+     "aciklama": "Hemşirelik ve Sağlık Hizmetleri"
+    },
+    {
+     "kod": "3297",
+     "aciklama": "Sağlık Memurluğu"
+    }
+   ],
+   "sinif": "Sözleşmeli",
+   "sinif_kod": null,
+   "derece": null
+  },
+  {
+   "kadro_kodu": "303010416",
+   "kadro_guid": "07709dcc-9ab6-ee11-b162-a0369f7d1d8e",
+   "kurum": "Milli Eğitim Bakanlığı",
+   "unvan": "Hemşire",
+   "il": "Denizli",
+   "kontenjan": 1,
+   "bos_kadro": null,
+   "min_puan": 84.782,
+   "max_puan": 84.782,
+   "ogrenim": "Lisans",
+   "nitelikler": [
+    {
+     "kod": "4605",
+     "aciklama": "Aşağıdaki lisans programlarından birinden mezun olmak."
+    },
+    {
+     "kod": "3204",
+     "aciklama": "Hemşirelik"
+    },
+    {
+     "kod": "3205",
+     "aciklama": "Hemşirelik ve Sağlık Hizmetleri"
+    },
+    {
+     "kod": "3297",
+     "aciklama": "Sağlık Memurluğu"
+    }
+   ],
+   "sinif": "Sözleşmeli",
+   "sinif_kod": null,
+   "derece": null
+  },
+  {
+   "kadro_kodu": "303010423",
+   "kadro_guid": "0b709dcc-9ab6-ee11-b162-a0369f7d1d8e",
+   "kurum": "Milli Eğitim Bakanlığı",
+   "unvan": "Hemşire",
+   "il": "Diyarbakır",
+   "kontenjan": 4,
+   "bos_kadro": null,
+   "min_puan": 84.782,
+   "max_puan": 86.999,
+   "ogrenim": "Lisans",
+   "nitelikler": [
+    {
+     "kod": "4605",
+     "aciklama": "Aşağıdaki lisans programlarından birinden mezun olmak."
+    },
+    {
+     "kod": "3204",
+     "aciklama": "Hemşirelik"
+    },
+    {
+     "kod": "3205",
+     "aciklama": "Hemşirelik ve Sağlık Hizmetleri"
+    },
+    {
+     "kod": "3297",
+     "aciklama": "Sağlık Memurluğu"
+    }
+   ],
+   "sinif": "Sözleşmeli",
+   "sinif_kod": null,
+   "derece": null
+  },
+  {
+   "kadro_kodu": "303010584",
+   "kadro_guid": "57709dcc-9ab6-ee11-b162-a0369f7d1d8e",
+   "kurum": "Milli Eğitim Bakanlığı",
+   "unvan": "Hemşire",
+   "il": "Manisa",
+   "kontenjan": 1,
+   "bos_kadro": null,
+   "min_puan": 84.737,
+   "max_puan": 84.737,
+   "ogrenim": "Lisans",
+   "nitelikler": [
+    {
+     "kod": "4605",
+     "aciklama": "Aşağıdaki lisans programlarından birinden mezun olmak."
+    },
+    {
+     "kod": "3204",
+     "aciklama": "Hemşirelik"
+    },
+    {
+     "kod": "3205",
+     "aciklama": "Hemşirelik ve Sağlık Hizmetleri"
+    },
+    {
+     "kod": "3297",
+     "aciklama": "Sağlık Memurluğu"
+    }
+   ],
+   "sinif": "Sözleşmeli",
+   "sinif_kod": null,
+   "derece": null
+  },
+  {
+   "kadro_kodu": "303010458",
+   "kadro_guid": "1c709dcc-9ab6-ee11-b162-a0369f7d1d8e",
+   "kurum": "Milli Eğitim Bakanlığı",
+   "unvan": "Hemşire",
+   "il": "Eskişehir",
+   "kontenjan": 3,
+   "bos_kadro": null,
+   "min_puan": 84.617,
+   "max_puan": 86.39,
+   "ogrenim": "Lisans",
+   "nitelikler": [
+    {
+     "kod": "4605",
+     "aciklama": "Aşağıdaki lisans programlarından birinden mezun olmak."
+    },
+    {
+     "kod": "3204",
+     "aciklama": "Hemşirelik"
+    },
+    {
+     "kod": "3205",
+     "aciklama": "Hemşirelik ve Sağlık Hizmetleri"
+    },
+    {
+     "kod": "3297",
+     "aciklama": "Sağlık Memurluğu"
+    }
+   ],
+   "sinif": "Sözleşmeli",
+   "sinif_kod": null,
+   "derece": null
+  },
+  {
+   "kadro_kodu": "303010563",
+   "kadro_guid": "4e709dcc-9ab6-ee11-b162-a0369f7d1d8e",
+   "kurum": "Milli Eğitim Bakanlığı",
+   "unvan": "Hemşire",
+   "il": "Konya",
+   "kontenjan": 4,
+   "bos_kadro": null,
+   "min_puan": 84.538,
+   "max_puan": 87.506,
+   "ogrenim": "Lisans",
+   "nitelikler": [
+    {
+     "kod": "4605",
+     "aciklama": "Aşağıdaki lisans programlarından birinden mezun olmak."
+    },
+    {
+     "kod": "3204",
+     "aciklama": "Hemşirelik"
+    },
+    {
+     "kod": "3205",
+     "aciklama": "Hemşirelik ve Sağlık Hizmetleri"
+    },
+    {
+     "kod": "3297",
+     "aciklama": "Sağlık Memurluğu"
+    }
+   ],
+   "sinif": "Sözleşmeli",
+   "sinif_kod": null,
+   "derece": null
+  },
+  {
+   "kadro_kodu": "303010514",
+   "kadro_guid": "36709dcc-9ab6-ee11-b162-a0369f7d1d8e",
+   "kurum": "Milli Eğitim Bakanlığı",
+   "unvan": "Hemşire",
+   "il": "İzmir",
+   "kontenjan": 1,
+   "bos_kadro": null,
+   "min_puan": 84.276,
+   "max_puan": 84.276,
+   "ogrenim": "Lisans",
+   "nitelikler": [
+    {
+     "kod": "4605",
+     "aciklama": "Aşağıdaki lisans programlarından birinden mezun olmak."
+    },
+    {
+     "kod": "3204",
+     "aciklama": "Hemşirelik"
+    },
+    {
+     "kod": "3205",
+     "aciklama": "Hemşirelik ve Sağlık Hizmetleri"
+    },
+    {
+     "kod": "3297",
+     "aciklama": "Sağlık Memurluğu"
+    }
+   ],
+   "sinif": "Sözleşmeli",
+   "sinif_kod": null,
+   "derece": null
+  },
+  {
+   "kadro_kodu": "303010654",
+   "kadro_guid": "75709dcc-9ab6-ee11-b162-a0369f7d1d8e",
+   "kurum": "Milli Eğitim Bakanlığı",
+   "unvan": "Hemşire",
+   "il": "Siirt",
+   "kontenjan": 2,
+   "bos_kadro": null,
+   "min_puan": 84.08,
+   "max_puan": 84.125,
+   "ogrenim": "Lisans",
+   "nitelikler": [
+    {
+     "kod": "4605",
+     "aciklama": "Aşağıdaki lisans programlarından birinden mezun olmak."
+    },
+    {
+     "kod": "3204",
+     "aciklama": "Hemşirelik"
+    },
+    {
+     "kod": "3205",
+     "aciklama": "Hemşirelik ve Sağlık Hizmetleri"
+    },
+    {
+     "kod": "3297",
+     "aciklama": "Sağlık Memurluğu"
+    }
+   ],
+   "sinif": "Sözleşmeli",
+   "sinif_kod": null,
+   "derece": null
+  },
+  {
+   "kadro_kodu": "303010437",
+   "kadro_guid": "14709dcc-9ab6-ee11-b162-a0369f7d1d8e",
+   "kurum": "Milli Eğitim Bakanlığı",
+   "unvan": "Hemşire",
+   "il": "Elazığ",
+   "kontenjan": 1,
+   "bos_kadro": null,
+   "min_puan": 84.04,
+   "max_puan": 84.04,
+   "ogrenim": "Lisans",
+   "nitelikler": [
+    {
+     "kod": "4605",
+     "aciklama": "Aşağıdaki lisans programlarından birinden mezun olmak."
+    },
+    {
+     "kod": "3204",
+     "aciklama": "Hemşirelik"
+    },
+    {
+     "kod": "3205",
+     "aciklama": "Hemşirelik ve Sağlık Hizmetleri"
+    },
+    {
+     "kod": "3297",
+     "aciklama": "Sağlık Memurluğu"
+    }
+   ],
+   "sinif": "Sözleşmeli",
+   "sinif_kod": null,
+   "derece": null
+  },
+  {
+   "kadro_kodu": "303010647",
+   "kadro_guid": "71709dcc-9ab6-ee11-b162-a0369f7d1d8e",
+   "kurum": "Milli Eğitim Bakanlığı",
+   "unvan": "Hemşire",
+   "il": "Samsun",
+   "kontenjan": 3,
+   "bos_kadro": null,
+   "min_puan": 84.0,
+   "max_puan": 85.886,
+   "ogrenim": "Lisans",
+   "nitelikler": [
+    {
+     "kod": "4605",
+     "aciklama": "Aşağıdaki lisans programlarından birinden mezun olmak."
+    },
+    {
+     "kod": "3204",
+     "aciklama": "Hemşirelik"
+    },
+    {
+     "kod": "3205",
+     "aciklama": "Hemşirelik ve Sağlık Hizmetleri"
+    },
+    {
+     "kod": "3297",
+     "aciklama": "Sağlık Memurluğu"
+    }
+   ],
+   "sinif": "Sözleşmeli",
+   "sinif_kod": null,
+   "derece": null
+  },
+  {
+   "kadro_kodu": "303010724",
+   "kadro_guid": "ed6f9dcc-9ab6-ee11-b162-a0369f7d1d8e",
+   "kurum": "Milli Eğitim Bakanlığı",
+   "unvan": "Hemşire",
+   "il": "Batman",
+   "kontenjan": 2,
+   "bos_kadro": null,
+   "min_puan": 83.969,
+   "max_puan": 84.064,
+   "ogrenim": "Lisans",
+   "nitelikler": [
+    {
+     "kod": "4605",
+     "aciklama": "Aşağıdaki lisans programlarından birinden mezun olmak."
+    },
+    {
+     "kod": "3204",
+     "aciklama": "Hemşirelik"
+    },
+    {
+     "kod": "3205",
+     "aciklama": "Hemşirelik ve Sağlık Hizmetleri"
+    },
+    {
+     "kod": "3297",
+     "aciklama": "Sağlık Memurluğu"
+    }
+   ],
+   "sinif": "Sözleşmeli",
+   "sinif_kod": null,
+   "derece": null
+  },
+  {
+   "kadro_kodu": "303010332",
+   "kadro_guid": "cc6f9dcc-9ab6-ee11-b162-a0369f7d1d8e",
+   "kurum": "Milli Eğitim Bakanlığı",
+   "unvan": "Hemşire",
+   "il": "Afyonkarahisar",
+   "kontenjan": 1,
+   "bos_kadro": null,
+   "min_puan": 83.966,
+   "max_puan": 83.966,
+   "ogrenim": "Lisans",
+   "nitelikler": [
+    {
+     "kod": "4605",
+     "aciklama": "Aşağıdaki lisans programlarından birinden mezun olmak."
+    },
+    {
+     "kod": "3204",
+     "aciklama": "Hemşirelik"
+    },
+    {
+     "kod": "3205",
+     "aciklama": "Hemşirelik ve Sağlık Hizmetleri"
+    },
+    {
+     "kod": "3297",
+     "aciklama": "Sağlık Memurluğu"
+    }
+   ],
+   "sinif": "Sözleşmeli",
+   "sinif_kod": null,
+   "derece": null
+  },
+  {
+   "kadro_kodu": "303010556",
+   "kadro_guid": "49709dcc-9ab6-ee11-b162-a0369f7d1d8e",
+   "kurum": "Milli Eğitim Bakanlığı",
+   "unvan": "Hemşire",
+   "il": "Kocaeli",
+   "kontenjan": 1,
+   "bos_kadro": null,
+   "min_puan": 83.722,
+   "max_puan": 83.722,
+   "ogrenim": "Lisans",
+   "nitelikler": [
+    {
+     "kod": "4605",
+     "aciklama": "Aşağıdaki lisans programlarından birinden mezun olmak."
+    },
+    {
+     "kod": "3204",
+     "aciklama": "Hemşirelik"
+    },
+    {
+     "kod": "3205",
+     "aciklama": "Hemşirelik ve Sağlık Hizmetleri"
+    },
+    {
+     "kod": "3297",
+     "aciklama": "Sağlık Memurluğu"
+    }
+   ],
+   "sinif": "Sözleşmeli",
+   "sinif_kod": null,
+   "derece": null
+  },
+  {
+   "kadro_kodu": "303010367",
+   "kadro_guid": "e56f9dcc-9ab6-ee11-b162-a0369f7d1d8e",
+   "kurum": "Milli Eğitim Bakanlığı",
+   "unvan": "Hemşire",
+   "il": "Aydın",
+   "kontenjan": 1,
+   "bos_kadro": null,
+   "min_puan": 83.615,
+   "max_puan": 83.615,
+   "ogrenim": "Lisans",
+   "nitelikler": [
+    {
+     "kod": "4605",
+     "aciklama": "Aşağıdaki lisans programlarından birinden mezun olmak."
+    },
+    {
+     "kod": "3204",
+     "aciklama": "Hemşirelik"
+    },
+    {
+     "kod": "3205",
+     "aciklama": "Hemşirelik ve Sağlık Hizmetleri"
+    },
+    {
+     "kod": "3297",
+     "aciklama": "Sağlık Memurluğu"
+    }
+   ],
+   "sinif": "Sözleşmeli",
+   "sinif_kod": null,
+   "derece": null
+  },
+  {
+   "kadro_kodu": "303010752",
+   "kadro_guid": "2c709dcc-9ab6-ee11-b162-a0369f7d1d8e",
+   "kurum": "Milli Eğitim Bakanlığı",
+   "unvan": "Hemşire",
+   "il": "Iğdır",
+   "kontenjan": 1,
+   "bos_kadro": null,
+   "min_puan": 83.551,
+   "max_puan": 83.551,
+   "ogrenim": "Lisans",
+   "nitelikler": [
+    {
+     "kod": "4605",
+     "aciklama": "Aşağıdaki lisans programlarından birinden mezun olmak."
+    },
+    {
+     "kod": "3204",
+     "aciklama": "Hemşirelik"
+    },
+    {
+     "kod": "3205",
+     "aciklama": "Hemşirelik ve Sağlık Hizmetleri"
+    },
+    {
+     "kod": "3297",
+     "aciklama": "Sağlık Memurluğu"
+    }
+   ],
+   "sinif": "Sözleşmeli",
+   "sinif_kod": null,
+   "derece": null
+  },
+  {
+   "kadro_kodu": "303010605",
+   "kadro_guid": "60709dcc-9ab6-ee11-b162-a0369f7d1d8e",
+   "kurum": "Milli Eğitim Bakanlığı",
+   "unvan": "Hemşire",
+   "il": "Muğla",
+   "kontenjan": 1,
+   "bos_kadro": null,
+   "min_puan": 82.793,
+   "max_puan": 82.793,
+   "ogrenim": "Lisans",
+   "nitelikler": [
+    {
+     "kod": "4605",
+     "aciklama": "Aşağıdaki lisans programlarından birinden mezun olmak."
+    },
+    {
+     "kod": "3204",
+     "aciklama": "Hemşirelik"
+    },
+    {
+     "kod": "3205",
+     "aciklama": "Hemşirelik ve Sağlık Hizmetleri"
+    },
+    {
+     "kod": "3297",
+     "aciklama": "Sağlık Memurluğu"
+    }
+   ],
+   "sinif": "Sözleşmeli",
+   "sinif_kod": null,
+   "derece": null
+  },
+  {
+   "kadro_kodu": "303010500",
+   "kadro_guid": "30709dcc-9ab6-ee11-b162-a0369f7d1d8e",
+   "kurum": "Milli Eğitim Bakanlığı",
+   "unvan": "Hemşire",
+   "il": "Isparta",
+   "kontenjan": 1,
+   "bos_kadro": null,
+   "min_puan": 82.547,
+   "max_puan": 82.547,
+   "ogrenim": "Lisans",
+   "nitelikler": [
+    {
+     "kod": "4605",
+     "aciklama": "Aşağıdaki lisans programlarından birinden mezun olmak."
+    },
+    {
+     "kod": "3204",
+     "aciklama": "Hemşirelik"
+    },
+    {
+     "kod": "3205",
+     "aciklama": "Hemşirelik ve Sağlık Hizmetleri"
+    },
+    {
+     "kod": "3297",
+     "aciklama": "Sağlık Memurluğu"
+    }
+   ],
+   "sinif": "Sözleşmeli",
+   "sinif_kod": null,
+   "derece": null
+  },
+  {
+   "kadro_kodu": "303010738",
+   "kadro_guid": "ec6f9dcc-9ab6-ee11-b162-a0369f7d1d8e",
+   "kurum": "Milli Eğitim Bakanlığı",
+   "unvan": "Hemşire",
+   "il": "Bartın",
+   "kontenjan": 1,
+   "bos_kadro": null,
+   "min_puan": 82.47,
+   "max_puan": 82.47,
+   "ogrenim": "Lisans",
+   "nitelikler": [
+    {
+     "kod": "4605",
+     "aciklama": "Aşağıdaki lisans programlarından birinden mezun olmak."
+    },
+    {
+     "kod": "3204",
+     "aciklama": "Hemşirelik"
+    },
+    {
+     "kod": "3205",
+     "aciklama": "Hemşirelik ve Sağlık Hizmetleri"
+    },
+    {
+     "kod": "3297",
+     "aciklama": "Sağlık Memurluğu"
+    }
+   ],
+   "sinif": "Sözleşmeli",
+   "sinif_kod": null,
+   "derece": null
+  },
+  {
+   "kadro_kodu": "303010493",
+   "kadro_guid": "28709dcc-9ab6-ee11-b162-a0369f7d1d8e",
+   "kurum": "Milli Eğitim Bakanlığı",
+   "unvan": "Hemşire",
+   "il": "Hatay",
+   "kontenjan": 1,
+   "bos_kadro": null,
+   "min_puan": 82.382,
+   "max_puan": 82.382,
+   "ogrenim": "Lisans",
+   "nitelikler": [
+    {
+     "kod": "4605",
+     "aciklama": "Aşağıdaki lisans programlarından birinden mezun olmak."
+    },
+    {
+     "kod": "3204",
+     "aciklama": "Hemşirelik"
+    },
+    {
+     "kod": "3205",
+     "aciklama": "Hemşirelik ve Sağlık Hizmetleri"
+    },
+    {
+     "kod": "3297",
+     "aciklama": "Sağlık Memurluğu"
+    }
+   ],
+   "sinif": "Sözleşmeli",
+   "sinif_kod": null,
+   "derece": null
+  },
+  {
+   "kadro_kodu": "303010346",
+   "kadro_guid": "d36f9dcc-9ab6-ee11-b162-a0369f7d1d8e",
+   "kurum": "Milli Eğitim Bakanlığı",
+   "unvan": "Hemşire",
+   "il": "Amasya",
+   "kontenjan": 1,
+   "bos_kadro": null,
+   "min_puan": 82.154,
+   "max_puan": 82.154,
+   "ogrenim": "Lisans",
+   "nitelikler": [
+    {
+     "kod": "4605",
+     "aciklama": "Aşağıdaki lisans programlarından birinden mezun olmak."
+    },
+    {
+     "kod": "3204",
+     "aciklama": "Hemşirelik"
+    },
+    {
+     "kod": "3205",
+     "aciklama": "Hemşirelik ve Sağlık Hizmetleri"
+    },
+    {
+     "kod": "3297",
+     "aciklama": "Sağlık Memurluğu"
+    }
+   ],
+   "sinif": "Sözleşmeli",
+   "sinif_kod": null,
+   "derece": null
+  },
+  {
+   "kadro_kodu": "303010710",
+   "kadro_guid": "8f709dcc-9ab6-ee11-b162-a0369f7d1d8e",
+   "kurum": "Milli Eğitim Bakanlığı",
+   "unvan": "Hemşire",
+   "il": "Zonguldak",
+   "kontenjan": 2,
+   "bos_kadro": null,
+   "min_puan": 82.061,
+   "max_puan": 82.68,
+   "ogrenim": "Lisans",
+   "nitelikler": [
+    {
+     "kod": "4605",
+     "aciklama": "Aşağıdaki lisans programlarından birinden mezun olmak."
+    },
+    {
+     "kod": "3204",
+     "aciklama": "Hemşirelik"
+    },
+    {
+     "kod": "3205",
+     "aciklama": "Hemşirelik ve Sağlık Hizmetleri"
+    },
+    {
+     "kod": "3297",
+     "aciklama": "Sağlık Memurluğu"
+    }
+   ],
+   "sinif": "Sözleşmeli",
+   "sinif_kod": null,
+   "derece": null
+  },
+  {
+   "kadro_kodu": "303010780",
+   "kadro_guid": "0e709dcc-9ab6-ee11-b162-a0369f7d1d8e",
+   "kurum": "Milli Eğitim Bakanlığı",
+   "unvan": "Hemşire",
+   "il": "Düzce",
+   "kontenjan": 1,
+   "bos_kadro": null,
+   "min_puan": 82.011,
+   "max_puan": 82.011,
+   "ogrenim": "Lisans",
+   "nitelikler": [
+    {
+     "kod": "4605",
+     "aciklama": "Aşağıdaki lisans programlarından birinden mezun olmak."
+    },
+    {
+     "kod": "3204",
+     "aciklama": "Hemşirelik"
+    },
+    {
+     "kod": "3205",
+     "aciklama": "Hemşirelik ve Sağlık Hizmetleri"
+    },
+    {
+     "kod": "3297",
+     "aciklama": "Sağlık Memurluğu"
+    }
+   ],
+   "sinif": "Sözleşmeli",
+   "sinif_kod": null,
+   "derece": null
+  },
+  {
+   "kadro_kodu": "303010717",
+   "kadro_guid": "d06f9dcc-9ab6-ee11-b162-a0369f7d1d8e",
+   "kurum": "Milli Eğitim Bakanlığı",
+   "unvan": "Hemşire",
+   "il": "Aksaray",
+   "kontenjan": 2,
+   "bos_kadro": null,
+   "min_puan": 81.797,
+   "max_puan": 81.856,
+   "ogrenim": "Lisans",
+   "nitelikler": [
+    {
+     "kod": "4605",
+     "aciklama": "Aşağıdaki lisans programlarından birinden mezun olmak."
+    },
+    {
+     "kod": "3204",
+     "aciklama": "Hemşirelik"
+    },
+    {
+     "kod": "3205",
+     "aciklama": "Hemşirelik ve Sağlık Hizmetleri"
+    },
+    {
+     "kod": "3297",
+     "aciklama": "Sağlık Memurluğu"
+    }
+   ],
+   "sinif": "Sözleşmeli",
+   "sinif_kod": null,
+   "derece": null
+  },
+  {
+   "kadro_kodu": "303010696",
+   "kadro_guid": "89709dcc-9ab6-ee11-b162-a0369f7d1d8e",
+   "kurum": "Milli Eğitim Bakanlığı",
+   "unvan": "Hemşire",
+   "il": "Van",
+   "kontenjan": 5,
+   "bos_kadro": null,
+   "min_puan": 81.638,
+   "max_puan": 86.044,
+   "ogrenim": "Lisans",
+   "nitelikler": [
+    {
+     "kod": "4605",
+     "aciklama": "Aşağıdaki lisans programlarından birinden mezun olmak."
+    },
+    {
+     "kod": "3204",
+     "aciklama": "Hemşirelik"
+    },
+    {
+     "kod": "3205",
+     "aciklama": "Hemşirelik ve Sağlık Hizmetleri"
+    },
+    {
+     "kod": "3297",
+     "aciklama": "Sağlık Memurluğu"
+    }
+   ],
+   "sinif": "Sözleşmeli",
+   "sinif_kod": null,
+   "derece": null
+  },
+  {
+   "kadro_kodu": "303010409",
+   "kadro_guid": "05709dcc-9ab6-ee11-b162-a0369f7d1d8e",
+   "kurum": "Milli Eğitim Bakanlığı",
+   "unvan": "Hemşire",
+   "il": "Çorum",
+   "kontenjan": 2,
+   "bos_kadro": null,
+   "min_puan": 81.63,
+   "max_puan": 82.264,
+   "ogrenim": "Lisans",
+   "nitelikler": [
+    {
+     "kod": "4605",
+     "aciklama": "Aşağıdaki lisans programlarından birinden mezun olmak."
+    },
+    {
+     "kod": "3204",
+     "aciklama": "Hemşirelik"
+    },
+    {
+     "kod": "3205",
+     "aciklama": "Hemşirelik ve Sağlık Hizmetleri"
+    },
+    {
+     "kod": "3297",
+     "aciklama": "Sağlık Memurluğu"
+    }
+   ],
+   "sinif": "Sözleşmeli",
+   "sinif_kod": null,
+   "derece": null
+  },
+  {
+   "kadro_kodu": "303010395",
+   "kadro_guid": "01709dcc-9ab6-ee11-b162-a0369f7d1d8e",
+   "kurum": "Milli Eğitim Bakanlığı",
+   "unvan": "Hemşire",
+   "il": "Çanakkale",
+   "kontenjan": 3,
+   "bos_kadro": null,
+   "min_puan": 81.432,
+   "max_puan": 83.094,
+   "ogrenim": "Lisans",
+   "nitelikler": [
+    {
+     "kod": "4605",
+     "aciklama": "Aşağıdaki lisans programlarından birinden mezun olmak."
+    },
+    {
+     "kod": "3204",
+     "aciklama": "Hemşirelik"
+    },
+    {
+     "kod": "3205",
+     "aciklama": "Hemşirelik ve Sağlık Hizmetleri"
+    },
+    {
+     "kod": "3297",
+     "aciklama": "Sağlık Memurluğu"
+    }
+   ],
+   "sinif": "Sözleşmeli",
+   "sinif_kod": null,
+   "derece": null
+  },
+  {
+   "kadro_kodu": "303010640",
+   "kadro_guid": "70709dcc-9ab6-ee11-b162-a0369f7d1d8e",
+   "kurum": "Milli Eğitim Bakanlığı",
+   "unvan": "Hemşire",
+   "il": "Sakarya",
+   "kontenjan": 3,
+   "bos_kadro": null,
+   "min_puan": 81.205,
+   "max_puan": 81.529,
+   "ogrenim": "Lisans",
+   "nitelikler": [
+    {
+     "kod": "4605",
+     "aciklama": "Aşağıdaki lisans programlarından birinden mezun olmak."
+    },
+    {
+     "kod": "3204",
+     "aciklama": "Hemşirelik"
+    },
+    {
+     "kod": "3205",
+     "aciklama": "Hemşirelik ve Sağlık Hizmetleri"
+    },
+    {
+     "kod": "3297",
+     "aciklama": "Sağlık Memurluğu"
+    }
+   ],
+   "sinif": "Sözleşmeli",
+   "sinif_kod": null,
+   "derece": null
+  },
+  {
+   "kadro_kodu": "303010360",
+   "kadro_guid": "e46f9dcc-9ab6-ee11-b162-a0369f7d1d8e",
+   "kurum": "Milli Eğitim Bakanlığı",
+   "unvan": "Hemşire",
+   "il": "Artvin",
+   "kontenjan": 1,
+   "bos_kadro": null,
+   "min_puan": 81.071,
+   "max_puan": 81.071,
+   "ogrenim": "Lisans",
+   "nitelikler": [
+    {
+     "kod": "4605",
+     "aciklama": "Aşağıdaki lisans programlarından birinden mezun olmak."
+    },
+    {
+     "kod": "3204",
+     "aciklama": "Hemşirelik"
+    },
+    {
+     "kod": "3205",
+     "aciklama": "Hemşirelik ve Sağlık Hizmetleri"
+    },
+    {
+     "kod": "3297",
+     "aciklama": "Sağlık Memurluğu"
+    }
+   ],
+   "sinif": "Sözleşmeli",
+   "sinif_kod": null,
+   "derece": null
+  },
+  {
+   "kadro_kodu": "303010703",
+   "kadro_guid": "8e709dcc-9ab6-ee11-b162-a0369f7d1d8e",
+   "kurum": "Milli Eğitim Bakanlığı",
+   "unvan": "Hemşire",
+   "il": "Yozgat",
+   "kontenjan": 2,
+   "bos_kadro": null,
+   "min_puan": 81.013,
+   "max_puan": 81.63,
+   "ogrenim": "Lisans",
+   "nitelikler": [
+    {
+     "kod": "4605",
+     "aciklama": "Aşağıdaki lisans programlarından birinden mezun olmak."
+    },
+    {
+     "kod": "3204",
+     "aciklama": "Hemşirelik"
+    },
+    {
+     "kod": "3205",
+     "aciklama": "Hemşirelik ve Sağlık Hizmetleri"
+    },
+    {
+     "kod": "3297",
+     "aciklama": "Sağlık Memurluğu"
+    }
+   ],
+   "sinif": "Sözleşmeli",
+   "sinif_kod": null,
+   "derece": null
+  },
+  {
+   "kadro_kodu": "303010507",
+   "kadro_guid": "31709dcc-9ab6-ee11-b162-a0369f7d1d8e",
+   "kurum": "Milli Eğitim Bakanlığı",
+   "unvan": "Hemşire",
+   "il": "İstanbul",
+   "kontenjan": 7,
+   "bos_kadro": null,
+   "min_puan": 80.938,
+   "max_puan": 83.921,
+   "ogrenim": "Lisans",
+   "nitelikler": [
+    {
+     "kod": "4605",
+     "aciklama": "Aşağıdaki lisans programlarından birinden mezun olmak."
+    },
+    {
+     "kod": "3204",
+     "aciklama": "Hemşirelik"
+    },
+    {
+     "kod": "3205",
+     "aciklama": "Hemşirelik ve Sağlık Hizmetleri"
+    },
+    {
+     "kod": "3297",
+     "aciklama": "Sağlık Memurluğu"
+    }
+   ],
+   "sinif": "Sözleşmeli",
+   "sinif_kod": null,
+   "derece": null
+  },
+  {
+   "kadro_kodu": "303010465",
+   "kadro_guid": "1f709dcc-9ab6-ee11-b162-a0369f7d1d8e",
+   "kurum": "Milli Eğitim Bakanlığı",
+   "unvan": "Hemşire",
+   "il": "Gaziantep",
+   "kontenjan": 7,
+   "bos_kadro": null,
+   "min_puan": 80.761,
+   "max_puan": 85.882,
+   "ogrenim": "Lisans",
+   "nitelikler": [
+    {
+     "kod": "4605",
+     "aciklama": "Aşağıdaki lisans programlarından birinden mezun olmak."
+    },
+    {
+     "kod": "3204",
+     "aciklama": "Hemşirelik"
+    },
+    {
+     "kod": "3205",
+     "aciklama": "Hemşirelik ve Sağlık Hizmetleri"
+    },
+    {
+     "kod": "3297",
+     "aciklama": "Sağlık Memurluğu"
+    }
+   ],
+   "sinif": "Sözleşmeli",
+   "sinif_kod": null,
+   "derece": null
+  },
+  {
+   "kadro_kodu": "303010353",
+   "kadro_guid": "dd6f9dcc-9ab6-ee11-b162-a0369f7d1d8e",
+   "kurum": "Milli Eğitim Bakanlığı",
+   "unvan": "Hemşire",
+   "il": "Antalya",
+   "kontenjan": 3,
+   "bos_kadro": null,
+   "min_puan": 80.739,
+   "max_puan": 83.879,
+   "ogrenim": "Lisans",
+   "nitelikler": [
+    {
+     "kod": "4605",
+     "aciklama": "Aşağıdaki lisans programlarından birinden mezun olmak."
+    },
+    {
+     "kod": "3204",
+     "aciklama": "Hemşirelik"
+    },
+    {
+     "kod": "3205",
+     "aciklama": "Hemşirelik ve Sağlık Hizmetleri"
+    },
+    {
+     "kod": "3297",
+     "aciklama": "Sağlık Memurluğu"
+    }
+   ],
+   "sinif": "Sözleşmeli",
+   "sinif_kod": null,
+   "derece": null
+  },
+  {
+   "kadro_kodu": "303010318",
+   "kadro_guid": "c56f9dcc-9ab6-ee11-b162-a0369f7d1d8e",
+   "kurum": "Milli Eğitim Bakanlığı",
+   "unvan": "Hemşire",
+   "il": "Adana",
+   "kontenjan": 4,
+   "bos_kadro": null,
+   "min_puan": 80.732,
+   "max_puan": 86.497,
+   "ogrenim": "Lisans",
+   "nitelikler": [
+    {
+     "kod": "4605",
+     "aciklama": "Aşağıdaki lisans programlarından birinden mezun olmak."
+    },
+    {
+     "kod": "3204",
+     "aciklama": "Hemşirelik"
+    },
+    {
+     "kod": "3205",
+     "aciklama": "Hemşirelik ve Sağlık Hizmetleri"
+    },
+    {
+     "kod": "3297",
+     "aciklama": "Sağlık Memurluğu"
+    }
+   ],
+   "sinif": "Sözleşmeli",
+   "sinif_kod": null,
+   "derece": null
+  },
+  {
+   "kadro_kodu": "303010612",
+   "kadro_guid": "61709dcc-9ab6-ee11-b162-a0369f7d1d8e",
+   "kurum": "Milli Eğitim Bakanlığı",
+   "unvan": "Hemşire",
+   "il": "Muş",
+   "kontenjan": 2,
+   "bos_kadro": null,
+   "min_puan": 80.707,
+   "max_puan": 86.767,
+   "ogrenim": "Lisans",
+   "nitelikler": [
+    {
+     "kod": "4605",
+     "aciklama": "Aşağıdaki lisans programlarından birinden mezun olmak."
+    },
+    {
+     "kod": "3204",
+     "aciklama": "Hemşirelik"
+    },
+    {
+     "kod": "3205",
+     "aciklama": "Hemşirelik ve Sağlık Hizmetleri"
+    },
+    {
+     "kod": "3297",
+     "aciklama": "Sağlık Memurluğu"
+    }
+   ],
+   "sinif": "Sözleşmeli",
+   "sinif_kod": null,
+   "derece": null
+  },
+  {
+   "kadro_kodu": "303010689",
+   "kadro_guid": "79709dcc-9ab6-ee11-b162-a0369f7d1d8e",
+   "kurum": "Milli Eğitim Bakanlığı",
+   "unvan": "Hemşire",
+   "il": "Şanlıurfa",
+   "kontenjan": 4,
+   "bos_kadro": null,
+   "min_puan": 80.658,
+   "max_puan": 83.72,
+   "ogrenim": "Lisans",
+   "nitelikler": [
+    {
+     "kod": "4605",
+     "aciklama": "Aşağıdaki lisans programlarından birinden mezun olmak."
+    },
+    {
+     "kod": "3204",
+     "aciklama": "Hemşirelik"
+    },
+    {
+     "kod": "3205",
+     "aciklama": "Hemşirelik ve Sağlık Hizmetleri"
+    },
+    {
+     "kod": "3297",
+     "aciklama": "Sağlık Memurluğu"
+    }
+   ],
+   "sinif": "Sözleşmeli",
+   "sinif_kod": null,
+   "derece": null
+  },
+  {
+   "kadro_kodu": "303010570",
+   "kadro_guid": "4f709dcc-9ab6-ee11-b162-a0369f7d1d8e",
+   "kurum": "Milli Eğitim Bakanlığı",
+   "unvan": "Hemşire",
+   "il": "Kütahya",
+   "kontenjan": 2,
+   "bos_kadro": null,
+   "min_puan": 80.568,
+   "max_puan": 83.887,
+   "ogrenim": "Lisans",
+   "nitelikler": [
+    {
+     "kod": "4605",
+     "aciklama": "Aşağıdaki lisans programlarından birinden mezun olmak."
+    },
+    {
+     "kod": "3204",
+     "aciklama": "Hemşirelik"
+    },
+    {
+     "kod": "3205",
+     "aciklama": "Hemşirelik ve Sağlık Hizmetleri"
+    },
+    {
+     "kod": "3297",
+     "aciklama": "Sağlık Memurluğu"
+    }
+   ],
+   "sinif": "Sözleşmeli",
+   "sinif_kod": null,
+   "derece": null
+  },
+  {
+   "kadro_kodu": "303010759",
+   "kadro_guid": "8b709dcc-9ab6-ee11-b162-a0369f7d1d8e",
+   "kurum": "Milli Eğitim Bakanlığı",
+   "unvan": "Hemşire",
+   "il": "Yalova",
+   "kontenjan": 1,
+   "bos_kadro": null,
+   "min_puan": 80.507,
+   "max_puan": 80.507,
+   "ogrenim": "Lisans",
+   "nitelikler": [
+    {
+     "kod": "4605",
+     "aciklama": "Aşağıdaki lisans programlarından birinden mezun olmak."
+    },
+    {
+     "kod": "3204",
+     "aciklama": "Hemşirelik"
+    },
+    {
+     "kod": "3205",
+     "aciklama": "Hemşirelik ve Sağlık Hizmetleri"
+    },
+    {
+     "kod": "3297",
+     "aciklama": "Sağlık Memurluğu"
+    }
+   ],
+   "sinif": "Sözleşmeli",
+   "sinif_kod": null,
+   "derece": null
+  },
+  {
+   "kadro_kodu": "303010479",
+   "kadro_guid": "24709dcc-9ab6-ee11-b162-a0369f7d1d8e",
+   "kurum": "Milli Eğitim Bakanlığı",
+   "unvan": "Hemşire",
+   "il": "Gümüşhane",
+   "kontenjan": 1,
+   "bos_kadro": null,
+   "min_puan": 80.443,
+   "max_puan": 80.443,
+   "ogrenim": "Lisans",
+   "nitelikler": [
+    {
+     "kod": "4605",
+     "aciklama": "Aşağıdaki lisans programlarından birinden mezun olmak."
+    },
+    {
+     "kod": "3204",
+     "aciklama": "Hemşirelik"
+    },
+    {
+     "kod": "3205",
+     "aciklama": "Hemşirelik ve Sağlık Hizmetleri"
+    },
+    {
+     "kod": "3297",
+     "aciklama": "Sağlık Memurluğu"
+    }
+   ],
+   "sinif": "Sözleşmeli",
+   "sinif_kod": null,
+   "derece": null
+  },
+  {
+   "kadro_kodu": "303010528",
+   "kadro_guid": "37709dcc-9ab6-ee11-b162-a0369f7d1d8e",
+   "kurum": "Milli Eğitim Bakanlığı",
+   "unvan": "Hemşire",
+   "il": "Kahramanmaraş",
+   "kontenjan": 2,
+   "bos_kadro": null,
+   "min_puan": 80.37,
+   "max_puan": 80.856,
+   "ogrenim": "Lisans",
+   "nitelikler": [
+    {
+     "kod": "4605",
+     "aciklama": "Aşağıdaki lisans programlarından birinden mezun olmak."
+    },
+    {
+     "kod": "3204",
+     "aciklama": "Hemşirelik"
+    },
+    {
+     "kod": "3205",
+     "aciklama": "Hemşirelik ve Sağlık Hizmetleri"
+    },
+    {
+     "kod": "3297",
+     "aciklama": "Sağlık Memurluğu"
+    }
+   ],
+   "sinif": "Sözleşmeli",
+   "sinif_kod": null,
+   "derece": null
+  },
+  {
+   "kadro_kodu": "303010444",
+   "kadro_guid": "16709dcc-9ab6-ee11-b162-a0369f7d1d8e",
+   "kurum": "Milli Eğitim Bakanlığı",
+   "unvan": "Hemşire",
+   "il": "Erzincan",
+   "kontenjan": 1,
+   "bos_kadro": null,
+   "min_puan": 80.342,
+   "max_puan": 80.342,
+   "ogrenim": "Lisans",
+   "nitelikler": [
+    {
+     "kod": "4605",
+     "aciklama": "Aşağıdaki lisans programlarından birinden mezun olmak."
+    },
+    {
+     "kod": "3204",
+     "aciklama": "Hemşirelik"
+    },
+    {
+     "kod": "3205",
+     "aciklama": "Hemşirelik ve Sağlık Hizmetleri"
+    },
+    {
+     "kod": "3297",
+     "aciklama": "Sağlık Memurluğu"
+    }
+   ],
+   "sinif": "Sözleşmeli",
+   "sinif_kod": null,
+   "derece": null
+  },
+  {
+   "kadro_kodu": "303010388",
+   "kadro_guid": "f66f9dcc-9ab6-ee11-b162-a0369f7d1d8e",
+   "kurum": "Milli Eğitim Bakanlığı",
+   "unvan": "Hemşire",
+   "il": "Bitlis",
+   "kontenjan": 4,
+   "bos_kadro": null,
+   "min_puan": 80.199,
+   "max_puan": 83.681,
+   "ogrenim": "Lisans",
+   "nitelikler": [
+    {
+     "kod": "4605",
+     "aciklama": "Aşağıdaki lisans programlarından birinden mezun olmak."
+    },
+    {
+     "kod": "3204",
+     "aciklama": "Hemşirelik"
+    },
+    {
+     "kod": "3205",
+     "aciklama": "Hemşirelik ve Sağlık Hizmetleri"
+    },
+    {
+     "kod": "3297",
+     "aciklama": "Sağlık Memurluğu"
+    }
+   ],
+   "sinif": "Sözleşmeli",
+   "sinif_kod": null,
+   "derece": null
+  },
+  {
+   "kadro_kodu": "303010325",
+   "kadro_guid": "c86f9dcc-9ab6-ee11-b162-a0369f7d1d8e",
+   "kurum": "Milli Eğitim Bakanlığı",
+   "unvan": "Hemşire",
+   "il": "Adıyaman",
+   "kontenjan": 4,
+   "bos_kadro": null,
+   "min_puan": 80.181,
+   "max_puan": 86.368,
+   "ogrenim": "Lisans",
+   "nitelikler": [
+    {
+     "kod": "4605",
+     "aciklama": "Aşağıdaki lisans programlarından birinden mezun olmak."
+    },
+    {
+     "kod": "3204",
+     "aciklama": "Hemşirelik"
+    },
+    {
+     "kod": "3205",
+     "aciklama": "Hemşirelik ve Sağlık Hizmetleri"
+    },
+    {
+     "kod": "3297",
+     "aciklama": "Sağlık Memurluğu"
+    }
+   ],
+   "sinif": "Sözleşmeli",
+   "sinif_kod": null,
+   "derece": null
+  },
+  {
+   "kadro_kodu": "303010682",
+   "kadro_guid": "85709dcc-9ab6-ee11-b162-a0369f7d1d8e",
+   "kurum": "Milli Eğitim Bakanlığı",
+   "unvan": "Hemşire",
+   "il": "Tunceli",
+   "kontenjan": 2,
+   "bos_kadro": null,
+   "min_puan": 80.146,
+   "max_puan": 80.469,
+   "ogrenim": "Lisans",
+   "nitelikler": [
+    {
+     "kod": "4605",
+     "aciklama": "Aşağıdaki lisans programlarından birinden mezun olmak."
+    },
+    {
+     "kod": "3204",
+     "aciklama": "Hemşirelik"
+    },
+    {
+     "kod": "3205",
+     "aciklama": "Hemşirelik ve Sağlık Hizmetleri"
+    },
+    {
+     "kod": "3297",
+     "aciklama": "Sağlık Memurluğu"
+    }
+   ],
+   "sinif": "Sözleşmeli",
+   "sinif_kod": null,
+   "derece": null
+  },
+  {
+   "kadro_kodu": "303010766",
+   "kadro_guid": "48709dcc-9ab6-ee11-b162-a0369f7d1d8e",
+   "kurum": "Milli Eğitim Bakanlığı",
+   "unvan": "Hemşire",
+   "il": "Kilis",
+   "kontenjan": 2,
+   "bos_kadro": null,
+   "min_puan": 80.046,
+   "max_puan": 80.351,
+   "ogrenim": "Lisans",
+   "nitelikler": [
+    {
+     "kod": "4605",
+     "aciklama": "Aşağıdaki lisans programlarından birinden mezun olmak."
+    },
+    {
+     "kod": "3204",
+     "aciklama": "Hemşirelik"
+    },
+    {
+     "kod": "3205",
+     "aciklama": "Hemşirelik ve Sağlık Hizmetleri"
+    },
+    {
+     "kod": "3297",
+     "aciklama": "Sağlık Memurluğu"
+    }
+   ],
+   "sinif": "Sözleşmeli",
+   "sinif_kod": null,
+   "derece": null
+  },
+  {
+   "kadro_kodu": "303010675",
+   "kadro_guid": "83709dcc-9ab6-ee11-b162-a0369f7d1d8e",
+   "kurum": "Milli Eğitim Bakanlığı",
+   "unvan": "Hemşire",
+   "il": "Trabzon",
+   "kontenjan": 2,
+   "bos_kadro": null,
+   "min_puan": 80.045,
+   "max_puan": 80.531,
+   "ogrenim": "Lisans",
+   "nitelikler": [
+    {
+     "kod": "4605",
+     "aciklama": "Aşağıdaki lisans programlarından birinden mezun olmak."
+    },
+    {
+     "kod": "3204",
+     "aciklama": "Hemşirelik"
+    },
+    {
+     "kod": "3205",
+     "aciklama": "Hemşirelik ve Sağlık Hizmetleri"
+    },
+    {
+     "kod": "3297",
+     "aciklama": "Sağlık Memurluğu"
+    }
+   ],
+   "sinif": "Sözleşmeli",
+   "sinif_kod": null,
+   "derece": null
+  },
+  {
+   "kadro_kodu": "303010626",
+   "kadro_guid": "67709dcc-9ab6-ee11-b162-a0369f7d1d8e",
+   "kurum": "Milli Eğitim Bakanlığı",
+   "unvan": "Hemşire",
+   "il": "Ordu",
+   "kontenjan": 4,
+   "bos_kadro": null,
+   "min_puan": 80.037,
+   "max_puan": 83.655,
+   "ogrenim": "Lisans",
+   "nitelikler": [
+    {
+     "kod": "4605",
+     "aciklama": "Aşağıdaki lisans programlarından birinden mezun olmak."
+    },
+    {
+     "kod": "3204",
+     "aciklama": "Hemşirelik"
+    },
+    {
+     "kod": "3205",
+     "aciklama": "Hemşirelik ve Sağlık Hizmetleri"
+    },
+    {
+     "kod": "3297",
+     "aciklama": "Sağlık Memurluğu"
+    }
+   ],
+   "sinif": "Sözleşmeli",
+   "sinif_kod": null,
+   "derece": null
+  },
+  {
+   "kadro_kodu": "303010661",
+   "kadro_guid": "78709dcc-9ab6-ee11-b162-a0369f7d1d8e",
+   "kurum": "Milli Eğitim Bakanlığı",
+   "unvan": "Hemşire",
+   "il": "Sivas",
+   "kontenjan": 4,
+   "bos_kadro": null,
+   "min_puan": 80.001,
+   "max_puan": 81.077,
+   "ogrenim": "Lisans",
+   "nitelikler": [
+    {
+     "kod": "4605",
+     "aciklama": "Aşağıdaki lisans programlarından birinden mezun olmak."
+    },
+    {
+     "kod": "3204",
+     "aciklama": "Hemşirelik"
+    },
+    {
+     "kod": "3205",
+     "aciklama": "Hemşirelik ve Sağlık Hizmetleri"
+    },
+    {
+     "kod": "3297",
+     "aciklama": "Sağlık Memurluğu"
+    }
+   ],
+   "sinif": "Sözleşmeli",
+   "sinif_kod": null,
+   "derece": null
+  },
+  {
+   "kadro_kodu": "303010535",
+   "kadro_guid": "3f709dcc-9ab6-ee11-b162-a0369f7d1d8e",
+   "kurum": "Milli Eğitim Bakanlığı",
+   "unvan": "Hemşire",
+   "il": "Kastamonu",
+   "kontenjan": 3,
+   "bos_kadro": null,
+   "min_puan": 79.965,
+   "max_puan": 81.746,
+   "ogrenim": "Lisans",
+   "nitelikler": [
+    {
+     "kod": "4605",
+     "aciklama": "Aşağıdaki lisans programlarından birinden mezun olmak."
+    },
+    {
+     "kod": "3204",
+     "aciklama": "Hemşirelik"
+    },
+    {
+     "kod": "3205",
+     "aciklama": "Hemşirelik ve Sağlık Hizmetleri"
+    },
+    {
+     "kod": "3297",
+     "aciklama": "Sağlık Memurluğu"
+    }
+   ],
+   "sinif": "Sözleşmeli",
+   "sinif_kod": null,
+   "derece": null
+  },
+  {
+   "kadro_kodu": "303010668",
+   "kadro_guid": "80709dcc-9ab6-ee11-b162-a0369f7d1d8e",
+   "kurum": "Milli Eğitim Bakanlığı",
+   "unvan": "Hemşire",
+   "il": "Tekirdağ",
+   "kontenjan": 1,
+   "bos_kadro": null,
+   "min_puan": 79.89,
+   "max_puan": 79.89,
+   "ogrenim": "Lisans",
+   "nitelikler": [
+    {
+     "kod": "4605",
+     "aciklama": "Aşağıdaki lisans programlarından birinden mezun olmak."
+    },
+    {
+     "kod": "3204",
+     "aciklama": "Hemşirelik"
+    },
+    {
+     "kod": "3205",
+     "aciklama": "Hemşirelik ve Sağlık Hizmetleri"
+    },
+    {
+     "kod": "3297",
+     "aciklama": "Sağlık Memurluğu"
+    }
+   ],
+   "sinif": "Sözleşmeli",
+   "sinif_kod": null,
+   "derece": null
+  },
+  {
+   "kadro_kodu": "303010633",
+   "kadro_guid": "6d709dcc-9ab6-ee11-b162-a0369f7d1d8e",
+   "kurum": "Milli Eğitim Bakanlığı",
+   "unvan": "Hemşire",
+   "il": "Rize",
+   "kontenjan": 1,
+   "bos_kadro": null,
+   "min_puan": 79.827,
+   "max_puan": 79.827,
+   "ogrenim": "Lisans",
+   "nitelikler": [
+    {
+     "kod": "4605",
+     "aciklama": "Aşağıdaki lisans programlarından birinden mezun olmak."
+    },
+    {
+     "kod": "3204",
+     "aciklama": "Hemşirelik"
+    },
+    {
+     "kod": "3205",
+     "aciklama": "Hemşirelik ve Sağlık Hizmetleri"
+    },
+    {
+     "kod": "3297",
+     "aciklama": "Sağlık Memurluğu"
+    }
+   ],
+   "sinif": "Sözleşmeli",
+   "sinif_kod": null,
+   "derece": null
+  },
+  {
+   "kadro_kodu": "303010381",
+   "kadro_guid": "f56f9dcc-9ab6-ee11-b162-a0369f7d1d8e",
+   "kurum": "Milli Eğitim Bakanlığı",
+   "unvan": "Hemşire",
+   "il": "Bingöl",
+   "kontenjan": 2,
+   "bos_kadro": null,
+   "min_puan": 79.644,
+   "max_puan": 80.704,
+   "ogrenim": "Lisans",
+   "nitelikler": [
+    {
+     "kod": "4605",
+     "aciklama": "Aşağıdaki lisans programlarından birinden mezun olmak."
+    },
+    {
+     "kod": "3204",
+     "aciklama": "Hemşirelik"
+    },
+    {
+     "kod": "3205",
+     "aciklama": "Hemşirelik ve Sağlık Hizmetleri"
+    },
+    {
+     "kod": "3297",
+     "aciklama": "Sağlık Memurluğu"
+    }
+   ],
+   "sinif": "Sözleşmeli",
+   "sinif_kod": null,
+   "derece": null
+  },
+  {
+   "kadro_kodu": "303010577",
+   "kadro_guid": "56709dcc-9ab6-ee11-b162-a0369f7d1d8e",
+   "kurum": "Milli Eğitim Bakanlığı",
+   "unvan": "Hemşire",
+   "il": "Malatya",
+   "kontenjan": 4,
+   "bos_kadro": null,
+   "min_puan": 79.64,
+   "max_puan": 83.595,
+   "ogrenim": "Lisans",
+   "nitelikler": [
+    {
+     "kod": "4605",
+     "aciklama": "Aşağıdaki lisans programlarından birinden mezun olmak."
+    },
+    {
+     "kod": "3204",
+     "aciklama": "Hemşirelik"
+    },
+    {
+     "kod": "3205",
+     "aciklama": "Hemşirelik ve Sağlık Hizmetleri"
+    },
+    {
+     "kod": "3297",
+     "aciklama": "Sağlık Memurluğu"
+    }
+   ],
+   "sinif": "Sözleşmeli",
+   "sinif_kod": null,
+   "derece": null
+  },
+  {
+   "kadro_kodu": "303010430",
+   "kadro_guid": "0f709dcc-9ab6-ee11-b162-a0369f7d1d8e",
+   "kurum": "Milli Eğitim Bakanlığı",
+   "unvan": "Hemşire",
+   "il": "Edirne",
+   "kontenjan": 1,
+   "bos_kadro": null,
+   "min_puan": 79.433,
+   "max_puan": 79.433,
+   "ogrenim": "Lisans",
+   "nitelikler": [
+    {
+     "kod": "4605",
+     "aciklama": "Aşağıdaki lisans programlarından birinden mezun olmak."
+    },
+    {
+     "kod": "3204",
+     "aciklama": "Hemşirelik"
+    },
+    {
+     "kod": "3205",
+     "aciklama": "Hemşirelik ve Sağlık Hizmetleri"
+    },
+    {
+     "kod": "3297",
+     "aciklama": "Sağlık Memurluğu"
+    }
+   ],
+   "sinif": "Sözleşmeli",
+   "sinif_kod": null,
+   "derece": null
+  },
+  {
+   "kadro_kodu": "303010472",
+   "kadro_guid": "20709dcc-9ab6-ee11-b162-a0369f7d1d8e",
+   "kurum": "Milli Eğitim Bakanlığı",
+   "unvan": "Hemşire",
+   "il": "Giresun",
+   "kontenjan": 4,
+   "bos_kadro": null,
+   "min_puan": 79.396,
+   "max_puan": 80.497,
+   "ogrenim": "Lisans",
+   "nitelikler": [
+    {
+     "kod": "4605",
+     "aciklama": "Aşağıdaki lisans programlarından birinden mezun olmak."
+    },
+    {
+     "kod": "3204",
+     "aciklama": "Hemşirelik"
+    },
+    {
+     "kod": "3205",
+     "aciklama": "Hemşirelik ve Sağlık Hizmetleri"
+    },
+    {
+     "kod": "3297",
+     "aciklama": "Sağlık Memurluğu"
+    }
+   ],
+   "sinif": "Sözleşmeli",
+   "sinif_kod": null,
+   "derece": null
+  },
+  {
+   "kadro_kodu": "303010451",
+   "kadro_guid": "1b709dcc-9ab6-ee11-b162-a0369f7d1d8e",
+   "kurum": "Milli Eğitim Bakanlığı",
+   "unvan": "Hemşire",
+   "il": "Erzurum",
+   "kontenjan": 4,
+   "bos_kadro": null,
+   "min_puan": 79.284,
+   "max_puan": 83.298,
+   "ogrenim": "Lisans",
+   "nitelikler": [
+    {
+     "kod": "4605",
+     "aciklama": "Aşağıdaki lisans programlarından birinden mezun olmak."
+    },
+    {
+     "kod": "3204",
+     "aciklama": "Hemşirelik"
+    },
+    {
+     "kod": "3205",
+     "aciklama": "Hemşirelik ve Sağlık Hizmetleri"
+    },
+    {
+     "kod": "3297",
+     "aciklama": "Sağlık Memurluğu"
+    }
+   ],
+   "sinif": "Sözleşmeli",
+   "sinif_kod": null,
+   "derece": null
+  },
+  {
+   "kadro_kodu": "303010549",
+   "kadro_guid": "45709dcc-9ab6-ee11-b162-a0369f7d1d8e",
+   "kurum": "Milli Eğitim Bakanlığı",
+   "unvan": "Hemşire",
+   "il": "Kırklareli",
+   "kontenjan": 1,
+   "bos_kadro": null,
+   "min_puan": 78.987,
+   "max_puan": 78.987,
+   "ogrenim": "Lisans",
+   "nitelikler": [
+    {
+     "kod": "4605",
+     "aciklama": "Aşağıdaki lisans programlarından birinden mezun olmak."
+    },
+    {
+     "kod": "3204",
+     "aciklama": "Hemşirelik"
+    },
+    {
+     "kod": "3205",
+     "aciklama": "Hemşirelik ve Sağlık Hizmetleri"
+    },
+    {
+     "kod": "3297",
+     "aciklama": "Sağlık Memurluğu"
+    }
+   ],
+   "sinif": "Sözleşmeli",
+   "sinif_kod": null,
+   "derece": null
+  },
+  {
+   "kadro_kodu": "303010745",
+   "kadro_guid": "e06f9dcc-9ab6-ee11-b162-a0369f7d1d8e",
+   "kurum": "Milli Eğitim Bakanlığı",
+   "unvan": "Hemşire",
+   "il": "Ardahan",
+   "kontenjan": 1,
+   "bos_kadro": null,
+   "min_puan": 78.56,
+   "max_puan": 78.56,
+   "ogrenim": "Lisans",
+   "nitelikler": [
+    {
+     "kod": "4605",
+     "aciklama": "Aşağıdaki lisans programlarından birinden mezun olmak."
+    },
+    {
+     "kod": "3204",
+     "aciklama": "Hemşirelik"
+    },
+    {
+     "kod": "3205",
+     "aciklama": "Hemşirelik ve Sağlık Hizmetleri"
+    },
+    {
+     "kod": "3297",
+     "aciklama": "Sağlık Memurluğu"
+    }
+   ],
+   "sinif": "Sözleşmeli",
+   "sinif_kod": null,
+   "derece": null
+  },
+  {
+   "kadro_kodu": "303010731",
+   "kadro_guid": "7c709dcc-9ab6-ee11-b162-a0369f7d1d8e",
+   "kurum": "Milli Eğitim Bakanlığı",
+   "unvan": "Hemşire",
+   "il": "Şırnak",
+   "kontenjan": 2,
+   "bos_kadro": null,
+   "min_puan": 78.179,
+   "max_puan": 78.362,
+   "ogrenim": "Lisans",
+   "nitelikler": [
+    {
+     "kod": "4605",
+     "aciklama": "Aşağıdaki lisans programlarından birinden mezun olmak."
+    },
+    {
+     "kod": "3204",
+     "aciklama": "Hemşirelik"
+    },
+    {
+     "kod": "3205",
+     "aciklama": "Hemşirelik ve Sağlık Hizmetleri"
+    },
+    {
+     "kod": "3297",
+     "aciklama": "Sağlık Memurluğu"
+    }
+   ],
+   "sinif": "Sözleşmeli",
+   "sinif_kod": null,
+   "derece": null
+  },
+  {
+   "kadro_kodu": "303010339",
+   "kadro_guid": "cd6f9dcc-9ab6-ee11-b162-a0369f7d1d8e",
+   "kurum": "Milli Eğitim Bakanlığı",
+   "unvan": "Hemşire",
+   "il": "Ağrı",
+   "kontenjan": 2,
+   "bos_kadro": null,
+   "min_puan": 78.139,
+   "max_puan": 80.333,
+   "ogrenim": "Lisans",
+   "nitelikler": [
+    {
+     "kod": "4605",
+     "aciklama": "Aşağıdaki lisans programlarından birinden mezun olmak."
+    },
+    {
+     "kod": "3204",
+     "aciklama": "Hemşirelik"
+    },
+    {
+     "kod": "3205",
+     "aciklama": "Hemşirelik ve Sağlık Hizmetleri"
+    },
+    {
+     "kod": "3297",
+     "aciklama": "Sağlık Memurluğu"
+    }
+   ],
+   "sinif": "Sözleşmeli",
+   "sinif_kod": null,
+   "derece": null
+  },
+  {
+   "kadro_kodu": "303010486",
+   "kadro_guid": "25709dcc-9ab6-ee11-b162-a0369f7d1d8e",
+   "kurum": "Milli Eğitim Bakanlığı",
+   "unvan": "Hemşire",
+   "il": "Hakkari",
+   "kontenjan": 4,
+   "bos_kadro": null,
+   "min_puan": 77.878,
+   "max_puan": 80.352,
+   "ogrenim": "Lisans",
+   "nitelikler": [
+    {
+     "kod": "4605",
+     "aciklama": "Aşağıdaki lisans programlarından birinden mezun olmak."
+    },
+    {
+     "kod": "3204",
+     "aciklama": "Hemşirelik"
+    },
+    {
+     "kod": "3205",
+     "aciklama": "Hemşirelik ve Sağlık Hizmetleri"
+    },
+    {
+     "kod": "3297",
+     "aciklama": "Sağlık Memurluğu"
+    }
+   ],
+   "sinif": "Sözleşmeli",
+   "sinif_kod": null,
+   "derece": null
+  },
+  {
+   "kadro_kodu": "303010521",
+   "kadro_guid": "3e709dcc-9ab6-ee11-b162-a0369f7d1d8e",
+   "kurum": "Milli Eğitim Bakanlığı",
+   "unvan": "Hemşire",
+   "il": "Kars",
+   "kontenjan": 4,
+   "bos_kadro": null,
+   "min_puan": 77.873,
+   "max_puan": 85.257,
+   "ogrenim": "Lisans",
+   "nitelikler": [
+    {
+     "kod": "4605",
+     "aciklama": "Aşağıdaki lisans programlarından birinden mezun olmak."
+    },
+    {
+     "kod": "3204",
+     "aciklama": "Hemşirelik"
+    },
+    {
+     "kod": "3205",
+     "aciklama": "Hemşirelik ve Sağlık Hizmetleri"
+    },
+    {
+     "kod": "3297",
+     "aciklama": "Sağlık Memurluğu"
+    }
+   ],
+   "sinif": "Sözleşmeli",
+   "sinif_kod": null,
+   "derece": null
+  }
+ ]
+}
